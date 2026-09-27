@@ -1,0 +1,1378 @@
+[
+ {
+  "id": "002",
+  "published": "2026-09-24",
+  "title": "A brand-new hole in the Moon",
+  "games": [
+   {
+    "type": "fact",
+    "label": "REAL OR A REACH?",
+    "title": "Did this actually happen?",
+    "claim": "NASA’s Lunar Reconnaissance Orbiter spotted the huge new McGetchin crater within a week of the impact in 2024.",
+    "options": [
+     "Yes — that happened",
+     "No — that is made up"
+    ],
+    "correct": 1,
+    "why": "The crater formed between 11 April and 22 May 2024, but nobody noticed it until 24 October 2025. That’s when image specialist Robert Wagner found it by comparing before-and-after LRO pictures.",
+    "sources": [
+     [
+      "NASA Science · New once-in-century crater",
+      "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/"
+     ],
+     [
+      "CP24 (CNN) · “Once in a lifetime” crater",
+      "https://www.cp24.com/news/world/2026/09/22/lunar-orbiter-spots-once-in-a-lifetime-new-crater-on-the-moon/"
+     ],
+     [
+      "EarthSky · Once-in-a-century crater",
+      "https://earthsky.org/space/newly-formed-moon-crater-mcgetchin/"
+     ],
+     [
+      "Universe Today · Details of new crater",
+      "https://www.universetoday.com/articles/scientists-release-details-about-moons-new-massive-crater"
+     ]
+    ]
+   },
+   {
+    "type": "match",
+    "label": "MAKE THE CONNECTION",
+    "title": "Three terms. Find their partners.",
+    "pairs": [
+     [
+      "222 metres",
+      "The crater’s width"
+     ],
+     [
+      "43 metres",
+      "Its average depth"
+     ],
+     [
+      "About 130 years",
+      "How often an impact this big is expected"
+     ]
+    ],
+    "why": "McGetchin crater is about 222 m across, or roughly two football pitches, and about 43 m deep. Models suggest an impact this big hits the Moon only about once every 130 years.",
+    "sources": [
+     [
+      "LPI/USRA press release · 222 m crater",
+      "https://www.prnewswire.com/news-releases/nasas-lunar-reconnaissance-orbiter-discovers-a-new-222-m-diameter-lunar-crater-302880555.html"
+     ],
+     [
+      "Scientific American · Largest new crater",
+      "https://www.scientificamerican.com/article/scientists-discover-largest-new-impact-crater-in-the-solar-system-ever-on-our-moon/"
+     ],
+     [
+      "CP24 (CNN) · Size and rarity",
+      "https://www.cp24.com/news/world/2026/09/22/lunar-orbiter-spots-once-in-a-lifetime-new-crater-on-the-moon/"
+     ],
+     [
+      "NASA APOD · A new lunar crater",
+      "https://apod.nasa.gov/apod/ap260923.html"
+     ]
+    ]
+   },
+   {
+    "type": "clues",
+    "label": "THREE CLUES, ONE STORY",
+    "title": "What connects these three stories?",
+    "clues": [
+     "A NASA orbiter that has circled the Moon for more than 17 years",
+     "Before-and-after photos reveal a bright new splash of rock and dust",
+     "A patch of ground about 6.4 km wide that stays colder at night"
+    ],
+    "options": [
+     "Ice found at the Moon’s south pole",
+     "A lunar lander touches down",
+     "A space rock carves a new crater on the Moon",
+     "A moonquake cracks the surface"
+    ],
+    "correct": 2,
+    "why": "LRO’s cameras caught a new 222 m crater. Its thermal instrument, Diviner, then found a cold zone about 6.4 km wide around it, where the impact had fluffed up the soil.",
+    "sources": [
+     [
+      "NASA Science · Crater and cold spot",
+      "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/"
+     ],
+     [
+      "CP24 (CNN) · Diviner cold spot",
+      "https://www.cp24.com/news/world/2026/09/22/lunar-orbiter-spots-once-in-a-lifetime-new-crater-on-the-moon/"
+     ],
+     [
+      "Universe Today · 6.4 km thermal anomaly",
+      "https://www.universetoday.com/articles/scientists-release-details-about-moons-new-massive-crater"
+     ],
+     [
+      "EarthSky · 17+ years of LRO",
+      "https://earthsky.org/space/newly-formed-moon-crater-mcgetchin/"
+     ]
+    ]
+   },
+   {
+    "type": "order",
+    "label": "WHAT CHANGED FIRST?",
+    "title": "Put these in order.",
+    "items": [
+     "Two studies on the crater appear in Science Advances",
+     "A space rock slams into the Moon",
+     "An image specialist spots the new crater"
+    ],
+    "correctOrder": [
+     1,
+     2,
+     0
+    ],
+    "why": "The impact happened between 11 April and 22 May 2024. Robert Wagner spotted the crater on 24 October 2025. The two Science Advances papers were published on 16 September 2026.",
+    "sources": [
+     [
+      "NASA Science · Timeline",
+      "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/"
+     ],
+     [
+      "LPI/USRA press release · 16 Sep 2026",
+      "https://www.prnewswire.com/news-releases/nasas-lunar-reconnaissance-orbiter-discovers-a-new-222-m-diameter-lunar-crater-302880555.html"
+     ],
+     [
+      "CP24 (CNN) · Found 24 Oct 2025",
+      "https://www.cp24.com/news/world/2026/09/22/lunar-orbiter-spots-once-in-a-lifetime-new-crater-on-the-moon/"
+     ],
+     [
+      "Deseret News · Published in Science Advances",
+      "https://www.deseret.com/u-s-world/2026/09/18/nasa-lunar-reconnaissance-orbiter-moon-scans-massive-new-crater-tom-mcgetchin-robert-wagner/"
+     ]
+    ]
+   },
+   {
+    "type": "choice",
+    "label": "THE BIGGER PICTURE",
+    "title": "Why are scientists so excited about McGetchin crater?",
+    "options": [
+     "It proves the Moon still has active volcanoes",
+     "It shows one impact can disturb the ground far beyond the crater itself",
+     "It means the Moon is drifting towards Earth",
+     "It is the first crater ever seen forming on another world"
+    ],
+    "correct": 1,
+    "why": "It is the largest newly formed crater yet found in the solar system, and the impact loosened the soil over an area kilometres wide. That is useful to know when planning future Moon bases.",
+    "sources": [
+     [
+      "NASA APOD · Area much larger than crater",
+      "https://apod.nasa.gov/apod/ap260923.html"
+     ],
+     [
+      "Universe Today · Lessons for lunar habitats",
+      "https://www.universetoday.com/articles/scientists-release-details-about-moons-new-massive-crater"
+     ],
+     [
+      "Scientific American · Largest new crater",
+      "https://www.scientificamerican.com/article/scientists-discover-largest-new-impact-crater-in-the-solar-system-ever-on-our-moon/"
+     ],
+     [
+      "NASA Science · Cold spot around the crater",
+      "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "003",
+  "published": "2026-09-25",
+  "title": "Insulin goes once a week",
+  "games": [
+   {
+    "type": "fact",
+    "label": "REAL OR A REACH?",
+    "title": "Did this actually happen?",
+    "claim": "On 24 September 2026 the US FDA approved Onswik, a once-a-week insulin jab for adults with type 2 diabetes.",
+    "options": [
+     "Yes — that happened",
+     "No — that is made up"
+    ],
+    "correct": 0,
+    "why": "Yes. The FDA approved Eli Lilly’s Onswik (insulin efsitora alfa) on 24 September 2026 for adults with type 2 diabetes. It is not for people with type 1 diabetes, because of a higher risk of severe low blood sugar.",
+    "sources": [
+     [
+      "Eli Lilly · FDA approval release",
+      "http://www.prnewswire.com/news-releases/us-food-and-drug-administration-fda-approves-lillys-onswik-insulin-efsitora-alfa-gobe-a-once-weekly-basal-insulin-injection-treatment-for-adults-living-with-type-2-diabetes-302888473.html"
+     ],
+     [
+      "Healio · FDA approves Onswik",
+      "https://www.healio.com/news/endocrinology/20260924/fda-approves-onswik-a-onceweekly-basal-insulin-for-adults-with-type-2-diabetes"
+     ],
+     [
+      "PharmExec · Onswik approved",
+      "https://www.pharmexec.com/view/fda-approves-onswik-adults-type-2-diabetes"
+     ],
+     [
+      "Yahoo News · Weekly insulin approved",
+      "https://www.yahoo.com/news/us/articles/fda-approves-eli-lillys-once-160053923.html"
+     ]
+    ]
+   },
+   {
+    "type": "match",
+    "label": "MAKE THE CONNECTION",
+    "title": "Three terms. Find their partners.",
+    "pairs": [
+     [
+      "Onswik",
+      "Eli Lilly"
+     ],
+     [
+      "Awiqli",
+      "Novo Nordisk"
+     ],
+     [
+      "QWINT",
+      "Onswik’s big trial programme"
+     ]
+    ],
+    "why": "Onswik is made by Eli Lilly and was tested in the four QWINT trials. Awiqli is Novo Nordisk’s rival weekly insulin.",
+    "sources": [
+     [
+      "Eli Lilly · QWINT programme",
+      "http://www.prnewswire.com/news-releases/us-food-and-drug-administration-fda-approves-lillys-onswik-insulin-efsitora-alfa-gobe-a-once-weekly-basal-insulin-injection-treatment-for-adults-living-with-type-2-diabetes-302888473.html"
+     ],
+     [
+      "pharmaphorum · Lilly v Novo",
+      "https://pharmaphorum.com/news/lillys-rival-novos-new-awiqli-insulin-gets-fda-approval"
+     ],
+     [
+      "Healio · QWINT-1 to QWINT-4",
+      "https://www.healio.com/news/endocrinology/20260924/fda-approves-onswik-a-onceweekly-basal-insulin-for-adults-with-type-2-diabetes"
+     ],
+     [
+      "Novo Nordisk (SEC filing) · Awiqli",
+      "https://www.sec.gov/Archives/edgar/data/353278/000117184326001959/f6k_032626.htm"
+     ]
+    ]
+   },
+   {
+    "type": "clues",
+    "label": "THREE CLUES, ONE STORY",
+    "title": "What connects these three stories?",
+    "clues": [
+     "One jab a week instead of seven",
+     "Four trials with more than 3,400 adults",
+     "Not for people with type 1 diabetes"
+    ],
+    "options": [
+     "A new weight-loss pill",
+     "A once-a-year HIV injection",
+     "A weekly insulin for type 2 diabetes",
+     "A new flu vaccine"
+    ],
+    "correct": 2,
+    "why": "Onswik gives steady background insulin for seven days. Its approval rested on four QWINT trials with more than 3,400 adults with type 2 diabetes.",
+    "sources": [
+     [
+      "Eli Lilly · FDA approval release",
+      "http://www.prnewswire.com/news-releases/us-food-and-drug-administration-fda-approves-lillys-onswik-insulin-efsitora-alfa-gobe-a-once-weekly-basal-insulin-injection-treatment-for-adults-living-with-type-2-diabetes-302888473.html"
+     ],
+     [
+      "PharmExec · Four QWINT trials",
+      "https://www.pharmexec.com/view/fda-approves-onswik-adults-type-2-diabetes"
+     ],
+     [
+      "Yahoo News · 3,400+ adults",
+      "https://www.yahoo.com/news/us/articles/fda-approves-eli-lillys-once-160053923.html"
+     ],
+     [
+      "Healio · Type 1 restriction",
+      "https://www.healio.com/news/endocrinology/20260924/fda-approves-onswik-a-onceweekly-basal-insulin-for-adults-with-type-2-diabetes"
+     ]
+    ]
+   },
+   {
+    "type": "order",
+    "label": "WHAT CHANGED FIRST?",
+    "title": "Put these in order.",
+    "items": [
+     "FDA approves Lilly’s weekly insulin Onswik",
+     "Novo Nordisk’s weekly insulin Awiqli wins US approval",
+     "Onswik trial results are unveiled at a diabetes meeting in Chicago"
+    ],
+    "correctOrder": [
+     2,
+     1,
+     0
+    ],
+    "why": "The QWINT results were presented at the American Diabetes Association meeting in Chicago on 22 June 2025. Awiqli became the first US-approved weekly insulin in March 2026. Onswik followed as the second on 24 September 2026.",
+    "sources": [
+     [
+      "American Diabetes Association · 22 June 2025",
+      "https://diabetes.org/newsroom/press-releases/once-weekly-insulin-efsitora-achieves-comparable-a1c-reduction-daily"
+     ],
+     [
+      "Springer Medicine · ADA 2025 report",
+      "https://www.springermedicine.com/type-2-diabetes/ada-2025/weekly-fixed-dose-basal-insulin-noninferior-to-glargine-qwint-1/51193076"
+     ],
+     [
+      "Healio · Second weekly insulin",
+      "https://www.healio.com/news/endocrinology/20260924/fda-approves-onswik-a-onceweekly-basal-insulin-for-adults-with-type-2-diabetes"
+     ],
+     [
+      "Pearce IP · Awiqli approved in US",
+      "https://www.pearceip.law/2026/03/27/novo-nordisks-once-weekly-insulin-awiqli-approved-in-us/"
+     ],
+     [
+      "pharmaphorum · Six months apart",
+      "https://pharmaphorum.com/news/lillys-rival-novos-new-awiqli-insulin-gets-fda-approval"
+     ]
+    ]
+   },
+   {
+    "type": "choice",
+    "label": "THE BIGGER PICTURE",
+    "title": "Why could a weekly insulin matter to patients?",
+    "options": [
+     "It cures type 2 diabetes",
+     "It cuts background-insulin jabs from 365 a year to 52",
+     "It means no more blood-sugar checks",
+     "It turns insulin into a pill"
+    ],
+    "correct": 1,
+    "why": "Daily background insulin means 365 jabs a year, and a weekly one means 52, which is over 300 fewer. In trials it controlled blood sugar about as well as daily insulin.",
+    "sources": [
+     [
+      "Eli Lilly · 52 vs 365 injections",
+      "http://www.prnewswire.com/news-releases/us-food-and-drug-administration-fda-approves-lillys-onswik-insulin-efsitora-alfa-gobe-a-once-weekly-basal-insulin-injection-treatment-for-adults-living-with-type-2-diabetes-302888473.html"
+     ],
+     [
+      "Yahoo News · 300+ fewer shots",
+      "https://www.yahoo.com/news/us/articles/fda-approves-eli-lillys-once-160053923.html"
+     ],
+     [
+      "pharmaphorum · 52 injections a year",
+      "https://pharmaphorum.com/news/lillys-rival-novos-new-awiqli-insulin-gets-fda-approval"
+     ],
+     [
+      "American Diabetes Association · Comparable A1C",
+      "https://diabetes.org/newsroom/press-releases/once-weekly-insulin-efsitora-achieves-comparable-a1c-reduction-daily"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "004",
+  "published": "2026-09-26",
+  "title": "The iPhone learns to fold",
+  "games": [
+   {
+    "type": "fact",
+    "label": "REAL OR A REACH?",
+    "title": "Did this actually happen?",
+    "claim": "Apple’s first foldable iPhone, the iPhone Duo, starts at $999 in the US.",
+    "options": [
+     "Yes — that happened",
+     "No — that is made up"
+    ],
+    "correct": 1,
+    "why": "Close, but not quite. The iPhone Duo, unveiled on 9 September 2026, starts at $1,999 for the 256GB model, which is double that price.",
+    "sources": [
+     [
+      "Apple Newsroom · Apple unveils iPhone Duo",
+      "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
+     ],
+     [
+      "ABC News · First-ever foldable iPhone, $1,999",
+      "https://abcnews.com/Business/apple-set-announce-new-products/story?id=136299541"
+     ],
+     [
+      "Al Jazeera · Apple unveils $1,999 iPhone Duo",
+      "https://www.aljazeera.com/economy/2026/9/9/apple-debuts-1999-passport-shaped-foldable-phone-called-duo"
+     ],
+     [
+      "NBC News · Apple announces iPhone Duo",
+      "https://www.nbcnews.com/tech/apple/apple-foldable-phone-new-fold-18-launch-ceo-john-ternus-rcna596652"
+     ]
+    ]
+   },
+   {
+    "type": "match",
+    "label": "MAKE THE CONNECTION",
+    "title": "Three terms. Find their partners.",
+    "pairs": [
+     [
+      "iPhone Duo",
+      "$1,999"
+     ],
+     [
+      "iPhone 18 Pro",
+      "$1,199"
+     ],
+     [
+      "iPhone 18 Pro Max",
+      "$1,299"
+     ]
+    ],
+    "why": "These are the US starting prices Apple announced on 9 September 2026. The foldable costs $800 more than the entry-level iPhone 18 Pro.",
+    "sources": [
+     [
+      "ABC News · Prices announced",
+      "https://abcnews.com/Business/apple-set-announce-new-products/story?id=136299541"
+     ],
+     [
+      "Al Jazeera · Duo and iPhone 18 Pro pricing",
+      "https://www.aljazeera.com/economy/2026/9/9/apple-debuts-1999-passport-shaped-foldable-phone-called-duo"
+     ],
+     [
+      "Fortune · Apple unveils $2,000 iPhone Duo",
+      "https://fortune.com/2026/09/09/apple-iphone-18-foldable-launch-event-john-ternus-siri-ai/"
+     ]
+    ]
+   },
+   {
+    "type": "clues",
+    "label": "THREE CLUES, ONE STORY",
+    "title": "What connects these three stories?",
+    "clues": [
+     "A new boss’s first big product launch",
+     "A 7.6-inch inner screen that folds shut to a 5.4-inch one",
+     "Preorders open on 16 October"
+    ],
+    "options": [
+     "Samsung’s newest Galaxy Z Fold",
+     "Huawei’s latest tri-fold phone",
+     "Apple’s first foldable iPhone",
+     "Microsoft’s new Surface tablet"
+    ],
+    "correct": 2,
+    "why": "It’s the iPhone Duo. It was the first big launch for John Ternus, who became Apple’s CEO on 1 September 2026. It has a 7.6-inch inner display and a 5.4-inch outer one. Preorders open on 16 October and it reaches shops on 23 October.",
+    "sources": [
+     [
+      "Apple Newsroom · iPhone Duo details",
+      "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
+     ],
+     [
+      "NBC News · Screens and dates",
+      "https://www.nbcnews.com/tech/apple/apple-foldable-phone-new-fold-18-launch-ceo-john-ternus-rcna596652"
+     ],
+     [
+      "Fortune · Ternus’s first launch",
+      "https://fortune.com/2026/09/09/apple-iphone-18-foldable-launch-event-john-ternus-siri-ai/"
+     ],
+     [
+      "Fox Business · Inside Ternus’s first launch event",
+      "https://www.foxbusiness.com/technology/inside-john-ternus-first-apple-launch-event-ceo-foldable-iphone-duo-ai-more"
+     ]
+    ]
+   },
+   {
+    "type": "order",
+    "label": "WHAT CHANGED FIRST?",
+    "title": "Put these in order.",
+    "items": [
+     "Apple unveils the foldable iPhone Duo",
+     "Apple names John Ternus as its next CEO",
+     "Ternus officially takes over from Tim Cook"
+    ],
+    "correctOrder": [
+     1,
+     2,
+     0
+    ],
+    "why": "Apple named Ternus as its next CEO on 20 April 2026. He took over from Tim Cook, who became executive chair, on 1 September 2026. Eight days later, on 9 September, he unveiled the iPhone Duo.",
+    "sources": [
+     [
+      "Apple Newsroom · Ternus to become CEO (20 Apr)",
+      "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/"
+     ],
+     [
+      "SEC · Apple Form 8-K (20 Apr)",
+      "https://www.sec.gov/Archives/edgar/data/0000320193/000114036126015711/ef20071035_8k.htm"
+     ],
+     [
+      "Al Jazeera · Ternus succeeds Cook (1 Sep)",
+      "https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years"
+     ],
+     [
+      "Fortune · Ternus in office since 1 Sep",
+      "https://fortune.com/2026/09/09/apple-iphone-18-foldable-launch-event-john-ternus-siri-ai/"
+     ],
+     [
+      "Apple Newsroom · Duo unveiled (9 Sep)",
+      "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
+     ]
+    ]
+   },
+   {
+    "type": "choice",
+    "label": "THE BIGGER PICTURE",
+    "title": "Why is Apple’s foldable a notable move?",
+    "options": [
+     "It is the first foldable phone ever sold",
+     "It replaces the whole iPhone 18 line-up",
+     "It is Apple’s cheapest phone this year",
+     "Apple is entering a market long led by Android rivals such as Samsung"
+    ],
+    "correct": 3,
+    "why": "Android makers such as Samsung have long led the foldable market. Apple is a late but high-profile arrival, and its new CEO is betting on a $1,999 device.",
+    "sources": [
+     [
+      "Fox Business · Market dominated by Android",
+      "https://www.foxbusiness.com/technology/inside-john-ternus-first-apple-launch-event-ceo-foldable-iphone-duo-ai-more"
+     ],
+     [
+      "Al Jazeera · Samsung among rivals",
+      "https://www.aljazeera.com/economy/2026/9/9/apple-debuts-1999-passport-shaped-foldable-phone-called-duo"
+     ],
+     [
+      "NBC News · Samsung leads foldables",
+      "https://www.nbcnews.com/tech/apple/apple-foldable-phone-new-fold-18-launch-ceo-john-ternus-rcna596652"
+     ],
+     [
+      "Fortune · Samsung Galaxy Z Fold8 as rival",
+      "https://fortune.com/2026/09/09/apple-iphone-18-foldable-launch-event-john-ternus-siri-ai/"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "005",
+  "published": "2026-09-27",
+  "title": "VR shrinks to a pair of glasses",
+  "games": [
+   {
+    "type": "fact",
+    "label": "REAL OR A REACH?",
+    "title": "Did this actually happen?",
+    "claim": "Meta says its new VR Glasses are five times lighter than its Meta Quest 3 headset.",
+    "options": [
+     "Yes — that happened",
+     "No — that is made up"
+    ],
+    "correct": 0,
+    "why": "True. Meta unveiled the VR Glasses at Connect on 23 September 2026. They weigh about 100 grams because the computer and battery sit in a separate puck on a cable.",
+    "sources": [
+     [
+      "Meta Newsroom · Introducing Meta VR Glasses",
+      "https://about.fb.com/news/2026/09/introducing-meta-vr-glasses-3d-movies-immersive-live-sports-100-grams/"
+     ],
+     [
+      "Yahoo Finance · Meta unveils $1,299 VR Glasses",
+      "https://finance.yahoo.com/technology/article/meta-unveils-1299-vr-glasses-camera-less-smart-glasses-at-meta-connect-235611909.html"
+     ],
+     [
+      "Gizmodo · Meta Connect 2026 live",
+      "https://gizmodo.com/live-updates-from-meta-connect-2026-2000806463"
+     ],
+     [
+      "Social Media Today · Connect 2026 updates",
+      "https://www.socialmediatoday.com/news/meta-outlines-muse-ai-glasses-and-vr-device-updates-at-connect-2026/831223/"
+     ]
+    ]
+   },
+   {
+    "type": "match",
+    "label": "MAKE THE CONNECTION",
+    "title": "Three terms. Find their partners.",
+    "pairs": [
+     [
+      "Meta VR Glasses",
+      "Five times lighter than Quest 3"
+     ],
+     [
+      "Ray-Ban Meta Audio",
+      "No camera at all"
+     ],
+     [
+      "Ray-Ban Meta (Gen 3)",
+      "From $449"
+     ]
+    ],
+    "why": "Meta’s three headline eyewear launches were a featherweight VR headset, an audio-only pair of smart glasses with no camera ($349) and a refreshed camera model priced from $449.",
+    "sources": [
+     [
+      "Engadget · Everything announced at Connect 2026",
+      "https://www.engadget.com/2267230/everything-announced-at-meta-connect-2026/"
+     ],
+     [
+      "Yahoo Finance · Camera-less glasses and prices",
+      "https://finance.yahoo.com/technology/article/meta-unveils-1299-vr-glasses-camera-less-smart-glasses-at-meta-connect-235611909.html"
+     ],
+     [
+      "VR.org · Connect 2026 prices",
+      "https://vr.org/meta-connect-2026"
+     ],
+     [
+      "Gizmodo · Camera-free Ray-Ban Audio",
+      "https://gizmodo.com/live-updates-from-meta-connect-2026-2000806463"
+     ]
+    ]
+   },
+   {
+    "type": "clues",
+    "label": "THREE CLUES, ONE STORY",
+    "title": "What connects these three stories?",
+    "clues": [
+     "About 100 grams on your face",
+     "The first-ever IMAX Enhanced certified VR device",
+     "$1,299.99, on sale in spring 2027"
+    ],
+    "options": [
+     "Apple’s next Vision Pro",
+     "Meta’s new VR Glasses",
+     "Samsung’s Galaxy XR headset",
+     "Snap’s Specs AR glasses"
+    ],
+    "correct": 1,
+    "why": "All three clues describe Meta VR Glasses, the headline launch at Meta Connect on 23 September 2026. They weigh about as much as a deck of cards and cost $1,299.99. They are due in spring 2027.",
+    "sources": [
+     [
+      "Meta Newsroom · Introducing Meta VR Glasses",
+      "https://about.fb.com/news/2026/09/introducing-meta-vr-glasses-3d-movies-immersive-live-sports-100-grams/"
+     ],
+     [
+      "Meta Blog · Everything we announced",
+      "https://www.meta.com/blog/meta-connect-2026-everything-we-announced/"
+     ],
+     [
+      "Engadget · Everything announced at Connect 2026",
+      "https://www.engadget.com/2267230/everything-announced-at-meta-connect-2026/"
+     ],
+     [
+      "Yahoo Finance · First IMAX Enhanced VR device",
+      "https://finance.yahoo.com/technology/article/meta-unveils-1299-vr-glasses-camera-less-smart-glasses-at-meta-connect-235611909.html"
+     ],
+     [
+      "VR.org · $1,299.99, spring 2027",
+      "https://vr.org/meta-connect-2026"
+     ]
+    ]
+   },
+   {
+    "type": "order",
+    "label": "WHAT CHANGED FIRST?",
+    "title": "Put these in order.",
+    "items": [
+     "Ray-Ban Meta Display reaches France, Italy and Germany",
+     "Meta VR Glasses go on sale",
+     "Meta Connect 2026 keynote"
+    ],
+    "correctOrder": [
+     2,
+     0,
+     1
+    ],
+    "why": "The Connect keynote came first, on 23 September 2026. The Ray-Ban Meta Display is due in France, Italy and Germany on 13 October 2026. The VR Glasses are planned for spring 2027.",
+    "sources": [
+     [
+      "Engadget · Dates announced at Connect",
+      "https://www.engadget.com/2267230/everything-announced-at-meta-connect-2026/"
+     ],
+     [
+      "Meta Blog · Everything we announced",
+      "https://www.meta.com/blog/meta-connect-2026-everything-we-announced/"
+     ],
+     [
+      "VR.org · Connect 2026 dates",
+      "https://vr.org/meta-connect-2026"
+     ],
+     [
+      "Gizmodo · Keynote on 23 September",
+      "https://gizmodo.com/live-updates-from-meta-connect-2026-2000806463"
+     ]
+    ]
+   },
+   {
+    "type": "choice",
+    "label": "THE BIGGER PICTURE",
+    "title": "Why would Meta sell smart glasses with no camera?",
+    "options": [
+     "Cameras are banned in smart glasses in the US",
+     "It is Meta’s cheapest pair of glasses",
+     "To ease privacy worries about people being secretly recorded",
+     "Its camera chips are sold out"
+    ],
+    "correct": 2,
+    "why": "Camera glasses have raised concerns about people being filmed without knowing. The audio-only Ray-Ban Meta Audio keeps music, calls and the AI helper but drops the camera. It is not the cheapest pair: Meta’s Adventurer frames start at $249.",
+    "sources": [
+     [
+      "Yahoo Finance · Addresses recording concerns",
+      "https://finance.yahoo.com/technology/article/meta-unveils-1299-vr-glasses-camera-less-smart-glasses-at-meta-connect-235611909.html"
+     ],
+     [
+      "Gizmodo · Designed to address privacy concerns",
+      "https://gizmodo.com/live-updates-from-meta-connect-2026-2000806463"
+     ],
+     [
+      "Social Media Today · Without camera-capture concerns",
+      "https://www.socialmediatoday.com/news/meta-outlines-muse-ai-glasses-and-vr-device-updates-at-connect-2026/831223/"
+     ],
+     [
+      "Engadget · Audio model $349; Adventurer $249",
+      "https://www.engadget.com/2267230/everything-announced-at-meta-connect-2026/"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "006",
+  "published": "2026-09-28",
+  "title": "A fresh Moon crater, fat bears and a record-breaking swim",
+  "games": [
+   {
+    "type": "fact",
+    "label": "REAL OR A REACH?",
+    "title": "Did this actually happen?",
+    "claim": "A crater about 222 metres wide that formed on the Moon in 2024 has been spotted in images from a NASA orbiter.",
+    "options": [
+     "Yes — that happened",
+     "No — that is made up"
+    ],
+    "correct": 0,
+    "why": "True. McGetchin crater formed between April and May 2024 and was spotted by NASA’s Lunar Reconnaissance Orbiter. Models suggest one this size forms only about once every 132 years.",
+    "sources": [
+     [
+      "Sci.News · McGetchin crater",
+      "https://www.sci.news/space/mcgetchin-crater-15076.html"
+     ],
+     [
+      "Scientific American · Largest new crater",
+      "https://www.scientificamerican.com/article/scientists-discover-largest-new-impact-crater-in-the-solar-system-ever-on-our-moon/"
+     ],
+     [
+      "LROC (Arizona State) · Image release",
+      "https://lroc.im-ldi.com/images/1501"
+     ],
+     [
+      "NASA APOD · 23 September",
+      "https://apod.nasa.gov/apod/ap260923.html"
+     ]
+    ]
+   },
+   {
+    "type": "match",
+    "label": "MAKE THE CONNECTION",
+    "title": "Three terms. Find their partners.",
+    "pairs": [
+     [
+      "The Pitt",
+      "Outstanding Drama Series"
+     ],
+     [
+      "Widow’s Bay",
+      "Outstanding Comedy Series"
+     ],
+     [
+      "DTF St. Louis",
+      "Outstanding Limited Series"
+     ]
+    ],
+    "why": "At the 78th Emmys on 14 September, The Pitt won best drama for the second year running. Matthew Rhys became the first man to win two lead-acting Emmys in the same year.",
+    "sources": [
+     [
+      "ABC News · Emmys 2026 winners",
+      "https://abcnews.com/GMA/Culture/emmys-2026-full-winners-list/story?id=136376340"
+     ],
+     [
+      "TVLine · Winners list",
+      "https://www.tvline.com/2258301/emmys-2026-winners-list/"
+     ],
+     [
+      "Television Academy · Official winners",
+      "https://www.televisionacademy.com/awards/nominees-winners"
+     ],
+     [
+      "Globe and Mail · Emmys recap",
+      "https://www.theglobeandmail.com/culture/film-and-tv/television/article-emmys-2026-updates-winners/"
+     ]
+    ]
+   },
+   {
+    "type": "clues",
+    "label": "THREE CLUES, ONE STORY",
+    "title": "What connects these three clues?",
+    "clues": [
+     "Katmai National Park, Alaska",
+     "Salmon in the Brooks River",
+     "Defending champion: Bear 32, “Chunk”"
+    ],
+    "options": [
+     "A new US national park",
+     "Fat Bear Week",
+     "A salmon-fishing world record",
+     "A bear-tracking satellite"
+    ],
+    "correct": 1,
+    "why": "Fat Bear Week voting runs from 22 to 29 September. This year 16 bears are in the bracket, up from 12 in 2025, and fans pick the bear that has bulked up best for winter.",
+    "sources": [
+     [
+      "US National Park Service · Katmai",
+      "https://www.nps.gov/katm/learn/news/fat-bear-week-2026.htm"
+     ],
+     [
+      "CBS News · Fat Bear Week 2026",
+      "https://www.cbsnews.com/news/fat-bear-week-2026-contenders-voting-katmai/"
+     ],
+     [
+      "Weather.com · Bracket guide",
+      "https://weather.com/2026/09/22/science/nature/wild-animals/fat-bear-week-2026-bracket-bingo-katmai-vote"
+     ]
+    ]
+   },
+   {
+    "type": "order",
+    "label": "WHAT CHANGED FIRST?",
+    "title": "Put these in order.",
+    "items": [
+     "Third straw poll: Rebeca Grynspan leads again",
+     "First straw poll: Rebeca Grynspan leads",
+     "Second straw poll: Carolyn Rodrigues-Birkett leads"
+    ],
+    "correctOrder": [
+     1,
+     2,
+     0
+    ],
+    "why": "The UN Security Council held informal “straw polls” on candidates for the next Secretary-General on 30 July, in late August and on 18 September. Costa Rica’s Grynspan led the first and third; Guyana’s Rodrigues-Birkett led the second.",
+    "sources": [
+     [
+      "PassBlue · Third straw poll",
+      "https://passblue.com/2026/09/18/third-straw-poll-for-un-secretary-general-race-shows-no-consensus/"
+     ],
+     [
+      "The National · First straw poll",
+      "https://www.thenationalnews.com/news/us/2026/07/30/un-secretary-general-straw-poll/"
+     ],
+     [
+      "Al Jazeera · Second straw poll",
+      "https://www.aljazeera.com/news/2026/8/22/guyanas-rodrigues-birkett-leads-informal-poll-in-race-to-be-next-un-leader"
+     ],
+     [
+      "The National · Third straw poll",
+      "https://www.thenationalnews.com/news/us/2026/09/18/un-security-council-holds-third-straw-poll-in-race-for-next-secretary-general-ahead-of-unga/"
+     ],
+     [
+      "Tico Times · Grynspan leads",
+      "https://ticotimes.net/2026/09/18/grynspan-leads-third-un-straw-poll"
+     ]
+    ]
+   },
+   {
+    "type": "choice",
+    "label": "THE BIGGER PICTURE",
+    "title": "Why did Shin Ohashi’s swim make headlines?",
+    "options": [
+     "He became the first man to swim the 200m breaststroke in under 2:05",
+     "He won Japan’s first ever Asian Games gold medal",
+     "He broke a world record that had stood since 1990",
+     "He swam 200m breaststroke without a single turn"
+    ],
+    "correct": 0,
+    "why": "Japan’s Shin Ohashi, 17, won Asian Games gold on 24 September in 2:04.83. That beat the 2:05.48 world record set by China’s Qin Haiyang in 2023.",
+    "sources": [
+     [
+      "AP via ABC News · Ohashi world record",
+      "https://abcnews.com/Sports/wireStory/shin-ohashi-japan-sets-world-record-200-meter-136710873"
+     ],
+     [
+      "Yahoo Sports · First man under 2:05",
+      "https://sports.yahoo.com/olympics/article/shin-ohashi-17-breaks-200m-breaststroke-world-record-becomes-first-man-to-finish-under-205-122540717.html"
+     ],
+     [
+      "NBC Sports · Ohashi record",
+      "https://www.nbcsports.com/olympics/news/shin-ohashi-swimming-world-record-200-meter-breaststroke"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "007",
+  "published": "2026-09-29",
+  "title": "A rate rise, a golf win for Europe and VR glasses",
+  "games": [
+   {
+    "type": "fact",
+    "label": "REAL OR A REACH?",
+    "title": "Did this actually happen?",
+    "claim": "On 16 September the US Federal Reserve cut interest rates for the first time since 2023.",
+    "options": [
+     "Yes — that happened",
+     "No — that is made up"
+    ],
+    "correct": 1,
+    "why": "Made up: it was a rise, not a cut. The Fed voted 12–0 to lift rates by 0.25 points to a 3.75%–4% range, its first hike since July 2023.",
+    "sources": [
+     [
+      "Federal Reserve · FOMC statement",
+      "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm"
+     ],
+     [
+      "Fox Business · Fed decision",
+      "https://www.foxbusiness.com/economy/federal-reserve-interest-rate-decision-september-16-2026"
+     ],
+     [
+      "UPI · Fed raises rates",
+      "https://www.upi.com/Top_News/US/2026/09/16/federal-reserve-interest-rate-decision-september-2026/1031789567001"
+     ]
+    ]
+   },
+   {
+    "type": "match",
+    "label": "MAKE THE CONNECTION",
+    "title": "Three terms. Find their partners.",
+    "pairs": [
+     [
+      "Discovery of orexin",
+      "Narcolepsy"
+     ],
+     [
+      "Emicizumab",
+      "Haemophilia A"
+     ],
+     [
+      "Michael J. Fox",
+      "Parkinson’s research"
+     ]
+    ],
+    "why": "These are the 2026 Lasker Awards, among the top prizes in medicine. They were announced on 9 September and presented in New York on 17 September.",
+    "sources": [
+     [
+      "Lasker Foundation · 2026 winners",
+      "https://laskerfoundation.org/winners/2026-winners/"
+     ],
+     [
+      "EurekAlert · Lasker announcement",
+      "https://www.eurekalert.org/news-releases/1143234"
+     ],
+     [
+      "Drug Discovery News · Lasker Awards",
+      "https://www.drugdiscoverynews.com/2026-lasker-awards-honor-advances-in-narcolepsy-hemophilia-parkinson-s-disease-17510"
+     ],
+     [
+      "National Academy of Sciences · PNAS on Lasker",
+      "https://www.nasonline.org/news/pnas-celebrates-the-2026-lasker-awards/"
+     ]
+    ]
+   },
+   {
+    "type": "clues",
+    "label": "THREE CLUES, ONE STORY",
+    "title": "What connects these three clues?",
+    "clues": [
+     "Bernardus Golf, in the Netherlands",
+     "Captains Anna Nordqvist and Angela Stanford",
+     "A 15–13 final score"
+    ],
+    "options": [
+     "The Ryder Cup",
+     "The Women’s Open",
+     "The Solheim Cup",
+     "The Walker Cup"
+    ],
+    "correct": 2,
+    "why": "Europe beat the USA 15–13 to win the Solheim Cup on 13 September. The teams were level at 8–8 after two days, then Europe won the singles 7–5.",
+    "sources": [
+     [
+      "BBC Sport · Europe win Solheim Cup",
+      "https://www.bbc.co.uk/sport/golf/articles/c0m3pnlyl9vo"
+     ],
+     [
+      "The Guardian · Solheim Cup report",
+      "https://www.theguardian.com/sport/2026/sep/13/europe-win-solheim-cup-against-usa-anna-nordqvist-golf-report"
+     ],
+     [
+      "Sky Sports · Europe celebrate",
+      "https://www.skysports.com/golf/news/13585775/solheim-cup-2026-how-team-europe-celebrated-win-over-team-usa-and-anna-nordqvists-side-delivered-home-victory"
+     ]
+    ]
+   },
+   {
+    "type": "order",
+    "label": "WHAT CHANGED FIRST?",
+    "title": "Put these in order.",
+    "items": [
+     "High Seas Treaty passes 100 parties",
+     "High Seas Treaty enters into force",
+     "High Seas Treaty reaches the 60 ratifications it needed"
+    ],
+    "correctOrder": [
+     2,
+     1,
+     0
+    ],
+    "why": "The treaty to protect ocean life beyond national waters reached 60 ratifications in September 2025. It entered into force on 17 January 2026 and passed 100 parties on 23 September 2026. Its first COP is due in January 2027.",
+    "sources": [
+     [
+      "High Seas Alliance · 100 parties",
+      "https://highseasalliance.org/2026/09/23/the-high-seas-treaty-reaches-100-parties-cementing-momentum-ahead-of-its-first-conference/"
+     ],
+     [
+      "DeeperBlue · 100 countries ratify",
+      "https://www.deeperblue.com/100-countries-have-ratified-the-high-seas-treaty/"
+     ],
+     [
+      "Carbon Pulse · Ratifications",
+      "https://carbon-pulse.com/554172/"
+     ],
+     [
+      "IUCN · 60 ratifications",
+      "https://iucn.org/press-release/202509/high-seas-treaty-achieves-milestone-60-ratifications-paving-way-ocean"
+     ],
+     [
+      "Oceanographic · Treaty enters into force",
+      "https://oceanographicmagazine.com/news/high-seas-treaty-enters-into-force-after-decades-of-negotiations/"
+     ]
+    ]
+   },
+   {
+    "type": "choice",
+    "label": "THE BIGGER PICTURE",
+    "title": "What makes Meta’s new VR Glasses stand out?",
+    "options": [
+     "They plug straight into your phone’s charging port",
+     "They weigh about 100 grams, roughly a deck of cards",
+     "They come free with a Quest subscription",
+     "They go on sale this October"
+    ],
+    "correct": 1,
+    "why": "Meta unveiled the $1,299 VR Glasses at Connect on 23 September. They are light because a separate wired “puck” does the computing. They go on sale in spring 2027.",
+    "sources": [
+     [
+      "Meta Newsroom · Introducing Meta VR Glasses",
+      "https://about.fb.com/news/2026/09/introducing-meta-vr-glasses-3d-movies-immersive-live-sports-100-grams/"
+     ],
+     [
+      "UploadVR · VR Glasses announced",
+      "https://www.uploadvr.com/meta-vr-glasses-officially-announced-connect-2026/"
+     ],
+     [
+      "Engadget · Meta Connect 2026",
+      "https://www.engadget.com/2266105/meta-connect-2026-live-blog-ai-vr/"
+     ],
+     [
+      "PC Guide · $1,299 price",
+      "https://www.pcguide.com/news/meta-unveils-new-vr-glasses-5x-lighter-than-meta-quest-3-with-1299-price-tag-75-vr-game-support-at-launch/"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "008",
+  "published": "2026-09-30",
+  "title": "A cricket crown, a Moroccan vote and a phone that folds",
+  "games": [
+   {
+    "type": "fact",
+    "label": "REAL OR A REACH?",
+    "title": "Did this actually happen?",
+    "claim": "Warwickshire won cricket’s County Championship on 26 September, their first title since 2021.",
+    "options": [
+     "Yes — that happened",
+     "No — that is made up"
+    ],
+    "correct": 0,
+    "why": "True. Warwickshire beat Leicestershire by an innings and 79 runs at Edgbaston to win their ninth County Championship title.",
+    "sources": [
+     [
+      "BBC Sport · Warwickshire champions",
+      "https://www.bbc.co.uk/sport/cricket/articles/c64g77l1p0z2o"
+     ],
+     [
+      "The Guardian · Warwickshire clinch title",
+      "https://www.theguardian.com/sport/2026/sep/26/warwickshire-clinch-county-championship-title-with-victory-over-leicestershire"
+     ],
+     [
+      "Sky Sports · First title in five years",
+      "https://www.skysports.com/cricket/news/13592028/warwickshire-defeat-leicestershire-at-edgbaston-to-win-county-championship-and-claim-first-title-in-five-years"
+     ]
+    ]
+   },
+   {
+    "type": "match",
+    "label": "MAKE THE CONNECTION",
+    "title": "Three terms. Find their partners.",
+    "pairs": [
+     [
+      "PAM (Authenticity and Modernity)",
+      "97 seats"
+     ],
+     [
+      "RNI (National Rally of Independents)",
+      "66 seats"
+     ],
+     [
+      "Istiqlal",
+      "65 seats"
+     ]
+    ],
+    "why": "In Morocco’s 23 September election for the 395-seat House of Representatives, PAM came first but short of a majority. Turnout was about 38%.",
+    "sources": [
+     [
+      "Al Jazeera · PAM leads Morocco vote",
+      "https://www.aljazeera.com/news/2026/9/24/monarchy-aligned-pam-leads-in-morocco-election-provisional-results"
+     ],
+     [
+      "AP via KSAT · Provisional results",
+      "https://www.ksat.com/news/world/2026/09/24/moroccos-authenticity-and-modernity-party-leads-in-provisional-election-results/"
+     ],
+     [
+      "Atalayar · PAM wins 97 seats",
+      "https://www.atalayar.com/en/articulo/politics/pam-wins-moroccos-legislative-elections-with-97-seats-voter-abstention-climbs-to-62/20260924101429229488.html"
+     ]
+    ]
+   },
+   {
+    "type": "clues",
+    "label": "THREE CLUES, ONE STORY",
+    "title": "What connects these three clues?",
+    "clues": [
+     "A scrap of parchment dated to around 300 CE",
+     "Found in Utrecht University Library",
+     "Odysseus’s men eat the Sun god’s cattle"
+    ],
+    "options": [
+     "A lost Shakespeare sonnet",
+     "A medieval map of the Netherlands",
+     "An ancient Egyptian tax receipt",
+     "A 1,700-year-old piece of Homer’s Odyssey"
+    ],
+    "correct": 3,
+    "why": "Mark de Kreij of Radboud University found the fragment, announced on 14 September. It holds lines from Book 12 of the Odyssey and came from a pocket edition made in Egypt.",
+    "sources": [
+     [
+      "Utrecht University · Odyssey fragment",
+      "https://www.uu.nl/en/news/4th-century-fragment-of-the-odyssey-discovered-in-utrecht-university-library"
+     ],
+     [
+      "CBS News · Odyssey fragment found",
+      "https://www.cbsnews.com/news/odyssey-fragment-found-library-netherlands-utrecht/"
+     ],
+     [
+      "DutchNews.nl · 1,700-year-old Odyssey",
+      "https://www.dutchnews.nl/2026/09/scrap-of-1700-year-old-copy-of-the-odyssey-washes-up-in-utrecht/"
+     ]
+    ]
+   },
+   {
+    "type": "order",
+    "label": "WHAT CHANGED FIRST?",
+    "title": "Put these in order.",
+    "items": [
+     "iPhone Duo goes on sale",
+     "Apple unveils the iPhone Duo",
+     "iPhone Duo pre-orders open"
+    ],
+    "correctOrder": [
+     1,
+     2,
+     0
+    ],
+    "why": "Apple announced its first foldable iPhone on 9 September 2026. Pre-orders open on 16 October and it goes on sale on 23 October, from $1,999.",
+    "sources": [
+     [
+      "Apple Newsroom · iPhone Duo",
+      "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
+     ],
+     [
+      "NBC News · Foldable iPhone Duo",
+      "https://www.nbcnews.com/tech/apple/apple-foldable-phone-new-fold-18-launch-ceo-john-ternus-rcna596652"
+     ],
+     [
+      "MacRumors · iPhone Duo announced",
+      "https://www.macrumors.com/2026/09/09/apple-announces-foldable-iphone-duo/"
+     ]
+    ]
+   },
+   {
+    "type": "choice",
+    "label": "THE BIGGER PICTURE",
+    "title": "What did this year’s Planetary Health Check find?",
+    "options": [
+     "All nine planetary boundaries are back in the safe zone",
+     "Only climate change is outside the safe zone",
+     "Seven of nine are breached; the ozone layer and aerosols are still safe",
+     "Scientists have dropped the idea of planetary boundaries"
+    ],
+    "correct": 2,
+    "why": "The Potsdam Institute’s report, out around 21–22 September, says seven of the nine limits for a stable planet are crossed, and all seven are getting worse. Ocean acidification became the seventh in 2025.",
+    "sources": [
+     [
+      "Oceanographic · Seven of nine breached",
+      "https://oceanographicmagazine.com/news/seven-of-nine-planetary-boundaries-now-at-record-breach-levels/"
+     ],
+     [
+      "Scientific American · 7 of 9 boundaries",
+      "https://www.scientificamerican.com/article/9-boundaries-keep-earth-livable-weve-breached-7-of-them/"
+     ],
+     [
+      "Down To Earth · Planetary Health Check",
+      "https://www.downtoearth.org.in/climate-change/seven-of-nine-planetary-boundaries-transgressed-with-worsening-trends"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "009",
+  "published": "2026-10-01",
+  "title": "A hot August, a Booker six and a satellite that watches plants glow",
+  "games": [
+   {
+    "type": "fact",
+    "label": "REAL OR A REACH?",
+    "title": "Did this actually happen?",
+    "claim": "Copernicus says August 2026 was the first month ever to average more than 17°C across the globe.",
+    "options": [
+     "Yes — that happened",
+     "No — that is made up"
+    ],
+    "correct": 1,
+    "why": "Not quite: it averaged 16.96°C. That tied July 2023 as the hottest month on record, 1.65°C above pre-industrial levels.",
+    "sources": [
+     [
+      "Copernicus · August joint-hottest month",
+      "https://climate.copernicus.eu/copernicus-august-was-worlds-joint-hottest-month-record-pushing-global-temperatures-back-above"
+     ],
+     [
+      "Euronews · August 2026 record",
+      "https://www.euronews.com/my-europe/2026/09/10/august-2026-was-worlds-joint-hottest-month-on-record-according-to-copernicus"
+     ],
+     [
+      "Down To Earth · Joint hottest month",
+      "https://www.downtoearth.org.in/climate-change/august-2026-joint-hottest-month-on-record-copernicus"
+     ]
+    ]
+   },
+   {
+    "type": "match",
+    "label": "MAKE THE CONNECTION",
+    "title": "Three terms. Find their partners.",
+    "pairs": [
+     [
+      "The Disappearers",
+      "Marlon James"
+     ],
+     [
+      "John of John",
+      "Douglas Stuart"
+     ],
+     [
+      "The Things We Never Say",
+      "Elizabeth Strout"
+     ]
+    ],
+    "why": "All three novels are on the six-book 2026 Booker Prize shortlist. The judges are chaired by classicist Mary Beard, and the £50,000 winner will be named on 9 November.",
+    "sources": [
+     [
+      "Publishers Weekly · Booker shortlist",
+      "https://www.publishersweekly.com/pw/by-topic/industry-news/awards-and-prizes/article/101320-2026-booker-prize-shortlist-announced.html"
+     ],
+     [
+      "Lit Hub · 2026 Booker shortlist",
+      "https://lithub.com/heres-the-shortlist-for-the-2026-booker-prize/"
+     ],
+     [
+      "Time Out · Six novels shortlisted",
+      "https://www.timeout.com/usa/news/here-are-the-six-novels-on-the-2026-booker-prize-shortlist-092526"
+     ]
+    ]
+   },
+   {
+    "type": "clues",
+    "label": "THREE CLUES, ONE STORY",
+    "title": "What connects these three clues?",
+    "clues": [
+     "Launched on a Vega-C rocket from Kourou, French Guiana",
+     "Its instrument is called FLORIS",
+     "It measures the faint glow plants give off during photosynthesis"
+    ],
+    "options": [
+     "FLEX, ESA’s Fluorescence Explorer",
+     "NASA’s Europa Clipper",
+     "A new weather balloon",
+     "India’s next Moon lander"
+    ],
+    "correct": 0,
+    "why": "FLEX launched on 15 September (UTC) alongside the Sentinel-3C satellite, Vega-C’s first dual launch. It will track plant health from space.",
+    "sources": [
+     [
+      "ESA · FLEX and Sentinel-3C launched",
+      "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_launched"
+     ],
+     [
+      "Spaceflight Now · Vega-C launch",
+      "https://spaceflightnow.com/2026/09/14/live-coverage-avio-to-launch-spacecraft-to-monitor-plant-health-and-ocean-conditions/"
+     ],
+     [
+      "ECO Magazine · Satellites launch",
+      "https://ecomagazine.com/news/research/sentinel-3c-and-flex-satellites-launch-to-ocean-and-land-surfaces/"
+     ]
+    ]
+   },
+   {
+    "type": "order",
+    "label": "WHAT CHANGED FIRST?",
+    "title": "Put these in order.",
+    "items": [
+     "Belgium and Rwanda agree to restore diplomatic ties",
+     "Belgium and Rwanda cut diplomatic ties",
+     "Qatar hosts the two foreign ministers’ first talks in Doha"
+    ],
+    "correctOrder": [
+     1,
+     2,
+     0
+    ],
+    "why": "Ties were cut in March 2025. Qatar hosted first talks in June 2025, and the two countries announced they were restoring relations in New York on 22 September 2026, with embassies to reopen.",
+    "sources": [
+     [
+      "Al Jazeera · Belgium and Rwanda restore ties",
+      "https://www.aljazeera.com/news/2026/9/23/qatar-says-no-alternative-to-diplomacy-as-belgium-and-rwanda-restore-ties"
+     ],
+     [
+      "CGTN Africa · Ties restored",
+      "https://newsaf.cgtn.com/news/2026-09-23/Belgium-Rwanda-restore-diplomatic-ties-after-18-month-rift-1QFIHaKDNHG/p.html"
+     ],
+     [
+      "KT Press · 18-month break ends",
+      "https://www.ktpress.rw/2026/09/rwanda-belgium-restore-diplomatic-relations-after-18-month-break/"
+     ],
+     [
+      "Ecofin Agency · Relations restored",
+      "https://www.ecofinagency.com/news/2309-59149-belgium-rwanda-restore-diplomatic-relations-after-18-month-break"
+     ]
+    ]
+   },
+   {
+    "type": "choice",
+    "label": "THE BIGGER PICTURE",
+    "title": "Why was the Bank of Japan’s 18 September decision notable?",
+    "options": [
+     "It cut rates below zero again",
+     "It left rates unchanged for a fifth time",
+     "It stopped setting interest rates",
+     "It raised rates to 1.25%, the highest since 1995"
+    ],
+    "correct": 3,
+    "why": "Governor Kazuo Ueda’s bank lifted its key rate from 1% to 1.25% in a 7–2 vote. It was the highest level in about 31 years.",
+    "sources": [
+     [
+      "Irish Times (Reuters) · BoJ highest since 1995",
+      "https://www.irishtimes.com/business/2026/09/18/bank-of-japan-raises-rates-to-highest-since-1995/"
+     ],
+     [
+      "AP via DTN · BoJ raises to 1.25%",
+      "https://www.dtnpf.com/agriculture/web/ag/news/world-policy/article/2026/09/18/japans-central-bank-raises-benchmark"
+     ],
+     [
+      "Nikkei Asia · Split vote",
+      "https://asia.nikkei.com/economy/bank-of-japan/boj-raises-rates-to-1.25-in-split-vote-with-2-members-opposing-hike"
+     ],
+     [
+      "Seoul Economic Daily · 31-year high",
+      "https://en.sedaily.com/international/2026/09/18/bank-of-japan-raises-rate-to-31-year-high-signals-slower"
+     ]
+    ]
+   }
+  ]
+ }
+]
