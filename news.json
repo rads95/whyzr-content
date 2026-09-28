@@ -1,0 +1,55 @@
+{
+ "updated": "2026-09-28",
+ "items": [
+  {
+   "kind": "world",
+   "date": "2026-09-24",
+   "title": "Morocco’s PAM party leads the election results",
+   "why": "Provisional results gave the party 97 of 395 seats, so no party won a majority. Turnout was about 38%.",
+   "sources": [
+    "Al Jazeera",
+    "AP"
+   ]
+  },
+  {
+   "kind": "sport",
+   "date": "2026-09-24",
+   "title": "Shin Ohashi, 17, sets a 200m breaststroke world record",
+   "why": "His 2:04.83 at the Asian Games makes the Japanese swimmer the first man under 2:05.",
+   "sources": [
+    "AP",
+    "NBC Sports"
+   ]
+  },
+  {
+   "kind": "economy",
+   "date": "2026-09-16",
+   "title": "The US Federal Reserve raises interest rates",
+   "why": "A unanimous 0.25-point rise to 3.75–4%, its first increase since July 2023. Borrowing gets more expensive.",
+   "sources": [
+    "Federal Reserve",
+    "UPI"
+   ]
+  },
+  {
+   "kind": "science",
+   "date": "2026-09-16",
+   "title": "A brand-new crater is found on the Moon",
+   "why": "About 222 m wide, it formed in 2024 and was spotted in NASA orbiter images. Impacts this big happen roughly once every 132 years.",
+   "sources": [
+    "NASA LRO",
+    "Scientific American"
+   ]
+  },
+  {
+   "kind": "climate",
+   "date": "2026-09-10",
+   "title": "August ties the record for Earth’s hottest month",
+   "why": "Copernicus measured 16.96°C, level with July 2023 and 1.65°C above pre-industrial levels.",
+   "sources": [
+    "Copernicus",
+    "Euronews"
+   ]
+  }
+ ]
+}
