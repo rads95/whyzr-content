@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29",
+ "updated": "2026-09-30",
  "facts": [
   {
    "date": "2026-09-20",
@@ -368,6 +368,28 @@
     {
      "name": "UGA Today (University of Georgia)",
      "url": "https://news.uga.edu/why-do-wombats-have-square-poop/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "kind": "fact",
+   "category": "Food",
+   "emoji": "🍯",
+   "title": "Why honey keeps for ages",
+   "text": "Sealed honey can stay good to eat for years, practically forever. It holds so little water and so much sugar that germs dry out and die. It is also acidic, and an enzyme from the bees makes a dash of germ-fighting hydrogen peroxide. The catch: keep the lid on and no water in.",
+   "sources": [
+    {
+     "name": "Smithsonian Magazine",
+     "url": "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/"
+    },
+    {
+     "name": "Foods (MDPI journal), via PubMed Central",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11083411/"
+    },
+    {
+     "name": "Compound Interest (chemistry education)",
+     "url": "https://www.compoundchem.com/2014/08/21/chemistryofhoney/"
     }
    ]
   }
