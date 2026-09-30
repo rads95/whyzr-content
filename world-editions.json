@@ -1374,5 +1374,177 @@
     ]
    }
   ]
+ },
+ {
+  "id": "010",
+  "published": "2026-10-02",
+  "title": "An American rainbow jersey, a Swiss no and a planet on the radio",
+  "games": [
+   {
+    "type": "fact",
+    "label": "REAL OR A REACH?",
+    "title": "Did this actually happen?",
+    "claim": "American Brandon McNulty won the men’s road race at cycling’s world championships in Montreal, the first US man to take that title since 1993.",
+    "options": [
+     "Yes — that happened",
+     "No — that is made up"
+    ],
+    "correct": 0,
+    "why": "True. McNulty, 28, attacked alone in the closing stages and held on to win in 6 hours 17 minutes 4 seconds. Australia’s Michael Matthews was second and the Netherlands’ Mathieu van der Poel third. The last American winner was Lance Armstrong in 1993.",
+    "sources": [
+     [
+      "NBC Sports · First US road race title in 33 years",
+      "https://www.nbcsports.com/olympics/news/brandon-mcnulty-world-championships-road-race-2026"
+     ],
+     [
+      "USA Cycling · Historic world title",
+      "https://usacycling.org/article/brandon-mcnulty-and-team-usa-take-historic-world-title-in-elite-mens-road-race-at-the-2026-uci-road-world-championships"
+     ],
+     [
+      "The Globe and Mail · McNulty claims world title",
+      "https://www.theglobeandmail.com/sports/article-us-cyclist-mcnulty-claims-mens-road-race-world-championship-title-in/"
+     ],
+     [
+      "CTV News · McNulty wins in Montreal",
+      "https://www.ctvnews.ca/sports/article/american-brandon-mcnulty-claims-mens-road-race-world-title-in-montreal/"
+     ]
+    ]
+   },
+   {
+    "type": "match",
+    "label": "MAKE THE CONNECTION",
+    "title": "Three terms. Find their partners.",
+    "pairs": [
+     [
+      "Taylor Swift",
+      "Video of the Year"
+     ],
+     [
+      "Madonna",
+      "Artist of the Year"
+     ],
+     [
+      "BTS",
+      "Song of the Year"
+     ]
+    ],
+    "why": "These were big winners at the MTV Video Music Awards on 27 September at the Peacock Theater in Los Angeles, hosted by Snoop Dogg. Swift won for “The Fate of Ophelia” and BTS for “Swim”. English singer Sienna Spiro was named Best New Artist.",
+    "sources": [
+     [
+      "Paste · 2026 VMAs winners",
+      "https://www.pastemagazine.com/music/vmas/vmas-2026-winners-list"
+     ],
+     [
+      "Rolling Stone Canada · Complete winners list",
+      "https://ca.rollingstone.com/music/2026-vmas-winners-list/"
+     ],
+     [
+      "¡HOLA! USA · VMAs winners",
+      "https://www.hola.com/us/entertainment/20260928925674/2026-mtv-vmas-winners-complete-list/"
+     ]
+    ]
+   },
+   {
+    "type": "clues",
+    "label": "THREE CLUES, ONE STORY",
+    "title": "What connects these three clues?",
+    "clues": [
+     "Less than 3 centimetres long",
+     "Found in just three small forest pools in Brazil’s Amapá state",
+     "Its name is the Portuguese word for “orange”"
+    ],
+    "options": [
+     "Laimosemion laranja, a newly named killifish",
+     "A new kind of Amazon river dolphin",
+     "A rare orange orchid",
+     "A giant Amazon catfish"
+    ],
+    "correct": 0,
+    "why": "Brazilian-led researchers described the killifish in the journal Zoosystematics and Evolution. Males have bright orange spots and bars. Its known home covers only about 25 km², so the team has recommended listing it as Endangered because of deforestation, mining and pollution.",
+    "sources": [
+     [
+      "Phys.org · Orange killifish may already be endangered",
+      "https://phys.org/news/2026-09-newly-orange-killifish-brazilian-amazon.html"
+     ],
+     [
+      "Earth.com · Tiny orange killifish named",
+      "https://www.earth.com/animals/a-tiny-orange-killifish-has-only-just-been-named-and-it-may-already-be-endangered/"
+     ],
+     [
+      "Nautilus · Striking new fish in the Amazon",
+      "https://nautil.us/a-striking-new-fish-species-discovered-in-amazon-1285318"
+     ]
+    ]
+   },
+   {
+    "type": "order",
+    "label": "WHAT CHANGED FIRST?",
+    "title": "Put these in order.",
+    "items": [
+     "South Africa’s MeerKAT telescope picks up radio bursts from the planet",
+     "Astronomers first photograph the giant planet Beta Pictoris b",
+     "The team reports the first radio signal traced directly to a planet beyond our Solar System"
+    ],
+    "correctOrder": [
+     1,
+     0,
+     2
+    ],
+    "why": "Beta Pictoris b was first imaged in 2008. MeerKAT observed it on four occasions in 2025 and 2026, and the results came out in September 2026. The bursts come from auroras, like Earth’s northern lights, and show a magnetic field thousands of times stronger than Earth’s.",
+    "sources": [
+     [
+      "Sci.News · Radio signal from Beta Pictoris b",
+      "https://www.sci.news/astronomy/beta-pictoris-b-radio-signal-15095.html"
+     ],
+     [
+      "ScienceAlert · Radio signals from an exoplanet",
+      "https://www.sciencealert.com/astronomers-detect-radio-signals-coming-directly-from-an-exoplanet-for-the-first-time"
+     ],
+     [
+      "IBTimes UK · Radio bursts from Beta Pictoris b",
+      "https://www.ibtimes.co.uk/astronomers-detect-radio-emission-beta-pictoris-b-1822100"
+     ],
+     [
+      "Phys.org · First radio signals from an exoplanet",
+      "https://phys.org/news/2026-09-astronomers-radio-exoplanet.html"
+     ],
+     [
+      "Sky at Night · Radio signals detected",
+      "https://www.skyatnightmagazine.com/news/radio-signals-detected-beta-pictoris-b"
+     ]
+    ]
+   },
+   {
+    "type": "choice",
+    "label": "THE BIGGER PICTURE",
+    "title": "What did Swiss voters decide on 27 September?",
+    "options": [
+     "To join NATO",
+     "To leave the United Nations",
+     "To reject stricter neutrality rules in the constitution",
+     "To stop holding national referendums"
+    ],
+    "correct": 2,
+    "why": "About 70% voted no, and every canton was against. The plan would have limited Switzerland to sanctions backed by the UN Security Council and barred it from military alliances except if attacked. The government and most parties opposed it; the Swiss People’s Party backed it.",
+    "sources": [
+     [
+      "Al Jazeera · Swiss reject tighter neutrality rules",
+      "https://www.aljazeera.com/news/2026/9/27/swiss-voters-set-to-reject-tighter-neutrality-rules-in-referendum"
+     ],
+     [
+      "PBS NewsHour (AP) · Swiss reject tighter neutrality rules",
+      "https://www.pbs.org/newshour/world/swiss-reject-tighter-neutrality-rules-in-referendum-backed-by-right-wing-populist-party"
+     ],
+     [
+      "Le News · Voters reject neutrality initiative",
+      "https://lenews.ch/2026/09/27/swiss-voters-decisively-reject-initiatives-on-neutrality-and-food-security/"
+     ],
+     [
+      "SWI swissinfo.ch · 27 September results",
+      "https://www.swissinfo.ch/eng/votes/september-27-votes-results-from-across-switzerland/92068632"
+     ]
+    ]
+   }
+  ]
  }
 ]
