@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30",
+ "updated": "2026-10-01",
  "facts": [
   {
    "date": "2026-09-20",
@@ -390,6 +390,32 @@
     {
      "name": "Compound Interest (chemistry education)",
      "url": "https://www.compoundchem.com/2014/08/21/chemistryofhoney/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "kind": "folklore",
+   "emoji": "🧱",
+   "title": "The Great Wall, seen from space",
+   "myth": "The Great Wall of China is the only human-made thing you can see from space, even from the Moon.",
+   "truth": "It can't be seen from the Moon, and from orbit it is hard or impossible to spot with the naked eye. China's first astronaut, Yang Liwei, looked for it in 2003 and said he didn't see it. Astronauts have only caught it using zoom lenses.",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://www.nasa.gov/image-article/great-wall/"
+    },
+    {
+     "name": "Scientific American",
+     "url": "https://www.scientificamerican.com/article/is-chinas-great-wall-visible-from-space/"
+    },
+    {
+     "name": "BBC Sky at Night Magazine",
+     "url": "https://www.skyatnightmagazine.com/space-science/can-you-see-great-wall-china-from-space"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2003/10/17/chinas-spaceman-shatters-a-myth"
     }
    ]
   }
