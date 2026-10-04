@@ -1546,5 +1546,525 @@
     ]
    }
   ]
+ },
+ {
+  "id": "011",
+  "published": "2026-10-03",
+  "title": "A rocket in orbit, a marathon record and a hairy-footed sea spider",
+  "games": [
+   {
+    "type": "fact",
+    "label": "REAL OR A REACH?",
+    "title": "Did this actually happen?",
+    "claim": "In São Tomé and Príncipe’s parliamentary election on 27 September, the opposition MLSTP finished just one seat ahead of the governing ADI.",
+    "options": [
+     "Yes — that happened",
+     "No — that is made up"
+    ],
+    "correct": 0,
+    "why": "True. Provisional results from the electoral commission gave the MLSTP 24 of the 55 seats and the governing ADI 23. A smaller alliance won six seats and the Basta movement two. No party reached the 28 seats needed for a majority, so the MLSTP needs partners to govern.",
+    "sources": [
+     [
+      "Africanews · Opposition wins most seats",
+      "https://www.africanews.com/2026/09/30/sao-tome-and-principes-main-opposition-party-wins-most-seats-in-polls/"
+     ],
+     [
+      "Channel Africa · Opposition leads legislative polls",
+      "https://www.channelafrica.co.za/channelafrica/news/sao-tome-and-principe-opposition-leads-legislative-polls/"
+     ],
+     [
+      "The Rio Times · Opposition wins but lacks a majority",
+      "https://www.riotimesonline.com/sao-tome-election-opposition-wins-needs-partner-2026"
+     ],
+     [
+      "Macau Business (Lusa) · After the 27 September vote",
+      "https://macaubusiness.com/sao-tome-president-would-prefer-to-avoid-government-of-national-unity/"
+     ]
+    ]
+   },
+   {
+    "type": "match",
+    "label": "MAKE THE CONNECTION",
+    "title": "Three terms. Find their partners.",
+    "pairs": [
+     [
+      "Tigst Assefa",
+      "Women’s winner in a course-record 2:11:04"
+     ],
+     [
+      "Guye Adola",
+      "Men’s winner in 2:02:50"
+     ],
+     [
+      "Gabriel Geay",
+      "Third in the men’s race, for Tanzania"
+     ]
+    ],
+    "why": "Ethiopian runners won both races at the Berlin Marathon on 27 September. Assefa’s time was the third-fastest women’s marathon ever and brought her third Berlin win. Adola ran a personal best for his second Berlin title, after 2021. Geay finished in 2:03:59.",
+    "sources": [
+     [
+      "World Athletics · Assefa holds on, Adola regains Berlin crown",
+      "https://worldathletics.org/competitions/world-athletics-label-road-races/news/assefa-adola-berlin-marathon-2026"
+     ],
+     [
+      "The Running Channel · Berlin Marathon 2026 results",
+      "https://therunningchannel.com/berlin-marathon-2026-results/"
+     ],
+     [
+      "Marathon Handbook · 2026 Berlin Marathon results",
+      "https://marathonhandbook.com/berlin-marathon-results/"
+     ]
+    ]
+   },
+   {
+    "type": "clues",
+    "label": "THREE CLUES, ONE STORY",
+    "title": "What connects these three clues?",
+    "clues": [
+     "Red eyes and a three-lipped mouth",
+     "Long, curved spines that make its legs look hairy",
+     "Found in the Salish Sea by University of British Columbia researchers"
+    ],
+    "options": [
+     "A new deep-sea octopus",
+     "A glow-in-the-dark jellyfish",
+     "Callipallene pilosuspedes, a newly named sea spider",
+     "A new kind of king crab"
+    ],
+    "correct": 2,
+    "why": "It is one of two sea spiders newly described in the journal Organisms Diversity & Evolution, the first new ones from the Salish Sea in nearly a century. Its name is Latin for “hairy feet”. The other, Tanystylum kiixin, is named after an ancient Indigenous village site near where it was found.",
+    "sources": [
+     [
+      "Phys.org · Hairy feet, red eyes: two new sea spiders",
+      "https://phys.org/news/2026-09-hairy-feet-red-eyes-salish.html"
+     ],
+     [
+      "BBC Wildlife (Discover Wildlife) · Hairy-legged, red-eyed sea spider",
+      "https://www.discoverwildlife.com/animal-facts/marine-animals/sea-spider-new-species-pacific-northwest"
+     ],
+     [
+      "The Spokesman-Review · Hairy legs, red eyes and 3 lips",
+      "https://www.spokesman.com/stories/2026/sep/27/new-sea-spider-species-has-hairy-legs-red-eyes-and/"
+     ]
+    ]
+   },
+   {
+    "type": "order",
+    "label": "WHAT CHANGED FIRST?",
+    "title": "Put these in order.",
+    "items": [
+     "Starship releases 26 Starlink satellites in orbit",
+     "Starship comes down in the Pacific Ocean",
+     "The Super Heavy booster splashes down in the Gulf, off Texas"
+    ],
+    "correctOrder": [
+     2,
+     0,
+     1
+    ],
+    "why": "On 28 September SpaceX’s Starship reached orbit for the first time, on its 14th test flight from Starbase, Texas. The booster dropped back to the sea minutes after lift-off. The ship then released its satellites and returned after about three hours, rather than the six orbits planned, because one engine had failed on the way up.",
+    "sources": [
+     [
+      "ABC News · Starship splashes down after first orbital flight",
+      "https://abcnews.com/US/spacex-attempt-starships-1st-orbital-flight-test/story?id=136805227"
+     ],
+     [
+      "Astronomy · Starship reaches orbit on 14th test flight",
+      "https://astronomy.com/whats-launching-this-week/starship-reaches-orbit-on-14th-test-flight"
+     ],
+     [
+      "EarthSky · Starship reaches Earth’s orbit for 1st time",
+      "https://earthsky.org/spaceflight/spacex-starship-reaches-earths-orbit-for-1st-time/"
+     ],
+     [
+      "TechCrunch · Starship reaches orbit for the first time",
+      "https://techcrunch.com/2026/09/28/spacexs-starship-rocket-reaches-orbit-for-the-first-time/"
+     ]
+    ]
+   },
+   {
+    "type": "choice",
+    "label": "THE BIGGER PICTURE",
+    "title": "Why did Australia’s interest rate decision on 29 September make headlines?",
+    "options": [
+     "Rates were cut to a record low",
+     "The cash rate rose to 4.60%, its highest since 2011",
+     "The central bank dropped its inflation target",
+     "Rates were held steady for a tenth meeting in a row"
+    ],
+    "correct": 1,
+    "why": "The Reserve Bank of Australia lifted its cash rate from 4.35% to 4.60%, the fourth rise of 2026. The board’s vote was unanimous. It said inflation remains elevated, pointing to higher global energy prices and stronger-than-expected price rises.",
+    "sources": [
+     [
+      "Reserve Bank of Australia · Monetary policy decision",
+      "https://www.rba.gov.au/media-releases/2026/mr-26-27.html"
+     ],
+     [
+      "ABC News (Australia) · RBA hikes cash rate to 4.6 per cent",
+      "https://www.abc.net.au/news/2026-09-29/asx-markets-business-news-live-updates-tuesday-29-september/107206212"
+     ],
+     [
+      "CommBank Newsroom · Fourth increase of 2026",
+      "https://www.commbank.com.au/articles/newsroom/2026/09/rba-official-cash-rate-decision-september-2026.html"
+     ],
+     [
+      "Savings.com.au · Big four banks respond",
+      "https://www.savings.com.au/news/how-the-big-four-banks-react-to-fourth-rba-rate-hike"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "013",
+  "published": "2026-10-05",
+  "title": "A Latvian vote, a rock-steady space telescope and a baby gorilla",
+  "games": [
+   {
+    "type": "fact",
+    "label": "REAL OR A REACH?",
+    "title": "Did this actually happen?",
+    "claim": "In Latvia’s election on 3 October, Prime Minister Andris Kulbergs’ United List won more than half of the seats in parliament.",
+    "options": [
+     "Yes — that happened",
+     "No — that is made up"
+    ],
+    "correct": 1,
+    "why": "Not quite. Early results gave the United List 42 of the 100 seats in the Saeima, Latvia’s parliament, with about 35% of the vote. That is the most seats any party has won since Latvia regained independence in 1991, but it is still short of a majority. Six parties won seats, and turnout was 51.8%.",
+    "sources": [
+     [
+      "BNN · United List achieves best-ever result with 42 seats",
+      "https://bnn-news.com/politics/latvia-s-saeima-election-united-list-achieves-best-ever-result-with-42-seats-6gjvcrp"
+     ],
+     [
+      "Bluewin · Kulbergs wins a clear election victory",
+      "https://www.bluewin.ch/en/news/prime-minister-kulbergs-wins-a-clear-election-victory-in-latvia-li.3623710"
+     ],
+     [
+      "Dienas Bizness · AS wins 42 seats (in Latvian)",
+      "https://db.lv/zinas/as-sasniedz-visu-laiku-labako-rezultatu-saeimas-velesanas-un-iegust-42-mandatus"
+     ],
+     [
+      "Yahoo News (dpa) · Ruling alliance wins parliamentary election",
+      "https://www.yahoo.com/news/world/articles/latvias-ruling-alliance-scores-surprise-073318382.html"
+     ],
+     [
+      "Al Jazeera · Latvia’s governing party wins election",
+      "https://www.aljazeera.com/news/2026/10/3/latvians-head-to-polls-with-security-and-cost-of-living-in-focus"
+     ]
+    ]
+   },
+   {
+    "type": "match",
+    "label": "MAKE THE CONNECTION",
+    "title": "Three terms. Find their partners.",
+    "pairs": [
+     [
+      "3.8%",
+      "Euro area inflation in September"
+     ],
+     [
+      "3.2%",
+      "Euro area inflation a month earlier, in August"
+     ],
+     [
+      "18.8%",
+      "How much energy prices rose in a year"
+     ]
+    ],
+    "why": "Eurostat’s first estimate, published on 2 October, put annual inflation in the countries that use the euro at 3.8% in September, up from 3.2% in August. That is the highest rate since September 2023. Energy was the main driver: it cost 18.8% more than a year earlier.",
+    "sources": [
+     [
+      "Eurostat · Euro area annual inflation up to 3.8%",
+      "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-02102026-ap"
+     ],
+     [
+      "Euronews · Eurozone inflation spikes to 3.8%",
+      "https://www.euronews.com/2026/10/02/eurozone-inflation-spikes-to-38-is-your-country-on-the-worst-list"
+     ],
+     [
+      "Trading Economics · Euro area inflation rate",
+      "https://tradingeconomics.com/euro-area/inflation-cpi"
+     ],
+     [
+      "GMK Center · Eurozone inflation accelerated to 3.8%",
+      "https://gmk.center/en/news/inflation-in-the-eurozone-accelerated-to-3-8-in-september/"
+     ]
+    ]
+   },
+   {
+    "type": "clues",
+    "label": "THREE CLUES, ONE STORY",
+    "title": "What connects these three clues?",
+    "clues": [
+     "Its planet-spotting instrument saw starlight for the first time on 22 September",
+     "It can hold its aim to better than 1/100,000 of a degree",
+     "Its coronagraph blocks a star’s glare so faint planets nearby can be seen"
+    ],
+    "options": [
+     "The James Webb Space Telescope",
+     "NASA’s Nancy Grace Roman Space Telescope",
+     "The Hubble Space Telescope",
+     "Europe’s Euclid telescope"
+    ],
+    "correct": 1,
+    "why": "NASA’s Roman telescope is still being tested. On 22 September its coronagraph took a first test image of a faint star in the Large Magellanic Cloud, a neighbouring galaxy, showing that it can focus. NASA compares the telescope’s steadiness to keeping a laser on a small coin about 150 miles (240 km) away.",
+    "sources": [
+     [
+      "NASA JPL · Roman team snaps test coronagraph image",
+      "https://www.jpl.nasa.gov/news/nasas-roman-team-snaps-test-coronagraph-image/"
+     ],
+     [
+      "ScienceDaily · Roman telescope opens its planet-hunting eye",
+      "https://www.sciencedaily.com/releases/2026/10/261001214057.htm"
+     ],
+     [
+      "Starlust · Roman coronagraph takes its first images",
+      "https://starlust.org/nas-as-roman-telescope-coronagraph-opens-its-eyes-to-the-cosmos-taking-its-first-images/"
+     ],
+     [
+      "Hardware Busters · First coronagraph image",
+      "https://hwbusters.com/news/nasas-roman-space-telescope-takes-its-first-coronagraph-image-and-holds-steady-enough-to-hit-a-dime-from-240-km/"
+     ]
+    ]
+   },
+   {
+    "type": "order",
+    "label": "WHAT CHANGED FIRST?",
+    "title": "Put these in order.",
+    "items": [
+     "Lulingu gives birth in the wild",
+     "Lulingu is rescued from wildlife traffickers at 18 months old",
+     "Lulingu is released into Virunga National Park"
+    ],
+    "correctOrder": [
+     1,
+     2,
+     0
+    ],
+    "why": "Lulingu is a Grauer’s gorilla, also known as an eastern lowland gorilla. She grew up at the GRACE sanctuary in the Democratic Republic of Congo, was released on Mount Tshiaberimu in 2024 and had her baby in May 2026. Conservationists say the birth shows she has settled into life in the wild.",
+    "sources": [
+     [
+      "Mongabay · Reintroduced Grauer’s gorilla gives birth",
+      "https://news.mongabay.com/short-article/2026/09/reintroduced-grauers-gorilla-gives-birth-in-drc-national-park-makes-us-happy/"
+     ],
+     [
+      "Virunga National Park · Reintroduced gorilla gives birth in the wild",
+      "https://virunga.org/news/reintroduced-gorilla-gives-birth/"
+     ],
+     [
+      "Positive News · What went right this week",
+      "https://positive.news/society/democracy/good-news-stories-from-week-40-of-2026"
+     ]
+    ]
+   },
+   {
+    "type": "choice",
+    "label": "THE BIGGER PICTURE",
+    "title": "Which country topped the medal table at the Asian Games in Japan, which closed on 4 October?",
+    "options": [
+     "Japan",
+     "South Korea",
+     "China",
+     "India"
+    ],
+    "correct": 2,
+    "why": "China went into the final day with 169 gold medals, about twice as many as hosts Japan on 83. South Korea was third with 39 and India fourth with 21. The Games were held in Aichi and Nagoya.",
+    "sources": [
+     [
+      "China Daily · China achieves best result at overseas Asiad",
+      "https://www.chinadailyhk.com/hk/article/640509"
+     ],
+     [
+      "Outlook India · Final medal tally",
+      "https://www.outlookindia.com/sports/others/india-final-medal-tally-asian-games-2026-fourth-place-standings-gold-silver-bronze-count-aichi-nagoya"
+     ],
+     [
+      "The Sunday Guardian · Country-wise ranking",
+      "https://sundayguardianlive.com/sports/asian-games-2026-country-wise-ranking-china-top-with-341-medals-japan-2nd-india-4th-check-where-every-nation-finished-in-final-medal-tally-298529/"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "014",
+  "published": "2026-10-06",
+  "title": "A mountain of fries, a hockey double and a tern for the better",
+  "games": [
+   {
+    "type": "fact",
+    "label": "REAL OR A REACH?",
+    "title": "Did this actually happen?",
+    "claim": "A team in Idaho has fried up a 1,474-pound serving of French fries, taking a world record that had been held in India since 2018.",
+    "options": [
+     "Yes — that happened",
+     "No — that is made up"
+    ],
+    "correct": 0,
+    "why": "True. The Idaho Potato Commission and Spud Daddy cooked the fries on Friday 2 October at the Potato Days festival in Boise’s Idaho Botanical Garden. That is about 669 kg of fries, and it beat the old Guinness World Records mark of 1,452.85 pounds by roughly 21 pounds.",
+    "sources": [
+     [
+      "KIVI Idaho News 6 · Idaho sets new fries record",
+      "https://www.kivitv.com/southeast-boise/idaho-sets-new-guinness-world-record-for-largest-serving-of-french-fries"
+     ],
+     [
+      "Idaho Press · Spud Daddy and Idaho Potato Commission bring fry record home",
+      "http://www.idahopress.com/news/spud-daddy-and-idaho-potato-commission-bring-fry-record-home/article_47d49699-6474-47d6-927b-fd8df168ca5d.html"
+     ],
+     [
+      "Yahoo News · Idaho sets Guinness World Record",
+      "https://www.yahoo.com/news/videos/idaho-sets-guinness-world-record-034428888.html"
+     ],
+     [
+      "CBS2 Idaho News · Record attempt at Potato Days",
+      "https://idahonews.com/news/local/big-idaho-potato-truck-returns-to-boise-for-guinness-world-record-attempt"
+     ]
+    ]
+   },
+   {
+    "type": "match",
+    "label": "MAKE THE CONNECTION",
+    "title": "Three terms. Find their partners.",
+    "pairs": [
+     [
+      "At least 126 pairs",
+      "Little terns at Long Nanny, a record for the site"
+     ],
+     [
+      "More than 1,100 pairs",
+      "Sandwich terns back at Blakeney Point after two years away"
+     ],
+     [
+      "About 730 pairs",
+      "Arctic terns at Long Nanny, holding steady"
+     ]
+    ],
+    "why": "Britain’s National Trust says some of England’s most important tern colonies bounced back this summer, after hard years of bird flu, flooding and rough weather. The little tern count at Long Nanny in Northumberland was more than double the old site record, and at least 82 chicks fledged.",
+    "sources": [
+     [
+      "Positive News · What went right this week",
+      "https://positive.news/society/democracy/good-news-stories-from-week-40-of-2026"
+     ],
+     [
+      "Brit Brief · Tern colonies show signs of recovery",
+      "https://britbrief.co.uk/environment/wildlife/tern-colonies-in-england-show-signs-of-recovery-national-trust-says.html"
+     ],
+     [
+      "Finwire (The Guardian) · Tern turnaround",
+      "https://finwire.io/news/world-news/tern-turnaround-colonies-in-england-show-signs-of-recovery-after-decline"
+     ],
+     [
+      "Impactful Ninja · 126 breeding pairs",
+      "https://impactful.ninja/126-breeding-pairs-englands-rarest-seabirds-stage-a-comeback/"
+     ]
+    ]
+   },
+   {
+    "type": "clues",
+    "label": "THREE CLUES, ONE STORY",
+    "title": "What connects these three clues?",
+    "clues": [
+     "Carbon, oxygen and silicon",
+     "Three galaxies seen as they were about 500 million years after the Big Bang",
+     "Nearly 30 hours of observing with the James Webb Space Telescope"
+    ],
+    "options": [
+     "The first photo of a black hole’s shadow",
+     "Signs that very young galaxies were already blowing heavy elements out into space",
+     "A new planet found in our Solar System",
+     "The oldest star in the Milky Way"
+    ],
+    "correct": 1,
+    "why": "A team led by Yongda Zhu at the University of Arizona reported the finding in the journal Nature Astronomy. It means the early universe was less “pristine” than scientists expected: young galaxies were already making heavier elements and sharing them with their surroundings, the raw materials for later stars and planets.",
+    "sources": [
+     [
+      "ScienceDaily · The early universe wasn’t as pristine as thought",
+      "http://www.sciencedaily.com/releases/2026/09/260930225443.htm"
+     ],
+     [
+      "Tech Explorist · Heavy elements 500 million years after the Big Bang",
+      "https://www.techexplorist.com/universe-infant-galaxies-already-spreading-heavy-elements/105602/"
+     ],
+     [
+      "Knowridge · Early galaxies were already spreading the ingredients for planets",
+      "https://knowridge.com/2026/09/webb-telescope-finds-early-galaxies-were-already-spreading-the-ingredients-for-planets-and-life/"
+     ]
+    ]
+   },
+   {
+    "type": "order",
+    "label": "WHAT CHANGED FIRST?",
+    "title": "Put these in order.",
+    "items": [
+     "India’s men beat Malaysia 5–1 to keep their Asian Games hockey title",
+     "India’s women last win Asian Games hockey gold, back in 1982",
+     "India’s women beat China 1–0 in the Asian Games final"
+    ],
+    "correctOrder": [
+     1,
+     2,
+     0
+    ],
+    "why": "India’s hockey teams both won gold at the Asian Games in Japan. The women beat China on 2 October to end a 44-year wait, thanks to a goal from Lalremsiami. The men won a day later, the first time they have defended the title. Both teams also earned places at the 2028 Los Angeles Olympics.",
+    "sources": [
+     [
+      "The Hockey Paper · India women secure Asian Games gold",
+      "https://www.thehockeypaper.co.uk/articles/2026/10/02/india-women-secure-asian-games-hockey-gold-and-la-2028-olympics-ticket"
+     ],
+     [
+      "Hockey India · Champions again after a 44-year wait",
+      "https://www.hockeyindia.org/news/indian-womens-hockey-team-dethrones-china-to-become-asian-games-champion-again-after-a-44-year-wait"
+     ],
+     [
+      "Outlook India · Women’s final",
+      "https://www.outlookindia.com/sports/hockey/india-vs-china-live-score-asian-games-2026-womens-hockey-final-gold-medal-match-updates-highlights"
+     ],
+     [
+      "ETV Bharat · Men beat Malaysia 5-1 in the final",
+      "https://www.etvbharat.com/en/sports/asian-games-2026-indian-men-hockey-team-ensure-countrys-21st-gold-medal-enn26100305019"
+     ],
+     [
+      "myKhel · India beat Malaysia 5-1 to retain gold",
+      "https://www.mykhel.com/hockey/asian-games-2026-india-beat-malaysia-5-1-to-retain-hockey-gold-455401.html"
+     ],
+     [
+      "Outlook India · Men’s final",
+      "https://www.outlookindia.com/sports/hockey/india-vs-malaysia-live-score-asian-games-2026-mens-hockey-final-updates-highlights"
+     ]
+    ]
+   },
+   {
+    "type": "choice",
+    "label": "THE BIGGER PICTURE",
+    "title": "What did the latest US jobs report, published on 2 October, show?",
+    "options": [
+     "Employers added just 29,000 jobs in September, far fewer than expected",
+     "A record 500,000 new jobs in a single month",
+     "The unemployment rate fell below 3%",
+     "The number of jobs fell for a sixth month in a row"
+    ],
+    "correct": 0,
+    "why": "Forecasters had expected somewhere between 84,000 and 90,000 new jobs. The unemployment rate was 4.2%, and the figures for July and August were revised down by a combined 60,000. Health care, construction and manufacturing added jobs, while financial firms cut them.",
+    "sources": [
+     [
+      "US Bureau of Labor Statistics · Employment Situation Summary",
+      "https://www.bls.gov/news.release/empsit.nr0.htm"
+     ],
+     [
+      "Yahoo Finance · September jobs report",
+      "https://finance.yahoo.com/economy/articles/september-2026-jobs-report-payrolls-123334753.html"
+     ],
+     [
+      "Trading Economics · US non-farm payrolls",
+      "https://tradingeconomics.com/united-states/non-farm-payrolls"
+     ],
+     [
+      "Fiscal Lab · Jobs report for September 2026",
+      "https://fiscallab.org/labor-markets/the-fiscal-lab-jobs-report-for-september-2026/"
+     ]
+    ]
+   }
+  ]
  }
 ]
