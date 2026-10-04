@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01",
+ "updated": "2026-10-04",
  "facts": [
   {
    "date": "2026-09-20",
@@ -416,6 +416,80 @@
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2003/10/17/chinas-spaceman-shatters-a-myth"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "kind": "fact",
+   "category": "Everyday",
+   "emoji": "🖊️",
+   "title": "The hole in your pen cap",
+   "text": "That little hole in the top of a pen cap is a safety feature. People chew pen caps, and now and then one gets inhaled. The hole lets air keep flowing if that happens. An international standard, ISO 11540, asks for it, and BIC says that is exactly why its caps have one.",
+   "sources": [
+    {
+     "name": "Mental Floss",
+     "url": "https://www.mentalfloss.com/article/545682/surprising-reason-why-pen-caps-have-tiny-holes-top"
+    },
+    {
+     "name": "IFLScience",
+     "url": "https://www.iflscience.com/technology/theres-a-surprising-reason-why-pen-caps-have-holes-in-them/"
+    },
+    {
+     "name": "ScienceAlert",
+     "url": "https://www.sciencealert.com/why-there-are-holes-in-tops-of-pen-caps-lids-bic"
+    },
+    {
+     "name": "Reader's Digest",
+     "url": "https://www.rd.com/article/hole-in-pen-cap/"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "kind": "fact",
+   "category": "Records",
+   "emoji": "🛫",
+   "title": "The world's shortest scheduled flight",
+   "text": "In Scotland's Orkney islands, Loganair flies from Westray to Papa Westray, just 1.7 miles (2.74 km). The whole trip takes around 90 seconds, and the fastest ever was 53 seconds. The route has run since 1967 and holds the Guinness World Record.",
+   "sources": [
+    {
+     "name": "Guinness World Records",
+     "url": "https://www.guinnessworldrecords.com/world-records/63191-shortest-domestic-scheduled-flight"
+    },
+    {
+     "name": "Border Telegraph",
+     "url": "https://www.bordertelegraph.com/news/25133495.worlds-shortest-flight-scotland-takes-seconds"
+    },
+    {
+     "name": "SlashGear",
+     "url": "https://www.slashgear.com/1892958/shortest-airplane-flight-route-explained"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "kind": "tale",
+   "emoji": "🕷️",
+   "title": "How Anansi won the stories",
+   "story": "Long ago every story belonged to Nyame, the sky god. Anansi the spider asked to buy them, and Nyame named an impossible price: catch fearsome creatures, among them a leopard and a swarm of hornets. Tiny Anansi tricked them one by one, and the stories became his.",
+   "origin": "Anansi comes from the folktales of the Akan peoples, including the Asante, of what is now Ghana. The tales crossed the Atlantic with enslaved West Africans and took root in the Caribbean and the Americas, where the spider is also known as Aunt Nancy.",
+   "sources": [
+    {
+     "name": "EBSCO Research Starters: Trickster tale",
+     "url": "https://www.ebsco.com/research-starters/literature-and-writing/trickster-tale"
+    },
+    {
+     "name": "EBSCO Research Starters: Thunder and Anansi",
+     "url": "https://www.ebsco.com/research-starters/literature-and-writing/thunder-and-anansi"
+    },
+    {
+     "name": "Bowling Green State University Libraries",
+     "url": "https://libguides.bgsu.edu/fairytales/ananse"
+    },
+    {
+     "name": "Simon & Schuster description of A Story, a Story (Apple Books)",
+     "url": "https://books.apple.com/us/book/a-story-a-story/id486440128"
     }
    ]
   }
