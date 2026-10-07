@@ -1,519 +1,571 @@
 {
- "updated": "2026-10-05",
- "facts": [
-  {
-   "date": "2026-09-20",
-   "kind": "fact",
-   "category": "Weird but true",
-   "emoji": "🗼",
-   "title": "The Eiffel Tower grows in summer",
-   "text": "Paris's iron giant gets a summer growth spurt. Heat makes its iron expand, so on hot days the tower stands several centimetres taller than in winter. The sunny side stretches most, too, so it leans ever so slightly away from the sun.",
-   "sources": [
+  "updated": "2026-10-07",
+  "facts": [
     {
-     "name": "The Conversation (Universidad CEU San Pablo)",
-     "url": "https://theconversation.com/the-eiffel-tower-gets-bigger-every-summer-heres-why-261904"
+      "date": "2026-09-20",
+      "kind": "fact",
+      "category": "Weird but true",
+      "emoji": "🗼",
+      "title": "The Eiffel Tower grows in summer",
+      "text": "Paris's iron giant gets a summer growth spurt. Heat makes its iron expand, so on hot days the tower stands several centimetres taller than in winter. The sunny side stretches most, too, so it leans ever so slightly away from the sun.",
+      "sources": [
+        {
+          "name": "The Conversation (Universidad CEU San Pablo)",
+          "url": "https://theconversation.com/the-eiffel-tower-gets-bigger-every-summer-heres-why-261904"
+        },
+        {
+          "name": "Interesting Engineering",
+          "url": "https://interestingengineering.com/culture/the-eiffel-tower-grow-taller-each-summer"
+        },
+        {
+          "name": "Futura-Sciences",
+          "url": "https://www.futura-sciences.com/planete/questions-reponses/monuments-tour-eiffel-change-t-elle-taille-12124/"
+        },
+        {
+          "name": "We Build Value (Webuild)",
+          "url": "https://www.webuildvalue.com/en/reportage/eiffel-tower-story-secrets.html"
+        }
+      ]
     },
     {
-     "name": "Interesting Engineering",
-     "url": "https://interestingengineering.com/culture/the-eiffel-tower-grow-taller-each-summer"
+      "date": "2026-09-21",
+      "kind": "fact",
+      "category": "Animals",
+      "emoji": "🦩",
+      "title": "Why flamingos are pink",
+      "text": "Flamingos aren't born pink: chicks hatch fluffy grey or white. The pink comes from dinner, natural pigments called carotenoids in the algae and tiny shrimp they eat. So how pink a flamingo gets depends on its menu. Literally, you are what you eat.",
+      "sources": [
+        {
+          "name": "San Diego Zoo Wildlife Alliance",
+          "url": "https://animals.sandiegozoo.org/animals/flamingo"
+        },
+        {
+          "name": "National Geographic",
+          "url": "https://www.nationalgeographic.com/science/article/tracing-the-roots-of-beautiful-bird-hues"
+        },
+        {
+          "name": "Smithsonian Magazine",
+          "url": "https://www.smithsonianmag.com/science-nature/for-some-species-you-really-are-what-you-eat-40747423/"
+        },
+        {
+          "name": "BBC Science Focus",
+          "url": "https://www.sciencefocus.com/nature/why-are-flamingos-pink"
+        },
+        {
+          "name": "Smithsonian's National Zoo",
+          "url": "https://nationalzoo.si.edu/animals/news/practical-tips-anyone-currently-raising-nine-flamingo-chicks-same-time"
+        }
+      ]
     },
     {
-     "name": "Futura-Sciences",
-     "url": "https://www.futura-sciences.com/planete/questions-reponses/monuments-tour-eiffel-change-t-elle-taille-12124/"
+      "date": "2026-09-22",
+      "kind": "folklore",
+      "emoji": "🤧",
+      "title": "Why we say \"bless you\"",
+      "myth": "We say \"bless you\" because Pope Gregory the Great ordered it during a plague in Rome, when a sneeze could be the first sign of sickness. Or it's because a sneeze lets your soul slip out, or stops your heart for a moment.",
+      "truth": "Nobody knows for sure, and the habit is much older than Pope Gregory. Around 77 CE the Roman writer Pliny the Elder was already asking why people greet someone who sneezes, which suggests even he didn't know where the custom came from.",
+      "sources": [
+        {
+          "name": "History Facts",
+          "url": "https://historyfacts.com/arts-culture/article/why-do-we-say-bless-you-when-someone-sneezes/"
+        },
+        {
+          "name": "Mental Floss",
+          "url": "https://www.mentalfloss.com/article/575463/why-we-say-bless-you-when-someone-sneezes"
+        },
+        {
+          "name": "The Phrase Finder",
+          "url": "https://www.phrases.org.uk/meanings/bless-you.html"
+        },
+        {
+          "name": "Grammarphobia (O'Conner & Kellerman)",
+          "url": "https://grammarphobia.com/blog/2009/09/an-allergic-reaction.html"
+        }
+      ]
     },
     {
-     "name": "We Build Value (Webuild)",
-     "url": "https://www.webuildvalue.com/en/reportage/eiffel-tower-story-secrets.html"
+      "date": "2026-09-23",
+      "kind": "fact",
+      "category": "Food",
+      "emoji": "🍌",
+      "title": "Bananas are berries; strawberries aren't",
+      "text": "To a botanist, a true berry grows from one flower with a single ovary and keeps its seeds inside. Bananas pass: their seeds are just tiny. Strawberries fail: the red flesh is the swollen base of the flower, and each speck on the outside is its own tiny fruit.",
+      "sources": [
+        {
+          "name": "Stanford Magazine",
+          "url": "https://stanfordmag.org/contents/bananas-are-berries"
+        },
+        {
+          "name": "Live Science",
+          "url": "https://www.livescience.com/57477-why-are-bananas-considered-berries.html"
+        },
+        {
+          "name": "McGill University Office for Science and Society",
+          "url": "https://www.mcgill.ca/oss/article/did-you-know/bananas-are-berries-raspberries-are-not"
+        },
+        {
+          "name": "Live Science: Why do strawberries have seeds on the outside?",
+          "url": "https://www.livescience.com/planet-earth/plants/why-do-strawberries-have-seeds-on-the-outside"
+        },
+        {
+          "name": "University of Delaware Cooperative Extension",
+          "url": "https://sites.udel.edu/weeklycropupdate/?p=13340"
+        },
+        {
+          "name": "Frontiers in Plant Science",
+          "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2022.929831/full"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "kind": "fact",
+      "category": "Records",
+      "emoji": "⛰️",
+      "title": "The hill with an 85-letter name",
+      "text": "A small hill in New Zealand's Hawke's Bay has an 85-letter Māori name that Guinness lists as the world's longest place name. It's a whole story in one word: the summit where Tamatea, 'the man with the big knees', played his flute to his loved one. Most people just call it Taumata.",
+      "sources": [
+        {
+          "name": "NZ Herald (Hawke's Bay Today)",
+          "url": "https://www.nzherald.co.nz/hawkes-bay-today/news/new-era-for-the-worldlongest-place-name-and-its-hawkes-bay-site/4JUHPDIE45DVJEVBTTAHCKPBG4/"
+        },
+        {
+          "name": "Hawke's Bay Tourism",
+          "url": "https://www.hawkesbaynz.com/visit/us/the-longest-place-name"
+        },
+        {
+          "name": "TheTravel",
+          "url": "https://www.thetravel.com/longest-place-name-in-the-world-holds-official-guinness-world-record/"
+        },
+        {
+          "name": "Amusing Planet",
+          "url": "https://www.amusingplanet.com/2018/06/the-hill-with-longest-name.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "kind": "tale",
+      "emoji": "🪈",
+      "title": "The Pied Piper of Hamelin",
+      "story": "Hamelin was overrun with rats, so a stranger in a colourful coat played his pipe and led every last one out of town. When the townsfolk wouldn't pay him, he came back and played a new tune. All the town's children followed him out through the gate and were never seen again.",
+      "origin": "Records suggest something real happened in 1284: a church window from about 1300 and later town records mention 130 children leaving Hamelin. Nobody knows why. A leading theory is that young people moved east to settle new lands, and the rats were only added to the story much later.",
+      "sources": [
+        {
+          "name": "Cambridge University Library, European Collections blog",
+          "url": "https://languagecollections-blog.lib.cam.ac.uk/2024/03/19/the-mystery-of-the-pied-piper/"
+        },
+        {
+          "name": "Medievalists.net",
+          "url": "https://www.medievalists.net/2026/07/medieval-mystery-pied-piper/"
+        },
+        {
+          "name": "Stadt Hameln (official town site): Explanations to the Piper legend",
+          "url": "https://www.hameln.de/en/thepiedpiper/thepiedpiper/explanations-to-the-piper-legend"
+        },
+        {
+          "name": "Stadt Hameln (official town site): Brothers Grimm",
+          "url": "https://www.hameln.de/en/thepiedpiper/thepiedpiper/brothers-grimm-pied-piper"
+        },
+        {
+          "name": "Planet Wissen (WDR/SWR)",
+          "url": "https://www.planet-wissen.de/natur/haustiere/ratten/pwiederrattenfaengervonhameln100.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "kind": "fact",
+      "category": "Everyday",
+      "emoji": "👖",
+      "title": "The tiny pocket on your jeans",
+      "text": "That tiny pocket on your jeans was made for a pocket watch, back when Levi's jeans were 1800s workwear. Plot twist: Levi's says it isn't really the 'fifth pocket'. Early jeans had only one back pocket, so the true fifth is the second back pocket, added in the early 1900s.",
+      "sources": [
+        {
+          "name": "Levi Strauss & Co.: The Story Behind the Official Fifth Pocket",
+          "url": "https://www.levistrauss.com/2021/05/03/the-story-behind-the-official-fifth-pocket/"
+        },
+        {
+          "name": "Levi Strauss & Co.: Pockets Full of History",
+          "url": "https://www.levistrauss.com/2017/01/12/pockets-full-history/"
+        },
+        {
+          "name": "Reader's Digest",
+          "url": "https://www.rd.com/article/tiny-pocket-in-jeans/"
+        },
+        {
+          "name": "Gear Patrol",
+          "url": "https://www.gearpatrol.com/style/jeans-watch-pocket/"
+        },
+        {
+          "name": "Heddels",
+          "url": "https://www.heddels.com/dictionary/five-pocket-jeans/"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "kind": "fact",
+      "category": "Animals",
+      "emoji": "🐙",
+      "title": "Octopuses have three hearts",
+      "text": "Octopuses have three hearts: two pump blood past the gills to pick up oxygen, and one sends it around the body. And their blood is blue! Instead of iron, like ours, it uses a copper-based protein called haemocyanin to carry oxygen.",
+      "sources": [
+        {
+          "name": "Natural History Museum, London",
+          "url": "https://www.nhm.ac.uk/discover/octopuses-keep-surprising-us-here-are-eight-examples-how.html"
+        },
+        {
+          "name": "BBC Science Focus",
+          "url": "https://www.sciencefocus.com/nature/why-does-an-octopus-have-more-than-one-heart"
+        },
+        {
+          "name": "Smithsonian Magazine",
+          "url": "https://www.smithsonianmag.com/science-nature/ten-wild-facts-about-octopuses-they-have-three-hearts-big-brains-and-blue-blood-7625828/"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "kind": "folklore",
+      "emoji": "🪵",
+      "title": "Knocking on wood for luck",
+      "myth": "People knock on wood to wake up or thank the friendly spirits that live in trees, an ancient pagan habit. Another version says it's a way of touching the wooden cross of Jesus.",
+      "truth": "Nobody knows for sure, and the tree-spirit story is only a guess. The phrase doesn't show up in writing until the 1800s. Folklorist Steve Roud links it to a British children's game of tag, \"Tiggy Touchwood\", where you couldn't be caught while you were touching wood.",
+      "sources": [
+        {
+          "name": "The Conversation",
+          "url": "https://theconversation.com/why-we-knock-on-wood-for-luck-129864"
+        },
+        {
+          "name": "HISTORY",
+          "url": "https://www.history.com/articles/why-do-people-knock-on-wood-for-luck"
+        },
+        {
+          "name": "Reader's Digest",
+          "url": "https://www.rd.com/article/knock-on-wood-meaning/"
+        },
+        {
+          "name": "#FolkloreThursday",
+          "url": "https://folklorethursday.com/folklife/the-origins-of-touch-wood-tree-spirits-the-true-cross-or-tag/"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "kind": "fact",
+      "category": "Weird but true",
+      "emoji": "🦄",
+      "title": "Scotland's national animal is a unicorn",
+      "text": "Scotland's national animal is the unicorn. It has appeared on Scotland's royal arms for centuries, usually wrapped in gold chains, often said to show that only the king could tame it. When James VI of Scotland also became king of England in 1603, the unicorn got a new neighbour: England's lion.",
+      "sources": [
+        {
+          "name": "Historic UK",
+          "url": "https://www.historic-uk.com/HistoryUK/HistoryofScotland/The-Unicorn-Scotlands-National-Animal/"
+        },
+        {
+          "name": "History Hit",
+          "url": "https://www.historyhit.com/the-unicorn-scotlands-unusual-national-animal/"
+        },
+        {
+          "name": "Scotland.org",
+          "url": "https://www.scotland.org/inspiration/what-is-the-national-animal-of-scotland"
+        },
+        {
+          "name": "The Royal Family: Coats of Arms",
+          "url": "https://www.royal.uk/coats-arms"
+        },
+        {
+          "name": "Wilderness Scotland",
+          "url": "https://www.wildernessscotland.com/blog/unicorn-scotland-national-animal/"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "kind": "fact",
+      "category": "Records",
+      "emoji": "🌋",
+      "title": "Mauna Kea is taller than Everest",
+      "text": "Everest is the highest peak above sea level, but not the tallest mountain. Measured from its base on the Pacific sea floor, Hawaii's Mauna Kea stands about 10 km tall, beating Everest's 8.8 km. The catch? Only about 4.2 km of it pokes above the waves.",
+      "sources": [
+        {
+          "name": "Guinness World Records",
+          "url": "https://www.guinnessworldrecords.com/world-records/tallest-mountain"
+        },
+        {
+          "name": "EarthDate (University of Texas at Austin)",
+          "url": "https://www.earthdate.org/episodes/worlds-tallest-mountain"
+        },
+        {
+          "name": "NOAA National Ocean Service",
+          "url": "https://oceanservice.noaa.gov/facts/highestpoint.html"
+        },
+        {
+          "name": "BBC Science Focus",
+          "url": "https://www.sciencefocus.com/planet-earth/what-is-the-highest-mountain-on-the-ocean-bed"
+        },
+        {
+          "name": "Maunakea Observatories",
+          "url": "https://www.maunakeaobservatories.org/visit-maunakea"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "kind": "tale",
+      "emoji": "🌌",
+      "title": "The Weaver and the Cowherd",
+      "story": "A weaver girl from heaven married a hard-working cowherd, and the two were so happy together that they stopped doing their jobs. Her father, the ruler of the sky, set them on opposite banks of the Milky Way. Once a year, on the seventh night of the seventh month, magpies make a bridge so the two can meet.",
+      "origin": "It's an ancient Chinese legend, celebrated as the Qixi festival, and the lovers are two bright stars: Vega (the weaver) and Altair (the cowherd). The story later travelled to Japan, where it became Tanabata, the Star Festival.",
+      "sources": [
+        {
+          "name": "Nippon.com",
+          "url": "https://www.nippon.com/en/features/jg00097/"
+        },
+        {
+          "name": "Kokugakuin University",
+          "url": "https://www.kokugakuin.ac.jp/en/article/10736"
+        },
+        {
+          "name": "University of Wisconsin–Parkside Archives",
+          "url": "https://archives.uwp.edu/exhibits/show/cnj/tanabata"
+        },
+        {
+          "name": "China Daily: Culture Insider: Qixi",
+          "url": "https://www.chinadaily.com.cn/a/202408/09/WS5d4a33f0a310cf3e3556452f_2.html"
+        },
+        {
+          "name": "China Daily: Qixi Festival and the legend of Niulang Zhinv",
+          "url": "https://www.chinadaily.com.cn/a/201808/17/WS5b7665caa310add14f3865fc.html"
+        },
+        {
+          "name": "NASA Science",
+          "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/astronomy-club-supports-the-tanabata-festival/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "kind": "fact",
+      "category": "Animals",
+      "emoji": "🐾",
+      "title": "Wombats make cube-shaped poo",
+      "text": "Yes, wombats leave neat little cubes. The shape forms inside the gut, where stiff and stretchy patches of intestine wall sculpt the corners. Why cubes? Wombats leave them on rocks and logs as smelly messages for other wombats, and a cube doesn't roll away.",
+      "sources": [
+        {
+          "name": "Physics World",
+          "url": "https://physicsworld.com/a/biophysicists-strain-to-reveal-why-wombats-have-cube-shaped-poo/"
+        },
+        {
+          "name": "Georgia Tech, Quantitative Biosciences",
+          "url": "https://qbios.gatech.edu/studying-wombats-cubic-poop"
+        },
+        {
+          "name": "Phys.org (University of Tasmania study)",
+          "url": "https://phys.org/news/2021-02-wombats-excrete-poop-cubes.html"
+        },
+        {
+          "name": "UGA Today (University of Georgia)",
+          "url": "https://news.uga.edu/why-do-wombats-have-square-poop/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "kind": "fact",
+      "category": "Food",
+      "emoji": "🍯",
+      "title": "Why honey keeps for ages",
+      "text": "Sealed honey can stay good to eat for years, practically forever. It holds so little water and so much sugar that germs dry out and die. It is also acidic, and an enzyme from the bees makes a dash of germ-fighting hydrogen peroxide. The catch: keep the lid on and no water in.",
+      "sources": [
+        {
+          "name": "Smithsonian Magazine",
+          "url": "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/"
+        },
+        {
+          "name": "Foods (MDPI journal), via PubMed Central",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11083411/"
+        },
+        {
+          "name": "Compound Interest (chemistry education)",
+          "url": "https://www.compoundchem.com/2014/08/21/chemistryofhoney/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "kind": "folklore",
+      "emoji": "🧱",
+      "title": "The Great Wall, seen from space",
+      "myth": "The Great Wall of China is the only human-made thing you can see from space, even from the Moon.",
+      "truth": "It can't be seen from the Moon, and from orbit it is hard or impossible to spot with the naked eye. China's first astronaut, Yang Liwei, looked for it in 2003 and said he didn't see it. Astronauts have only caught it using zoom lenses.",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/image-article/great-wall/"
+        },
+        {
+          "name": "Scientific American",
+          "url": "https://www.scientificamerican.com/article/is-chinas-great-wall-visible-from-space/"
+        },
+        {
+          "name": "BBC Sky at Night Magazine",
+          "url": "https://www.skyatnightmagazine.com/space-science/can-you-see-great-wall-china-from-space"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2003/10/17/chinas-spaceman-shatters-a-myth"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "kind": "fact",
+      "category": "Everyday",
+      "emoji": "🖊️",
+      "title": "The hole in your pen cap",
+      "text": "That little hole in the top of a pen cap is a safety feature. People chew pen caps, and now and then one gets inhaled. The hole lets air keep flowing if that happens. An international standard, ISO 11540, asks for it, and BIC says that is exactly why its caps have one.",
+      "sources": [
+        {
+          "name": "Mental Floss",
+          "url": "https://www.mentalfloss.com/article/545682/surprising-reason-why-pen-caps-have-tiny-holes-top"
+        },
+        {
+          "name": "IFLScience",
+          "url": "https://www.iflscience.com/technology/theres-a-surprising-reason-why-pen-caps-have-holes-in-them/"
+        },
+        {
+          "name": "ScienceAlert",
+          "url": "https://www.sciencealert.com/why-there-are-holes-in-tops-of-pen-caps-lids-bic"
+        },
+        {
+          "name": "Reader's Digest",
+          "url": "https://www.rd.com/article/hole-in-pen-cap/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "kind": "fact",
+      "category": "Records",
+      "emoji": "🛫",
+      "title": "The world's shortest scheduled flight",
+      "text": "In Scotland's Orkney islands, Loganair flies from Westray to Papa Westray, just 1.7 miles (2.74 km). The whole trip takes around 90 seconds, and the fastest ever was 53 seconds. The route has run since 1967 and holds the Guinness World Record.",
+      "sources": [
+        {
+          "name": "Guinness World Records",
+          "url": "https://www.guinnessworldrecords.com/world-records/63191-shortest-domestic-scheduled-flight"
+        },
+        {
+          "name": "Border Telegraph",
+          "url": "https://www.bordertelegraph.com/news/25133495.worlds-shortest-flight-scotland-takes-seconds"
+        },
+        {
+          "name": "SlashGear",
+          "url": "https://www.slashgear.com/1892958/shortest-airplane-flight-route-explained"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "kind": "tale",
+      "emoji": "🕷️",
+      "title": "How Anansi won the stories",
+      "story": "Long ago every story belonged to Nyame, the sky god. Anansi the spider asked to buy them, and Nyame named an impossible price: catch fearsome creatures, among them a leopard and a swarm of hornets. Tiny Anansi tricked them one by one, and the stories became his.",
+      "origin": "Anansi comes from the folktales of the Akan peoples, including the Asante, of what is now Ghana. The tales crossed the Atlantic with enslaved West Africans and took root in the Caribbean and the Americas, where the spider is also known as Aunt Nancy.",
+      "sources": [
+        {
+          "name": "EBSCO Research Starters: Trickster tale",
+          "url": "https://www.ebsco.com/research-starters/literature-and-writing/trickster-tale"
+        },
+        {
+          "name": "EBSCO Research Starters: Thunder and Anansi",
+          "url": "https://www.ebsco.com/research-starters/literature-and-writing/thunder-and-anansi"
+        },
+        {
+          "name": "Bowling Green State University Libraries",
+          "url": "https://libguides.bgsu.edu/fairytales/ananse"
+        },
+        {
+          "name": "Simon & Schuster description of A Story, a Story (Apple Books)",
+          "url": "https://books.apple.com/us/book/a-story-a-story/id486440128"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "kind": "fact",
+      "category": "Weird but true",
+      "emoji": "🌞",
+      "title": "Venus has days longer than years",
+      "text": "Venus turns so slowly that one full spin takes about 243 Earth days, yet it laps the Sun in about 225. So a day there outlasts a year. It also spins backwards compared with Earth and most other planets.",
+      "sources": [
+        {
+          "name": "NASA Science: Venus Facts",
+          "url": "https://science.nasa.gov/venus/venus-facts/"
+        },
+        {
+          "name": "European Space Agency: Venus compared to Earth",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Venus_Express/Venus_compared_to_Earth"
+        },
+        {
+          "name": "Natural History Museum, London: Planet Venus",
+          "url": "https://www.nhm.ac.uk/discover/planet-venus.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "kind": "fact",
+      "category": "Animals",
+      "emoji": "🐨",
+      "title": "Koalas have fingerprints",
+      "text": "Koalas have fingerprints, with tiny ridges that look strikingly like ours. They are no close relatives of humans, so the ridges evolved separately, probably because koalas, like us, grip things with their hands: branches to climb and leaves to eat.",
+      "sources": [
+        {
+          "name": "Mental Floss",
+          "url": "https://www.mentalfloss.com/article/649748/koalas-have-fingerprints-just-humans"
+        },
+        {
+          "name": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2018-07-01/biometrics-koalas-and-wood-glue-fascinating-fingerprint-facts/9920802"
+        },
+        {
+          "name": "BBC Wildlife (Discover Wildlife)",
+          "url": "https://www.discoverwildlife.com/animal-facts/mammals/koala-bear"
+        },
+        {
+          "name": "Earth.com",
+          "url": "https://www.earth.com/news/koalas-have-fingerprints-nearly-identical-to-humans-an-evolutionary-puzzle-not-yet-solved/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "kind": "folklore",
+      "emoji": "🐠",
+      "title": "The three-second goldfish memory",
+      "myth": "Goldfish forget everything after three seconds, so every lap of the bowl is a brand-new adventure.",
+      "truth": "Rubbish, say fish researchers. Experiments keep showing that goldfish can be trained to do tasks for food and still remember what they learned weeks or even months later.",
+      "sources": [
+        {
+          "name": "Discover Magazine",
+          "url": "https://www.discovermagazine.com/goldfish-may-have-longer-memories-than-just-three-seconds-46062"
+        },
+        {
+          "name": "BBC Wildlife (Discover Wildlife)",
+          "url": "https://www.discoverwildlife.com/animal-facts/fish/goldfish-memory"
+        },
+        {
+          "name": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2008-02-19/goldfish-three-second-memory-myth-busted/1046710"
+        },
+        {
+          "name": "ABC Science",
+          "url": "https://www.abc.net.au/science/articles/2010/01/14/2792407.htm"
+        }
+      ]
     }
-   ]
-  },
-  {
-   "date": "2026-09-21",
-   "kind": "fact",
-   "category": "Animals",
-   "emoji": "🦩",
-   "title": "Why flamingos are pink",
-   "text": "Flamingos aren't born pink: chicks hatch fluffy grey or white. The pink comes from dinner, natural pigments called carotenoids in the algae and tiny shrimp they eat. So how pink a flamingo gets depends on its menu. Literally, you are what you eat.",
-   "sources": [
-    {
-     "name": "San Diego Zoo Wildlife Alliance",
-     "url": "https://animals.sandiegozoo.org/animals/flamingo"
-    },
-    {
-     "name": "National Geographic",
-     "url": "https://www.nationalgeographic.com/science/article/tracing-the-roots-of-beautiful-bird-hues"
-    },
-    {
-     "name": "Smithsonian Magazine",
-     "url": "https://www.smithsonianmag.com/science-nature/for-some-species-you-really-are-what-you-eat-40747423/"
-    },
-    {
-     "name": "BBC Science Focus",
-     "url": "https://www.sciencefocus.com/nature/why-are-flamingos-pink"
-    },
-    {
-     "name": "Smithsonian's National Zoo",
-     "url": "https://nationalzoo.si.edu/animals/news/practical-tips-anyone-currently-raising-nine-flamingo-chicks-same-time"
-    }
-   ]
-  },
-  {
-   "date": "2026-09-22",
-   "kind": "folklore",
-   "emoji": "🤧",
-   "title": "Why we say \"bless you\"",
-   "myth": "We say \"bless you\" because Pope Gregory the Great ordered it during a plague in Rome, when a sneeze could be the first sign of sickness. Or it's because a sneeze lets your soul slip out, or stops your heart for a moment.",
-   "truth": "Nobody knows for sure, and the habit is much older than Pope Gregory. Around 77 CE the Roman writer Pliny the Elder was already asking why people greet someone who sneezes, which suggests even he didn't know where the custom came from.",
-   "sources": [
-    {
-     "name": "History Facts",
-     "url": "https://historyfacts.com/arts-culture/article/why-do-we-say-bless-you-when-someone-sneezes/"
-    },
-    {
-     "name": "Mental Floss",
-     "url": "https://www.mentalfloss.com/article/575463/why-we-say-bless-you-when-someone-sneezes"
-    },
-    {
-     "name": "The Phrase Finder",
-     "url": "https://www.phrases.org.uk/meanings/bless-you.html"
-    },
-    {
-     "name": "Grammarphobia (O'Conner & Kellerman)",
-     "url": "https://grammarphobia.com/blog/2009/09/an-allergic-reaction.html"
-    }
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "kind": "fact",
-   "category": "Food",
-   "emoji": "🍌",
-   "title": "Bananas are berries; strawberries aren't",
-   "text": "To a botanist, a true berry grows from one flower with a single ovary and keeps its seeds inside. Bananas pass: their seeds are just tiny. Strawberries fail: the red flesh is the swollen base of the flower, and each speck on the outside is its own tiny fruit.",
-   "sources": [
-    {
-     "name": "Stanford Magazine",
-     "url": "https://stanfordmag.org/contents/bananas-are-berries"
-    },
-    {
-     "name": "Live Science",
-     "url": "https://www.livescience.com/57477-why-are-bananas-considered-berries.html"
-    },
-    {
-     "name": "McGill University Office for Science and Society",
-     "url": "https://www.mcgill.ca/oss/article/did-you-know/bananas-are-berries-raspberries-are-not"
-    },
-    {
-     "name": "Live Science: Why do strawberries have seeds on the outside?",
-     "url": "https://www.livescience.com/planet-earth/plants/why-do-strawberries-have-seeds-on-the-outside"
-    },
-    {
-     "name": "University of Delaware Cooperative Extension",
-     "url": "https://sites.udel.edu/weeklycropupdate/?p=13340"
-    },
-    {
-     "name": "Frontiers in Plant Science",
-     "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2022.929831/full"
-    }
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "kind": "fact",
-   "category": "Records",
-   "emoji": "⛰️",
-   "title": "The hill with an 85-letter name",
-   "text": "A small hill in New Zealand's Hawke's Bay has an 85-letter Māori name that Guinness lists as the world's longest place name. It's a whole story in one word: the summit where Tamatea, 'the man with the big knees', played his flute to his loved one. Most people just call it Taumata.",
-   "sources": [
-    {
-     "name": "NZ Herald (Hawke's Bay Today)",
-     "url": "https://www.nzherald.co.nz/hawkes-bay-today/news/new-era-for-the-worldlongest-place-name-and-its-hawkes-bay-site/4JUHPDIE45DVJEVBTTAHCKPBG4/"
-    },
-    {
-     "name": "Hawke's Bay Tourism",
-     "url": "https://www.hawkesbaynz.com/visit/us/the-longest-place-name"
-    },
-    {
-     "name": "TheTravel",
-     "url": "https://www.thetravel.com/longest-place-name-in-the-world-holds-official-guinness-world-record/"
-    },
-    {
-     "name": "Amusing Planet",
-     "url": "https://www.amusingplanet.com/2018/06/the-hill-with-longest-name.html"
-    }
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "kind": "tale",
-   "emoji": "🪈",
-   "title": "The Pied Piper of Hamelin",
-   "story": "Hamelin was overrun with rats, so a stranger in a colourful coat played his pipe and led every last one out of town. When the townsfolk wouldn't pay him, he came back and played a new tune. All the town's children followed him out through the gate and were never seen again.",
-   "origin": "Records suggest something real happened in 1284: a church window from about 1300 and later town records mention 130 children leaving Hamelin. Nobody knows why. A leading theory is that young people moved east to settle new lands, and the rats were only added to the story much later.",
-   "sources": [
-    {
-     "name": "Cambridge University Library, European Collections blog",
-     "url": "https://languagecollections-blog.lib.cam.ac.uk/2024/03/19/the-mystery-of-the-pied-piper/"
-    },
-    {
-     "name": "Medievalists.net",
-     "url": "https://www.medievalists.net/2026/07/medieval-mystery-pied-piper/"
-    },
-    {
-     "name": "Stadt Hameln (official town site): Explanations to the Piper legend",
-     "url": "https://www.hameln.de/en/thepiedpiper/thepiedpiper/explanations-to-the-piper-legend"
-    },
-    {
-     "name": "Stadt Hameln (official town site): Brothers Grimm",
-     "url": "https://www.hameln.de/en/thepiedpiper/thepiedpiper/brothers-grimm-pied-piper"
-    },
-    {
-     "name": "Planet Wissen (WDR/SWR)",
-     "url": "https://www.planet-wissen.de/natur/haustiere/ratten/pwiederrattenfaengervonhameln100.html"
-    }
-   ]
-  },
-  {
-   "date": "2026-09-26",
-   "kind": "fact",
-   "category": "Everyday",
-   "emoji": "👖",
-   "title": "The tiny pocket on your jeans",
-   "text": "That tiny pocket on your jeans was made for a pocket watch, back when Levi's jeans were 1800s workwear. Plot twist: Levi's says it isn't really the 'fifth pocket'. Early jeans had only one back pocket, so the true fifth is the second back pocket, added in the early 1900s.",
-   "sources": [
-    {
-     "name": "Levi Strauss & Co.: The Story Behind the Official Fifth Pocket",
-     "url": "https://www.levistrauss.com/2021/05/03/the-story-behind-the-official-fifth-pocket/"
-    },
-    {
-     "name": "Levi Strauss & Co.: Pockets Full of History",
-     "url": "https://www.levistrauss.com/2017/01/12/pockets-full-history/"
-    },
-    {
-     "name": "Reader's Digest",
-     "url": "https://www.rd.com/article/tiny-pocket-in-jeans/"
-    },
-    {
-     "name": "Gear Patrol",
-     "url": "https://www.gearpatrol.com/style/jeans-watch-pocket/"
-    },
-    {
-     "name": "Heddels",
-     "url": "https://www.heddels.com/dictionary/five-pocket-jeans/"
-    }
-   ]
-  },
-  {
-   "date": "2026-09-27",
-   "kind": "fact",
-   "category": "Animals",
-   "emoji": "🐙",
-   "title": "Octopuses have three hearts",
-   "text": "Octopuses have three hearts: two pump blood past the gills to pick up oxygen, and one sends it around the body. And their blood is blue! Instead of iron, like ours, it uses a copper-based protein called haemocyanin to carry oxygen.",
-   "sources": [
-    {
-     "name": "Natural History Museum, London",
-     "url": "https://www.nhm.ac.uk/discover/octopuses-keep-surprising-us-here-are-eight-examples-how.html"
-    },
-    {
-     "name": "BBC Science Focus",
-     "url": "https://www.sciencefocus.com/nature/why-does-an-octopus-have-more-than-one-heart"
-    },
-    {
-     "name": "Smithsonian Magazine",
-     "url": "https://www.smithsonianmag.com/science-nature/ten-wild-facts-about-octopuses-they-have-three-hearts-big-brains-and-blue-blood-7625828/"
-    }
-   ]
-  },
-  {
-   "date": "2026-09-28",
-   "kind": "folklore",
-   "emoji": "🪵",
-   "title": "Knocking on wood for luck",
-   "myth": "People knock on wood to wake up or thank the friendly spirits that live in trees, an ancient pagan habit. Another version says it's a way of touching the wooden cross of Jesus.",
-   "truth": "Nobody knows for sure, and the tree-spirit story is only a guess. The phrase doesn't show up in writing until the 1800s. Folklorist Steve Roud links it to a British children's game of tag, \"Tiggy Touchwood\", where you couldn't be caught while you were touching wood.",
-   "sources": [
-    {
-     "name": "The Conversation",
-     "url": "https://theconversation.com/why-we-knock-on-wood-for-luck-129864"
-    },
-    {
-     "name": "HISTORY",
-     "url": "https://www.history.com/articles/why-do-people-knock-on-wood-for-luck"
-    },
-    {
-     "name": "Reader's Digest",
-     "url": "https://www.rd.com/article/knock-on-wood-meaning/"
-    },
-    {
-     "name": "#FolkloreThursday",
-     "url": "https://folklorethursday.com/folklife/the-origins-of-touch-wood-tree-spirits-the-true-cross-or-tag/"
-    }
-   ]
-  },
-  {
-   "date": "2026-09-29",
-   "kind": "fact",
-   "category": "Weird but true",
-   "emoji": "🦄",
-   "title": "Scotland's national animal is a unicorn",
-   "text": "Scotland's national animal is the unicorn. It has appeared on Scotland's royal arms for centuries, usually wrapped in gold chains, often said to show that only the king could tame it. When James VI of Scotland also became king of England in 1603, the unicorn got a new neighbour: England's lion.",
-   "sources": [
-    {
-     "name": "Historic UK",
-     "url": "https://www.historic-uk.com/HistoryUK/HistoryofScotland/The-Unicorn-Scotlands-National-Animal/"
-    },
-    {
-     "name": "History Hit",
-     "url": "https://www.historyhit.com/the-unicorn-scotlands-unusual-national-animal/"
-    },
-    {
-     "name": "Scotland.org",
-     "url": "https://www.scotland.org/inspiration/what-is-the-national-animal-of-scotland"
-    },
-    {
-     "name": "The Royal Family: Coats of Arms",
-     "url": "https://www.royal.uk/coats-arms"
-    },
-    {
-     "name": "Wilderness Scotland",
-     "url": "https://www.wildernessscotland.com/blog/unicorn-scotland-national-animal/"
-    }
-   ]
-  },
-  {
-   "date": "2026-09-30",
-   "kind": "fact",
-   "category": "Records",
-   "emoji": "🌋",
-   "title": "Mauna Kea is taller than Everest",
-   "text": "Everest is the highest peak above sea level, but not the tallest mountain. Measured from its base on the Pacific sea floor, Hawaii's Mauna Kea stands about 10 km tall, beating Everest's 8.8 km. The catch? Only about 4.2 km of it pokes above the waves.",
-   "sources": [
-    {
-     "name": "Guinness World Records",
-     "url": "https://www.guinnessworldrecords.com/world-records/tallest-mountain"
-    },
-    {
-     "name": "EarthDate (University of Texas at Austin)",
-     "url": "https://www.earthdate.org/episodes/worlds-tallest-mountain"
-    },
-    {
-     "name": "NOAA National Ocean Service",
-     "url": "https://oceanservice.noaa.gov/facts/highestpoint.html"
-    },
-    {
-     "name": "BBC Science Focus",
-     "url": "https://www.sciencefocus.com/planet-earth/what-is-the-highest-mountain-on-the-ocean-bed"
-    },
-    {
-     "name": "Maunakea Observatories",
-     "url": "https://www.maunakeaobservatories.org/visit-maunakea"
-    }
-   ]
-  },
-  {
-   "date": "2026-10-01",
-   "kind": "tale",
-   "emoji": "🌌",
-   "title": "The Weaver and the Cowherd",
-   "story": "A weaver girl from heaven married a hard-working cowherd, and the two were so happy together that they stopped doing their jobs. Her father, the ruler of the sky, set them on opposite banks of the Milky Way. Once a year, on the seventh night of the seventh month, magpies make a bridge so the two can meet.",
-   "origin": "It's an ancient Chinese legend, celebrated as the Qixi festival, and the lovers are two bright stars: Vega (the weaver) and Altair (the cowherd). The story later travelled to Japan, where it became Tanabata, the Star Festival.",
-   "sources": [
-    {
-     "name": "Nippon.com",
-     "url": "https://www.nippon.com/en/features/jg00097/"
-    },
-    {
-     "name": "Kokugakuin University",
-     "url": "https://www.kokugakuin.ac.jp/en/article/10736"
-    },
-    {
-     "name": "University of Wisconsin–Parkside Archives",
-     "url": "https://archives.uwp.edu/exhibits/show/cnj/tanabata"
-    },
-    {
-     "name": "China Daily: Culture Insider: Qixi",
-     "url": "https://www.chinadaily.com.cn/a/202408/09/WS5d4a33f0a310cf3e3556452f_2.html"
-    },
-    {
-     "name": "China Daily: Qixi Festival and the legend of Niulang Zhinv",
-     "url": "https://www.chinadaily.com.cn/a/201808/17/WS5b7665caa310add14f3865fc.html"
-    },
-    {
-     "name": "NASA Science",
-     "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/astronomy-club-supports-the-tanabata-festival/"
-    }
-   ]
-  },
-  {
-   "date": "2026-10-02",
-   "kind": "fact",
-   "category": "Animals",
-   "emoji": "🐾",
-   "title": "Wombats make cube-shaped poo",
-   "text": "Yes, wombats leave neat little cubes. The shape forms inside the gut, where stiff and stretchy patches of intestine wall sculpt the corners. Why cubes? Wombats leave them on rocks and logs as smelly messages for other wombats, and a cube doesn't roll away.",
-   "sources": [
-    {
-     "name": "Physics World",
-     "url": "https://physicsworld.com/a/biophysicists-strain-to-reveal-why-wombats-have-cube-shaped-poo/"
-    },
-    {
-     "name": "Georgia Tech, Quantitative Biosciences",
-     "url": "https://qbios.gatech.edu/studying-wombats-cubic-poop"
-    },
-    {
-     "name": "Phys.org (University of Tasmania study)",
-     "url": "https://phys.org/news/2021-02-wombats-excrete-poop-cubes.html"
-    },
-    {
-     "name": "UGA Today (University of Georgia)",
-     "url": "https://news.uga.edu/why-do-wombats-have-square-poop/"
-    }
-   ]
-  },
-  {
-   "date": "2026-10-03",
-   "kind": "fact",
-   "category": "Food",
-   "emoji": "🍯",
-   "title": "Why honey keeps for ages",
-   "text": "Sealed honey can stay good to eat for years, practically forever. It holds so little water and so much sugar that germs dry out and die. It is also acidic, and an enzyme from the bees makes a dash of germ-fighting hydrogen peroxide. The catch: keep the lid on and no water in.",
-   "sources": [
-    {
-     "name": "Smithsonian Magazine",
-     "url": "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/"
-    },
-    {
-     "name": "Foods (MDPI journal), via PubMed Central",
-     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11083411/"
-    },
-    {
-     "name": "Compound Interest (chemistry education)",
-     "url": "https://www.compoundchem.com/2014/08/21/chemistryofhoney/"
-    }
-   ]
-  },
-  {
-   "date": "2026-10-04",
-   "kind": "folklore",
-   "emoji": "🧱",
-   "title": "The Great Wall, seen from space",
-   "myth": "The Great Wall of China is the only human-made thing you can see from space, even from the Moon.",
-   "truth": "It can't be seen from the Moon, and from orbit it is hard or impossible to spot with the naked eye. China's first astronaut, Yang Liwei, looked for it in 2003 and said he didn't see it. Astronauts have only caught it using zoom lenses.",
-   "sources": [
-    {
-     "name": "NASA",
-     "url": "https://www.nasa.gov/image-article/great-wall/"
-    },
-    {
-     "name": "Scientific American",
-     "url": "https://www.scientificamerican.com/article/is-chinas-great-wall-visible-from-space/"
-    },
-    {
-     "name": "BBC Sky at Night Magazine",
-     "url": "https://www.skyatnightmagazine.com/space-science/can-you-see-great-wall-china-from-space"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2003/10/17/chinas-spaceman-shatters-a-myth"
-    }
-   ]
-  },
-  {
-   "date": "2026-10-05",
-   "kind": "fact",
-   "category": "Everyday",
-   "emoji": "🖊️",
-   "title": "The hole in your pen cap",
-   "text": "That little hole in the top of a pen cap is a safety feature. People chew pen caps, and now and then one gets inhaled. The hole lets air keep flowing if that happens. An international standard, ISO 11540, asks for it, and BIC says that is exactly why its caps have one.",
-   "sources": [
-    {
-     "name": "Mental Floss",
-     "url": "https://www.mentalfloss.com/article/545682/surprising-reason-why-pen-caps-have-tiny-holes-top"
-    },
-    {
-     "name": "IFLScience",
-     "url": "https://www.iflscience.com/technology/theres-a-surprising-reason-why-pen-caps-have-holes-in-them/"
-    },
-    {
-     "name": "ScienceAlert",
-     "url": "https://www.sciencealert.com/why-there-are-holes-in-tops-of-pen-caps-lids-bic"
-    },
-    {
-     "name": "Reader's Digest",
-     "url": "https://www.rd.com/article/hole-in-pen-cap/"
-    }
-   ]
-  },
-  {
-   "date": "2026-10-06",
-   "kind": "fact",
-   "category": "Records",
-   "emoji": "🛫",
-   "title": "The world's shortest scheduled flight",
-   "text": "In Scotland's Orkney islands, Loganair flies from Westray to Papa Westray, just 1.7 miles (2.74 km). The whole trip takes around 90 seconds, and the fastest ever was 53 seconds. The route has run since 1967 and holds the Guinness World Record.",
-   "sources": [
-    {
-     "name": "Guinness World Records",
-     "url": "https://www.guinnessworldrecords.com/world-records/63191-shortest-domestic-scheduled-flight"
-    },
-    {
-     "name": "Border Telegraph",
-     "url": "https://www.bordertelegraph.com/news/25133495.worlds-shortest-flight-scotland-takes-seconds"
-    },
-    {
-     "name": "SlashGear",
-     "url": "https://www.slashgear.com/1892958/shortest-airplane-flight-route-explained"
-    }
-   ]
-  },
-  {
-   "date": "2026-10-07",
-   "kind": "tale",
-   "emoji": "🕷️",
-   "title": "How Anansi won the stories",
-   "story": "Long ago every story belonged to Nyame, the sky god. Anansi the spider asked to buy them, and Nyame named an impossible price: catch fearsome creatures, among them a leopard and a swarm of hornets. Tiny Anansi tricked them one by one, and the stories became his.",
-   "origin": "Anansi comes from the folktales of the Akan peoples, including the Asante, of what is now Ghana. The tales crossed the Atlantic with enslaved West Africans and took root in the Caribbean and the Americas, where the spider is also known as Aunt Nancy.",
-   "sources": [
-    {
-     "name": "EBSCO Research Starters: Trickster tale",
-     "url": "https://www.ebsco.com/research-starters/literature-and-writing/trickster-tale"
-    },
-    {
-     "name": "EBSCO Research Starters: Thunder and Anansi",
-     "url": "https://www.ebsco.com/research-starters/literature-and-writing/thunder-and-anansi"
-    },
-    {
-     "name": "Bowling Green State University Libraries",
-     "url": "https://libguides.bgsu.edu/fairytales/ananse"
-    },
-    {
-     "name": "Simon & Schuster description of A Story, a Story (Apple Books)",
-     "url": "https://books.apple.com/us/book/a-story-a-story/id486440128"
-    }
-   ]
-  },
-  {
-   "date": "2026-10-08",
-   "kind": "fact",
-   "category": "Weird but true",
-   "emoji": "🌞",
-   "title": "Venus has days longer than years",
-   "text": "Venus turns so slowly that one full spin takes about 243 Earth days, yet it laps the Sun in about 225. So a day there outlasts a year. It also spins backwards compared with Earth and most other planets.",
-   "sources": [
-    {
-     "name": "NASA Science: Venus Facts",
-     "url": "https://science.nasa.gov/venus/venus-facts/"
-    },
-    {
-     "name": "European Space Agency: Venus compared to Earth",
-     "url": "https://www.esa.int/Science_Exploration/Space_Science/Venus_Express/Venus_compared_to_Earth"
-    },
-    {
-     "name": "Natural History Museum, London: Planet Venus",
-     "url": "https://www.nhm.ac.uk/discover/planet-venus.html"
-    }
-   ]
-  }
- ]
+  ]
 }
