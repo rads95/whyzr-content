@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "facts": [
     {
       "date": "2026-09-20",
@@ -564,6 +564,28 @@
         {
           "name": "ABC Science",
           "url": "https://www.abc.net.au/science/articles/2010/01/14/2792407.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "kind": "fact",
+      "category": "Food",
+      "emoji": "🍫",
+      "title": "When chocolate beans were money",
+      "text": "Money once grew on trees. The Aztecs used cacao beans, the seeds chocolate is made from, as cash in their markets. Records from the 1500s show that a turkey hen cost 100 beans.",
+      "sources": [
+        {
+          "name": "Cornell University Library – Chocolate: Food of the Gods",
+          "url": "https://exhibits.library.cornell.edu/chocolate-food-of-the-gods/feature/when-money-grew-on-trees"
+        },
+        {
+          "name": "Natural History Museum of Utah – Chocolate: Its Origins",
+          "url": "https://nhmu.utah.edu/articles/chocolate-its-origins"
+        },
+        {
+          "name": "History.com – Chocolate’s Sweet History",
+          "url": "https://www.history.com/articles/the-sweet-history-of-chocolate"
         }
       ]
     }
