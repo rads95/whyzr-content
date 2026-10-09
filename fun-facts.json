@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "facts": [
     {
       "date": "2026-09-20",
@@ -586,6 +586,32 @@
         {
           "name": "History.com – Chocolate’s Sweet History",
           "url": "https://www.history.com/articles/the-sweet-history-of-chocolate"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "kind": "fact",
+      "category": "Everyday",
+      "emoji": "🚦",
+      "title": "Japan goes on a blue light",
+      "text": "Japan’s first traffic signal went up in Tokyo in 1930, and officials called the go light “green”. But in old Japanese one word, ao, covered both blue and green, so newspapers and the public said “ao” instead. It stuck so well that the law was later rewritten. Drivers still go on “blue” today.",
+      "sources": [
+        {
+          "name": "Oita Prefectural Police",
+          "url": "https://www.pref.oita.jp/site/keisatu/nandemo-a12.html"
+        },
+        {
+          "name": "Mynavi News (interview with Tohoku University’s Ichiro Kuriki)",
+          "url": "https://news.mynavi.jp/techplus/article/20170427-green_light/"
+        },
+        {
+          "name": "Traffic News (Norimono News)",
+          "url": "https://trafficnews.jp/post/129844"
+        },
+        {
+          "name": "Reader’s Digest",
+          "url": "https://www.rd.com/article/heres-japan-blue-traffic-lights/"
         }
       ]
     }
