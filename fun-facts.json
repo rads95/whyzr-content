@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09",
+  "updated": "2026-10-12",
   "facts": [
     {
       "date": "2026-09-20",
@@ -612,6 +612,88 @@
         {
           "name": "Reader’s Digest",
           "url": "https://www.rd.com/article/heres-japan-blue-traffic-lights/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "kind": "tale",
+      "emoji": "👑",
+      "title": "El Dorado, the city of gold",
+      "story": "Somewhere deep in South America, the legend goes, lies a lost city so rich that its streets and walls shine with gold. For centuries explorers hacked through jungle and climbed mountains hunting for it. Nobody ever found it.",
+      "origin": "El Dorado means “the gilded one”, and it began as a person, not a place. Spanish accounts tell of the Muisca people of Colombia, whose new ruler was coated in gold dust and rafted onto Lake Guatavita while gold offerings were thrown into the water. Retold over the years, the golden man grew into a golden city.",
+      "sources": [
+        {
+          "name": "National Geographic",
+          "url": "https://www.nationalgeographic.com/history/article/el-dorado"
+        },
+        {
+          "name": "World History Encyclopedia",
+          "url": "https://www.worldhistory.org/El_Dorado/"
+        },
+        {
+          "name": "Down To Earth",
+          "url": "https://www.downtoearth.org.in/wildlife-biodiversity/as-cop16-starts-in-colombia-the-half-a-millennium-old-el-dorado-myth-of-its-chibcha-or-muisca-people-continues-to-reverberate-even-today"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "kind": "fact",
+      "category": "Records",
+      "emoji": "⏳",
+      "title": "The world’s slowest experiment",
+      "text": "In 1927 a physicist in Queensland, Australia, poured hot pitch, a tar that looks solid, into a funnel to prove it is really a liquid. It is still dripping. Only nine drops have fallen, the last in 2014, and nobody has ever seen one fall. It holds the record for longest-running lab experiment.",
+      "sources": [
+        {
+          "name": "University of Queensland, School of Mathematics and Physics",
+          "url": "https://smp.uq.edu.au/pitch-drop-experiment"
+        },
+        {
+          "name": "Guinness World Records",
+          "url": "https://www.guinnessworldrecords.com/world-records/longest-running-laboratory-experiment"
+        },
+        {
+          "name": "The Conversation (University of Queensland physicists)",
+          "url": "https://theconversation.com/explainer-the-pitch-drop-experiment-33734"
+        },
+        {
+          "name": "ScienceAlert",
+          "url": "https://www.sciencealert.com/the-worlds-longest-running-lab-experiment-is-almost-100-years-old"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "kind": "fact",
+      "category": "Weird but true",
+      "emoji": "🎓",
+      "title": "Oxford is older than the Aztecs",
+      "text": "It sounds upside down, but people were already teaching at Oxford in 1096. The Aztecs did not found their great island capital, Tenochtitlan, until 1325. So Oxford’s students had been turning up to lessons for more than two centuries before the Aztec city even existed.",
+      "sources": [
+        {
+          "name": "University of Oxford",
+          "url": "https://uni-of-oxford.custhelp.com/app/answers/detail/a_id/119/~/when-was-the-university-of-oxford-founded"
+        },
+        {
+          "name": "Times Higher Education",
+          "url": "https://www.timeshighereducation.com/world-university-rankings/university-oxford"
+        },
+        {
+          "name": "BestColleges",
+          "url": "https://www.bestcolleges.com/blog/how-old-is-the-university-of-oxford/"
+        },
+        {
+          "name": "History.com",
+          "url": "https://www.history.com/topics/ancient-americas/aztecs"
+        },
+        {
+          "name": "EBSCO Research Starters",
+          "url": "https://www.ebsco.com/research-starters/anthropology/aztecs-build-tenochtitlan/"
+        },
+        {
+          "name": "National Geographic Kids",
+          "url": "https://kids.nationalgeographic.com/history/article/aztec-civilization"
         }
       ]
     }
