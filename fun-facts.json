@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12",
+  "updated": "2026-10-13",
   "facts": [
     {
       "date": "2026-09-20",
@@ -694,6 +694,28 @@
         {
           "name": "National Geographic Kids",
           "url": "https://kids.nationalgeographic.com/history/article/aztec-civilization"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "kind": "folklore",
+      "emoji": "⚡",
+      "title": "Lightning never strikes twice",
+      "myth": "Lightning never hits the same place twice, so a spot that has already been struck is safe from then on.",
+      "truth": "It strikes the same place again and again, especially anything tall, pointy and on its own. The Empire State Building is hit around two dozen times a year.",
+      "sources": [
+        {
+          "name": "US National Weather Service",
+          "url": "https://www.weather.gov/safety/lightning-myths"
+        },
+        {
+          "name": "The Weather Channel",
+          "url": "https://weather.com/science/weather-explainers/news/2025-03-17-lightning-never-strikes-twice-fact-fiction"
+        },
+        {
+          "name": "FOX Weather",
+          "url": "https://www.foxweather.com/learn/lightning-strike-same-place-twice-weather-sayings-lore"
         }
       ]
     }
