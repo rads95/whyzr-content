@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13",
+  "updated": "2026-10-15",
   "facts": [
     {
       "date": "2026-09-20",
@@ -716,6 +716,62 @@
         {
           "name": "FOX Weather",
           "url": "https://www.foxweather.com/learn/lightning-strike-same-place-twice-weather-sayings-lore"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "kind": "fact",
+      "category": "Animals",
+      "emoji": "🐦",
+      "title": "Hummingbirds fly in reverse",
+      "text": "Hummingbirds can hover in mid-air and even fly backwards. Scientists who tested them in a wind tunnel found that reversing costs them no more energy than flying forwards. To do it, they tilt their bodies more upright and flap faster.",
+      "sources": [
+        {
+          "name": "Journal of Experimental Biology (Sapir & Dudley, 2012)",
+          "url": "https://journals.biologists.com/jeb/article/215/20/3603/11039/Backward-flight-in-hummingbirds-employs-unique"
+        },
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2012/09/120927091924.htm"
+        },
+        {
+          "name": "Science Update (AAAS radio)",
+          "url": "https://www.scienceupdate.com/2012/10/flight/"
+        },
+        {
+          "name": "WorldAtlas",
+          "url": "https://www.worldatlas.com/articles/which-is-the-only-bird-that-can-fly-backward.html"
+        },
+        {
+          "name": "Stanford Birds (The Birder’s Handbook essays)",
+          "url": "https://web.stanford.edu/group/stanfordbirds/text/essays/Hovering_Flight.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "kind": "fact",
+      "category": "Food",
+      "emoji": "🍅",
+      "title": "Ketchup started as fish sauce",
+      "text": "The word ketchup comes from a Hokkien Chinese name for a fermented fish sauce from southern China and Southeast Asia. European traders met it there in the late 1600s and took the idea home, where early recipes used anchovies. Tomato ketchup only came along in the 1800s.",
+      "sources": [
+        {
+          "name": "WNYC (The Sporkful)",
+          "url": "https://wnyc.org/story/ketchup-the-all-american-condiment-that-comes-from-asia"
+        },
+        {
+          "name": "The Christian Science Monitor",
+          "url": "https://csmonitor.com/The-Culture/In-a-Word/2023/0410/The-origins-of-ketchup-or-catsup-run-through-fish-sauce"
+        },
+        {
+          "name": "Food Republic",
+          "url": "https://www.foodrepublic.com/1373807/the-early-history-of-ketchup-has-nothing-to-do-with-tomato"
+        },
+        {
+          "name": "Chowhound",
+          "url": "https://www.chowhound.com/1485336/ketchup-history-original-ingredients"
         }
       ]
     }
