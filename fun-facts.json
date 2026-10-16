@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-10-16",
   "facts": [
     {
       "date": "2026-09-20",
@@ -772,6 +772,44 @@
         {
           "name": "Chowhound",
           "url": "https://www.chowhound.com/1485336/ketchup-history-original-ingredients"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "kind": "tale",
+      "emoji": "🐇",
+      "title": "The rabbit in the Moon",
+      "story": "A hare and its animal friends, among them a monkey, meet a hungry old man. The others bring him food, but the hare has nothing to give, so it leaps into a fire to offer itself. The old man is really the god Indra. Moved, he puts the hare’s image on the Moon, where people still see it.",
+      "origin": "This is a Jataka, one of the ancient Indian Buddhist tales of the Buddha’s past lives, with the Buddha as the hare. The Moon rabbit turns up across Asia: in China it pounds the elixir of life with a mortar and pestle, and in Japan it pounds rice into mochi.",
+      "sources": [
+        {
+          "name": "Indira Gandhi National Centre for the Arts: The Illustrated Jataka",
+          "url": "https://ignca.gov.in/coilnet/jatak003.htm"
+        },
+        {
+          "name": "National Heritage Board Singapore (Roots.sg)",
+          "url": "https://roots.gov.sg/stories-landing/stories/to-a-hare-raising-good-year-the-rabbit-in-myth-and-culture/story"
+        },
+        {
+          "name": "Tricycle: The Buddhist Review",
+          "url": "https://tricycle.org/magazine/rabbit-moon/"
+        },
+        {
+          "name": "Esplanade Offstage",
+          "url": "https://www.esplanade.com/offstage/arts/tales-of-shadows-on-the-moon"
+        },
+        {
+          "name": "New Orleans Museum of Art",
+          "url": "https://noma.org/object-lesson-rabbit-pounding-the-elixir-of-life-under-the-moon-by-mori-ippo/"
+        },
+        {
+          "name": "JAXA Institute of Space and Astronautical Science",
+          "url": "https://www.isas.jaxa.jp/home/research-portal/en/gateway/2022/0203"
+        },
+        {
+          "name": "Connecticut College: Asian Art and Architecture",
+          "url": "https://diluo.digital.conncoll.edu/Asianart/exhibition/%E6%97%A5%E6%9C%AC%E3%80%81%E6%9C%88%E6%9C%AC-depictions-of-the-moon-in-japanese-art/"
         }
       ]
     }
