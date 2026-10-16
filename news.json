@@ -1,54 +1,585 @@
 {
- "updated": "2026-09-28",
+ "updated": "2026-10-16T15:19:14Z",
  "items": [
   {
-   "kind": "world",
-   "date": "2026-09-24",
-   "title": "Morocco’s PAM party leads the election results",
-   "why": "Provisional results gave the party 97 of 395 seats, so no party won a majority. Turnout was about 38%.",
+   "section": "world",
+   "serious": true,
+   "published": "2026-10-16T12:50:00Z",
+   "title": "Ethiopia names a six-month interim government for Tigray",
+   "why": "Ethiopia's Prime Minister Abiy Ahmed on Friday named a federal caretaker administration to run the northern Tigray region for six months, promising elections afterwards. It follows an offensive by the Tigray People's Liberation Front (TPLF) in September; Reuters reports federal forces have since taken the regional capital, Mekelle.",
+   "matters": "Tigray was the scene of a 2020–22 war. The TPLF, which once ran the region, had not yet responded.",
    "sources": [
-    "Al Jazeera",
-    "AP"
+    {
+     "name": "Irish Times (Reuters)",
+     "url": "https://www.irishtimes.com/world/africa/2026/10/16/ethiopias-abiy-names-interim-tigray-government-and-calls-for-election-in-six-months/"
+    },
+    {
+     "name": "Al Jazeera (AFP)",
+     "url": "https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray"
+    },
+    {
+     "name": "The Reporter Ethiopia (via allAfrica)",
+     "url": "https://allafrica.com/stories/202610160282.html"
+    }
    ]
   },
   {
-   "kind": "sport",
-   "date": "2026-09-24",
-   "title": "Shin Ohashi, 17, sets a 200m breaststroke world record",
-   "why": "His 2:04.83 at the Asian Games makes the Japanese swimmer the first man under 2:05.",
+   "section": "health",
+   "serious": true,
+   "developing": true,
+   "published": "2026-10-16T11:50:00Z",
+   "title": "Bangladesh dengue deaths reach 335 this year as cases pass 108,000",
+   "why": "Bangladesh's health directorate reported four more dengue deaths on 16 October, bringing this year's toll to 335, with 108,440 cases recorded. September was the deadliest month so far, with 148 deaths, and infections are continuing past the usual June-to-September season.",
+   "matters": "Dengue, spread by mosquitoes, has no specific treatment; Bangladesh's government has ordered neighbourhood awareness campaigns to curb it.",
    "sources": [
-    "AP",
-    "NBC Sports"
+    {
+     "name": "The Business Standard (Bangladesh)",
+     "url": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-rises-335-4-more-die-24hrs-1574746"
+    },
+    {
+     "name": "Xinhua",
+     "url": "https://english.news.cn/asiapacific/20261013/299c1e555e0149138e31fc12768813ea/c.html"
+    },
+    {
+     "name": "TRT World",
+     "url": "https://www.trtworld.com/article/c60e9e0aad6a"
+    }
    ]
   },
   {
-   "kind": "economy",
-   "date": "2026-09-16",
-   "title": "The US Federal Reserve raises interest rates",
-   "why": "A unanimous 0.25-point rise to 3.75–4%, its first increase since July 2023. Borrowing gets more expensive.",
+   "section": "climate",
+   "serious": true,
+   "developing": true,
+   "published": "2026-10-16T10:31:00Z",
+   "title": "Hurricane Trudy strengthens to major storm as it nears Mexico's Pacific coast",
+   "why": "Hurricane Trudy became a major hurricane on Friday with winds near 195 km/h, the US National Hurricane Center says. It is forecast to approach the coasts of Michoacán, Colima and Jalisco this weekend, with up to 30 cm of rain possible and a risk of floods and landslides.",
+   "matters": "The region is still recovering from earlier storms this month, so saturated ground raises the flood risk.",
    "sources": [
-    "Federal Reserve",
-    "UPI"
+    {
+     "name": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/major-hurricane-trudy-keeps-strengthening-as-it-nears-mexicos-pacific-coast/3073760/"
+    },
+    {
+     "name": "US National Hurricane Center",
+     "url": "https://www.nhc.noaa.gov/"
+    },
+    {
+     "name": "Yale Climate Connections",
+     "url": "https://yaleclimateconnections.org/2026/10/hurricane-trudy-drenching-mexico-guam-braces-for-another-typhoon/"
+    }
    ]
   },
   {
-   "kind": "science",
-   "date": "2026-09-16",
-   "title": "A brand-new crater is found on the Moon",
-   "why": "About 222 m wide, it formed in 2024 and was spotted in NASA orbiter images. Impacts this big happen roughly once every 132 years.",
+   "section": "climate",
+   "serious": true,
+   "developing": true,
+   "published": "2026-10-16T04:15:00Z",
+   "title": "Guam under typhoon warning as Tropical Storm Champi approaches",
+   "why": "Guam and Rota, in the Mariana Islands of the western Pacific, are under a typhoon warning. The US National Weather Service says Champi could pass over or near Guam on Sunday as a Category 2 or 3 typhoon, bringing 15 to 30 cm of rain and dangerous surf.",
+   "matters": "It is the third powerful storm to threaten the Mariana Islands this year, after typhoons in April and July.",
    "sources": [
-    "NASA LRO",
-    "Scientific American"
+    {
+     "name": "Isla Public Media",
+     "url": "https://www.islapublic.org/news/2026-10-16/nws-champi-expected-to-pass-over-or-near-guam-sunday-morning-as-a-cat-2-or-3-typhoon"
+    },
+    {
+     "name": "The Guam Daily Post",
+     "url": "https://www.postguam.com/news/local/champi-forecast-to-pass-over-or-near-guam-as-category-3-typhoon-sunday/article_55874cf7-5c6f-408e-a294-582124812a75.html"
+    },
+    {
+     "name": "Yale Climate Connections",
+     "url": "https://yaleclimateconnections.org/2026/10/hurricane-trudy-drenching-mexico-guam-braces-for-another-typhoon/"
+    }
    ]
   },
   {
-   "kind": "climate",
-   "date": "2026-09-10",
-   "title": "August ties the record for Earth’s hottest month",
-   "why": "Copernicus measured 16.96°C, level with July 2023 and 1.65°C above pre-industrial levels.",
+   "section": "sport",
+   "published": "2026-10-16T03:13:00Z",
+   "title": "Milwaukee Brewers sweep Dodgers to reach first World Series since 1982",
+   "why": "The Milwaukee Brewers came from 4-0 down to beat the Los Angeles Dodgers 6-4 in Los Angeles on Thursday night, winning the National League Championship Series 4-0. The two-time defending champions are out; the World Series starts in Milwaukee on 23 October.",
+   "matters": "Milwaukee, Major League Baseball's smallest media market, is chasing the first championship in the club's history.",
    "sources": [
-    "Copernicus",
-    "Euronews"
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/mlb/story/_/id/50193819/brewers-sweep-dodgers-nlcs-advance-world-series"
+    },
+    {
+     "name": "MLB.com",
+     "url": "https://www.mlb.com/news/key-takeaways-from-brewers-nlcs-sweep-of-dodgers"
+    },
+    {
+     "name": "Front Office Sports",
+     "url": "https://frontofficesports.com/article/small-market-brewers-clinch-first-nl-pennant-with-sweep-of-dodgers/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "published": "2026-10-15T19:57:00Z",
+   "title": "Houthi missiles hit Yemen government's presidential palace in Aden",
+   "why": "On Thursday, Houthi missiles struck the al-Maashiq presidential palace in Aden, seat of Yemen's internationally recognised government. Yemen's health minister says at least five people were killed and 16 injured. The government says the prime minister and cabinet were unharmed; the Houthis say they targeted a Saudi military headquarters.",
+   "matters": "The attack comes as fighting between the Houthis and Saudi Arabia escalates across the region.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles"
+    },
+    {
+     "name": "Korea Times (Reuters)",
+     "url": "https://www.koreatimes.co.kr/world/20261016/houthis-attack-presidential-palace-complex-in-yemens-aden-pm-unharmed-officials-say"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/middle-east/20261015-houthi-attack-on-palace-used-by-yemen-government-in-aden-kills-five"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/mena/2026/10/15/yemens-houthi-rebels-hit-presidential-palace-in-aden/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-10-15T19:00:00Z",
+   "title": "Police clash with marchers in Buenos Aires over university funding",
+   "why": "On Thursday, thousands of students and lecturers marched on Argentina's Congress in Buenos Aires, demanding President Javier Milei's government apply a university funding law. Police used tear gas and water cannon after some protesters threw stones. La Nación reports more than 30 people detained.",
+   "matters": "The government says the law lacks funding; a University of Buenos Aires study says real funding fell about 40% since 2023.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/16/argentine-students-protest-on-campus-over-mileis-austerity"
+    },
+    {
+     "name": "Buenos Aires Times",
+     "url": "https://batimes.com.ar/news/argentina/students-unions-stage-fifth-federal-march-over-university-funding.phtml"
+    },
+    {
+     "name": "La Nación",
+     "url": "https://www.lanacion.com.ar/politica/mas-de-30-detenidos-en-la-marcha-universitaria-el-mensaje-del-gobierno-en-medio-de-los-nid15102026/"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "published": "2026-10-15T14:22:00Z",
+   "title": "Grand Theft Auto VI launch trailer reveals Justice as the game's composers",
+   "why": "Rockstar Games released the launch trailer for Grand Theft Auto VI on 15 October and named French electronic duo Justice as composers of its score. The trailer features their new song with Tame Impala, SZA and King Gizzard & The Lizard Wizard; the game arrives on 19 November.",
+   "matters": "The game's 34-track soundtrack album, out the same day, also features Travis Scott, Cardi B and Rauw Alejandro.",
+   "sources": [
+    {
+     "name": "Stereogum",
+     "url": "https://stereogum.com/2514667/justice-score-gta-vi-share-tame-impala-sza-king-gizzard-collab-flower-in-a-hurricane/music"
+    },
+    {
+     "name": "NME",
+     "url": "https://www.nme.com/news/gaming-news/grand-theft-auto-6-soundtrack-justice-album-gta-rockstar-tame-impala-3973238"
+    },
+    {
+     "name": "Consequence",
+     "url": "https://consequence.net/2026/10/justice-gta-6-score-flower-in-a-hurricane-tame-impala-sza/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "developing": true,
+   "published": "2026-10-15T13:03:00Z",
+   "title": "Swedish parliament rejects Magdalena Andersson as prime minister",
+   "why": "On Thursday, Sweden's parliament voted 248 to 99 against Social Democrat leader Magdalena Andersson becoming prime minister, a month after the 13 September election. Only her own party backed her, as the Left and Centre parties remain split over who should join a government.",
+   "matters": "Parliament gets four attempts to approve a prime minister. If all four fail, Sweden must hold a snap election.",
+   "sources": [
+    {
+     "name": "The Local Sweden",
+     "url": "https://www.thelocal.se/20261015/breaking-social-democrat-leader-magdalena-andersson-loses-first-pm-vote"
+    },
+    {
+     "name": "Yahoo News (dpa)",
+     "url": "https://www.yahoo.com/news/politics/articles/swedens-andersson-loses-pm-vote-130332992.html"
+    },
+    {
+     "name": "SVT",
+     "url": "https://svt.se/nyheter/inrikes/andersson-nedrostad-sa-kan-sonderingsrundorna-fortsatta"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-10-15T12:42:00Z",
+   "title": "Jon Rahm agrees to leave LIV Golf, giving up remaining payments",
+   "why": "Spanish golfer Jon Rahm has reached a separation agreement with LIV Golf, filed on 14 October in the league's bankruptcy case in New Jersey, USA. He drops all money claims, reportedly over $100 million, and his team stake; a judge must approve it on 5 November.",
+   "matters": "LIV, in bankruptcy since September, loses one of its biggest names as it tries to relaunch in 2027.",
+   "sources": [
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/golf/story/_/id/50188685/jon-rahm-reaches-separation-agreement-liv-golf"
+    },
+    {
+     "name": "Golf.com",
+     "url": "https://golf.com/news/jon-rahm-100-million-liv-deal-what-happens/"
+    },
+    {
+     "name": "Front Office Sports",
+     "url": "https://frontofficesports.com/article/jon-rahms-liv-settlement-forfeits-all-remaining-payments/"
+    }
+   ]
+  },
+  {
+   "section": "science",
+   "published": "2026-10-15T12:40:00Z",
+   "title": "World timekeepers vote to scrap the leap second from 2027",
+   "why": "Delegates at the General Conference on Weights and Measures in Versailles, France, voted by majority on 15 October to stop adding leap seconds from 20 May 2027. Official time will instead be allowed to drift up to an hour from Earth's rotation.",
+   "matters": "Leap seconds, 27 added since 1972, can disrupt computer systems; a 'leap hour' is not expected to be needed for centuries.",
+   "sources": [
+    {
+     "name": "Scientific American",
+     "url": "https://www.scientificamerican.com/article/scientists-vote-to-end-leap-seconds-redefining-how-the-world-keeps-time/"
+    },
+    {
+     "name": "CTV News",
+     "url": "https://www.ctvnews.ca/sci-tech/article/international-timekeepers-vote-to-abolish-the-leap-second-from-our-clocks-what-does-it-mean/"
+    },
+    {
+     "name": "Geo News",
+     "url": "https://www.geo.tv/latest/686744-world-timekeepers-vote-to-abolish-leap-second-by-2027"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-10-15T11:00:00Z",
+   "title": "Australia edge New Zealand 24-22 in Rugby League World Cup opener",
+   "why": "Australia beat New Zealand 24-22 at Sydney's Allianz Stadium on 15 October in the opening match of the Rugby League World Cup. Debutant Jack Bostock scored three tries, including the late winner, before a crowd of 41,255.",
+   "sources": [
+    {
+     "name": "PMN",
+     "url": "https://pmn.co.nz/read/sports/nz-kiwis-suffer-last-gasp-heartbreak-as-kangaroos-snatch-world-cup-opener"
+    },
+    {
+     "name": "NZRL",
+     "url": "https://nzrl.co.nz/news/kiwis-fall-just-short-in-thrilling-world-cup-opener-against-australia"
+    },
+    {
+     "name": "PINA",
+     "url": "https://pina.com.fj/2026/10/16/bostock-hat-trick-inspires-kangaroos-to-thrilling-24-22-win-over-kiwis-in-world-cup-opener/"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-10-15T10:59:00Z",
+   "title": "IMF raises sub-Saharan Africa growth forecast but warns of rising inflation",
+   "why": "The International Monetary Fund now expects sub-Saharan Africa's economies to grow 4.5% in 2026, up from the 4.3% it forecast in April, it said on 15 October. It expects median inflation to rise to 4.3% this year and 5% in 2027, while aid to Africa falls a further 12%.",
+   "matters": "The IMF says the region has little room to absorb another shock, such as renewed energy disruption or a strong El Niño.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://www.bnnbloomberg.ca/business/international/2026/10/15/imf-says-african-economies-performing-well-despite-shocks-from-the-iran-war/"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.timeslive.co.za/news/africa/2026-10-15-africas-economic-resilience-masks-rising-inflation-threat-imf-warns/"
+    },
+    {
+     "name": "AFP",
+     "url": "https://iol.co.za/business/economy/2026-10-15-imf-raises-africas-regional-economic-outlook-to-45/"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "published": "2026-10-15T10:00:00Z",
+   "title": "UN report finds fewer than half of national nature targets on track",
+   "why": "A UN assessment launched on 15 October in Yerevan, Armenia, found fewer than half of countries' biodiversity targets are on track. Current pledges would protect only 26% of land and 12% of the ocean by 2030, short of the 30% goal agreed in 2022.",
+   "matters": "The findings frame the COP17 biodiversity talks, which run in Yerevan from 19 to 30 October.",
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/10/1168607"
+    },
+    {
+     "name": "ThePrint",
+     "url": "https://theprint.in/environment/half-the-worlds-countries-not-on-track-to-achieve-biodiversity-targets-finds-report/3073562/"
+    },
+    {
+     "name": "Bernama",
+     "url": "https://www.bernama.com/en/world/news.php?id=2621240"
+    }
+   ]
+  },
+  {
+   "section": "science",
+   "published": "2026-10-15T09:00:00Z",
+   "title": "Wooden spear wound may have killed Neanderthal 75,000 years ago",
+   "why": "A Cambridge-led team says a round hole in the shoulder blade of a Neanderthal from Shanidar Cave, in Iraqi Kurdistan, was probably made by a sharpened wooden spear. Writing in Scientific Reports, the researchers say it may be the earliest known killing with a wooden spear.",
+   "matters": "Other experts call some conclusions bold; the find adds to debate about violence and care among Neanderthals.",
+   "sources": [
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/science/2026-10-16/neanderthal-death-by-wooden-spear-shanidar-cave/107263428"
+    },
+    {
+     "name": "Discover Magazine",
+     "url": "https://www.discovermagazine.com/a-75-000-year-old-neanderthal-may-be-the-earliest-known-victim-of-a-wooden-spear-attack-49817"
+    },
+    {
+     "name": "Phys.org (University of Cambridge)",
+     "url": "https://phys.org/news/2026-10-fatal-neanderthal-wound-earliest-evidence.html"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-10-15T07:23:00Z",
+   "title": "South Korea's main share index falls 7.6% as chip stocks slump",
+   "why": "Seoul's Kospi index fell 7.57% on Thursday 15 October, triggering a 20-minute trading halt, as Samsung Electronics and SK hynix dropped about 9% and 11% respectively. Reports blamed fears of further US rate rises and doubts about AI spending. It recovered 2% on Friday.",
+   "matters": "Samsung and SK hynix make up more than half of South Korea's stock market value, so their swings move the whole market.",
+   "sources": [
+    {
+     "name": "Korea Herald",
+     "url": "https://www.koreaherald.com/article/10904070"
+    },
+    {
+     "name": "AJP",
+     "url": "https://www.ajupress.com/view/20261015165925041"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/stocks/article/global-chip-sell-off-deepens-as-south-korean-market-plunges-024927049.html"
+    },
+    {
+     "name": "Korea JoongAng Daily",
+     "url": "https://www.koreajoongangdaily.com/business/kospi-rebounds-over-2-on-eased-chip-rout-fed-bets/12924733"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "lead": true,
+   "serious": true,
+   "published": "2026-10-15T06:00:00Z",
+   "title": "School roof collapse in Peshawar, Pakistan, kills dozens of pupils",
+   "why": "The roof of a private school collapsed on Thursday 15 October in Peshawar, in north-west Pakistan. Hospital officials told AFP at least 33 people, mostly children, and a teacher were killed; Al Jazeera reports at least 35. Police say the school's owner has been arrested.",
+   "matters": "The government has ordered safety inspections of schools across Khyber Pakhtunkhwa province, with a report due within three days.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/asia-pacific/20261015-pakistan-school-roof-collapse-kills-dozens-of-pupils-teacher-in-peshawar"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/16/pakistan-orders-school-inspections-following-deadly-roof-collapse"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/pakistan-school-collapse-peshawar-student-teacher-deaths/"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "serious": true,
+   "developing": true,
+   "published": "2026-10-15T06:00:00Z",
+   "title": "Istanbul's heaviest rain in over 80 years causes deadly floods",
+   "why": "Flash floods hit Istanbul, Turkey's largest city, after torrential rain this week. Turkey's interior minister called it the worst flooding in more than 80 years; at least four people have died, officials say. Schools are closed and more rain is forecast.",
+   "matters": "Turkey's environment minister linked the floods to climate change weeks before Turkey hosts the COP31 UN climate summit.",
+   "sources": [
+    {
+     "name": "AP (via ABC News)",
+     "url": "https://abcnews.com/International/wireStory/istanbuls-worst-floods-80-years-leave-4-dead-137314073"
+    },
+    {
+     "name": "AFP (via Dawn)",
+     "url": "https://www.dawn.com/news/2037387/3-dead-as-istanbul-sees-heaviest-rainfall-in-80-years"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/15/teenager-dies-as-heavy-rain-floods-istanbul"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-10-15T05:35:00Z",
+   "title": "Taiwan's TSMC reports record quarterly profit, up 69%, on AI chip demand",
+   "why": "TSMC, the world's largest contract chipmaker, said on 15 October its July–September net profit reached NT$763 billion (about US$23.6 billion), beating forecasts. Revenue rose 41% in dollar terms to US$46.7 billion, and it expects up to US$54.3 billion next quarter.",
+   "matters": "TSMC makes chips for Nvidia and Apple, so its results are closely watched as a gauge of the AI boom.",
+   "sources": [
+    {
+     "name": "TSMC",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.investing.com/news/stock-market-news/tsmc-q3-profit-jumps-69-to-record-beating-expectations-4950551"
+    },
+    {
+     "name": "AP",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-q3-earnings-snapshot-055852237.html"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "serious": true,
+   "published": "2026-10-14T21:23:00Z",
+   "title": "Eight US states sue OpenAI, saying ChatGPT is unsafe for children",
+   "why": "Attorneys general from eight US states, including Iowa, Arizona and Kansas, filed separate lawsuits on 14 October alleging OpenAI misled users about ChatGPT's safety, particularly for young people. The claims are untested in court. OpenAI says it has built 'industry-leading' age-specific protections.",
+   "matters": "The states want court orders that could force changes to how ChatGPT works for children and teenagers.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/15/why-are-eight-us-states-suing-openai"
+    },
+    {
+     "name": "UPI",
+     "url": "https://www.yahoo.com/news/us/articles/eight-states-sue-openai-over-063420214.html"
+    },
+    {
+     "name": "Engadget",
+     "url": "https://engadget.com/2287111/iowa-nebraska-and-six-other-states-are-suing-openai-for-endangering-children"
+    },
+    {
+     "name": "TRT World",
+     "url": "https://trtworld.com/article/b7553a5d7788"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "serious": true,
+   "developing": true,
+   "published": "2026-10-14T16:09:00Z",
+   "title": "Ukraine says Starlink limits disrupted its drones; Musk blames US military",
+   "why": "Ukrainian officials say SpaceX's Starlink service cut off terminals moving faster than about 160 km/h overnight into 14 October, without warning, disrupting drone missions. Elon Musk says such limits are decided by the US military and president. The White House gave no immediate comment.",
+   "matters": "Ukraine relies heavily on Starlink satellite internet for drones and frontline communications in its war with Russia.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://www.pbs.org/newshour/world/sudden-starlink-limits-sap-ukraine-drone-power-as-kyiv-fears-u-s-intelligence-squeeze"
+    },
+    {
+     "name": "AFP",
+     "url": "https://www.france24.com/en/live-news/20261014-restrictions-expose-ukraine-s-starlink-dependency-in-russia-war-observers"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/14/ukraine-accuses-elon-musks-spacex-of-throttling-starlink-terminals"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-15/zelenskyy-warns-of-starlink-slowdown-in-ukraine/107269352"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "serious": true,
+   "developing": true,
+   "published": "2026-10-14T15:48:00Z",
+   "title": "Kenya confirms second Ebola case, a relative of the first patient",
+   "why": "Kenya's health ministry confirmed a second Ebola case on 14 October: a 39-year-old man, already in quarantine as a close relative of Kenya's first patient, who died in Nairobi on 5 October. The ministry says there is no evidence of spread in the community.",
+   "matters": "The cases are linked to Congo's Ebola outbreak, which officials say has passed 9,000 cases; this strain has no licensed vaccine.",
+   "sources": [
+    {
+     "name": "AP (via ABC News)",
+     "url": "https://abcnews.com/International/wireStory/kenya-confirms-ebola-case-relative-patient-137261113"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/14/kenyas-health-ministry-confirms-second-ebola-case"
+    },
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/audio/2026/10/1168606"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "serious": true,
+   "published": "2026-10-14T15:14:00Z",
+   "title": "Saudi tennis exhibition Six Kings Slam postponed following attacks on Riyadh",
+   "why": "Organisers have moved the Six Kings Slam, a Riyadh exhibition featuring Carlos Alcaraz and Novak Djokovic, from 21–24 October to 27–30 December, citing logistical challenges. It follows a weekend strike on Riyadh's airport, claimed by Yemen's Houthis, that Reuters says killed at least 12 people.",
+   "matters": "Three Saudi Pro League matches were also postponed, and the Asian Tour is monitoring security before its Riyadh event.",
+   "sources": [
+    {
+     "name": "Reuters (via The Star)",
+     "url": "https://www.thestar.com.my/sport/tennis/2026/10/14/tennis-six-kings-slam-tournament-in-saudi-arabia-postponed-to-december"
+    },
+    {
+     "name": "AFP (via Khaleej Times)",
+     "url": "https://www.khaleejtimes.com/world/gulf/saudi-arabia-postpones-exhibition-six-kings-slam-tennis-tournament-houthi-attacks"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/sport/tennis/2026/10/14/six-kings-slam-tournament-in-saudi-arabia-featuring-alcaraz-and-djokovic-postponed-due-to-attacks-on-riyadh/"
+    }
+   ]
+  },
+  {
+   "section": "curious",
+   "published": "2026-10-14T12:00:00Z",
+   "title": "Fossil overlooked for a century in London reveals new predatory dinosaur",
+   "why": "A skull fragment found on England's Isle of Wight and bought by London's Natural History Museum in 1924 belongs to a new species, Invictibellatrix amberina, researchers say. The probably feathered, long-clawed predator lived about 120 million years ago and was 3 to 4 metres long.",
+   "matters": "It is the first megaraptoran, a group related to tyrannosaurs, identified in Europe.",
+   "sources": [
+    {
+     "name": "Natural History Museum",
+     "url": "https://www.nhm.ac.uk/press-office/press-releases/uk-dinosaur-fossil-identified-as-new-long-clawed-predator.html"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/new-dinosaur-species-invictibellatrix-amberina-fossil-overlooked-100-years/"
+    },
+    {
+     "name": "Sci.News",
+     "url": "https://www.sci.news/paleontology/invictibellatrix-amberina-15131.html"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "serious": true,
+   "published": "2026-10-14T09:00:00Z",
+   "title": "Peter Nagy, gallerist central to India's contemporary art scene, dies at 67",
+   "why": "US-born gallerist Peter Nagy, who reopened his Nature Morte gallery in New Delhi in 1997 after starting it in New York, has died after a long illness, the gallery said on 13 October. He championed artists including Subodh Gupta, Bharti Kher and Jitish Kallat.",
+   "sources": [
+    {
+     "name": "The Art Newspaper",
+     "url": "https://www.theartnewspaper.com/2026/10/14/peter-nagy-nature-morte-gallery-indian-contemporary-art-died"
+    },
+    {
+     "name": "ArtReview",
+     "url": "https://artreview.com/peter-nagy-artist-and-founder-of-nature-morte-1959-2026/"
+    },
+    {
+     "name": "Time Out Delhi",
+     "url": "https://www.timeout.com/delhi/news/peter-nagy-art-giant-and-founder-of-nature-morte-passes-away-at-67-101426"
+    }
+   ]
+  },
+  {
+   "section": "curious",
+   "published": "2026-10-14T08:22:00Z",
+   "title": "Divers off Turkey find what may be the world's oldest known shipwreck",
+   "why": "Archaeologists say a cargo ship that sank near Kekova Island, off Turkey's Mediterranean coast in Antalya province, is 4,400 to 4,700 years old. Its wooden hull is gone, but more than 30 storage jars and three stone anchors lie about 30 metres down.",
+   "matters": "The date rests on pottery styles, and researchers say work on the jars' contents has only just begun.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/video/2026/10/14/worlds-oldest-shipwreck-discovered-off-turkeys-mediterranean-coast"
+    },
+    {
+     "name": "ABC News (US)",
+     "url": "https://abcnews.com/International/shipwreck-believed-worlds-oldest-discovered-off-coast-turkey/story?id=137252645"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-15/worlds-oldest-shipwreck-found-in-turkiye-archaeologists-say/107267406"
+    }
    ]
   }
  ]
