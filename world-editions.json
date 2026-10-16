@@ -2066,5 +2066,493 @@
     ]
    }
   ]
+ },
+ {
+  "id": "024",
+  "published": "2026-10-16",
+  "title": "A taller Mont Blanc, a Singapore first and a 4,700-year-old shipwreck",
+  "games": [
+   {
+    "type": "fact",
+    "label": "REAL OR A REACH?",
+    "title": "Did this actually happen?",
+    "claim": "French surveyors say Mont Blanc is now almost 2 metres taller than it was in 2023.",
+    "options": [
+     "Yes — that happened",
+     "No — that is made up"
+    ],
+    "correct": 0,
+    "why": "Yes, this happened. On 14 October surveyors from France’s Haute-Savoie area announced that Mont Blanc now stands 4,807.47 metres high, nearly 2 metres more than in 2023. The rock has not moved: the very top of the mountain is a thick cap of snow and ice. Wind, snowfall and weather pile it up or wear it down, so the height changes a little each time it is measured.",
+    "sources": [
+     [
+      "AP via La Nación · Mont Blanc’s snowy crown grows nearly 2 meters higher in 3 years",
+      "https://www.lanacion.com.ar/usa/mont-blancs-snowy-crown-grows-nearly-2-meters-higher-in-3-years-nid14102026/"
+     ],
+     [
+      "AFP via Kuwait Times · Mont Blanc nearly 2 meters taller than in 2023, French surveyors say",
+      "https://kuwaittimes.com/article/51603/world/mont-blanc-nearly-2-meters-taller-than-in-2023-french-surveyors-say/"
+     ],
+     [
+      "Euronews · Mont Blanc rises by almost two metres",
+      "https://www.euronews.com/2026/10/14/mont-blanc-rises-by-almost-two-metres-now-standing-at-480747-metres"
+     ]
+    ]
+   },
+   {
+    "type": "match",
+    "label": "MAKE THE CONNECTION",
+    "title": "Three terms. Find their partners.",
+    "pairs": [
+     [
+      "Max Verstappen",
+      "Won the Singapore Grand Prix for the first time"
+     ],
+     [
+      "Charles Leclerc",
+      "Finished second for Ferrari"
+     ],
+     [
+      "Kimi Antonelli",
+      "Came third and stretched his lead at the top of the championship"
+     ]
+    ],
+    "why": "Verstappen won, Leclerc was second and Antonelli was third. At the Formula 1 Singapore Grand Prix on 11 October, Red Bull’s Max Verstappen started from pole position and won, finishing about seven seconds ahead of Ferrari’s Charles Leclerc. It was Verstappen’s first win in Singapore, after he had also won the shorter sprint race the day before. Mercedes driver Kimi Antonelli, the championship leader, came third and pulled further ahead of his teammate George Russell in the title race.",
+    "sources": [
+     [
+      "AFP via France 24 · Resurgent Verstappen wins Singapore Grand Prix for first time",
+      "https://www.france24.com/en/live-news/20261011-verstappen-wins-singapore-grand-prix-for-first-time"
+     ],
+     [
+      "Formula 1 · Verstappen seals commanding Singapore Grand Prix victory",
+      "https://www.formula1.com/en/latest/article/verstappen-seals-commanding-singapore-grand-prix-victory-from-leclerc-and-antonelli.49wDzysiVqi5cloGjle40A"
+     ],
+     [
+      "Sky Sports · Max Verstappen wins Singapore GP for first time in F1 career",
+      "https://www.skysports.com/f1/news/13597650/singapore-gp-max-verstappen-wins-event-for-first-time-in-f1-career-ahead-of-charles-leclerc-as-lewis-hamilton-apologises-for-strategy"
+     ],
+     [
+      "AP via ABC News · Max Verstappen wins Formula 1’s Singapore Grand Prix",
+      "https://abcnews.com/US/wireStory/red-bull-driver-max-verstappen-wins-formula-1s-137173717"
+     ]
+    ]
+   },
+   {
+    "type": "clues",
+    "label": "THREE CLUES, ONE STORY",
+    "title": "What connects these three clues?",
+    "clues": [
+     "Annual meetings in Bangkok, Thailand",
+     "A forecast of about 3% for 2026, a touch higher than in July",
+     "AI spending helps, high energy prices hold things back"
+    ],
+    "options": [
+     "The IMF nudges up its forecast for world economic growth",
+     "Thailand’s central bank cuts its key interest rate",
+     "The World Bank says the world economy has shrunk",
+     "Asia’s stock markets hit a record high"
+    ],
+    "correct": 0,
+    "why": "It was the IMF raising its world growth forecast. On 13 October, at its annual meetings with the World Bank in Bangkok, the International Monetary Fund said it expects the world economy to grow by 3.1% in 2026. That is a little more than it forecast in July, but slower than the 3.5% growth of 2025. The IMF said the boom in spending on artificial intelligence is helping, while much higher oil and gas prices are holding many countries back.",
+    "sources": [
+     [
+      "AP via ABC News · IMF raises its forecast for world growth this year",
+      "https://abcnews.com/Business/wireStory/imf-raises-forecast-world-growth-year-economies-slow-137214412"
+     ],
+     [
+      "AFP via France 24 · IMF upgrades 2026 growth forecast but warns of ‘split’ outlook",
+      "https://www.france24.com/en/live-news/20261013-imf-upgrades-2026-growth-forecast-but-warns-of-split-outlook"
+     ],
+     [
+      "Euronews · IMF forecasts 3.1% global growth in 2026",
+      "https://www.euronews.com/2026/10/13/imf-forecasts-31-global-growth-in-2026-with-eurozone-at-11"
+     ],
+     [
+      "IMF · World Economic Outlook, October 2026 (Bangkok release page)",
+      "https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026"
+     ]
+    ]
+   },
+   {
+    "type": "order",
+    "label": "WHAT CHANGED FIRST?",
+    "title": "Put these in order.",
+    "items": [
+     "A ship carrying the jars sinks near Kekova Island, off Turkey",
+     "Turkey announces what may be the world’s oldest known shipwreck",
+     "Clay jars, probably for olive oil or wine, are made in the Early Bronze Age"
+    ],
+    "correctOrder": [
+     2,
+     0,
+     1
+    ],
+    "why": "The right order is: the jars are made, the ship sinks, then Turkey announces the find. The jars, called amphorae, date from about 4,400 to 4,700 years ago, in the Early Bronze Age, and probably held olive oil or wine. The ship carrying them went down near Kekova Island, off Turkey’s southern coast near Antalya. Archaeologists led by Hakan Öniz of Akdeniz University have been studying the wreck, and on 14 October Turkey announced it as what may be the oldest shipwreck ever found.",
+    "sources": [
+     [
+      "CNN via ABC 17 · World’s oldest shipwreck discovered off Turkey",
+      "https://abc17news.com/?p=1656979"
+     ],
+     [
+      "Euronews · World’s oldest shipwreck off Turkey: 4,700-year-old amphorae discovered",
+      "https://www.euronews.com/2026/10/14/worlds-oldest-shipwreck-off-turkey-4700-year-old-amphorae-discovered"
+     ],
+     [
+      "Cyprus Mail · World’s oldest shipwreck discovered off Turkey",
+      "https://cyprus-mail.com/2026/10/14/worlds-oldest-shipwreck-discovered-off-turkey"
+     ],
+     [
+      "The Daily Beast · Archaeologists discover world’s oldest shipwreck off the coast of Turkey",
+      "https://www.thedailybeast.com/archaeologists-discover-worlds-oldest-shipwreck-off-the-coast-of-turkey"
+     ]
+    ]
+   },
+   {
+    "type": "choice",
+    "label": "THE BIGGER PICTURE",
+    "title": "What did Europe’s Copernicus climate service report about the world’s oceans in September 2026?",
+    "options": [
+     "They were the warmest ever recorded for a September",
+     "They were the coolest for a September since 2000",
+     "They were exactly as warm as the long-term average",
+     "They cooled sharply as El Niño faded away"
+    ],
+    "correct": 0,
+    "why": "They were the warmest ever recorded for a September. Copernicus, the European Union’s climate service, said the average sea surface temperature outside the polar regions beat the old September record, set in 2023. In the Pacific, the patch of ocean used to track El Niño (a natural warming of the Pacific that shifts weather around the world) reached its highest monthly temperature on record. Counting land and sea together, it was the second-warmest September, behind 2023.",
+    "sources": [
+     [
+      "Copernicus · Second warmest September",
+      "https://climate.copernicus.eu/global-temperatures-remain-over-15degc-above-pre-industrial-levels-during-second-warmest-september"
+     ],
+     [
+      "AFP via France 24 · El Niño breaks Pacific temperature record",
+      "https://www.france24.com/en/environment/20261012-el-nino-pacific-temperature-record-weather"
+     ],
+     [
+      "Down To Earth · September 2026 second hottest on record",
+      "https://www.downtoearth.org.in/climate-change/september-2026-second-hottest-on-record"
+     ],
+     [
+      "Euronews · When will El Niño peak and end?",
+      "https://www.euronews.com/2026/10/12/when-will-el-nino-peak-and-end-a-full-timeline-of-the-weather-phenomenon-taking-the-world-"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "025",
+  "published": "2026-10-17",
+  "title": "A dinosaur in a drawer, Formula 1 heads for Rwanda and Céline Dion becomes a Barbie",
+  "games": [
+   {
+    "type": "fact",
+    "label": "REAL OR A REACH?",
+    "title": "Did this actually happen?",
+    "claim": "A fossil that sat in a London museum's collection for about 100 years has turned out to be a new kind of meat-eating dinosaur, the first of its group ever found in Europe.",
+    "options": [
+     "Yes — that happened",
+     "No — that is made up"
+    ],
+    "correct": 0,
+    "why": "Yes, this happened. A piece of skull found on England's Isle of Wight was taken in by London's Natural History Museum in 1924, and its importance went unnoticed for decades. Researchers have now named it Invictibellatrix amberina, a megaraptoran: a two-legged hunter with large hand claws, from a group related to tyrannosaurs. It lived about 120 million years ago and is the first megaraptoran found in Europe; the study is in the journal Royal Society Open Science.",
+    "sources": [
+     [
+      "NBC News (Reuters) · Fossil kept in drawer for a century sheds light on tiger-sized dinosaurs",
+      "https://www.nbcnews.com/science/science-news/fossil-kept-drawer-century-sheds-light-enigmatic-meat-eating-dinosaurs-rcna603407"
+     ],
+     [
+      "Irish News (PA) · New species of dinosaur discovered from fossil overlooked for over 100 years",
+      "https://www.irishnews.com/news/uk/new-species-of-dinosaur-discovered-from-fossil-overlooked-for-over-100-years-OMDRHHVU3NMX5IZW2HDTA2L6KE/"
+     ],
+     [
+      "blue News · Nearly 100 years in a drawer: fossil turns out to be a new species of dinosaur",
+      "https://www.bluewin.ch/en/lifestyle/nearly-100-years-in-a-drawer-fossil-turns-out-to-be-a-new-species-of-dinosaur-li.3633682"
+     ]
+    ]
+   },
+   {
+    "type": "match",
+    "label": "MAKE THE CONNECTION",
+    "title": "Three terms. Find their partners.",
+    "pairs": [
+     [
+      "Paris Saint-Germain",
+      "Won 4–2 away in Manchester"
+     ],
+     [
+      "Erling Haaland",
+      "Scored both of Manchester City’s goals"
+     ],
+     [
+      "Pep Guardiola",
+      "Watched from the stands on his first visit since leaving City"
+     ]
+    ],
+    "why": "The right pairs are: PSG won 4–2, Haaland scored City’s two goals, and Guardiola watched from the stands. The Champions League match was played at Manchester City’s Etihad Stadium on 14 October. PSG were 3–0 up after about half an hour, through Désiré Doué, Ousmane Dembélé and Vitinha; Haaland pulled two back after the break, but Maghnes Akliouche scored PSG’s fourth. Guardiola, City’s former manager, was back at the ground as a spectator.",
+    "sources": [
+     [
+      "Sky Sports · Man City 2-4 PSG: match report",
+      "https://www.skysports.com/football/man-city-vs-psg/report/577628"
+     ],
+     [
+      "France 24 (AFP) · PSG beat Manchester City in Champions League",
+      "https://www.france24.com/en/sport/20261014-psg-beat-manchester-city-champions-league"
+     ],
+     [
+      "Irish Examiner · Classy PSG spoil Pep Guardiola’s Manchester City homecoming",
+      "https://www.irishexaminer.com/sport/soccer/arid-41924293.html"
+     ]
+    ]
+   },
+   {
+    "type": "clues",
+    "label": "THREE CLUES, ONE STORY",
+    "title": "What connects these three clues?",
+    "clues": [
+     "Sales abroad up by more than a third on a year earlier",
+     "Computer-chip exports more than doubled",
+     "More than $900 billion more sold than bought in nine months"
+    ],
+    "options": [
+     "China’s September exports grow much faster than expected",
+     "China’s factories slow down for a third month",
+     "China cuts the price of its computer chips by a third",
+     "China’s imports fall to their lowest level in years"
+    ],
+    "correct": 0,
+    "why": "It was China’s export surge. Figures released by China’s customs agency on 14 October showed exports up 36.3% in September compared with a year earlier, well above what economists had expected. Strong demand linked to artificial intelligence helped: chip exports rose by more than 100%. Because China sells far more than it buys, its trade surplus (the gap between exports and imports) reached about $938 billion for January to September.",
+    "sources": [
+     [
+      "NBC News (Reuters) · China’s September exports soar, putting $1 trillion trade surplus in sight",
+      "https://www.nbcnews.com/world/asia/china-september-exports-soar-putting-1-trillion-trade-surplus-sight-rcna603410"
+     ],
+     [
+      "Spectrum News NY1 (AP) · China’s exports surge 36.3% in September from a year ago",
+      "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/10/14/chinas-exports-surge-363-in-september-from-a-year-ago-as-pressure-ramps-up-from-trading-partners-to-rebalance-trade"
+     ],
+     [
+      "Al Jazeera · China’s exports surge amid AI-driven demand",
+      "https://www.aljazeera.com/economy/2026/10/14/chinas-exports-sugrge"
+     ]
+    ]
+   },
+   {
+    "type": "order",
+    "label": "WHAT CHANGED FIRST?",
+    "title": "Put these in order.",
+    "items": [
+     "A new race track near Rwanda’s capital, Kigali, is due to be ready",
+     "Formula 1 races in Africa for the last time so far, in South Africa",
+     "Formula 1 and Rwanda announce a 10-year deal for an ‘African Grand Prix’"
+    ],
+    "correctOrder": [
+     1,
+     2,
+     0
+    ],
+    "why": "The right order is: the last African race in 1993, then this week’s deal, then the new track in the early 2030s. Formula 1 last raced in Africa at the 1993 South African Grand Prix. On 13 October 2026, Rwanda’s President Paul Kagame and F1’s leaders announced a 10-year deal for a race on a new circuit in Bugesera, about 40 km from Kigali. The first race will be held once the track is finished, expected early in the next decade, and F1 says it will then race on every inhabited continent.",
+    "sources": [
+     [
+      "KSAT (AP) · Formula 1 announces return to Africa with Grand Prix in Rwanda in early 2030s",
+      "https://www.ksat.com/sports/2026/10/13/formula-1-announces-return-to-africa-with-grand-prix-in-rwanda-in-early-2030s/"
+     ],
+     [
+      "Al Jazeera · Rwanda to host a Grand Prix in 2030s as Formula One returns to Africa",
+      "https://www.aljazeera.com/sports/2026/10/13/rwanda-to-host-a-grand-prix-in-2030s-as-formula-one-returns-to-africa"
+     ],
+     [
+      "Radio X (Sky News) · Formula One to return to Africa as Rwanda race confirmed for ‘early 2030s’",
+      "https://www.radiox.co.uk/news/uk-world/formula-one-to-return-to-africa-as-rwanda-rac/"
+     ]
+    ]
+   },
+   {
+    "type": "choice",
+    "label": "THE BIGGER PICTURE",
+    "title": "Mattel has made a Barbie of Céline Dion, complete with a copy of a famous film necklace. Which moment in her career does the doll recreate?",
+    "options": [
+     "Winning the Eurovision Song Contest in 1988",
+     "Singing ‘My Heart Will Go On’ at the 1998 Oscars",
+     "Opening her first long-running show in Las Vegas",
+     "Recording her very first album as a teenager"
+    ],
+    "correct": 1,
+    "why": "It recreates her performance of ‘My Heart Will Go On’ at the 1998 Oscars. The song is the theme from the film Titanic, and the doll wears a copy of the long-sleeved blue dress she wore that night, plus a blue necklace based on the film’s ‘Heart of the Ocean’ diamond. Mattel unveiled the collectors’ doll, part of its Barbie Signature line, on 14 October. Dion called it ‘a true honour’ to join the Barbie legacy with a doll inspired by one of the most meaningful moments of her career.",
+    "sources": [
+     [
+      "NBC News · Céline Dion gets her own Barbie",
+      "https://www.nbcnews.com/pop-culture/pop-culture-news/s-doll-coming-back-now-celine-dion-gets-barbie-rcna603566"
+     ],
+     [
+      "Irish News (PA) · Barbie honours Celine Dion with signature doll",
+      "https://www.irishnews.com/entertainment/barbie-honours-celine-dion-with-signature-doll-JEGGISPFFJOFPKUSYA5H52MRFE/"
+     ],
+     [
+      "Times Brasil (Estadão Conteúdo) · Mattel lança Barbie de Celine Dion inspirada em apresentação de Titanic no Oscar",
+      "https://timesbrasil.com.br/empresas-e-negocios/mattel-lanca-barbie-de-celine-dion-inspirada-em-apresentacao-de-titanic-no-oscar/"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "026",
+  "published": "2026-10-18",
+  "title": "A record Mars drive, a monster pumpkin and corals that heal by touch",
+  "games": [
+   {
+    "type": "fact",
+    "label": "REAL OR A REACH?",
+    "title": "Did this actually happen?",
+    "claim": "Scientists found that a bleached, colourless coral can get its colour back just by touching a healthy coral that is its genetic twin.",
+    "options": [
+     "Yes — that happened",
+     "No — that is made up"
+    ],
+    "correct": 0,
+    "why": "Yes, this happened. In a study published this week in the journal Science Advances, scientists at Stanford University in the US found that bleached pieces of coral recovered after touching healthy, genetically identical (cloned) pieces. The two corals fused together, and the tiny algae that give corals their colour and food passed from the healthy piece into the bleached one. The idea came by accident, when a healthy and a bleached coral tipped over against each other in a lab tank. It only works between genetic twins, so the team says it is not yet a way to save whole reefs.",
+    "sources": [
+     [
+      "Euronews · Bleached corals recover in record time after touching healthy clones",
+      "https://www.euronews.com/2026/10/15/theyre-not-dead-yet-bleached-corals-recover-in-record-time-after-touching-healthy-clones"
+     ],
+     [
+      "KQED · Stanford scientists find new way to revive bleached coral",
+      "https://www.kqed.org/science/2002324/stanford-scientists-find-new-way-to-revive-bleached-coral"
+     ],
+     [
+      "CP24 (AFP) · Healthy corals help bleached neighbours regain colour, study shows",
+      "https://www.cp24.com/news/world/2026/10/14/healthy-corals-help-bleached-neighbours-regain-colour-study-shows/"
+     ]
+    ]
+   },
+   {
+    "type": "match",
+    "label": "MAKE THE CONNECTION",
+    "title": "Three terms. Find their partners.",
+    "pairs": [
+     [
+      "Durban",
+      "The South African city where the first Test was played"
+     ],
+     [
+      "Australia",
+      "Won the match by more than 200 runs"
+     ],
+     [
+      "Matt Renshaw",
+      "Named player of the match after big scores in both innings"
+     ]
+    ],
+    "why": "The pairs are: Durban – where the match was played; Australia – the winners by more than 200 runs; Matt Renshaw – player of the match. Australia beat South Africa by 214 runs at Kingsmead in Durban, in a Test match that ended on 13 October, and now lead the three-match series 1–0. Opening batter Renshaw scored 190 and 82, and fast bowler Josh Hazlewood took 6 wickets for 49 runs, his best in Test cricket, to bowl South Africa out on the last day.",
+    "sources": [
+     [
+      "ICC · Australia breeze to a big win over South Africa in Durban",
+      "https://www.icc-cricket.com/news/australia-breeze-to-a-big-win-over-south-africa-in-durban"
+     ],
+     [
+      "ABC News (Australia) · Australia beats South Africa by 214 runs to take 1-0 lead in Test series",
+      "https://www.abc.net.au/news/2026-10-13/south-africa-australia-first-test-durban-day-five-live-blog/107260972"
+     ],
+     [
+      "Al Jazeera · Australia bowl out South Africa to win first cricket Test in Durban",
+      "https://www.aljazeera.com/sports/2026/10/13/australia-bowl-out-south-africa-to-win-first-test-in-durban"
+     ]
+    ]
+   },
+   {
+    "type": "clues",
+    "label": "THREE CLUES, ONE STORY",
+    "title": "What connects these three clues?",
+    "clues": [
+     "A rise of 3.7% compared with a year earlier",
+     "Petrol (gasoline) up 9.1% in a single month",
+     "Figures from the US Bureau of Labor Statistics on 14 October"
+    ],
+    "options": [
+     "Prices in the United States rise faster in September",
+     "Petrol in the United States falls to its cheapest in years",
+     "The United States cuts its interest rates",
+     "American wages rise faster than prices"
+    ],
+    "correct": 0,
+    "why": "It was: prices in the United States rose faster in September. Everyday goods and services cost 3.7% more than a year earlier, up from 3.4% in August, the government’s Bureau of Labor Statistics said on 14 October. Petrol (gasoline) prices jumped 9.1% in September alone and made up more than half of that month’s rise. Leaving out food and energy, whose prices jump around a lot, prices were 2.6% higher than a year before.",
+    "sources": [
+     [
+      "Al Jazeera · US inflation rises before midterm elections, fuelling rate hike fears",
+      "https://www.aljazeera.com/economy/2026/10/14/us-inflation-rises-before-midterm-elections-fuelling-rate-hike-fears"
+     ],
+     [
+      "CBS News · September CPI report shows inflation accelerated to 3.7% as energy costs soared",
+      "https://www.cbsnews.com/news/september-cpi-report-inflation-energy-costs/"
+     ],
+     [
+      "NBC News · Inflation jumps to 3.7% as gas and diesel prices squeeze consumers",
+      "https://www.nbcnews.com/business/economy/inflation-jumped-september-gas-diesel-prices-squeezed-consumers-ahead-rcna603202"
+     ]
+    ]
+   },
+   {
+    "type": "order",
+    "label": "WHAT CHANGED FIRST?",
+    "title": "Farthest drive on another world: put the record holders in order.",
+    "items": [
+     "NASA’s Perseverance rover on Mars",
+     "The Soviet Union’s Lunokhod 2 rover on the Moon",
+     "NASA’s Opportunity rover on Mars"
+    ],
+    "correctOrder": [
+     1,
+     2,
+     0
+    ],
+    "why": "The right order is: Lunokhod 2, then Opportunity, then Perseverance. The Soviet Lunokhod 2 set the record for the longest drive on another world on the Moon in 1973, and it stood for decades. NASA’s Opportunity, which explored Mars from 2004 to 2018, later passed it and ended with a total of just over 45 km (about 28 miles). On 11 October 2026 Perseverance, which has been exploring Mars’s Jezero Crater since 2021, edged past Opportunity’s total, and NASA expects it to keep adding to the record.",
+    "sources": [
+     [
+      "NASA · NASA’s Perseverance sets off-world record for total distance driven",
+      "https://science.nasa.gov/blogs/perseverance-mars-rover/2026/10/12/nasas-perseverance-sets-off-world-record-for-total-distance-driven/"
+     ],
+     [
+      "CBS News · Perseverance Mars rover sets new driving record on surface of another world",
+      "https://www.cbsnews.com/news/perseverance-mars-rover-driving-record-another-world/"
+     ],
+     [
+      "Guinness World Records · NASA’s Perseverance rover breaks the record for longest road trip on Mars",
+      "https://www.guinnessworldrecords.com/news/2026/10/nasas-perseverance-rover-breaks-the-record-for-longest-road-trip-on-mars"
+     ],
+     [
+      "The Weather Network · Mars Perseverance rover sets new record for farthest off-world driving distance",
+      "https://www.theweathernetwork.com/en/news/science/space/nasa-mars-perseverance-rover-sets-new-record-for-farthest-off-world-driving-distance"
+     ]
+    ]
+   },
+   {
+    "type": "choice",
+    "label": "THE BIGGER PICTURE",
+    "title": "A pumpkin grown in Rhode Island, USA, was weighed on 10 October and may be the heaviest ever grown. Roughly how heavy was it?",
+    "options": [
+     "About as heavy as a large dog",
+     "About as heavy as a small car",
+     "About as heavy as an adult elephant",
+     "About as heavy as a fully loaded bus"
+    ],
+    "correct": 1,
+    "why": "It was about as heavy as a small car. Ron Wallace’s pumpkin weighed 3,156 pounds (1,432 kg) at a contest in Rhode Island on Saturday 10 October, almost 300 pounds more than the record. That record had been set on 3 October by Ian Paton of Lymington, England, with a pumpkin of about 2,857 pounds (1,296 kg). So, just a week after England broke the record, it may already have been beaten. Guinness World Records still has to confirm the new record.",
+    "sources": [
+     [
+      "Gulf News (AP) · 1,432kg pumpkin grown in Rhode Island is inspected for possible world record",
+      "https://gulfnews.com/amp/story/world%2Famericas%2F1432kg-pumpkin-grown-in-rhode-island-is-inspected-for-possible-world-record-1.500708676"
+     ],
+     [
+      "KUTV · Rhode Island grown pumpkin surpasses world record at weigh off",
+      "https://kutv.com/news/offbeat/pumpkin-surpasses-world-record-at-frerich-far-weigh-off-world-record-surpases-record-large-pumpkin-heavy-pumpkin-official-weight-scale-frerich-farm-october-10-2026"
+     ],
+     [
+      "FOX 9 · Minnesota pumpkin grower wins 5th world championship with 2,389-pound pumpkin",
+      "https://www.fox9.com/news/anoka-travis-gienger-wins-5th-world-championship-pumpkin-weigh-off-2026"
+     ]
+    ]
+   }
+  ]
  }
 ]
