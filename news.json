@@ -1,6 +1,195 @@
 {
- "updated": "2026-10-16T15:19:14Z",
+ "updated": "2026-10-17T09:20:00Z",
  "items": [
+  {
+   "section": "sport",
+   "published": "2026-10-17T07:05:00Z",
+   "title": "All Blacks beat Wallabies 43-21 in Sydney to sweep Bledisloe Cup series",
+   "why": "New Zealand beat Australia 43-21 at Stadium Australia in Sydney on Saturday, a week after a 50-19 win in Auckland, to take the two-Test series 2-0. It was Australia's 13th straight defeat by the All Blacks, who have held the Bledisloe Cup since 2003.",
+   "sources": [
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-17/rugby-bledisloe-cup-wallabies-all-blacks-wallaroos-scotland/107279014"
+    },
+    {
+     "name": "NZ Herald",
+     "url": "https://www.nzherald.co.nz/sport/rugby/all-blacks/all-blacks-run-riot-again-as-wallabies-suffer-record-13th-straight-bledisloe-cup-defeat/ONUTL7Z7EJE35BGJ4BT3QMPIWM/"
+    },
+    {
+     "name": "Reuters (via The Star)",
+     "url": "https://www.thestar.com.my/sport/rugby/2026/10/17/rugby-rennie-promises-all-blacks-will-stick-to-their-guns-at-world-cup"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "lead": true,
+   "serious": true,
+   "developing": true,
+   "published": "2026-10-17T07:00:00Z",
+   "title": "Two tankers attacked off Saudi Arabia's Gulf coast as ship attacks surge",
+   "why": "Two tankers were hit on Friday about 70 nautical miles off Jubail, Saudi Arabia, one by a rocket-propelled grenade from a small boat, Britain's UKMTO agency says. All crew were reported safe. UKMTO says October is the busiest month yet for reported attacks near the Strait of Hormuz.",
+   "matters": "Before the war about a fifth of the world's oil exports passed through Hormuz, so attacks there push up fuel prices.",
+   "sources": [
+    {
+     "name": "Reuters (via Arab News)",
+     "url": "https://www.arabnews.com/saudi-arabia/tanker-struck-by-unknown-projectile-off-saudi-arabia-on-friday-ukmto-says-3006831"
+    },
+    {
+     "name": "AFP (via Free Malaysia Today)",
+     "url": "https://www.freemalaysiatoday.com/category/world/2026/10/17/tanker-hit-off-saudi-s-gulf-coast-crew-evacuated"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-10-17T01:51:00Z",
+   "title": "Canada end England's long unbeaten run in women's rugby with 24-21 win",
+   "why": "Canada beat world champions England 24-21 in Toronto on Friday, England's first defeat since the 2022 World Cup final. Shoshanah Seumanutafa scored the winning try with three minutes left, in front of 18,621 fans, a North American record for a stand-alone women's match.",
+   "matters": "It was Canada's first win over England since 2016; the two sides meet again in Ottawa next Friday.",
+   "sources": [
+    {
+     "name": "AP (via ABC News)",
+     "url": "https://abcnews.com/Sports/wireStory/canada-ends-englands-unbeaten-streak-womens-rugby-24-137340181"
+    },
+    {
+     "name": "Reuters (via The Star)",
+     "url": "https://www.thestar.com.my/sport/rugby/2026/10/17/rugby-canada-women-snap-world-champion-england039s-41-match-unbeaten-run"
+    },
+    {
+     "name": "Toronto Sun (via Yahoo News Canada)",
+     "url": "https://ca.news.yahoo.com/canadas-womens-rugby-team-snaps-024415572.html"
+    },
+    {
+     "name": "RugbyPass",
+     "url": "https://www.rugbypass.com/news/talking-points-as-canada-end-englands-41-match-unbeaten-streak-in-toronto/"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "published": "2026-10-16T21:00:00Z",
+   "title": "Amazon deforestation in Brazil falls to lowest level since records began",
+   "why": "Brazil's Amazon lost about 3,335 sq km of forest in the 12 months to July 2026, roughly 42% less than a year earlier and the lowest since satellite records began in 1988, the space agency Inpe said on 16 October. Clearing in the Cerrado savanna also hit a record low.",
+   "matters": "The figures are provisional and come days before Brazil's 25 October presidential run-off between Lula and Flávio Bolsonaro.",
+   "sources": [
+    {
+     "name": "Reuters (via RTÉ)",
+     "url": "https://www.rte.ie/news/world/2026/1017/1595733-amazon-deforestation/"
+    },
+    {
+     "name": "AP (via ABC News)",
+     "url": "https://abcnews.com/International/wireStory/brazil-amazon-deforestation-fell-lowest-level-1988-137329441"
+    },
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261016-deforestation-in-brazil-amazon-hits-nearly-four-decade-low"
+    },
+    {
+     "name": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-10/inpe-desmatamento-na-amazonia-atinge-menor-nivel-de-serie-historica"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-10-16T20:17:00Z",
+   "title": "Tech shares slide and oil nears $110; Nasdaq's worst week since June",
+   "why": "US technology shares fell on Friday 16 October. The Nasdaq dropped 2.1% on the day and 4.5% over the week as investors questioned the debt-funded AI building boom. Brent crude touched $110 a barrel, its highest since May, after attacks on shipping in the Strait of Hormuz.",
+   "matters": "Dearer oil pushes up inflation and keeps borrowing costs high; the 10-year US Treasury yield is around 5.1%.",
+   "sources": [
+    {
+     "name": "AP (via ABC News)",
+     "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-friday-10162026-137331951"
+    },
+    {
+     "name": "Reuters (via Investing.com)",
+     "url": "https://www.investing.com/news/commodities-news/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet-4952926"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/tech-stocks-slide-ai-debt-concerns/"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "serious": true,
+   "published": "2026-10-16T16:00:00Z",
+   "title": "US measles cases reach 4,410 this year as Pennsylvania outbreak grows",
+   "why": "The US Centers for Disease Control and Prevention reported 4,410 measles cases in 2026 as of 15 October, up 330 in a week, with 451 people treated in hospital. Pennsylvania, the largest outbreak, reports more than 1,200 cases and at least five deaths, state officials say.",
+   "matters": "About 96% of cases were in people who were unvaccinated or whose vaccination status was unknown, the CDC says.",
+   "sources": [
+    {
+     "name": "Reuters (via GV Wire)",
+     "url": "https://gvwire.com/2026/10/16/cdc-reports-4410-measles-cases-as-outbreak-grows/"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://abcnews.com/Health/4400-measles-cases-reported-us-cdc-plans-send/story?id=137315190"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/16/us-records-4410-measles-cases-as-outbreak-grows"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "serious": true,
+   "published": "2026-10-16T13:40:00Z",
+   "title": "South African rugby player Hyron Andrews dies in France before match",
+   "why": "Hyron Andrews, a 31-year-old lock for Johannesburg's Lions, died on Friday at the team hotel on Île de Ré, near La Rochelle in western France, the day before their Champions Cup game. The local prosecutor has opened an investigation and ordered a post-mortem.",
+   "matters": "The Lions will play the match in his honour, with a moment's silence at all European club games this weekend.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/sport/20261016-south-african-rugby-player-found-dead-in-french-hotel-ahead-of-champions-cup-debut"
+    },
+    {
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/sport/rugby/2026/1016/1595652-lions-player-dies-in-hotel-on-eve-of-la-rochelle-match/"
+    },
+    {
+     "name": "Irish Examiner",
+     "url": "https://www.irishexaminer.com/sport/rugby/arid-41924986.html"
+    },
+    {
+     "name": "IOL",
+     "url": "https://iol.co.za/sport/rugby/urc/2026-10-16-tragedy-strikes-lions-in-france-ahead-of-champions-cup-debut-against-la-rochelle/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "developing": true,
+   "published": "2026-10-16T13:00:00Z",
+   "title": "Delhi police detain youth protest leader before rally against India's election chief",
+   "why": "Police in India's capital, New Delhi, detained the founder of the youth-led 'Cockroach' movement on Friday before a rally demanding election chief Gyanesh Kumar's resignation; media reports say he was later arrested. Protesters object to a voter-roll review that removed more than 130 million names.",
+   "matters": "Who can vote in the world's largest democracy is at stake; the commission denies bias and says wrongly removed voters can re-enrol.",
+   "sources": [
+    {
+     "name": "Reuters (via Dawn)",
+     "url": "https://dawn.com/news/2037811/indias-cockroach-movement-founder-arrested-after-detention-media-reports-say"
+    },
+    {
+     "name": "AP (via The Globe and Mail)",
+     "url": "https://www.theglobeandmail.com/world/article-indian-cockroach-protests-new-delhi/"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://abc.net.au/news/2026-10-17/police-detain-cockroach-party-leader-delhi-protest/107278878"
+    }
+   ]
+  },
   {
    "section": "world",
    "serious": true,
@@ -50,22 +239,27 @@
    "section": "climate",
    "serious": true,
    "developing": true,
+   "changed": "Updated: Trudy has weakened to about 150 km/h winds; a hurricane warning now covers Manzanillo to Cabo Corrientes.",
    "published": "2026-10-16T10:31:00Z",
-   "title": "Hurricane Trudy strengthens to major storm as it nears Mexico's Pacific coast",
-   "why": "Hurricane Trudy became a major hurricane on Friday with winds near 195 km/h, the US National Hurricane Center says. It is forecast to approach the coasts of Michoacán, Colima and Jalisco this weekend, with up to 30 cm of rain possible and a risk of floods and landslides.",
-   "matters": "The region is still recovering from earlier storms this month, so saturated ground raises the flood risk.",
+   "title": "Hurricane Trudy nears Mexico's Pacific coast after weakening",
+   "why": "Trudy had winds near 150 km/h early on Saturday, down from major-storm strength on Friday, the US National Hurricane Center said. Its centre should pass very close to Colima and Jalisco on Saturday night and Sunday. A hurricane warning runs from Manzanillo to Cabo Corrientes.",
+   "matters": "Forecasters warn of heavy rain that could cause life-threatening flooding and mudslides in Michoacán, Colima and Jalisco.",
    "sources": [
     {
-     "name": "Reuters (via ThePrint)",
-     "url": "https://theprint.in/world/major-hurricane-trudy-keeps-strengthening-as-it-nears-mexicos-pacific-coast/3073760/"
-    },
-    {
      "name": "US National Hurricane Center",
-     "url": "https://www.nhc.noaa.gov/"
+     "url": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/"
     },
     {
-     "name": "Yale Climate Connections",
-     "url": "https://yaleclimateconnections.org/2026/10/hurricane-trudy-drenching-mexico-guam-braces-for-another-typhoon/"
+     "name": "AP (via Audacy)",
+     "url": "https://www.audacy.com/kywnewsradio/news/world/hurricane-trudy-mexico-pacific-coast-storm-e0522909a549cb4a43a8ab532f7d3668"
+    },
+    {
+     "name": "Mexico News Daily",
+     "url": "https://mexiconewsdaily.com/north-central-pacific-coast/category-3-hurricane-trudy-pacific-coast-october-16-mananera/"
+    },
+    {
+     "name": "El Mañana",
+     "url": "https://elmanana.com.mx/nacional/2026/10/17/huracan-trudy-y-frente-frio-2-lluvia-y-rachas-de-120-kmh-este-sabado-182722.html"
     }
    ]
   },
@@ -73,22 +267,66 @@
    "section": "climate",
    "serious": true,
    "developing": true,
+   "changed": "Updated: Champi has become a Category 4 typhoon; Guam is at its highest readiness level and coastal areas are being evacuated.",
    "published": "2026-10-16T04:15:00Z",
-   "title": "Guam under typhoon warning as Tropical Storm Champi approaches",
-   "why": "Guam and Rota, in the Mariana Islands of the western Pacific, are under a typhoon warning. The US National Weather Service says Champi could pass over or near Guam on Sunday as a Category 2 or 3 typhoon, bringing 15 to 30 cm of rain and dangerous surf.",
-   "matters": "It is the third powerful storm to threaten the Mariana Islands this year, after typhoons in April and July.",
+   "title": "Typhoon Champi strengthens to Category 4 as it nears Guam",
+   "why": "Champi became a Category 4 typhoon on Saturday, the Joint Typhoon Warning Center said, and should pass just south of Guam early on Sunday with winds near 240 km/h. Guam is at its highest readiness level, and people in coastal and flood-prone areas were told to evacuate.",
+   "matters": "Forecasters warn that most metal-roofed homes could be badly damaged and power cuts could last days to weeks.",
    "sources": [
     {
-     "name": "Isla Public Media",
-     "url": "https://www.islapublic.org/news/2026-10-16/nws-champi-expected-to-pass-over-or-near-guam-sunday-morning-as-a-cat-2-or-3-typhoon"
+     "name": "Public Radio Guam",
+     "url": "https://www.islapublic.org/news/2026-10-17/champi-now-a-cat-4-typhoon-expected-to-have-winds-of-150-mph-when-it-passes-near-southern-guam"
     },
     {
      "name": "The Guam Daily Post",
-     "url": "https://www.postguam.com/news/local/champi-forecast-to-pass-over-or-near-guam-as-category-3-typhoon-sunday/article_55874cf7-5c6f-408e-a294-582124812a75.html"
+     "url": "https://www.postguam.com/news/local/champi-strengthens-into-typhoon-forecasters-expect-category-3-just-south-of-guam-sunday/article_5f8fde51-d503-4e22-aa13-36b8f31ba976.html"
     },
     {
-     "name": "Yale Climate Connections",
-     "url": "https://yaleclimateconnections.org/2026/10/hurricane-trudy-drenching-mexico-guam-braces-for-another-typhoon/"
+     "name": "Scripps News",
+     "url": "https://www.scrippsnews.com/weather/guam-faces-third-powerful-typhoon-in-months-as-champi-approaches"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "developing": true,
+   "published": "2026-10-16T03:46:00Z",
+   "title": "Brazil's electoral court orders Meta to treat Lula and Bolsonaro equally",
+   "why": "A judge at Brazil's top electoral court ordered Meta on 15 October to give President Lula and challenger Flávio Bolsonaro equal reach before the 25 October run-off, or pay 500,000 reais (about $98,000) a day. Most of the court backed it on 16 October. Meta denies bias.",
+   "matters": "It tests how far courts can police social media algorithms during an election.",
+   "sources": [
+    {
+     "name": "AP (via NBC News)",
+     "url": "https://www.nbcnews.com/world/south-america/brazil-lula-wins-electoral-court-challenge-meta-alleged-bolsonaro-bias-rcna603835"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report"
+    },
+    {
+     "name": "The Rio Times",
+     "url": "https://www.riotimesonline.com/tse-majority-upholds-meta-equal-treatment-lula-flavio-2026/"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-10-16T03:45:00Z",
+   "title": "Indonesian shares fall 11% after MSCI proposes downgrading the market",
+   "why": "Jakarta's main share index fell about 11% on 16 October, its steepest one-day drop since 1998. The index provider MSCI had proposed moving Indonesia from 'emerging' to 'standalone' market status, citing opaque shareholdings and suspected coordinated trading. The rupiah neared a record low.",
+   "matters": "Funds that track MSCI's emerging-market indexes could be forced to sell Indonesian shares.",
+   "sources": [
+    {
+     "name": "Reuters (via The Star)",
+     "url": "https://www.thestar.com.my/business/business-news/2026/10/16/jakarta-stocks-plunge-11-as-msci-set-to-drop-indonesia-from-indexes"
+    },
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261016-indonesian-stocks-dive-11-as-msci-weighs-market-reclassification"
+    },
+    {
+     "name": "Bloomberg (via Taipei Times)",
+     "url": "https://www.taipeitimes.com/News/front/archives/2026/10/17/2003866114"
     }
    ]
   },
@@ -114,29 +352,68 @@
    ]
   },
   {
+   "section": "tech",
+   "published": "2026-10-16T01:17:00Z",
+   "title": "Tesla shows a Roadster sports car that hops into the air",
+   "why": "At a SpaceX site in Texas on 15 October, Elon Musk unveiled a new Tesla Roadster that used compressed-air thrusters to hop over other cars and land. Production is due in 2028, and the flying version is not approved for public roads.",
+   "matters": "The US aviation regulator says it is not an aircraft, so it is unclear who would regulate it.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/tech/tech-news/elon-musk-shows-flying-tesla-roadster-years-delays-rcna603905"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/tesla-roadster-debut-elon-musk-flying-cars-are-real/"
+    }
+   ]
+  },
+  {
+   "section": "curious",
+   "published": "2026-10-16T00:48:00Z",
+   "title": "Hasun, South Korea's oldest hippopotamus, dies aged 46",
+   "why": "Seoul Grand Park, just south of the South Korean capital, said Hasun died peacefully with no sign of illness, apparently of old age. Born in 1980, she was among the first animals at the park's zoo when it opened in 1984.",
+   "matters": "Hippos usually live 40 to 50 years, so Hasun reached the upper end of that range.",
+   "sources": [
+    {
+     "name": "Korea Herald",
+     "url": "https://www.koreaherald.com/article/10904726"
+    },
+    {
+     "name": "Yonhap (via Segye Ilbo)",
+     "url": "https://www.segye.com/newsView/20261016504587"
+    },
+    {
+     "name": "Weekly Kyunghyang",
+     "url": "https://weekly.khan.co.kr/article/202610162259011/"
+    }
+   ]
+  },
+  {
    "section": "world",
    "serious": true,
    "developing": true,
+   "changed": "Updated: two missiles hit Aden airport on Friday night; no casualties reported.",
    "published": "2026-10-15T19:57:00Z",
-   "title": "Houthi missiles hit Yemen government's presidential palace in Aden",
-   "why": "On Thursday, Houthi missiles struck the al-Maashiq presidential palace in Aden, seat of Yemen's internationally recognised government. Yemen's health minister says at least five people were killed and 16 injured. The government says the prime minister and cabinet were unharmed; the Houthis say they targeted a Saudi military headquarters.",
-   "matters": "The attack comes as fighting between the Houthis and Saudi Arabia escalates across the region.",
+   "title": "Houthi missiles hit Aden airport a day after deadly palace attack",
+   "why": "Two missiles struck the airport in Aden, seat of Yemen's government, on Friday night, landing about 500 metres from a plane preparing to take off, officials say; no one was hurt. Thursday's Houthi strike on the presidential palace killed at least five, the health ministry says.",
+   "matters": "The Houthis say they are targeting Saudi forces in Aden, widening their fight with Saudi Arabia and Yemen's government.",
    "sources": [
     {
+     "name": "AP (via ABC News)",
+     "url": "https://abcnews.com/International/wireStory/2-missiles-strike-airport-yemens-port-city-aden-137331824"
+    },
+    {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles"
+     "url": "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport"
     },
     {
-     "name": "Korea Times (Reuters)",
-     "url": "https://www.koreatimes.co.kr/world/20261016/houthis-attack-presidential-palace-complex-in-yemens-aden-pm-unharmed-officials-say"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261015-houthi-attack-on-palace-used-by-yemen-government-in-aden-kills-five"
-    },
-    {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/news/mena/2026/10/15/yemens-houthi-rebels-hit-presidential-palace-in-aden/"
+     "name": "Arab News",
+     "url": "https://www.arabnews.jp/en/middle-east/2-houthi-missiles-strike-aden-airport-no-casualties-reported-3000863"
     }
    ]
   },
@@ -158,6 +435,31 @@
     {
      "name": "La Nación",
      "url": "https://www.lanacion.com.ar/politica/mas-de-30-detenidos-en-la-marcha-universitaria-el-mensaje-del-gobierno-en-medio-de-los-nid15102026/"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "published": "2026-10-15T16:00:00Z",
+   "title": "U2 announce world stadium tour opening in Latin America in 2027",
+   "why": "The Irish band will open 'The Greatest Show on Earth' tour in Mexico City on 23 February 2027, then play São Paulo and Buenos Aires, with Beck as support. Their 16th album, Carnaval De Luz, their first in nine years, comes out on 13 November.",
+   "matters": "It is U2's first stadium tour since 2019; dates for Europe and North America are due in the coming weeks.",
+   "sources": [
+    {
+     "name": "The Irish Times",
+     "url": "https://www.irishtimes.com/culture/music/2026/10/15/u2-to-start-world-tour-in-mexico-brazil-and-argentina-in-spring-2027/"
+    },
+    {
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/entertainment/2026/1015/1595546-u2-announce-new-world-tour-with-irish-dates-to-follow/"
+    },
+    {
+     "name": "NME",
+     "url": "https://www.nme.com/news/music/u2-release-new-single-the-greatest-show-on-earth-announce-first-dates-2027-world-tour-buy-tickets-3973242"
+    },
+    {
+     "name": "Consequence",
+     "url": "https://consequence.net/2026/10/u2-announce-first-dates-for-2027-world-tour/"
     }
    ]
   },
@@ -247,6 +549,48 @@
    ]
   },
   {
+   "section": "curious",
+   "published": "2026-10-15T12:02:00Z",
+   "title": "Amsterdam zoo hornbill gets world's first pair of 3D-printed beak prostheses",
+   "why": "A male southern ground hornbill at Artis zoo in Amsterdam broke both halves of his beak while digging for food. Specialists from Utrecht University and UMC Utrecht rebuilt them with 3D-printed parts fixed on with titanium, and within two days he was catching mice again.",
+   "matters": "The zoo says it is the first known bird to have both upper and lower beak restored this way.",
+   "sources": [
+    {
+     "name": "ANP (via Reformatorisch Dagblad)",
+     "url": "https://www.rd.nl/a/vogel-in-artis-met-snavelschade-krijgt-3-d-geprinte-snavel"
+    },
+    {
+     "name": "NH Nieuws",
+     "url": "https://www.nhnieuws.nl/nieuws/364422/wereldprimeur-in-artis-hoornraaf-krijgt-twee-nieuwe-snavelprotheses"
+    },
+    {
+     "name": "UPI",
+     "url": "https://www.upi.com/Odd_News/2026/10/16/netherlands-artis-zoo-hornbill-prosthetic-beak/3041792171720/"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "published": "2026-10-15T12:00:00Z",
+   "title": "Iranian director Majid Majidi's 'Midday Meal' wins top prize at Busan festival",
+   "why": "The film, about a rural schoolteacher, won the Busan Award for best film on Thursday as South Korea's 31st Busan International Film Festival closed. A jury led by Chinese director Zhang Yimou chose it unanimously from 13 Asian films.",
+   "matters": "Under new rules, the win lets the film go straight into the Oscars' international feature race.",
+   "sources": [
+    {
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/entertainment/films/20261015/iranian-film-midday-meal-wins-top-honor-at-31st-biff"
+    },
+    {
+     "name": "Korea Herald",
+     "url": "https://www.koreaherald.com/article/10904249"
+    },
+    {
+     "name": "Variety (via Yahoo)",
+     "url": "https://www.yahoo.com/entertainment/movies/articles/busan-takeaways-record-crowds-meet-074436837.html"
+    }
+   ]
+  },
+  {
    "section": "sport",
    "published": "2026-10-15T11:00:00Z",
    "title": "Australia edge New Zealand 24-22 in Rugby League World Cup opener",
@@ -289,91 +633,28 @@
   },
   {
    "section": "climate",
+   "developing": true,
+   "changed": "Updated: leaders adopted the Yerevan Declaration on 16 October, and new figures show nature funding falling short before COP17.",
    "published": "2026-10-15T10:00:00Z",
-   "title": "UN report finds fewer than half of national nature targets on track",
-   "why": "A UN assessment launched on 15 October in Yerevan, Armenia, found fewer than half of countries' biodiversity targets are on track. Current pledges would protect only 26% of land and 12% of the ocean by 2030, short of the 30% goal agreed in 2022.",
-   "matters": "The findings frame the COP17 biodiversity talks, which run in Yerevan from 19 to 30 October.",
+   "title": "Leaders adopt Yerevan nature declaration as funding falls short before COP17",
+   "why": "Leaders meeting in Armenia's capital, Yerevan, on 16 October adopted a declaration calling for faster action and more money to halt nature loss by 2030. A UN review this week found fewer than half of national nature targets are on track. COP17 talks open on 19 October.",
+   "matters": "Countries raised $75–92 billion a year for nature in 2023–25, under half the $200 billion goal, OECD data show.",
    "sources": [
+    {
+     "name": "Armenpress",
+     "url": "https://armenpress.am/en/article/1263055"
+    },
+    {
+     "name": "AP (via News4Jax)",
+     "url": "https://www.news4jax.com/news/world/2026/10/16/fundraising-to-protect-oceans-forests-and-other-key-nature-sites-falling-short-ahead-of-un-summit/"
+    },
     {
      "name": "UN News",
      "url": "https://news.un.org/en/story/2026/10/1168607"
     },
     {
-     "name": "ThePrint",
-     "url": "https://theprint.in/environment/half-the-worlds-countries-not-on-track-to-achieve-biodiversity-targets-finds-report/3073562/"
-    },
-    {
-     "name": "Bernama",
-     "url": "https://www.bernama.com/en/world/news.php?id=2621240"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "published": "2026-10-15T09:00:00Z",
-   "title": "Wooden spear wound may have killed Neanderthal 75,000 years ago",
-   "why": "A Cambridge-led team says a round hole in the shoulder blade of a Neanderthal from Shanidar Cave, in Iraqi Kurdistan, was probably made by a sharpened wooden spear. Writing in Scientific Reports, the researchers say it may be the earliest known killing with a wooden spear.",
-   "matters": "Other experts call some conclusions bold; the find adds to debate about violence and care among Neanderthals.",
-   "sources": [
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/science/2026-10-16/neanderthal-death-by-wooden-spear-shanidar-cave/107263428"
-    },
-    {
-     "name": "Discover Magazine",
-     "url": "https://www.discovermagazine.com/a-75-000-year-old-neanderthal-may-be-the-earliest-known-victim-of-a-wooden-spear-attack-49817"
-    },
-    {
-     "name": "Phys.org (University of Cambridge)",
-     "url": "https://phys.org/news/2026-10-fatal-neanderthal-wound-earliest-evidence.html"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-10-15T07:23:00Z",
-   "title": "South Korea's main share index falls 7.6% as chip stocks slump",
-   "why": "Seoul's Kospi index fell 7.57% on Thursday 15 October, triggering a 20-minute trading halt, as Samsung Electronics and SK hynix dropped about 9% and 11% respectively. Reports blamed fears of further US rate rises and doubts about AI spending. It recovered 2% on Friday.",
-   "matters": "Samsung and SK hynix make up more than half of South Korea's stock market value, so their swings move the whole market.",
-   "sources": [
-    {
-     "name": "Korea Herald",
-     "url": "https://www.koreaherald.com/article/10904070"
-    },
-    {
-     "name": "AJP",
-     "url": "https://www.ajupress.com/view/20261015165925041"
-    },
-    {
-     "name": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/markets/stocks/article/global-chip-sell-off-deepens-as-south-korean-market-plunges-024927049.html"
-    },
-    {
-     "name": "Korea JoongAng Daily",
-     "url": "https://www.koreajoongangdaily.com/business/kospi-rebounds-over-2-on-eased-chip-rout-fed-bets/12924733"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "lead": true,
-   "serious": true,
-   "published": "2026-10-15T06:00:00Z",
-   "title": "School roof collapse in Peshawar, Pakistan, kills dozens of pupils",
-   "why": "The roof of a private school collapsed on Thursday 15 October in Peshawar, in north-west Pakistan. Hospital officials told AFP at least 33 people, mostly children, and a teacher were killed; Al Jazeera reports at least 35. Police say the school's owner has been arrested.",
-   "matters": "The government has ordered safety inspections of schools across Khyber Pakhtunkhwa province, with a report due within three days.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/asia-pacific/20261015-pakistan-school-roof-collapse-kills-dozens-of-pupils-teacher-in-peshawar"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/16/pakistan-orders-school-inspections-following-deadly-roof-collapse"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/pakistan-school-collapse-peshawar-student-teacher-deaths/"
+     "name": "Carbon Brief",
+     "url": "https://www.carbonbrief.org/cop17-developed-countries-fall-far-short-of-un-targets-for-nature-finance"
     }
    ]
   },
@@ -381,69 +662,46 @@
    "section": "climate",
    "serious": true,
    "developing": true,
+   "changed": "Updated: a fourth body was found on Friday; three people are still missing and more rain is forecast.",
    "published": "2026-10-15T06:00:00Z",
-   "title": "Istanbul's heaviest rain in over 80 years causes deadly floods",
-   "why": "Flash floods hit Istanbul, Turkey's largest city, after torrential rain this week. Turkey's interior minister called it the worst flooding in more than 80 years; at least four people have died, officials say. Schools are closed and more rain is forecast.",
-   "matters": "Turkey's environment minister linked the floods to climate change weeks before Turkey hosts the COP31 UN climate summit.",
+   "title": "Three still missing after Istanbul's worst floods in over 80 years",
+   "why": "At least four people have died in floods in Turkey's largest city, Istanbul, officials say, after a man's body was found in Sarıyer district on Friday. Rescuers are still searching for three people, and forecasters warned of more heavy rain on Saturday.",
+   "matters": "Turkey's environment minister links the floods to climate change and building near rivers. He chairs the upcoming COP31 climate talks.",
    "sources": [
     {
      "name": "AP (via ABC News)",
      "url": "https://abcnews.com/International/wireStory/istanbuls-worst-floods-80-years-leave-4-dead-137314073"
     },
     {
-     "name": "AFP (via Dawn)",
-     "url": "https://www.dawn.com/news/2037387/3-dead-as-istanbul-sees-heaviest-rainfall-in-80-years"
+     "name": "BTA",
+     "url": "https://www.bta.bg/en/news/balkans/1226237-search-continues-for-three-people-missing-in-istanbul-floods-as-more-heavy-rain-"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/15/teenager-dies-as-heavy-rain-floods-istanbul"
+     "name": "Hürriyet Daily News",
+     "url": "https://www.hurriyetdailynews.com/istanbul-faces-more-rain-as-flood-searches-continue-228190"
     }
    ]
   },
   {
-   "section": "tech",
-   "published": "2026-10-15T05:35:00Z",
-   "title": "Taiwan's TSMC reports record quarterly profit, up 69%, on AI chip demand",
-   "why": "TSMC, the world's largest contract chipmaker, said on 15 October its July–September net profit reached NT$763 billion (about US$23.6 billion), beating forecasts. Revenue rose 41% in dollar terms to US$46.7 billion, and it expects up to US$54.3 billion next quarter.",
-   "matters": "TSMC makes chips for Nvidia and Apple, so its results are closely watched as a gauge of the AI boom.",
-   "sources": [
-    {
-     "name": "TSMC",
-     "url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm"
-    },
-    {
-     "name": "Reuters",
-     "url": "https://www.investing.com/news/stock-market-news/tsmc-q3-profit-jumps-69-to-record-beating-expectations-4950551"
-    },
-    {
-     "name": "AP",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-q3-earnings-snapshot-055852237.html"
-    }
-   ]
-  },
-  {
-   "section": "tech",
+   "section": "science",
    "serious": true,
-   "published": "2026-10-14T21:23:00Z",
-   "title": "Eight US states sue OpenAI, saying ChatGPT is unsafe for children",
-   "why": "Attorneys general from eight US states, including Iowa, Arizona and Kansas, filed separate lawsuits on 14 October alleging OpenAI misled users about ChatGPT's safety, particularly for young people. The claims are untested in court. OpenAI says it has built 'industry-leading' age-specific protections.",
-   "matters": "The states want court orders that could force changes to how ChatGPT works for children and teenagers.",
+   "developing": true,
+   "published": "2026-10-15T05:48:00Z",
+   "title": "H5N1 bird flu found on Australia's sub-Antarctic Macquarie Island",
+   "why": "Australia has confirmed H5N1 bird flu in an elephant seal and a kelp gull on Macquarie Island, a World Heritage site about 1,500 km south-east of Tasmania, the island's first case. Officials say the risk to humans is low; experts expect many seals to die this breeding season.",
+   "matters": "The island is a key breeding ground for southern elephant seals, which are highly vulnerable to the virus.",
    "sources": [
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/15/why-are-eight-us-states-suing-openai"
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-15/bird-flu-macquarie-island-southern-elephant-seal-kelp-gull/107271424"
     },
     {
-     "name": "UPI",
-     "url": "https://www.yahoo.com/news/us/articles/eight-states-sue-openai-over-063420214.html"
+     "name": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/australia-confirms-first-h5n1-bird-flu-case-on-sub-antarctic-macquarie-island/3074358/"
     },
     {
-     "name": "Engadget",
-     "url": "https://engadget.com/2287111/iowa-nebraska-and-six-other-states-are-suing-openai-for-endangering-children"
-    },
-    {
-     "name": "TRT World",
-     "url": "https://trtworld.com/article/b7553a5d7788"
+     "name": "Yahoo News Australia",
+     "url": "https://au.news.yahoo.com/deadly-bird-flu-hits-macquarie-072108315.html"
     }
    ]
   },
@@ -451,26 +709,23 @@
    "section": "tech",
    "serious": true,
    "developing": true,
+   "changed": "Updated: service partly restored; Trump denies ordering the limits.",
    "published": "2026-10-14T16:09:00Z",
-   "title": "Ukraine says Starlink limits disrupted its drones; Musk blames US military",
-   "why": "Ukrainian officials say SpaceX's Starlink service cut off terminals moving faster than about 160 km/h overnight into 14 October, without warning, disrupting drone missions. Elon Musk says such limits are decided by the US military and president. The White House gave no immediate comment.",
-   "matters": "Ukraine relies heavily on Starlink satellite internet for drones and frontline communications in its war with Russia.",
+   "title": "Ukraine says Starlink partly restored; Trump denies ordering the drone limits",
+   "why": "Ukraine says Starshield, SpaceX's military version of Starlink, is working again but still cuts out above 160 km/h, which hampers its drones. Elon Musk says the US government sets the limits. On 16 October President Trump said he did not order them and did not think Musk did.",
+   "matters": "It shows how much a war can depend on one private company's satellites.",
    "sources": [
     {
-     "name": "AP",
-     "url": "https://www.pbs.org/newshour/world/sudden-starlink-limits-sap-ukraine-drone-power-as-kyiv-fears-u-s-intelligence-squeeze"
+     "name": "AP (via ABC News)",
+     "url": "https://abcnews.com/International/wireStory/presidential-adviser-ukraine-talks-lift-speed-limit-military-137331428"
     },
     {
-     "name": "AFP",
-     "url": "https://www.france24.com/en/live-news/20261014-restrictions-expose-ukraine-s-starlink-dependency-in-russia-war-observers"
+     "name": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/87351"
     },
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/10/14/ukraine-accuses-elon-musks-spacex-of-throttling-starlink-terminals"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-10-15/zelenskyy-warns-of-starlink-slowdown-in-ukraine/107269352"
     }
    ]
   },
@@ -478,107 +733,27 @@
    "section": "health",
    "serious": true,
    "developing": true,
+   "changed": "Updated: Kenya confirmed a third case on 16 October; Congo has passed 9,200 confirmed cases.",
    "published": "2026-10-14T15:48:00Z",
-   "title": "Kenya confirms second Ebola case, a relative of the first patient",
-   "why": "Kenya's health ministry confirmed a second Ebola case on 14 October: a 39-year-old man, already in quarantine as a close relative of Kenya's first patient, who died in Nairobi on 5 October. The ministry says there is no evidence of spread in the community.",
-   "matters": "The cases are linked to Congo's Ebola outbreak, which officials say has passed 9,000 cases; this strain has no licensed vaccine.",
+   "title": "Kenya confirms third Ebola case, another relative of the first patient",
+   "why": "Kenya's health ministry said on Friday 16 October that a 65-year-old woman, already in quarantine as a close relative of the first two patients, has tested positive. It says 127 of 130 contacts are in quarantine and there is no sign of wider spread.",
+   "matters": "Congo's outbreak, linked to Kenya's cases, has passed 9,270 confirmed cases and 4,470 deaths, US CDC figures show.",
    "sources": [
     {
      "name": "AP (via ABC News)",
-     "url": "https://abcnews.com/International/wireStory/kenya-confirms-ebola-case-relative-patient-137261113"
+     "url": "https://abcnews.com/International/wireStory/kenya-confirms-ebola-case-relative-patient-died-137325289"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/14/kenyas-health-ministry-confirms-second-ebola-case"
+     "name": "Xinhua",
+     "url": "https://english.news.cn/20261017/6a93634e510b40f59de86332e12eec8c/c.html"
     },
     {
-     "name": "UN News",
-     "url": "https://news.un.org/en/audio/2026/10/1168606"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "serious": true,
-   "published": "2026-10-14T15:14:00Z",
-   "title": "Saudi tennis exhibition Six Kings Slam postponed following attacks on Riyadh",
-   "why": "Organisers have moved the Six Kings Slam, a Riyadh exhibition featuring Carlos Alcaraz and Novak Djokovic, from 21–24 October to 27–30 December, citing logistical challenges. It follows a weekend strike on Riyadh's airport, claimed by Yemen's Houthis, that Reuters says killed at least 12 people.",
-   "matters": "Three Saudi Pro League matches were also postponed, and the Asian Tour is monitoring security before its Riyadh event.",
-   "sources": [
-    {
-     "name": "Reuters (via The Star)",
-     "url": "https://www.thestar.com.my/sport/tennis/2026/10/14/tennis-six-kings-slam-tournament-in-saudi-arabia-postponed-to-december"
+     "name": "The Standard (Kenya)",
+     "url": "https://www.standardmedia.co.ke/health/health-science/article/2001560286/kenya-records-third-case-as-quarantine-comes-under-renewed-scrutiny"
     },
     {
-     "name": "AFP (via Khaleej Times)",
-     "url": "https://www.khaleejtimes.com/world/gulf/saudi-arabia-postpones-exhibition-six-kings-slam-tennis-tournament-houthi-attacks"
-    },
-    {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/sport/tennis/2026/10/14/six-kings-slam-tournament-in-saudi-arabia-featuring-alcaraz-and-djokovic-postponed-due-to-attacks-on-riyadh/"
-    }
-   ]
-  },
-  {
-   "section": "curious",
-   "published": "2026-10-14T12:00:00Z",
-   "title": "Fossil overlooked for a century in London reveals new predatory dinosaur",
-   "why": "A skull fragment found on England's Isle of Wight and bought by London's Natural History Museum in 1924 belongs to a new species, Invictibellatrix amberina, researchers say. The probably feathered, long-clawed predator lived about 120 million years ago and was 3 to 4 metres long.",
-   "matters": "It is the first megaraptoran, a group related to tyrannosaurs, identified in Europe.",
-   "sources": [
-    {
-     "name": "Natural History Museum",
-     "url": "https://www.nhm.ac.uk/press-office/press-releases/uk-dinosaur-fossil-identified-as-new-long-clawed-predator.html"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/new-dinosaur-species-invictibellatrix-amberina-fossil-overlooked-100-years/"
-    },
-    {
-     "name": "Sci.News",
-     "url": "https://www.sci.news/paleontology/invictibellatrix-amberina-15131.html"
-    }
-   ]
-  },
-  {
-   "section": "culture",
-   "serious": true,
-   "published": "2026-10-14T09:00:00Z",
-   "title": "Peter Nagy, gallerist central to India's contemporary art scene, dies at 67",
-   "why": "US-born gallerist Peter Nagy, who reopened his Nature Morte gallery in New Delhi in 1997 after starting it in New York, has died after a long illness, the gallery said on 13 October. He championed artists including Subodh Gupta, Bharti Kher and Jitish Kallat.",
-   "sources": [
-    {
-     "name": "The Art Newspaper",
-     "url": "https://www.theartnewspaper.com/2026/10/14/peter-nagy-nature-morte-gallery-indian-contemporary-art-died"
-    },
-    {
-     "name": "ArtReview",
-     "url": "https://artreview.com/peter-nagy-artist-and-founder-of-nature-morte-1959-2026/"
-    },
-    {
-     "name": "Time Out Delhi",
-     "url": "https://www.timeout.com/delhi/news/peter-nagy-art-giant-and-founder-of-nature-morte-passes-away-at-67-101426"
-    }
-   ]
-  },
-  {
-   "section": "curious",
-   "published": "2026-10-14T08:22:00Z",
-   "title": "Divers off Turkey find what may be the world's oldest known shipwreck",
-   "why": "Archaeologists say a cargo ship that sank near Kekova Island, off Turkey's Mediterranean coast in Antalya province, is 4,400 to 4,700 years old. Its wooden hull is gone, but more than 30 storage jars and three stone anchors lie about 30 metres down.",
-   "matters": "The date rests on pottery styles, and researchers say work on the jars' contents has only just begun.",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/video/2026/10/14/worlds-oldest-shipwreck-discovered-off-turkeys-mediterranean-coast"
-    },
-    {
-     "name": "ABC News (US)",
-     "url": "https://abcnews.com/International/shipwreck-believed-worlds-oldest-discovered-off-coast-turkey/story?id=137252645"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-10-15/worlds-oldest-shipwreck-found-in-turkiye-archaeologists-say/107267406"
+     "name": "US CDC",
+     "url": "https://www.cdc.gov/ebola/situation-summary/index.html"
     }
    ]
   }
