@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "facts": [
     {
       "date": "2026-09-20",
@@ -810,6 +810,32 @@
         {
           "name": "Connecticut College: Asian Art and Architecture",
           "url": "https://diluo.digital.conncoll.edu/Asianart/exhibition/%E6%97%A5%E6%9C%AC%E3%80%81%E6%9C%88%E6%9C%AC-depictions-of-the-moon-in-japanese-art/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "kind": "fact",
+      "category": "Everyday",
+      "emoji": "🎾",
+      "title": "Why tennis balls are yellow",
+      "text": "Tennis balls used to be white or black. When colour TV arrived, viewers struggled to follow a white ball, so in 1972 the sport’s governing body added bright “optic yellow” balls to the rules, after research showed they were easier to see on screen. Wimbledon held out until 1986.",
+      "sources": [
+        {
+          "name": "NBC Washington (Associated Press)",
+          "url": "https://www.nbcwashington.com/news/sports/tennis/why-tennis-balls-are-yellow/3655352/"
+        },
+        {
+          "name": "Hello! magazine",
+          "url": "https://www.hellomagazine.com/travel/2017071140538/wimbledon-tennis-balls-yellow/"
+        },
+        {
+          "name": "Tennis365",
+          "url": "https://www.tennis365.com/tennis-features/how-tennis-changed-from-white-to-yellow-tennis-balls-thanks-to-david-attenborough"
+        },
+        {
+          "name": "El Cronista",
+          "url": "https://www.cronista.com/en/lifestyle/why-tennis-balls-are-yellow-its-not-aesthetics-but-a-1972-decision-that-stuck-to-this-day/"
         }
       ]
     }
