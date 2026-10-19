@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T08:21:00Z",
+ "updated": "2026-10-19T08:22:00Z",
  "items": [
   {
    "section": "money",
@@ -278,22 +278,31 @@
   {
    "section": "world",
    "serious": true,
+   "developing": true,
    "published": "2026-10-18T01:34:00Z",
-   "title": "Ukrainian drone attack sets St Petersburg oil sites on fire",
-   "why": "Russia's defence ministry says it downed 1,015 Ukrainian drones overnight into Sunday, one of Kyiv's largest attacks. St Petersburg's governor says an oil export terminal and a depot caught fire and one person was killed. It came two days after President Trump waived new sanctions on Russia.",
-   "matters": "Ukraine is stepping up strikes on Russian oil despite US objections, as peace efforts stall.",
+   "title": "Ukraine launches over 1,000 drones at Russia; Russian missiles hit Kyiv",
+   "why": "Russia's defence ministry says it downed 1,015 Ukrainian drones overnight into Sunday; fires broke out at an oil terminal in St Petersburg, where the governor says one person was killed. Overnight into Monday, Russian missiles hit Kyiv; the mayor says a woman was killed and a metro station damaged.",
+   "matters": "Both sides are striking energy sites despite the 'energy ceasefire' US President Donald Trump announced on 11 October.",
    "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites"
+    },
     {
      "name": "NBC News (AP)",
      "url": "https://www.nbcnews.com/world/russia/st-petersburg-oil-facilities-ablaze-ukraine-launches-1000-drones-russi-rcna604137"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says"
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-right-as-air-raid-alarms-sound/"
     },
     {
      "name": "Kyiv Independent",
      "url": "https://kyivindependent.com/flames-explosions-reported-amid-large-ukrainian-drone-attack-on-st-petersburg/"
+    },
+    {
+     "name": "Interfax-Ukraine",
+     "url": "https://en.interfax.com.ua/news/general/1222303.html"
     }
    ]
   },
@@ -464,6 +473,7 @@
   },
   {
    "section": "world",
+   "lead": true,
    "serious": true,
    "developing": true,
    "changed": "Updated: a tug was hit off the UAE on Sunday; Iran says its offer to reopen Hormuz still stands",
@@ -496,26 +506,52 @@
   },
   {
    "section": "world",
-   "lead": true,
    "serious": true,
    "developing": true,
-   "changed": "Updated: about 2,400 arrests, one protester dead, Limoges town hall burned; Macron condemns the violence",
+   "changed": "Updated: Macron refused the interior minister's resignation after a weekend of riots",
    "published": "2026-10-17T05:17:00Z",
-   "title": "Violent protests sweep France as Macron condemns 'unbridled' violence",
-   "why": "Authorities say 550,000 people protested across France on Saturday over prices and schools. The interior ministry says nearly 2,400 were arrested and about 1,000 police hurt; Limoges's town hall was set alight and one protester died in Paris. President Macron said 'nothing justifies' the violence.",
-   "matters": "The protests, which began in schools in September, are seen as a test of the national mood before the 2027 presidential election.",
+   "title": "Macron refuses interior minister's resignation after weekend of riots in France",
+   "why": "Interior Minister Laurent Nuñez offered to resign on Sunday after cost-of-living protests turned into riots and looting in Paris, Marseille, Lyon and other cities. The Élysée says Macron refused. The ministry says about 2,400 people were arrested on Saturday and almost 1,000 police and gendarmes were injured.",
+   "matters": "Macron admits 'failures in anticipation and intelligence'; the unrest is seen as a test of the mood before the 2027 election.",
    "sources": [
     {
      "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261018-live-vance-blames-immigration-for-violence-during-protests-in-france"
+     "url": "https://www.france24.com/en/europe/20261019-live-france-macron-slams-unbridled-violence-protests-weekend-unrest"
     },
     {
-     "name": "CBS News (AP)",
-     "url": "https://www.cbsnews.com/news/protests-france-rising-living-costs-students/"
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/19/emmanuel-macron-rejects-resignation-of-interior-minister-laurent-nunez"
+    },
+    {
+     "name": "Arab News (AFP)",
+     "url": "https://www.arabnews.com/world/french-president-refuses-interior-ministers-resignation-after-protests-3007095"
     },
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic"
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/19/france-protests-live-macron-admits-failures-after-days-of-violent-unrest"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "developing": true,
+   "changed": "Updated: Brent eases about 2% after Trump waives Russia sanctions",
+   "published": "2026-10-16T18:47:00Z",
+   "title": "Oil eases from five-month high after US waives Russia sanctions",
+   "why": "Brent crude fell about 2% to near $108 a barrel on Monday 19 October, after touching $110 on Friday. Traders expect more Russian fuel exports after President Trump waived key US sanctions and tariffs on Russia. Attacks on ships near the Strait of Hormuz continue to cut Gulf supplies.",
+   "matters": "Prices remain well above pre-war levels, keeping pressure on fuel, transport and food costs.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.arabnews.com/energy/oil-slips-from-5-month-high-as-trumps-russia-sanctions-waiver-may-bring-more-supplies-3007111"
+    },
+    {
+     "name": "AP",
+     "url": "https://www.clickondetroit.com/business/2026/10/19/asian-shares-are-mixed-with-tech-stocks-volatile-and-oil-falls-on-trumps-russian-sanctions-waiver/"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://abc.net.au/news/2026-10-19/asx-markets-business-live-news/107280976"
     }
    ]
   },
