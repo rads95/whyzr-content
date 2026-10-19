@@ -2718,5 +2718,341 @@
         ]
       }
     ]
+  },
+  {
+    "id": "028",
+    "published": "2026-10-20",
+    "title": "A breather for the Amazon, a bridge a decade late and Haaland’s hundred",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Did this actually happen?",
+        "claim": "Brazil says clearing of the Amazon rainforest has fallen to its lowest level since its satellite records began in 1988.",
+        "options": [
+          "Yes — that happened",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this happened. On 16 October Brazil’s space research agency, which tracks the forest from space, said about 3,335 square kilometres of the Brazilian Amazon were cleared in the 12 months to July 2026. That is down by about 42% on the year before, and the lowest figure since its records began in 1988. Officials credit closer satellite monitoring and tougher penalties for illegal logging.",
+        "sources": [
+          [
+            "France 24 (AFP) · Deforestation in Brazil Amazon hits nearly four-decade low",
+            "https://www.france24.com/en/live-news/20261016-deforestation-in-brazil-amazon-hits-nearly-four-decade-low"
+          ],
+          [
+            "RTÉ (Reuters) · Deforestation in Brazil’s Amazon falls to all-time low",
+            "https://www.rte.ie/news/world/2026/1017/1595733-amazon-deforestation/"
+          ],
+          [
+            "Euronews (AP) · How Brazil brought deforestation to a record low",
+            "https://www.euronews.com/2026/10/19/amazon-deforestation-hits-record-low-in-brazil-but-el-nino-and-a-tight-election-threaten-t"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three terms. Find their partners.",
+        "pairs": [
+          [
+            "Erling Haaland",
+            "Fastest ever to 100 non-penalty Premier League goals"
+          ],
+          [
+            "Ipswich Town",
+            "Beaten 3–2 by Manchester City on the day"
+          ],
+          [
+            "139",
+            "The number of Premier League games the record took"
+          ]
+        ],
+        "why": "The pairs are: Erling Haaland – the fastest ever to 100 non-penalty Premier League goals; Ipswich Town – beaten 3–2 on the day; 139 – the number of games it took. On 17 October Haaland scored twice as Manchester City beat Ipswich 3–2 at home, taking him to 100 Premier League goals not counting penalties (a non-penalty goal is any goal except one scored from the penalty spot). No player in the league’s history has reached that mark in fewer games: he needed just 139.",
+        "sources": [
+          [
+            "Al Jazeera · Haaland’s goals help Man City to seventh Premier League win",
+            "https://www.aljazeera.com/sports/2026/10/18/haalands-record-scoring-spree-helps-man-city-to-seventh-premier-league-win"
+          ],
+          [
+            "Sky Sports · Man City 3-2 Ipswich: Erling Haaland’s incredible scoring run continues",
+            "https://www.skysports.com/football/news/13598864/man-city-3-2-ipswich-erling-haalands-incredible-scoring-run-continues-as-enzo-marescas-side-continue-to-weather-storm"
+          ],
+          [
+            "Yahoo Sports · Haaland hits historic Premier League milestone with brace against Ipswich Town",
+            "https://sports.yahoo.com/articles/haaland-hits-historic-premier-league-055500378.html"
+          ],
+          [
+            "World Soccer Talk · Erling Haaland sets Premier League record",
+            "https://worldsoccertalk.com/news/erling-haaland-sets-premier-league-record-that-even-cristiano-ronaldo-could-not-match/"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "A four-lane road bridge about 3 km long over the Yalu River",
+          "Finished on one side around 2014, then left unused for more than a decade",
+          "It links the city of Dandong with the city of Sinuiju"
+        ],
+        "options": [
+          "China and North Korea open a new border bridge",
+          "Russia and North Korea open a new border bridge",
+          "South and North Korea reopen a road link",
+          "China and Russia open a bridge across a river"
+        ],
+        "correct": 0,
+        "why": "It was: China and North Korea opened a new border bridge. On 15 October the New Yalu River Bridge, linking the Chinese city of Dandong with Sinuiju in North Korea, finally opened. China had finished its part around 2014, but North Korea did not do the matching work on its side, so the bridge stood unused for more than a decade. Most official trade between the two countries crosses an older bridge nearby where vehicles can only go one way at a time, so the new four-lane bridge should make crossings easier.",
+        "sources": [
+          [
+            "ClickOnDetroit (AP) · New China-North Korea bridge opens after more than a decade of delay",
+            "https://www.clickondetroit.com/news/world/2026/10/15/new-china-north-korea-bridge-opens-after-more-than-a-decade-of-delay/"
+          ],
+          [
+            "Al Jazeera · Photos: China and North Korea open new border bridge amid deepening ties",
+            "https://www.aljazeera.com/gallery/2026/10/15/photos-china-and-north-korea-open-new-border-bridge-amid-deepening-ties"
+          ],
+          [
+            "SBS News · New bridge between China and North Korea opens",
+            "https://www.sbs.com.au/news/article/north-korea-bridge-china/n619stqmz"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "New York’s Plaza Hotel: put these moments in order, earliest first.",
+        "items": [
+          "The Plaza closes its doors for repairs",
+          "The earliest the Plaza could reopen",
+          "The Plaza opens on Fifth Avenue"
+        ],
+        "correctOrder": [
+          2,
+          0,
+          1
+        ],
+        "why": "The right order is: the Plaza opens (1907), then it closes for repairs (January 2027), then the earliest it could reopen (at least four years later, so around 2031). On 14 October the famous New York hotel said it will shut in January 2027 for at least four years so that its protected outer walls, called the facade, can be repaired and restored. The hotel said the work is too big and complex to do while it stays open, and no reopening date has been set yet.",
+        "sources": [
+          [
+            "Euronews · Iconic New York hotel The Plaza set to close for four years for restoration works",
+            "https://www.euronews.com/2026/10/15/iconic-new-york-hotel-the-plaza-set-to-close-for-four-years-for-restoration-works"
+          ],
+          [
+            "Time Out New York · The Plaza Hotel to close this January for a four-year-long restoration project",
+            "https://www.timeout.com/newyork/news/the-plaza-hotel-to-close-this-january-for-a-four-year-long-restoration-project-101526"
+          ],
+          [
+            "Hotel Dive · Plaza Hotel to close for facade restoration",
+            "https://www.hoteldive.com/news/plaza-hotel-nyc-closure-facade-restoration/833144/"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "Taiwan’s TSMC, which makes computer chips for many of the world’s tech companies, has reported a record profit. What is mainly driving its boom?",
+        "options": [
+          "Demand for chips that power artificial intelligence",
+          "A surge in sales of video game consoles",
+          "Demand from cryptocurrency miners",
+          "A rush to buy new electric cars"
+        ],
+        "correct": 0,
+        "why": "It was demand for AI chips. On 15 October TSMC said its profit for July to September jumped by about two-thirds compared with a year earlier, to a new record. TSMC builds chips that other companies design, and the worldwide rush to build artificial intelligence (AI) systems means huge demand for its most advanced chips. Game consoles, crypto mining and electric cars were not what drove this record.",
+        "sources": [
+          [
+            "Euronews (AFP) · Taiwan chip giant TSMC says net profit hit record in third quarter",
+            "https://www.euronews.com/2026/10/15/taiwan-chip-giant-tsmc-says-net-profit-hit-record-in-third-quarter"
+          ],
+          [
+            "Focus Taiwan (CNA) · TSMC third-quarter results",
+            "https://focustaiwan.tw/business/202610150009"
+          ],
+          [
+            "TSMC · Third-quarter 2026 earnings release (SEC filing)",
+            "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm"
+          ],
+          [
+            "Vested Finance · TSMC posts record profit in Q3 2026",
+            "https://vestedfinance.com/blog/us-stocks/tsmc-q3-earnings-2026/"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "029",
+    "published": "2026-10-21",
+    "title": "Harry and Meghan in Nottingham, a Spanish final in Shanghai and Halley’s shooting stars",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Did this actually happen?",
+        "claim": "Prince Harry and Meghan made their first joint public appearance in Britain since moving back there from California, visiting charities in Nottingham.",
+        "options": [
+          "Yes — that happened",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this happened. On 15 October the Duke and Duchess of Sussex visited three charities in the English city of Nottingham, including a youth recording studio and a food-poverty hub. It was their first public appearance together since they moved back to Britain from California with their children, Archie and Lilibet. They are no longer working members of the royal family, and the palace says they act as private citizens, so this was not an official royal engagement.",
+        "sources": [
+          [
+            "KSL (Reuters) · Prince Harry and wife Meghan make first joint appearance since UK return",
+            "https://www.ksl.com/article/51636693/prince-harry-and-wife-meghan-make-first-joint-appearance-since-uk-return"
+          ],
+          [
+            "News4Jax (AP) · Prince Harry and Meghan to make first joint appearances since returning to UK",
+            "https://www.news4jax.com/entertainment/2026/10/15/prince-harry-and-meghan-to-make-first-joint-appearances-since-returning-to-uk/"
+          ],
+          [
+            "Euronews · Prince Harry and Meghan make first joint public appearance since surprise UK return",
+            "https://www.euronews.com/2026/10/15/prince-harry-and-meghan-make-first-joint-public-appearance-since-surprise-uk-return"
+          ],
+          [
+            "LBC · Harry and Meghan’s first joint appearance since returning to the UK",
+            "https://www.lbc.co.uk/hot-topics/royals/harry-meghan-first-joint-appearance-return-uk/"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three terms. Find their partners.",
+        "pairs": [
+          [
+            "Alejandro Davidovich Fokina",
+            "Came from a set down to win the biggest title of his career"
+          ],
+          [
+            "Spain",
+            "Home country of both finalists"
+          ],
+          [
+            "Shanghai",
+            "The Chinese city where the tournament was played"
+          ]
+        ],
+        "why": "The pairs are: Davidovich Fokina – came from a set down to win the biggest title of his career; Spain – home country of both finalists; Shanghai – the city where it was played. On 18 October two Spaniards met in the final of the Shanghai Masters, one of the biggest men’s tennis tournaments of the year. Alejandro Davidovich Fokina, 27, lost the first set to 20-year-old Rafael Jodar but fought back to win 1–6, 7–6, 6–4, having already knocked out Alexander Zverev in the semi-finals. It was the biggest title of his career, after he had lost his only earlier final at this level, in Monte Carlo in 2022.",
+        "sources": [
+          [
+            "ATP Tour · Davidovich Fokina digs deep to stop Jodar in Shanghai final",
+            "https://www.atptour.com/en/news/jodar-davidovich-fokina-shanghai-2026-final"
+          ],
+          [
+            "Fox Sports (AP) · Davidovich Fokina beats Rafael Jodar to win Shanghai Masters",
+            "https://www.foxsports.com/articles/tennis/alejandro-davidovich-fokina-beats-rafael-jodar-to-win-shanghai-masters-for-his-biggest-career-title"
+          ],
+          [
+            "Dawn (AFP) · Davidovich Fokina beats rising star Jodar to win Shanghai Masters",
+            "https://www.dawn.com/news/2038057/davidovich-fokina-beats-rising-star-jodar-to-win-shanghai-masters"
+          ],
+          [
+            "ESPN · Davidovich Fokina wins in Shanghai, biggest title of career",
+            "https://www.espn.com/tennis/story/_/id/50209382/davidovich-fokina-wins-shanghai-biggest-title-career"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "A Paris landmark that drew about nine million visitors last year",
+          "Old plumbing, badly insulated galleries and cramped public areas",
+          "Its new director says it will need private donors and public money"
+        ],
+        "options": [
+          "The Louvre’s boss warns it could have to close without a major overhaul",
+          "The Eiffel Tower shuts for a year of repairs",
+          "The Louvre moves the Mona Lisa to a new building",
+          "Notre-Dame cathedral closes again for repairs"
+        ],
+        "correct": 0,
+        "why": "It was: the Louvre’s boss warned it could have to close without a major overhaul. In an interview published on 14 October, Christophe Leribault, who took charge of the Paris museum in February, said that unless the Louvre is repaired and modernised it may eventually have to close its doors to the public. The building is in poor condition, with old plumbing, badly insulated galleries and crowded public spaces. He said the museum will look for private donors but also needs a big injection of public money.",
+        "sources": [
+          [
+            "Euronews · Louvre could be forced to close without major overhaul, director warns",
+            "https://www.euronews.com/2026/10/14/louvre-could-be-forced-to-close-without-major-overhaul-director-warns"
+          ],
+          [
+            "The Local France (AFP) · Louvre boss warns of closure risk without major renovations",
+            "https://www.thelocal.fr/20261014/louvre-boss-warns-of-closure-risk-without-major-renovations"
+          ],
+          [
+            "La Télé (ATS) · Sans rénovation, le Louvre devra fermer ses portes",
+            "https://latele.ch/articles/sans-renovation-le-louvre-devra-fermer-ses-portes"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "Shooting stars from Halley’s Comet: put these in order, earliest first.",
+        "items": [
+          "Halley’s Comet is next due back near the Sun",
+          "Halley’s Comet is last seen from Earth",
+          "This year’s Orionid shooting stars reach their peak"
+        ],
+        "correctOrder": [
+          1,
+          2,
+          0
+        ],
+        "why": "The right order is: Halley’s Comet last seen (1986), then this year’s Orionid peak (around 21–22 October 2026), then Halley’s next return (2061). Each October the Earth passes through the trail of dust that Halley’s Comet has left behind on its long loop around the Sun. The specks burn up high in our air as the Orionid meteors, or shooting stars, which seem to fly out from the constellation Orion. This year a bright Moon will hide some of them, so the best time to look is the dark hours before dawn.",
+        "sources": [
+          [
+            "NASA Science · Orionids",
+            "https://science.nasa.gov/solar-system/meteors-meteorites/orionids/"
+          ],
+          [
+            "EarthSky · Orionid meteor shower: all you need to know",
+            "https://earthsky.org/astronomy-essentials/everything-you-need-to-know-orionid-meteor-shower"
+          ],
+          [
+            "Farmers’ Almanac · Orionid meteor shower 2026: peak date and Halley’s Comet origin",
+            "https://www.farmersalmanac.com/orionid-meteor-shower-19412"
+          ],
+          [
+            "Royal Museums Greenwich · Orionid meteor shower 2026: when and where to see it",
+            "https://www.rmg.co.uk/stories/space-astronomy/orionid-meteor-shower-2026-when-where-see-it-uk"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "China said this week that its economy grew 4.5% in July to September, compared with a year earlier. How did that compare with the three months before?",
+        "options": [
+          "Growth was a little faster",
+          "Growth was a little slower",
+          "The economy shrank",
+          "Growth was more than twice as fast"
+        ],
+        "correct": 0,
+        "why": "Growth was a little faster. On 19 October China’s statistics office said the economy grew 4.5% in July to September, up from 4.3% in April to June, and slightly better than economists had expected. Strong exports did much of the work, while shopping, investment and other demand inside China stayed weak.",
+        "sources": [
+          [
+            "Xinhua · China’s GDP expands 4.5 pct year on year in Q3",
+            "https://english.news.cn/20261019/89cd3cbf51d94ed7bc3156fa7c628667/c.html"
+          ],
+          [
+            "Seoul Economic Daily · China’s third-quarter GDP grows 4.5%, beating forecasts",
+            "https://en.sedaily.com/international/2026/10/19/chinas-third-quarter-gdp-grows-45-percent-beating-forecasts"
+          ],
+          [
+            "SBS (Korea) · China’s Q3 GDP grows 4.5%, up from 4.3% in Q2",
+            "https://news.sbs.co.kr/english/article.do?news_id=N1008804095"
+          ],
+          [
+            "Lapaas Voice · China GDP grows 4.5% in Q3 2026 as exports support growth",
+            "https://lapaasvoice.com/china-gdp-grows-4-5-in-q3-2026-as-exports-support-economic-growth"
+          ]
+        ]
+      }
+    ]
   }
 ]
