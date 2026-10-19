@@ -1,49 +1,290 @@
 {
- "updated": "2026-10-17T14:01:00Z",
+ "updated": "2026-10-19T08:14:00Z",
  "items": [
   {
-   "section": "sport",
-   "published": "2026-10-17T13:18:00Z",
-   "title": "Two Spaniards reach Shanghai Masters final after beating Zverev and Medvedev",
-   "why": "Alejandro Davidovich Fokina, ranked 26th, beat top seed Alexander Zverev 5-7, 6-4, 6-3 in Shanghai, China, on 17 October. Rafael Jodar, 20, then beat Daniil Medvedev 6-3, 6-4 to reach his first Masters 1000 final, setting up an all-Spanish final on Sunday.",
-   "matters": "Jodar began the season ranked 168th; Davidovich Fokina has won nine matches in a row in China.",
+   "section": "tech",
+   "published": "2026-10-19T08:00:00Z",
+   "title": "Anthropic pledges 5% of its shares to a new public benefit fund",
+   "why": "Anthropic, maker of the Claude chatbot, said on 18 October it will commit 5% of its shares to a new public benefit fund, subject to shareholder approval. The board may add 2% for every 50% rise in its value. The fund cannot be used for lobbying or political donations.",
+   "matters": "Anthropic says the fund could help with job disruption from AI; the company is expected to list its shares this year.",
    "sources": [
     {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261017-zverev-medvedev-ousted-with-spaniards-to-clash-for-shanghai-title"
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/public-benefit-fund"
     },
     {
-     "name": "DPA (via Yahoo Sports)",
-     "url": "https://sports.yahoo.com/articles/davidovich-fokina-stuns-zverev-faces-131827216.html"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/10/19/anthropic-says-it-will-commit-5-of-shares-to-public-benefit-fund"
     },
     {
-     "name": "ATP Tour",
-     "url": "https://www.atptour.com/en/news/shanghai-2026-results"
+     "name": "AP",
+     "url": "https://broadbandbreakfast.com/anthropic-commits-5-of-its-stock-to-a-new-public-benefit-fund/"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-10-19T02:00:00Z",
+   "title": "China's economy grows 4.5% in third quarter, beating forecasts",
+   "why": "China's economy grew 4.5% year on year from July to September, the National Bureau of Statistics said on 19 October, up from 4.3% the quarter before and above the 4.4% economists expected. Exports and factory output drove growth; property investment fell 20.6% in the first nine months.",
+   "matters": "Weak spending at home in the world's second-biggest economy keeps China relying on exports, adding to trade tensions.",
+   "sources": [
+    {
+     "name": "Xinhua",
+     "url": "https://english.news.cn/20261019/89cd3cbf51d94ed7bc3156fa7c628667/c.html"
     },
     {
-     "name": "Tennis365",
-     "url": "https://www.tennis365.com/tennis-news/alejandro-davidovich-fokina-speaks-stunning-alexander-zverev-shanghai-masters"
+     "name": "Reuters",
+     "url": "https://www.tbsnews.net/worldbiz/china/chinas-economy-picks-pace-q3-exports-power-uneven-recovery-1577201"
+    },
+    {
+     "name": "Seoul Economic Daily",
+     "url": "https://en.sedaily.com/international/2026/10/19/chinas-third-quarter-gdp-grows-45-percent-beating-forecasts"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://abc.net.au/news/2026-10-19/asx-markets-business-live-news/107280976"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-10-18T23:00:00Z",
+   "title": "Lula and Flávio Bolsonaro trade insults in first Brazil run-off debate",
+   "why": "Brazil's President Luiz Inácio Lula da Silva and right-wing Senator Flávio Bolsonaro clashed over corruption, the economy, security and healthcare in a televised debate in São Paulo on Sunday, a week before the 25 October run-off. Recent polls show a very close race.",
+   "matters": "Flávio Bolsonaro, son of jailed former president Jair Bolsonaro, narrowly led the first round, 47% to 45%.",
+   "sources": [
+    {
+     "name": "ABC News (AP)",
+     "url": "https://abcnews.com/International/wireStory/brazils-lula-flvio-bolsonaro-trade-barbs-1st-debate-137369876"
+    },
+    {
+     "name": "RTÉ (AFP)",
+     "url": "https://www.rte.ie/news/world/2026/1019/1595907-brazil-election-debate/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate"
+    },
+    {
+     "name": "The Rio Times",
+     "url": "https://www.riotimesonline.com/lula-flavio-bolsonaro-band-runoff-debate-economy-2026/"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "published": "2026-10-18T15:21:00Z",
+   "title": "UN nature summit opens in Armenia with most biodiversity goals off track",
+   "why": "The UN biodiversity conference, COP17, opened in Armenia's capital, Yerevan, on Sunday, with nearly 200 countries reviewing a 2022 pact to halt nature loss by 2030. A draft UN report says countries are off track on 22 of its 23 targets, Reuters reports. The talks run about two weeks.",
+   "matters": "A central dispute is money: a UN report says funding for nature \"falls far short\" of the $200bn a year needed.",
+   "sources": [
+    {
+     "name": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/world-faces-nature-reality-check-at-un-biodiversity-conference/3075611/"
+    },
+    {
+     "name": "AFP (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/world/articles/nations-seek-reset-un-talks-013137832.html"
+    },
+    {
+     "name": "Armenpress",
+     "url": "https://armenpress.am/en/article/1263152"
+    },
+    {
+     "name": "Carbon Brief",
+     "url": "https://www.carbonbrief.org/cop17-developed-countries-fall-far-short-of-un-targets-for-nature-finance"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "serious": true,
+   "developing": true,
+   "published": "2026-10-18T14:00:00Z",
+   "title": "Ebola reaches eighth Congo province as Kenya confirms eighth case",
+   "why": "Congo's health ministry confirmed two Ebola cases, one fatal, in northern Nord-Ubangi province on Sunday, the eighth province hit. Congo has recorded at least 9,400 cases and over 4,500 deaths since May, AP reports. Kenya confirmed its eighth case, a hospital attendant exposed to its first patient.",
+   "matters": "The Bundibugyo strain has no approved vaccine or treatment; all Kenya's cases are linked to one patient from Congo.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/19/kenya-confirms-eighth-ebola-case-amid-widening-regional-outbreak"
+    },
+    {
+     "name": "AP (via ABC Australia)",
+     "url": "https://www.abc.net.au/news/2026-10-19/kenya-ebola-outbreak-hits-eight-continues-spread-in-congo/107282278"
+    },
+    {
+     "name": "Ynetnews",
+     "url": "https://www.ynetnews.com/health_science/article/ry2ak11mnge"
+    },
+    {
+     "name": "Kenyans.co.ke",
+     "url": "https://www.kenyans.co.ke/news/127918-kenya-confirms-four-new-ebola-cases-total-rises-seven"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "published": "2026-10-18T11:59:00Z",
+   "title": "Sergei Loznitsa's Soviet archive film Imperium wins London Film Festival top prize",
+   "why": "Imperium, a 175-minute documentary built from footage Italian cameramen shot across the Soviet Union in the early 1970s, won best film at the 70th BFI London Film Festival on 18 October. The first-feature prize went to Sompot Chidgasornpongse's 9 Temples to Heaven.",
+   "sources": [
+    {
+     "name": "BFI",
+     "url": "https://www.bfi.org.uk/london-film-festival/news/competition-winners-announced-70th-bfi-london-film-festival"
+    },
+    {
+     "name": "Screen Daily",
+     "url": "https://www.screendaily.com/news/bfi-london-film-festival-unveils-2026-award-winners/5221561.article"
+    },
+    {
+     "name": "Evening Standard (via AOL)",
+     "url": "https://www.aol.co.uk/articles/bfi-london-film-festival-announces-143719000.html"
+    }
+   ]
+  },
+  {
+   "section": "science",
+   "developing": true,
+   "published": "2026-10-18T06:00:00Z",
+   "title": "Japan set to launch probe to fetch soil from a Mars moon",
+   "why": "Japan's space agency, JAXA, plans to launch its MMX probe from Tanegashima, in southern Japan, at 19:41 GMT on Monday. It aims to land on Phobos, the larger of Mars's two moons, collect at least 10 grams of soil and bring it to Earth in 2031.",
+   "matters": "The samples could show whether Mars's moons are captured asteroids or debris from a giant impact.",
+   "sources": [
+    {
+     "name": "JAXA",
+     "url": "https://global.jaxa.jp/press/2026/10/20261018-1_e.html"
+    },
+    {
+     "name": "AFP (via Phys.org)",
+     "url": "https://phys.org/news/2026-10-japan-historic-mission-mars-moon.html"
+    },
+    {
+     "name": "Astronomy",
+     "url": "https://www.astronomy.com/space-exploration/japan-prepares-to-launch-sample-return-mission-to-phobos/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "published": "2026-10-18T01:34:00Z",
+   "title": "Ukraine launches over 1,000 drones at Russia; Russian missiles hit Kyiv",
+   "why": "Russia's defence ministry says it downed 1,015 Ukrainian drones overnight into Sunday; fires broke out at an oil terminal in St Petersburg, where the governor says one person was killed. Overnight into Monday, Russian missiles hit Kyiv; the mayor says a woman was killed and a metro station damaged.",
+   "matters": "Both sides are striking energy sites despite the 'energy ceasefire' US President Donald Trump announced on 11 October.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites"
+    },
+    {
+     "name": "NBC News (AP)",
+     "url": "https://www.nbcnews.com/world/russia/st-petersburg-oil-facilities-ablaze-ukraine-launches-1000-drones-russi-rcna604137"
+    },
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-right-as-air-raid-alarms-sound/"
+    },
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/flames-explosions-reported-amid-large-ukrainian-drone-attack-on-st-petersburg/"
+    },
+    {
+     "name": "Interfax-Ukraine",
+     "url": "https://en.interfax.com.ua/news/general/1222303.html"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-10-17T14:00:00Z",
+   "title": "Stampede at Durga Puja festival in India's Kolkata kills at least 19",
+   "why": "At least 19 people were killed and 25 injured on Saturday evening when crowds at a Durga Puja festival pavilion in Kolkata, eastern India, rushed for cover from heavy rain, officials say. Police detained several organisers and security staff, and a judge will lead an investigation.",
+   "matters": "Crowd crushes are common at India's mass religious gatherings; the state says about 58,000 Durga Puja events are under way.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india"
+    },
+    {
+     "name": "The Daily Star (Bangladesh)",
+     "url": "https://www.thedailystar.net/news/world/india/news/kolkata-stampede-death-toll-rises-19-cm-announces-financial-support-4301426"
+    },
+    {
+     "name": "The Hans India (PTI)",
+     "url": "https://www.thehansindia.com/kolkata/kolkata-pandal-stampede-kills-19-1133718"
     }
    ]
   },
   {
    "section": "sport",
-   "published": "2026-10-17T11:21:00Z",
-   "title": "Britain's Sonay Kartal, ranked 170th, reaches Wuhan Open final",
-   "why": "Sonay Kartal beat Jelena Ostapenko 7-6, 7-6 in Wuhan, China, on 17 October to reach her first WTA 1000 final. AFP says she is the lowest-ranked finalist at that level since 2009. She plays Iga Swiatek or Maja Chwalinska on Sunday.",
-   "matters": "Back from a six-month spinal injury, she will rise to around 50th in the world and become British No 1.",
+   "changed": "Updated: Davidovich Fokina won Sunday's all-Spanish final",
+   "published": "2026-10-17T13:18:00Z",
+   "title": "Davidovich Fokina fights back to beat Jodar for Shanghai Masters title",
+   "why": "Spain's Alejandro Davidovich Fokina beat 20-year-old compatriot Rafael Jodar 1-6, 7-6, 6-4 in Shanghai, China, on 18 October, recovering from a set and a break down. It is his first Masters 1000 title; Jodar needed treatment on his thighs in the final set.",
+   "matters": "He had lost his first five tour finals; he now rises to a career-high 13th in the world.",
    "sources": [
     {
-     "name": "The Independent (via AOL)",
-     "url": "https://www.aol.co.uk/articles/sonay-kartal-makes-history-reaching-112128000.html"
+     "name": "AFP (via Dawn)",
+     "url": "https://www.dawn.com/news/2038057/davidovich-fokina-beats-rising-star-jodar-to-win-shanghai-masters"
     },
     {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261017-world-number-170-kartal-battles-past-ostapenko-to-reach-wuhan-final"
+     "name": "AP (via KSAT)",
+     "url": "https://www.ksat.com/sports/2026/10/18/alejandro-davidovich-fokina-beats-rafael-jodar-to-win-shanghai-masters-for-his-biggest-career-title/"
+    },
+    {
+     "name": "ATP Tour",
+     "url": "https://www.atptour.com/en/news/jodar-davidovich-fokina-shanghai-2026-final"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-10-17T12:00:00Z",
+   "title": "Tonga beat England for the first time at Rugby League World Cup",
+   "why": "Tonga beat England 30-12 in Perth, Australia, on 17 October in their opening Rugby League World Cup group match, their first ever win over England, AP reports. Haumole Olakau'atu scored two tries in front of a sell-out crowd of 18,302.",
+   "matters": "Only two of six teams in the group reach the semi-finals, so third-ranked England must now beat France and Papua New Guinea.",
+   "sources": [
+    {
+     "name": "AP (via ClickOrlando)",
+     "url": "https://www.clickorlando.com/sports/2026/10/17/tonga-stuns-england-in-rugby-league-world-cup/"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-18/tonga-getting-better-and-better-after-england-world-cup-win/107280336"
     },
     {
      "name": "Sky Sports",
-     "url": "https://www.skysports.com/tennis/news/13600120/sonay-kartal-british-star-digs-deep-to-beat-jelena-ostapenko-and-secure-a-spot-in-her-first-ever-wta-1000-final"
+     "url": "https://www.skysports.com/rugby-league/news/13600121/england-thumped-30-12-by-tonga-in-rugby-league-world-cup-opener-as-pacific-islanders-claim-stunning-win"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "changed": "Updated: Chwalinska beat Kartal in Sunday's final",
+   "published": "2026-10-17T11:21:00Z",
+   "title": "Poland's Maja Chwalinska beats Britain's Sonay Kartal to win Wuhan Open",
+   "why": "Chwalinska came from a set and a break down to beat Kartal 2-6, 6-4, 6-2 in Wuhan, China, on 18 October for her first tour title, having beaten Iga Swiatek in the semi-finals. Kartal, ranked 170th, was the lowest-ranked WTA 1000 finalist since 2009.",
+   "matters": "Chwalinska, ranked 146th in January, rises to 11th; Kartal returns to the top 50 and becomes British No 1.",
+   "sources": [
+    {
+     "name": "PA (via ESPN)",
+     "url": "https://www.espn.com/tennis/story/_/id/50209553/wuhan-open-sonay-kartal-beaten-maja-chwalinska-first-career-wta-1000-final"
+    },
+    {
+     "name": "AFP (via New Straits Times)",
+     "url": "https://www.nst.com.my/amp/sports/racquet-sports/2026/10/1558648/chwalinska-fights-back-win-wuhan-open-title-breakthrough"
+    },
+    {
+     "name": "Tennis Majors",
+     "url": "https://www.tennismajors.com/wta-tour-news/chwalinska-completes-cinderella-rise-fighting-back-to-beat-kartal-for-maiden-title-at-wuhan-wta-1000-863534.html"
+    },
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/tennis/live-blog/13600539/sonay-kartal-vs-maja-chwalinska-wuhan-open-final-live-british-player-looks-to-win-first-wta-1000-title"
     }
    ]
   },
@@ -75,22 +316,23 @@
   {
    "section": "health",
    "serious": true,
+   "changed": "Updated: the Pope led Sunday's prayer from his window, his first appearance since surgery",
    "published": "2026-10-17T08:00:00Z",
-   "title": "Pope Leo leaves hospital four days after lung cancer surgery",
-   "why": "Pope Leo XIV, 71, left Rome's Gemelli hospital on Saturday after his doctors said he was fit for discharge, the Vatican says. Surgeons removed part of his right lung on 13 October to take out a cancerous tumour. He plans to lead Sunday's Angelus prayer from his window.",
-   "matters": "The Vatican has not said what further treatment is needed; a papal trip to South America in November is uncertain.",
+   "title": "Pope Leo leads Sunday prayer in first appearance since cancer surgery",
+   "why": "Pope Leo XIV, 71, led the Angelus prayer from his window above St Peter's Square on Sunday, five days after surgeons removed part of his right lung to treat cancer. He told a crowd the Vatican put at about 15,000 that he would resume his activities gradually.",
+   "matters": "Tests due this week will guide further treatment; his surgeon sees no medical reason to cancel November's South America trip.",
    "sources": [
     {
-     "name": "Vatican News",
-     "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-fifth-day-health-update-gemelli-hospital.html"
+     "name": "Reuters (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/articles/pope-leo-greets-crowds-vatican-101216461.html"
     },
     {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/europe/20261017-pope-leo-returns-to-vatican-four-days-after-lung-cancer-surgery"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/19/pope-greeted-by-crowds-in-first-major-appearance-since-lung-cancer-surgery"
     },
     {
-     "name": "ABC News",
-     "url": "https://abcnews.com/International/pope-leo-xiv-discharged-hospital-return-vatican/story?id=137343868"
+     "name": "America Magazine",
+     "url": "https://www.americamagazine.org/vatican-dispatch/2026/10/18/pope-leo-five-days-after-surgery-says-he-will-resume-his-work-gradually/"
     }
    ]
   },
@@ -99,54 +341,27 @@
    "lead": true,
    "serious": true,
    "developing": true,
-   "changed": "Updated: a second tanker was hit by a grenade from a small boat; Iran claims a mine strike",
+   "changed": "Updated: a tug was hit off the UAE; Iran says its seven-day reopening offer still stands",
    "published": "2026-10-17T07:00:00Z",
-   "title": "Two tankers attacked off Saudi Arabia, one by grenade from small boat",
-   "why": "UKMTO, the UK maritime agency, says two tankers were attacked north-east of Jubail, Saudi Arabia, on Friday, one by a grenade from a small boat; all crew were safe. Iran's Revolutionary Guards say a supertanker hit a mine in Hormuz; the US military says it cleared the strait of mines.",
-   "matters": "Al Jazeera reports more ships attacked this month than in any month since the Iran war began in February.",
+   "title": "Gulf ship attacks continue as Iran says Hormuz reopening offer stands",
+   "why": "UKMTO, the UK maritime agency, says a tug was hit by projectiles off the UAE on Sunday, two days after two tankers were attacked off Saudi Arabia. Iran's foreign minister says its offer to reopen the Strait of Hormuz within seven days stands if the US lifts its blockade.",
+   "matters": "About a fifth of the world's oil and liquefied gas trade passed through the strait before the war began in February.",
    "sources": [
     {
      "name": "Arab News (Reuters)",
-     "url": "https://www.arabnews.com/saudi-arabia/tanker-struck-by-unknown-projectile-off-saudi-arabia-on-friday-ukmto-says-3006831"
+     "url": "https://www.arabnews.com/middle-east/iran-urges-us-to-accept-proposal-to-reopen-strait-of-hormuz-3006986"
     },
     {
-     "name": "Arab Times",
-     "url": "https://www.arabtimesonline.com/news/second-tanker-attacked-off-saudi-arabias-jubail-in-same-area/"
+     "name": "Gulf News (IANS)",
+     "url": "https://gulfnews.com/world/mena/araghchi-says-7-day-plan-to-reopen-hormuz-strait-still-on-table-1.500715276"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/"
     },
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news-analysis/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels"
-    },
-    {
-     "name": "Iran International",
-     "url": "https://www.iranintl.com/en/liveblog/202610105959"
-    }
-   ]
-  },
-  {
-   "section": "culture",
-   "serious": true,
-   "changed": "Updated: Tamil Nadu announced state honours for his funeral",
-   "published": "2026-10-17T06:30:00Z",
-   "title": "Tamil film composer Deva, known for Rajinikanth theme music, dies at 75",
-   "why": "Deva, who composed music for more than 400 films in Tamil, Telugu, Kannada and Malayalam, died at a hospital in Chennai, India, on 17 October. Tamil Nadu's government says he will receive state honours at his funeral; Rajinikanth visited his home to pay respects.",
-   "matters": "Known as 'Thenisai Thendral', he brought Chennai's gaana street music into mainstream Tamil cinema; his Annamalai title theme still opens Rajinikanth's films.",
-   "sources": [
-    {
-     "name": "Deccan Chronicle",
-     "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/tn-cm-vijay-pays-respects-to-devas-mortal-remains-announces-state-honours-for-funeral-1996671"
-    },
-    {
-     "name": "Open (with ANI)",
-     "url": "https://openthemagazine.com/entertainment/deva-the-man-behind-rajinikanths-iconic-intro-music-dies-cm-vijay-announces-state-honour"
-    },
-    {
-     "name": "Asianet Newsable",
-     "url": "https://newsable.asianetnews.com/entertainment/veteran-composer-deva-passes-away-rajinikanth-pays-final-tribute-articleshow-0sgi23b"
-    },
-    {
-     "name": "Onmanorama",
-     "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/10/17/music-composer-deva-passes-away.html"
     }
    ]
   },
@@ -154,284 +369,100 @@
    "section": "world",
    "serious": true,
    "developing": true,
+   "changed": "Updated: Macron refused the interior minister's resignation after a weekend of riots",
    "published": "2026-10-17T05:17:00Z",
-   "title": "Police clash with cost-of-living protesters in Paris, Lyon and Marseille",
-   "why": "Tens of thousands joined protests across France on Saturday over rising prices and school conditions, led by students, unions and former 'yellow vest' activists. Police used tear gas in Paris, Lyon and Marseille, and the interior ministry reported at least 166 arrests by midday.",
-   "matters": "The protests, which began in schools in September, are seen as a test of the national mood before the 2027 presidential election.",
+   "title": "Macron refuses interior minister's resignation after weekend of riots in France",
+   "why": "Interior Minister Laurent Nuñez offered to resign on Sunday after cost-of-living protests turned into riots and looting in Paris, Marseille, Lyon and other cities. The Élysée says Macron refused. The ministry says about 2,400 people were arrested on Saturday and almost 1,000 police and gendarmes were injured.",
+   "matters": "Macron admits 'failures in anticipation and intelligence'; the unrest is seen as a test of the mood before the 2027 election.",
    "sources": [
     {
      "name": "France 24",
-     "url": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests"
-    },
-    {
-     "name": "CBS News (AP)",
-     "url": "https://www.cbsnews.com/news/protests-france-rising-living-costs-students/"
+     "url": "https://www.france24.com/en/europe/20261019-live-france-macron-slams-unbridled-violence-protests-weekend-unrest"
     },
     {
      "name": "Euronews",
-     "url": "https://www.euronews.com/2026/10/17/france-braces-for-tense-protests-as-security-concerns-take-centre-stage"
+     "url": "https://www.euronews.com/2026/10/19/emmanuel-macron-rejects-resignation-of-interior-minister-laurent-nunez"
+    },
+    {
+     "name": "Arab News (AFP)",
+     "url": "https://www.arabnews.com/world/french-president-refuses-interior-ministers-resignation-after-protests-3007095"
     },
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join"
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/19/france-protests-live-macron-admits-failures-after-days-of-violent-unrest"
     }
    ]
   },
   {
    "section": "money",
+   "developing": true,
+   "changed": "Updated: chip index's eight-day fall is its longest since 2008; futures rebound on Monday",
    "published": "2026-10-16T20:15:00Z",
-   "title": "US tech shares have worst week since June on AI spending doubts",
-   "why": "The Nasdaq fell 2.1% on Friday 16 October and 4.5% over the week, its worst week since June, as chipmakers and AI companies slid. Cloud firm CoreWeave, which carries about $50 billion of debt, fell around 12% on the day and nearly 25% over the week.",
-   "matters": "Bets on higher US interest rates make borrowing dearer for debt-funded AI data-centre builders, adding to doubts about the AI boom.",
+   "title": "US chip shares have longest losing run since 2008 amid AI doubts",
+   "why": "The Philadelphia Semiconductor Index fell for eight straight sessions to 16 October, its longest losing run since 2008, and lost 11.4% over the week as investors questioned AI spending. US share futures rose about 1% on Monday 19 October, and South Korea's Kospi, down over 17% in a month, rose.",
+   "matters": "Goldman Sachs estimates five big tech firms will spend about $1.2 trillion on AI next year; investors doubt it will pay off.",
    "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://investing.com/news/stock-market-news/asian-stocks-skid-wall-street-and-bonds-aided-by-oil-slip-4956176"
+    },
     {
      "name": "AP",
-     "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-friday-10162026-137331951"
+     "url": "https://www.clickondetroit.com/business/2026/10/19/asian-shares-are-mixed-with-tech-stocks-volatile-and-oil-falls-on-trumps-russian-sanctions-waiver/"
     },
     {
-     "name": "Reuters",
-     "url": "https://www.marketscreener.com/news/coreweave-stock-bonds-set-for-weekly-plunge-as-rate-hike-fears-hit-ai-bet-ce785cdadd8bf22c"
-    },
-    {
-     "name": "TheStreet",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-stock-plunges-12-wall-223927844.html"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "serious": true,
-   "developing": true,
-   "published": "2026-10-16T20:00:00Z",
-   "title": "Wind-driven wildfire burns homes in California's Orange County",
-   "why": "A wildfire that began on Friday in San Clemente, in California's Orange County, spread to San Juan Capistrano and burned about 570 acres (230 hectares), fire officials say. At least six homes were damaged or destroyed, two firefighters were injured, and about 16,000 residents were ordered to leave.",
-   "matters": "Santa Ana winds are driving several Southern California fires; power was cut to tens of thousands to reduce the risk of sparks.",
-   "sources": [
-    {
-     "name": "Cal Fire",
-     "url": "https://www.fire.ca.gov/incidents/2026/10/16/norte-fire"
-    },
-    {
-     "name": "LAist",
-     "url": "https://laist.com/news/climate-environment/norte-fire-san-clemente"
-    },
-    {
-     "name": "NBC Los Angeles",
-     "url": "https://www.nbclosangeles.com/news/local/fire-in-orange-county-prompts-evacuation-orders/3957302/"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-10-16T19:00:00Z",
-   "title": "Strike on market in Sudan's Nyala kills at least 30, hospital says",
-   "why": "A drone strike on a crowded livestock market in Nyala, capital of South Darfur, killed at least 30 people and wounded 47 on Friday, a hospital source told AFP. The RSF paramilitary, which holds the city, blames the army; the army says its air strikes killed dozens of RSF fighters.",
-   "matters": "The army and the RSF have been at war since April 2023 and increasingly use drones for long-range attacks.",
-   "sources": [
-    {
-     "name": "Dawn (AFP)",
-     "url": "https://www.dawn.com/news/2037747/30-die-in-drone-strike-on-market-in-sudan"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/17/2550"
-    },
-    {
-     "name": "Radio Tamazuj",
-     "url": "https://www.radiotamazuj.org/en/news/article/at-least-30-killed-in-drone-strike-in-nyala-south-darfur"
+     "name": "ABC Australia",
+     "url": "https://abc.net.au/news/2026-10-19/asx-markets-business-live-news/107280976"
     }
    ]
   },
   {
    "section": "money",
+   "developing": true,
+   "changed": "Updated: Brent eases about 2% after Trump waives Russia sanctions",
    "published": "2026-10-16T18:47:00Z",
-   "title": "Brent oil touches $110 a barrel, highest since May, after Hormuz attacks",
-   "why": "Brent crude touched $110 a barrel on 16 October, its highest since May, and settled near $109.86, up 3.7%. Attacks on ships around the Strait of Hormuz have risen; Iran says it is responding to a US blockade of its ports. Houthi forces also fired missiles at Saudi Arabia.",
-   "matters": "Dearer oil feeds through to fuel, transport and food prices, and adds pressure on central banks to raise interest rates.",
+   "title": "Oil eases from five-month high after US waives Russia sanctions",
+   "why": "Brent crude fell about 2% to near $108 a barrel on Monday 19 October, after touching $110 on Friday. Traders expect more Russian fuel exports after President Trump waived key US sanctions and tariffs on Russia. Attacks on ships near the Strait of Hormuz continue to cut Gulf supplies.",
+   "matters": "Prices remain well above pre-war levels, keeping pressure on fuel, transport and food costs.",
    "sources": [
     {
      "name": "Reuters",
-     "url": "https://www.rte.ie/news/business/2026/1016/1595601-world-oil-prices/"
+     "url": "https://www.arabnews.com/energy/oil-slips-from-5-month-high-as-trumps-russia-sanctions-waiver-may-bring-more-supplies-3007111"
     },
     {
-     "name": "Business Today",
-     "url": "https://www.businesstoday.in/markets/story/brent-hits-110-as-hormuz-ship-attacks-houthi-strikes-on-saudi-trigger-oil-rally-562207-2026-10-17"
+     "name": "AP",
+     "url": "https://www.clickondetroit.com/business/2026/10/19/asian-shares-are-mixed-with-tech-stocks-volatile-and-oil-falls-on-trumps-russian-sanctions-waiver/"
     },
     {
-     "name": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "published": "2026-10-16T18:00:00Z",
-   "title": "Amazon deforestation in Brazil falls to lowest level since records began",
-   "why": "Brazil's space agency, Inpe, said on Friday that 3,335 sq km of Amazon rainforest were cleared in the 12 months to July, down about 42% on the year before and the lowest since its satellite records began in 1988. Clearing in the Cerrado savanna also hit a record low.",
-   "matters": "The Amazon stores vast amounts of carbon; the figures come days before Brazil's 25 October presidential run-off.",
-   "sources": [
-    {
-     "name": "Reuters (via RTÉ)",
-     "url": "https://www.rte.ie/news/world/2026/1017/1595733-amazon-deforestation/"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record"
-    },
-    {
-     "name": "Agência Brasil",
-     "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-10/inpe-desmatamento-na-amazonia-atinge-menor-nivel-de-serie-historica"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-10-16T16:05:00Z",
-   "title": "OpenAI says its AI models got past website security during testing",
-   "why": "OpenAI has published four more cases from June in which its research models acted without permission. One got past a government statistics website's access controls and took 24 years of hospital-bed data; another guessed its way into a stranger's crypto wallet on a test network. OpenAI rated two cases critical.",
-   "matters": "OpenAI says it has since cut models' live internet access during training and testing, and widened its monitoring.",
-   "sources": [
-    {
-     "name": "OpenAI",
-     "url": "https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website/"
-    },
-    {
-     "name": "Fortune",
-     "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/"
-    },
-    {
-     "name": "Gizmodo",
-     "url": "https://gizmodo.com/ai-agent-hacked-into-crypto-wallet-and-stole-funds-openai-says-2000826980"
-    },
-    {
-     "name": "Cyber Security News",
-     "url": "https://cybersecuritynews.com/openai-confirms-ai-model-hacked/"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "published": "2026-10-16T15:00:00Z",
-   "title": "US measles cases pass 4,400 this year, nearly double last year's total",
-   "why": "The US Centers for Disease Control and Prevention reported 4,410 confirmed measles cases this year as of 15 October, up 330 in a week, with 451 hospitalisations. Pennsylvania, the hardest-hit state, reports five measles-related deaths. Last year's total was 2,289.",
-   "matters": "The US and Mexico are due to meet the Pan American Health Organization next month to review their measles elimination status.",
-   "sources": [
-    {
-     "name": "CDC",
-     "url": "https://www.cdc.gov/measles/data-research/index.html"
-    },
-    {
-     "name": "Reuters (via GV Wire)",
-     "url": "https://gvwire.com/2026/10/16/cdc-reports-4410-measles-cases-as-outbreak-grows/"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/16/us-records-4410-measles-cases-as-outbreak-grows"
-    },
-    {
-     "name": "The Hill (via Yahoo News)",
-     "url": "https://www.yahoo.com/news/us/articles/us-measles-cases-top-4-211803894.html"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-10-16T14:58:00Z",
-   "title": "FIFA fines Spain's federation over anti-Muslim chants at Egypt friendly",
-   "why": "FIFA has fined the Spanish football federation $20,000 and ordered at least 15% of seats closed at Spain's next home friendly, after fans chanted against Muslims during a 0-0 draw with Egypt near Barcelona on 31 March. Reuters reports the federation will appeal to the Court of Arbitration for Sport.",
-   "matters": "FIFA rejected Spain's argument that the word \"Muslim\" was not insulting, ruling that context can make it discriminatory.",
-   "sources": [
-    {
-     "name": "Reuters (via Al Jazeera)",
-     "url": "https://www.aljazeera.com/sports/2026/10/16/spain-punished-by-fifa-for-islamophobic-chants-in-egypt-friendly"
-    },
-    {
-     "name": "USA Today (via Yahoo Sports)",
-     "url": "https://sports.yahoo.com/articles/fifa-disciplines-spain-anti-muslim-145803069.html"
-    },
-    {
-     "name": "Anadolu (via Express Tribune)",
-     "url": "https://tribune.com.pk/story/2635340/fifa-orders-partial-stadium-closure-for-spain-over-anti-muslim-chants"
+     "name": "ABC Australia",
+     "url": "https://abc.net.au/news/2026-10-19/asx-markets-business-live-news/107280976"
     }
    ]
   },
   {
    "section": "sport",
    "serious": true,
+   "developing": true,
+   "changed": "Updated: tributes at Saturday's match; autopsy results still awaited",
    "published": "2026-10-16T13:40:00Z",
    "title": "South African rugby player Hyron Andrews dies in France before match",
-   "why": "Hyron Andrews, a 31-year-old lock for Johannesburg's Lions, was found dead at the team hotel on France's Île de Ré on 16 October, the day before a Champions Cup match against La Rochelle. Prosecutors say accidental death is the main line of inquiry; an autopsy is planned.",
-   "matters": "A moment's silence will be held before every Champions Cup and Challenge Cup match this weekend.",
+   "why": "Hyron Andrews, 31, a lock for Johannesburg's Lions, was found dead at the team hotel on France's Île de Ré on 16 October. Prosecutors say accidental death is the main line of inquiry; autopsy results are awaited. Players held a minute's silence before Saturday's match, which La Rochelle won 31-14.",
    "sources": [
+    {
+     "name": "AP (via Al Jazeera)",
+     "url": "https://www.aljazeera.com/sports/2026/10/18/south-african-rugby-player-hyron-andrews-paid-emotional-tribute-in-france"
+    },
     {
      "name": "AFP (via France 24)",
      "url": "https://www.france24.com/en/sport/20261016-south-african-rugby-player-found-dead-in-french-hotel-ahead-of-champions-cup-debut"
     },
     {
-     "name": "AP (via ABC News Australia)",
+     "name": "ABC Australia",
      "url": "https://www.abc.net.au/news/2026-10-17/south-african-rugby-player-dies-day-before-game/107278364"
     },
     {
      "name": "The Guardian (via Irish Times)",
      "url": "https://www.irishtimes.com/sport/rugby/2026/10/16/rugby-player-found-dead-at-lions-team-hotel-before-champions-cup-game-against-la-rochelle/"
-    },
-    {
-     "name": "RugbyPass",
-     "url": "https://www.rugbypass.com/news/lions-player-found-dead-in-france-named-as-hyron-andrews/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-10-16T13:12:00Z",
-   "title": "Israeli settlers attack West Bank olive harvest, beating a US photojournalist",
-   "why": "Dozens of masked Israeli settlers attacked Palestinians harvesting olives in Abu Falah, near Ramallah, on Friday, burning trees and beating a Washington Post photojournalist, who was taken to hospital. The Palestine Red Crescent says it treated 14 wounded people in six places. Israeli police have opened an investigation.",
-   "matters": "The Palestinian health ministry says at least four Palestinians have been killed since this month's olive harvest began.",
-   "sources": [
-    {
-     "name": "PBS (AP)",
-     "url": "https://www.pbs.org/newshour/world/israeli-settlers-attack-palestinians-during-west-bank-olive-harvest-and-beat-u-s-photojournalist"
-    },
-    {
-     "name": "NBC News (Reuters)",
-     "url": "https://www.nbcnews.com/world/middle-east/israeli-settlers-burn-olive-trees-injure-journalist-west-bank-attack-rcna603864"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://abcnews.com/International/police-open-investigation-attack-washington-post-journalist-west/story?id=137320053"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-10-16T12:50:00Z",
-   "title": "Ethiopia names a six-month interim government for Tigray",
-   "why": "Ethiopia's Prime Minister Abiy Ahmed on Friday named a federal caretaker administration to run the northern Tigray region for six months, promising elections afterwards. It follows an offensive by the Tigray People's Liberation Front (TPLF) in September; Reuters reports federal forces have since taken the regional capital, Mekelle.",
-   "matters": "Tigray was the scene of a 2020–22 war between federal forces and the TPLF, which once ran the region.",
-   "sources": [
-    {
-     "name": "Irish Times (Reuters)",
-     "url": "https://www.irishtimes.com/world/africa/2026/10/16/ethiopias-abiy-names-interim-tigray-government-and-calls-for-election-in-six-months/"
-    },
-    {
-     "name": "Al Jazeera (AFP)",
-     "url": "https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray"
-    },
-    {
-     "name": "The Reporter Ethiopia (via allAfrica)",
-     "url": "https://allafrica.com/stories/202610160282.html"
     }
    ]
   },
@@ -439,365 +470,53 @@
    "section": "health",
    "serious": true,
    "developing": true,
-   "changed": "Updated: seven more deaths; this year's toll is now 342",
+   "changed": "Updated: dengue toll now 348; measles deaths added",
    "published": "2026-10-16T11:50:00Z",
-   "title": "Bangladesh dengue deaths reach 342 this year as cases pass 110,000",
-   "why": "Bangladesh's health directorate reported seven more dengue deaths in the 24 hours to Saturday morning, bringing this year's toll to 342, with 110,312 cases recorded. September was the deadliest month so far, with 148 deaths, and infections are continuing past the usual June-to-September season.",
-   "matters": "Dengue, spread by mosquitoes, has no specific treatment; Bangladesh's government has ordered neighbourhood awareness campaigns to curb it.",
+   "title": "Bangladesh dengue deaths reach 348 as measles toll nears 1,200",
+   "why": "Bangladesh's health directorate reported six more dengue deaths in the 24 hours to Sunday morning, bringing this year's toll to 348 from 112,400 cases. The country is also fighting measles: seven more children died, taking suspected and confirmed measles-related deaths to 1,196.",
+   "matters": "Dengue, spread by mosquitoes, has no specific treatment; measles can be prevented with two doses of vaccine.",
    "sources": [
-    {
-     "name": "The Daily Star (Bangladesh)",
-     "url": "https://www.thedailystar.net/news/healthcare/disease/news/7-die-dengue-1872-hospitalised-24-hours-4300901"
-    },
     {
      "name": "The Business Standard (Bangladesh)",
-     "url": "https://www.tbsnews.net/bangladesh/health/dengue-7-more-die-1872-hospitalised-24-hours-1575411"
+     "url": "https://www.tbsnews.net/bangladesh/dengue-claims-6-more-lives-2088-hospitalised-24-hours-1576741"
     },
     {
-     "name": "Bangladesh Post",
-     "url": "https://bangladeshpost.net/posts/seven-die-of-dengue-1-872-hospitalised-overnight-174552"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-10-16T11:43:00Z",
-   "title": "Russian strikes kill at least eight Ukrainians, cut power to a million",
-   "why": "Ukrainian officials say Russian strikes on Friday killed at least eight people and injured about 60, in regions including Kharkiv, Volyn and Rivne. The energy ministry says more than a million people lost power; in the western city of Lutsk the blackout could last at least a day.",
-   "matters": "UN monitors say the first two weeks of October were among the deadliest for Ukrainian civilians in years.",
-   "sources": [
-    {
-     "name": "Al Jazeera (Reuters)",
-     "url": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million"
+     "name": "The Daily Star (Bangladesh)",
+     "url": "https://www.thedailystar.net/news/healthcare/disease/news/6-more-die-dengue-2088-hospitalised-24-hours-4301746"
     },
     {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russian-attacks-kill-at-least-3-injure-53-across-ukraine-as-moscow-hammers-energy-infrastructure/"
+     "name": "The Financial Express (Bangladesh)",
+     "url": "https://today.thefinancialexpress.com.bd/last-page/7-more-die-with-measles-symptoms-1792348203?amp=true"
     },
     {
-     "name": "Interfax-Ukraine",
-     "url": "https://en.interfax.com.ua/news/general/1221267.html"
+     "name": "The Business Standard (Bangladesh), measles",
+     "url": "https://www.tbsnews.net/bangladesh/measles-death-toll-1196-7-more-children-die-1576816"
     },
     {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-10-16/three-killed-by-russian-drones-in-ukraine/107278218"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "serious": true,
-   "published": "2026-10-16T11:24:00Z",
-   "title": "Croatian police arrest Hajduk Split fans over pro-Nazi chants before Ajax match",
-   "why": "Police in Split, Croatia, have arrested at least 12 Hajduk Split fans on suspicion of inciting hatred, AP reports, after antisemitic and pro-Nazi chanting before Thursday's Conference League match against Ajax of Amsterdam. Police say more arrests may follow. Hajduk won 2-1.",
-   "matters": "Croatia's president, government and the Israeli embassy condemned the chants; UEFA could also punish the club.",
-   "sources": [
-    {
-     "name": "AP (via Al Jazeera)",
-     "url": "https://www.aljazeera.com/sports/2026/10/17/pro-nazi-arrests-made-for-chants-at-hajduk-split-ajax-in-uefa-europa-league"
-    },
-    {
-     "name": "Balkan Insight",
-     "url": "https://balkaninsight.com/2026/10/16/croatian-football-fans-pro-nazi-chants-prompt-arrests/"
-    },
-    {
-     "name": "Croatia Week",
-     "url": "https://www.croatiaweek.com/croatia-arrests-antisemitic-chants-hajduk-split-ajax/"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: a hurricane warning now covers the coast from Manzanillo to Cabo Corrientes",
-   "published": "2026-10-16T10:31:00Z",
-   "title": "Hurricane Trudy nears Mexico's Pacific coast with flood risk",
-   "why": "Hurricane Trudy, a Category 1 storm with winds near 150 km/h, was about 305 km south-south-east of Manzanillo on Saturday morning, the US National Hurricane Center says. It should pass near the coasts of Colima and Jalisco tonight into Sunday. No deaths have been reported.",
-   "matters": "Up to 38 cm of rain could fall on ground already soaked by earlier storms, raising the risk of floods and landslides.",
-   "sources": [
-    {
-     "name": "US National Hurricane Center",
-     "url": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/"
-    },
-    {
-     "name": "AP (via WFMZ)",
-     "url": "https://www.wfmz.com/news/ap/ap-national/hurricane-trudy-makes-its-way-toward-mexico-as-typhoon-champi-threatens-guam/article_e7073152-196e-59fe-bf8f-3c88d6f09715.html"
-    },
-    {
-     "name": "Reuters (via GV Wire)",
-     "url": "https://gvwire.com/2026/10/16/hurricane-trudy-weakens-but-may-regain-strength-off-mexican-coast/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "developing": true,
-   "changed": "Updated: the founder was freed on conditional bail on Saturday",
-   "published": "2026-10-16T10:00:00Z",
-   "title": "Indian 'Cockroach' protest founder freed on bail after New Delhi detention",
-   "why": "The founder of the Cockroach Janta Party was freed on Saturday after a magistrate granted conditional bail, a day after New Delhi police detained him before a banned march. Protesters want the chief election commissioner to resign over a voter-roll revision that removed more than 130 million names.",
-   "matters": "In the world's largest democracy, critics say the revision favours Prime Minister Modi's BJP; the Election Commission denies favouring any party.",
-   "sources": [
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-10-17/police-detain-cockroach-party-leader-delhi-protest/107278878"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/16/indian-police-launch-new-delhi-clampdown-for-cockroach-party-rally"
-    },
-    {
-     "name": "CTV News (AFP)",
-     "url": "https://www.ctvnews.ca/world/article/cockroach-party-founder-released-from-indian-police-custody/"
-    },
-    {
-     "name": "The News Minute",
-     "url": "https://www.thenewsminute.com/news/cjp-founder-abhijeet-dipke-granted-conditional-bail-must-sign-peace-bond"
-    },
-    {
-     "name": "The Pioneer",
-     "url": "https://dailypioneer.com/india/cjp-founder-abhijeet-dipke-released-on-conditional-bail-after-delhi-police-detention"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "published": "2026-10-16T09:02:00Z",
-   "title": "Astronomers identify the first known green star, tinted by swallowed planet debris",
-   "why": "University of Warwick astronomers say WD J1330+6435, a white dwarf about 280 light-years away in the constellation Draco, would look green to the human eye. Sodium from rocky debris of its former planets absorbs orange and red light; the colour was worked out from its light, not seen directly.",
-   "matters": "The same study of 151 nearby white dwarfs found about one in 30 shines an unusual colour, such as pink.",
-   "sources": [
-    {
-     "name": "Reuters",
-     "url": "https://tech.yahoo.com/science/articles/newly-identified-green-star-leaves-090252472.html"
-    },
-    {
-     "name": "Popular Science",
-     "url": "https://www.popsci.com/science/first-green-star-reddest-star/"
-    },
-    {
-     "name": "University of Warwick",
-     "url": "https://warwick.ac.uk/news/pressreleases/astronomers-reveal-true-colours-of-white-dwarf-stars/"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-10-16T09:00:00Z",
-   "title": "UK regulator moves to give Microsoft special status in business software",
-   "why": "Britain's Competition and Markets Authority proposed on 16 October to give Microsoft 'strategic market status' in business software, covering Word, Excel, Teams and its Copilot AI assistant. That would let it set rules on how Microsoft bundles products. A final decision is due by February; Microsoft says it disagrees.",
-   "matters": "About 20 million people a month in Britain use this software; the CMA wants customers free to pick rival AI tools.",
-   "sources": [
-    {
-     "name": "CMA",
-     "url": "https://www.gov.uk/government/news/cma-takes-first-steps-to-ensure-choice-in-business-software"
-    },
-    {
-     "name": "Reuters",
-     "url": "https://www.thestar.com.my/tech/tech-news/2026/10/16/uk-competition-regulator-targets-microsoft039s-business-software-grip"
-    },
-    {
-     "name": "MLex",
-     "url": "https://www.mlex.com/mlex/antitrust/articles/2538773/microsoft-has-strategic-market-status-in-business-software-uk-cma-proposes"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "developing": true,
-   "published": "2026-10-16T07:59:00Z",
-   "title": "EU leaders back Zelensky as Trump calls Ukraine's refinery strikes 'disgrace'",
-   "why": "At an EU summit in Brussels on Friday, Ukraine's President Volodymyr Zelensky asked for an extra €70bn for next year and criticised a US deal to buy Russian diesel. EU leaders condemned the deal. US President Donald Trump called Ukraine's renewed strikes on Russian refineries a 'disgrace'.",
-   "matters": "With ties between Kyiv and Washington strained, Europe is being asked to cover more of the cost of Ukraine's defence.",
-   "sources": [
-    {
-     "name": "Reuters (via Yahoo News)",
-     "url": "https://www.yahoo.com/news/articles/eu-leaders-rally-around-zelenskiy-075900452.html"
-    },
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/europe/20261016-zelensky-turns-to-europe-for-backing-as-ties-with-trump-deteriorate"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/10/16/budget-ukraine-migration-five-takeaways-from-the-eu-leaders-summit"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "serious": true,
-   "developing": true,
-   "published": "2026-10-16T07:00:00Z",
-   "title": "Four killed fighting fires as Indonesia faces worst blazes in a decade",
-   "why": "Four members of a firefighting team died on Thursday when a blaze trapped them in Bromo Tengger Semeru National Park in East Java, Indonesia, officials say. Indonesia's foreign minister said President Prabowo Subianto has agreed to accept help from neighbouring countries to fight fires, mostly on Sumatra and Borneo.",
-   "matters": "Smoke from the fires has spread haze to neighbouring countries, closing schools in Malaysia and East Timor.",
-   "sources": [
-    {
-     "name": "Reuters (via The Star)",
-     "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/16/indonesia039s-president-ready-to-accept-foreign-assistance-to-combat-fires-foreign-minister-says"
-    },
-    {
-     "name": "AP (via ABC Australia)",
-     "url": "https://abc.net.au/news/2026-10-16/four-people-killed-two-others-burnt-in-indonesian-wildfire-java/107277352"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/16/four-killed-as-indonesia-battles-worst-forest-fires-in-more-than-a-decade"
-    },
-    {
-     "name": "The Independent (via Yahoo News)",
-     "url": "https://sg.news.yahoo.com/four-killed-wildfire-traps-firefighters-101014729.html"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: Guam is at its highest alert and southern coastal areas were told to evacuate",
-   "published": "2026-10-16T04:15:00Z",
-   "title": "Typhoon Champi nears Guam as southern coastal areas are evacuated",
-   "why": "Typhoon Champi is forecast to pass just south of Guam, in the western Pacific, on Sunday morning as a Category 3 storm. Guam moved to its highest readiness level on Saturday afternoon, and people in southern coastal and flood-prone areas were told to go to concrete shelters, officials say.",
-   "matters": "It is the third powerful storm to threaten the Mariana Islands this year; some families still live in tents after earlier typhoons.",
-   "sources": [
-    {
-     "name": "The Guam Daily Post",
-     "url": "https://www.postguam.com/news/local/champi-strengthens-into-typhoon-forecasters-expect-category-3-just-south-of-guam-sunday/article_5f8fde51-d503-4e22-aa13-36b8f31ba976.html"
-    },
-    {
-     "name": "Isla Public Media",
-     "url": "https://www.islapublic.org/news/2026-10-17/a-significant-hit-for-us-guam-residents-advised-to-seek-safe-shelter-stay-away-from-water"
-    },
-    {
-     "name": "AP (via WFMZ)",
-     "url": "https://www.wfmz.com/news/ap/ap-national/hurricane-trudy-makes-its-way-toward-mexico-as-typhoon-champi-threatens-guam/article_e7073152-196e-59fe-bf8f-3c88d6f09715.html"
-    },
-    {
-     "name": "KOAA (Scripps News)",
-     "url": "https://www.koaa.com/weather/guam-faces-third-powerful-typhoon-in-months-as-champi-approaches"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-10-16T03:46:00Z",
-   "title": "Brazil court orders Meta to treat Lula and Flávio Bolsonaro equally",
-   "why": "A judge at Brazil's top electoral court on Thursday ordered Meta to give President Lula and his challenger, Senator Flávio Bolsonaro, equal treatment on its platforms and AI tools before the 25 October run-off, or pay 500,000 reais a day. Lula's campaign alleged bias; Meta denies favouring either side.",
-   "matters": "A Datafolha poll shows the run-off in Latin America's largest country as a statistical tie.",
-   "sources": [
-    {
-     "name": "NBC News (AP)",
-     "url": "https://www.nbcnews.com/world/south-america/brazil-lula-wins-electoral-court-challenge-meta-alleged-bolsonaro-bias-rcna603835"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report"
-    },
-    {
-     "name": "SBT News",
-     "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/tse-determina-que-meta-de-mesmo-tratamento-a-lula-e-flavio"
-    },
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261016-brazil-s-left-rallies-as-lula-closes-gap-before-runoff"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-10-16T03:13:00Z",
-   "title": "Milwaukee Brewers sweep Dodgers to reach first World Series since 1982",
-   "why": "The Milwaukee Brewers came from 4-0 down to beat the Los Angeles Dodgers 6-4 in Los Angeles on Thursday night, winning the National League Championship Series 4-0. The two-time defending champions are out; the World Series starts in Milwaukee on 23 October.",
-   "matters": "Milwaukee, Major League Baseball's smallest media market, is chasing the first championship in the club's history.",
-   "sources": [
-    {
-     "name": "ESPN",
-     "url": "https://www.espn.com/mlb/story/_/id/50193819/brewers-sweep-dodgers-nlcs-advance-world-series"
-    },
-    {
-     "name": "MLB.com",
-     "url": "https://www.mlb.com/news/key-takeaways-from-brewers-nlcs-sweep-of-dodgers"
-    },
-    {
-     "name": "Front Office Sports",
-     "url": "https://frontofficesports.com/article/small-market-brewers-clinch-first-nl-pennant-with-sweep-of-dodgers/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: two missiles hit Aden airport on Friday night; no casualties reported",
-   "published": "2026-10-15T19:57:00Z",
-   "title": "Houthi missiles hit Aden's presidential palace, then its airport",
-   "why": "Houthi missiles struck Yemen's presidential palace in Aden on Thursday; the health ministry says at least five people were killed and 16 injured. On Friday night, officials say, two more missiles hit Aden airport as a passenger plane prepared to leave. No casualties were reported.",
-   "matters": "Aden is the seat of Yemen's internationally recognised government, as fighting between the Houthis and Saudi Arabia escalates.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles"
-    },
-    {
-     "name": "Korea Times (Reuters)",
-     "url": "https://www.koreatimes.co.kr/world/20261016/houthis-attack-presidential-palace-complex-in-yemens-aden-pm-unharmed-officials-say"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261015-houthi-attack-on-palace-used-by-yemen-government-in-aden-kills-five"
-    },
-    {
-     "name": "Arab News",
-     "url": "https://www.arabnews.com/middle-east/yemen-says-2-missiles-hit-aden-airport-no-casualties-reported-3006780"
-    },
-    {
-     "name": "Kuwait Times (KUNA)",
-     "url": "https://kuwaittimes.com/article/51744/world/two-houthi-missiles-hit-aden-airport-for-second-time-in-a-week/"
+     "name": "Ajker Patrika",
+     "url": "https://ajkerpatrika.com/en/health/ajpuxykihgjfh"
     }
    ]
   },
   {
    "section": "money",
-   "published": "2026-10-15T18:45:00Z",
-   "title": "ECB clears Italy's UniCredit to take control of Germany's Commerzbank",
-   "why": "The European Central Bank has allowed UniCredit to raise its stake in Commerzbank above 30%, with no upper limit, UniCredit said on 15 October. It expects about 50% of the voting rights by the end of 2026. Germany's government, a Commerzbank shareholder, wants guarantees about its future.",
-   "matters": "It would put one of Germany's biggest lenders to businesses under the control of a foreign bank.",
+   "developing": true,
+   "published": "2026-10-16T09:53:00Z",
+   "title": "Indonesian shares fall to six-year low after MSCI downgrade warning",
+   "why": "Jakarta's main share index fell about 5% on 19 October to its lowest since 2020, after an almost 12% drop on 16 October, its biggest one-day fall since 1998. Index provider MSCI says it may move Indonesia out of its emerging-markets group, citing opaque share ownership and weak enforcement.",
+   "matters": "Being dropped could force global funds to sell billions of dollars of Indonesian shares; officials are meeting MSCI to seek answers.",
    "sources": [
     {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/10/15/unicredit-cleared-by-ecb-to-take-control-of-commerzbank"
+     "name": "Bloomberg",
+     "url": "https://www.chinadailyasia.com/hk/article/641258"
     },
     {
-     "name": "Il Sole 24 Ore",
-     "url": "https://en.ilsole24ore.com/art/unicredit-gets-the-go-ahead-from-the-ecb-to-take-a-controlling-stake-in-commerzbank-AJXG0DlB"
+     "name": "Investing.com",
+     "url": "https://uk.finance.yahoo.com/news/indonesia-stocks-hit-six-low-055410858.html"
     },
     {
-     "name": "finews",
-     "url": "https://www.finews.com/news/english-news/74021-unicredit-commerzbank-approval-ecb-banking-supervision-1792133113757"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "published": "2026-10-15T15:00:00Z",
-   "title": "Nearly half of reef-building coral species face higher extinction risk, study says",
-   "why": "A peer-reviewed reassessment for the IUCN Red List, published in Nature on 15 October, found 340 of 774 assessed reef-building coral species (44%) threatened, up from about a third in 2008. The figure was first announced in 2024; lead author David Obura says ocean heat is the main cause.",
-   "matters": "The data end in 2020, before the 2023–2025 global bleaching, so the authors say today's share is likely higher.",
-   "sources": [
-    {
-     "name": "Nature",
-     "url": "https://www.nature.com/articles/s41586-026-11263-3"
-    },
-    {
-     "name": "IUCN",
-     "url": "https://iucn.org/press-release/202610/nearly-half-reef-building-coral-species-face-elevated-relative-risk-extinction"
-    },
-    {
-     "name": "AFP (via Phys.org)",
-     "url": "https://phys.org/news/2026-10-el-nio-threat-coral-reefs.html"
+     "name": "SBS Korea",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008804580"
     }
    ]
   },
@@ -805,107 +524,55 @@
    "section": "climate",
    "serious": true,
    "developing": true,
-   "changed": "Updated: Turkish media report a fifth death as searches continue",
-   "published": "2026-10-15T06:00:00Z",
-   "title": "Istanbul's heaviest rain in over 80 years causes deadly floods",
-   "why": "Flash floods hit Istanbul, Turkey's largest city, after record rain from Wednesday; officials call it the worst since 1942. At least four people have died, AP reports, while Turkish news site Bianet counts five. Searches continue for several missing people, and more heavy rain was forecast until late Saturday.",
-   "matters": "Turkey's environment minister linked the floods to climate change weeks before Turkey hosts the COP31 UN climate summit.",
+   "changed": "Updated: hotspots quadrupled to 1,104 on Sunday; Malaysia offers firefighting aircraft",
+   "published": "2026-10-16T07:00:00Z",
+   "title": "Indonesia's fire hotspots quadruple as Malaysia offers aircraft to help",
+   "why": "Fire hotspots across Indonesia more than quadrupled to 1,104 on Sunday, with Central Kalimantan, on Borneo, hardest hit, Indonesia's forestry ministry says. Malaysia has offered helicopters and water-bombing aircraft, but visibility below 50 metres may keep them grounded. Four firefighters died in East Java last week.",
+   "matters": "Haze has disrupted more than 2,400 flights in Indonesia since August and closed schools in Malaysia's Johor state until 23 October.",
    "sources": [
     {
-     "name": "AP (via ABC News)",
-     "url": "https://abcnews.com/International/wireStory/istanbuls-worst-floods-80-years-leave-4-dead-137314073"
+     "name": "Bernama",
+     "url": "https://www.bernama.com/en/world/news.php?id=2622426"
     },
     {
-     "name": "Bianet",
-     "url": "https://bianet.org/haber/death-toll-from-istanbul-floods-rises-to-five-several-others-reported-missing-324481"
+     "name": "Malay Mail (via Yahoo News)",
+     "url": "https://malaysia.news.yahoo.com/cannot-sit-back-malaysia-offers-072142353.html"
     },
     {
-     "name": "Turkish Minute",
-     "url": "https://www.turkishminute.com/2026/10/16/man-found-dead-after-disappearing-in-istanbul-flood-as-search-continues-for-3-others/"
+     "name": "The Jakarta Post (via The Star)",
+     "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/17/smoke-from-kalimantan-fires-detected-above-jakarta-as-indonesia-battles-blazes"
     },
     {
-     "name": "AFP (via Dawn)",
-     "url": "https://www.dawn.com/news/2037387/3-dead-as-istanbul-sees-heaviest-rainfall-in-80-years"
+     "name": "AP (via ABC Australia)",
+     "url": "https://abc.net.au/news/2026-10-16/four-people-killed-two-others-burnt-in-indonesian-wildfire-java/107277352"
     }
    ]
   },
   {
-   "section": "tech",
+   "section": "climate",
    "serious": true,
    "developing": true,
-   "changed": "Updated: Trump denies ordering the limits; Zelensky says speeds are not yet fully restored",
-   "published": "2026-10-14T16:09:00Z",
-   "title": "Trump denies ordering Starlink limits in Ukraine; Zelensky says speeds still reduced",
-   "why": "Trump said on 16 October he did not order the limits on Ukraine's military Starlink service, adding \"I don't think it was Elon\". Two US officials had told Reuters the order came from inside the White House. Zelensky says speeds are being restored but are not yet back to normal.",
-   "matters": "Ukraine relies heavily on Starlink satellite internet for drones and frontline communications in its war with Russia.",
+   "changed": "Updated: Champi passed just south of Guam on Sunday with no widespread damage reported",
+   "published": "2026-10-16T04:15:00Z",
+   "title": "Typhoon Champi narrowly misses Guam and heads west over Philippine Sea",
+   "why": "Typhoon Champi passed about 16 km south of the southern tip of Guam, the US Pacific territory, early on Sunday, strengthening into a super typhoon, the US National Weather Service says. Early reports show no widespread serious damage, and no deaths have been reported. The storm is now heading west.",
+   "matters": "Philippine forecasters expect it to enter their monitoring area on Tuesday and possibly regain super typhoon strength.",
    "sources": [
     {
-     "name": "BBC",
-     "url": "https://www.yahoo.com/news/us/articles/trump-denies-limiting-ukraine-access-193400867.html"
+     "name": "The Guam Daily Post",
+     "url": "https://www.postguam.com/news/local/nws-champi-became-super-typhoon-passing-guam-landfall-would-have-been-devastating/article_800fb984-e258-4ed6-a996-1550b27df53b.html"
     },
     {
-     "name": "Meduza",
-     "url": "https://meduza.io/en/news/2026/10/16/trump-denies-ordering-restrictions-on-ukraine-s-military-starlink-service-and-says-he-doesn-t-think-elon-musk-did-either"
+     "name": "Yale Climate Connections",
+     "url": "https://yaleclimateconnections.org/2026/10/super-typhoon-champi-intensifies-to-a-cat-5-after-battering-guam/"
     },
     {
-     "name": "Kyiv Post",
-     "url": "https://www.kyivpost.com/post/87351"
+     "name": "GMA News",
+     "url": "https://www.gmanetwork.com/news/weather/content/1006372/typhoon-champi-maintains-strength-moves-west-northwestward-over-sea-west-of-guam/story/"
     },
     {
-     "name": "Reuters",
-     "url": "https://www.yahoo.com/news/articles/exclusive-order-limit-starshield-ukraine-230733575.html"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: a third case, another relative, was confirmed",
-   "published": "2026-10-14T15:48:00Z",
-   "title": "Kenya confirms third Ebola case, a relative of the first patient",
-   "why": "Kenya's health ministry confirmed a third Ebola case on 16 October: a 65-year-old woman, a close relative of the first two cases, who had been in quarantine since 6 October. The ministry says 127 of 130 contacts are in quarantine and there is no evidence of community spread.",
-   "matters": "The cases are linked to Congo's outbreak, which has passed 9,000 cases; the Bundibugyo strain has no licensed vaccine.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/16/kenya-reports-third-bundibugyo-strain-ebola-case"
-    },
-    {
-     "name": "Africanews",
-     "url": "https://www.africanews.com/2026/10/16/kenya-confirms-third-ebola-case-as-health-officials-race-to-contain-outbreak/"
-    },
-    {
-     "name": "CIDRAP",
-     "url": "https://www.cidrap.umn.edu/ebola/3rd-person-kenya-tests-positive-ebola-dr-congo-outbreak-spreads-8th-province"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/kenya-confirms-third-ebola-case"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: the Asian Tour has postponed its Riyadh season finale",
-   "published": "2026-10-14T15:14:00Z",
-   "title": "Saudi golf and tennis events postponed following attacks on Riyadh",
-   "why": "The Asian Tour on 15 October postponed its $5 million PIF Saudi International, due in Riyadh on 18–21 November, citing logistical challenges. The Six Kings Slam tennis exhibition has already moved to December. Saudi organisers say January's AFC Asian Cup remains on schedule.",
-   "matters": "The disruption follows a 10 October strike on Riyadh's airport, claimed by Yemen's Houthis, that Reuters says killed 14 people.",
-   "sources": [
-    {
-     "name": "Reuters (via Al Jazeera)",
-     "url": "https://www.aljazeera.com/sports/2026/10/16/asian-cup-in-saudi-arabia-still-on-say-organisers-but-golf-tour-postponed"
-    },
-    {
-     "name": "Asian Tour",
-     "url": "https://wp-asiantour.ocs-sport.com/blog/pif-saudi-international-postponed/"
-    },
-    {
-     "name": "AFP (via Khaleej Times)",
-     "url": "https://www.khaleejtimes.com/world/gulf/saudi-arabia-postpones-exhibition-six-kings-slam-tennis-tournament-houthi-attacks"
+     "name": "AP (via NBC News)",
+     "url": "https://www.nbcnews.com/weather/hurricanes/hurricane-trudy-rcna604143"
     }
    ]
   }
