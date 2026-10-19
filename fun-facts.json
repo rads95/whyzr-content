@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17",
+  "updated": "2026-10-19",
   "facts": [
     {
       "date": "2026-09-20",
@@ -836,6 +836,66 @@
         {
           "name": "El Cronista",
           "url": "https://www.cronista.com/en/lifestyle/why-tennis-balls-are-yellow-its-not-aesthetics-but-a-1972-decision-that-stuck-to-this-day/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "kind": "fact",
+      "category": "Records",
+      "emoji": "🌊",
+      "title": "The oldest, deepest lake on Earth",
+      "text": "Siberia's Lake Baikal is about 25 million years old, making it the oldest lake on the planet, and it plunges more than 1.6 km deep, the deepest too. It holds about as much fresh water as all five of North America's Great Lakes put together.",
+      "sources": [
+        {
+          "name": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/fr/documents/123137"
+        },
+        {
+          "name": "NASA Earth Observatory: Lake Baikal at Night",
+          "url": "https://science.nasa.gov/earth/earth-observatory/lake-baikal-at-night-153110/"
+        },
+        {
+          "name": "NASA Earth Observatory: Ice Covers Lake Baikal",
+          "url": "https://science.nasa.gov/earth/earth-observatory/ice-covers-lake-baikal-48878/"
+        },
+        {
+          "name": "University of Alaska Fairbanks, Geophysical Institute",
+          "url": "https://gi.alaska.edu/alaska-science-forum/oddities-lake-baikal"
+        },
+        {
+          "name": "University of Pennsylvania, Center for Russian and East European Studies",
+          "url": "https://rees.sas.upenn.edu/node/514"
+        },
+        {
+          "name": "Mental Floss",
+          "url": "https://www.mentalfloss.com/posts/what-is-deepest-lake-in-world"
+        },
+        {
+          "name": "WorldAtlas",
+          "url": "https://www.worldatlas.com/lakes/how-lake-baikal-holds-more-water-than-all-the-great-lakes-combined.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "kind": "folklore",
+      "emoji": "🦇",
+      "title": "Blind as a bat",
+      "myth": "Bats can't see, which is why people say someone is \"blind as a bat\".",
+      "truth": "Bats aren't blind. They have working eyes and use their sight to find their way, and many also use echolocation, sending out sounds and listening for the echoes to dodge things in the dark.",
+      "sources": [
+        {
+          "name": "US National Park Service: Acadia National Park",
+          "url": "https://home.nps.gov/acad/learn/nature/bats.htm"
+        },
+        {
+          "name": "De Gruyter (academic publisher)",
+          "url": "https://blog.degruyter.com/myth-came-true-blindness-bats/"
+        },
+        {
+          "name": "Forest Preserve District of Will County",
+          "url": "https://www.reconnectwithnature.org/headlines/news/myth-buster-bats-aren-t-blind"
         }
       ]
     }
