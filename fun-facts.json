@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "facts": [
     {
       "date": "2026-09-20",
@@ -896,6 +896,36 @@
         {
           "name": "Forest Preserve District of Will County",
           "url": "https://www.reconnectwithnature.org/headlines/news/myth-buster-bats-aren-t-blind"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "kind": "fact",
+      "category": "Weird but true",
+      "emoji": "🌏",
+      "title": "Australia is wider than the Moon",
+      "text": "Mainland Australia stretches almost 4,000 km from Steep Point in the west to Cape Byron in the east. The Moon is only about 3,475 km across. So if you could lay the Moon over a map, Australia would poke out both sides by around 500 km in total.",
+      "sources": [
+        {
+          "name": "Geoscience Australia – Continental extremities",
+          "url": "https://www.ga.gov.au/scientific-topics/national-location-information/dimensions/continental-extremities"
+        },
+        {
+          "name": "Australian Bureau of Statistics – Year Book Australia 2009–10",
+          "url": "https://www.abs.gov.au/AUSSTATS/ABS@.nsf/66f306f503e529a5ca25697e0017661f/047D4BA4016F7A0BCA25773700169C25"
+        },
+        {
+          "name": "NASA – Moon Fact Sheet",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html"
+        },
+        {
+          "name": "Universe Today – Diameter of the Moon",
+          "url": "https://www.universetoday.com/articles/diameter-of-the-moon"
+        },
+        {
+          "name": "Black Dot Research – Is Australia wider than the moon?",
+          "url": "https://blackdotresearch.sg/?p=11605"
         }
       ]
     }
