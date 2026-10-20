@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T07:33:03Z",
+ "updated": "2026-10-20T07:47:55Z",
  "items": [
   {
    "section": "world",
@@ -280,6 +280,28 @@
     {
      "name": "Goal",
      "url": "https://www.goal.com/en/lists/senegal-wait-november-cas-verdict-disputed-afcon-title-awarded-morocco/bltfe909b6e7550dc0e"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-10-19T13:30:00Z",
+   "title": "Collapse at illegal gold mine in Colombia kills at least 14",
+   "why": "A landslide buried workers at an informal open-pit gold mine in Santa Bárbara de Iscuandé, on the Pacific coast of Colombia’s Nariño department, on Monday morning. Regional disaster officials say 14 people died and seven were injured.",
+   "matters": "It is Nariño’s second deadly mine collapse in under three months; the governor wants tighter rules for informal mining.",
+   "sources": [
+    {
+     "name": "El Tiempo",
+     "url": "https://www.eltiempo.com/colombia/cali/a-14-ascienden-los-muertos-en-una-mina-artesanal-de-oro-en-santa-barbara-de-iscuande-narino-hay-otras-siete-personas-heridas-3594786"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/19/colombia-illegal-gold-mine-collapse-kills-14-people"
+    },
+    {
+     "name": "AAP",
+     "url": "https://www.thecourier.com.au/story/9371758/colombia-gold-mine-collapse-kills-at-least-14/"
     }
    ]
   },
