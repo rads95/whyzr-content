@@ -1,6 +1,146 @@
 {
- "updated": "2026-10-20T07:47:55Z",
+ "updated": "2026-10-20T14:09:03Z",
  "items": [
+  {
+   "section": "sport",
+   "developing": true,
+   "published": "2026-10-20T12:17:00Z",
+   "title": "Captain Bavuma's century lifts South Africa in second Test against Australia",
+   "why": "South Africa captain Temba Bavuma made his fifth Test century, and his first against Australia, on day three of the second Test in Gqeberha on 20 October. After rain cut much of the first two days, South Africa slid to 110 for six before recovering past 330 for seven.",
+   "matters": "Scott Boland took five wickets for Australia, who lead the three-Test series 1-0 after winning in Durban.",
+   "sources": [
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-20/test-cricket-live-updates-south-africa-vs-australia/107287648"
+    },
+    {
+     "name": "Outlook India",
+     "url": "https://www.outlookindia.com/sports/cricket/south-africa-vs-australia-live-score-2nd-test-day-3-sa-v-aus-updates-gqeberha-2026-highlights"
+    },
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/cricket/series/1525634/scorecard/1525660/south-africa-vs-australia-2nd-test-australia-in-south-africa-2026-27"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "serious": false,
+   "published": "2026-10-20T11:30:00Z",
+   "title": "Brent oil rises above $111 a barrel, its highest since May",
+   "why": "Brent crude rose as high as $111.75 a barrel on Tuesday 20 October, its highest since May, Reuters reports, and was at $111.20 at 11:20 GMT. Traders cited attacks on ships near the Strait of Hormuz and Houthi claims, unconfirmed by Saudi Arabia, of strikes on Saudi oil sites.",
+   "matters": "Higher oil prices feed through to fuel, transport and food costs around the world.",
+   "sources": [
+    {
+     "name": "MarketScreener (Reuters)",
+     "url": "https://www.marketscreener.com/news/brent-crude-holds-near-five-month-high-on-middle-east-tension-ce785cdbde8cf722"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://www.investing.com/news/commodities-news/oil-holds-near-fivemonth-high-as-hormuz-attacks-threaten-supply-recovery-4958615"
+    },
+    {
+     "name": "Oilprice.com (Yahoo Finance)",
+     "url": "https://finance.yahoo.com/energy/articles/brent-tops-110-tanker-attacks-045606283.html"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "developing": true,
+   "published": "2026-10-20T11:15:00Z",
+   "title": "Rubio says US and India are 'very close' to a trade deal",
+   "why": "US Secretary of State Marco Rubio met India's Foreign Minister S Jaishankar in Mumbai on Tuesday, AP reports. Rubio said a deal is 'about as close as you can be' without signing. Talks have stalled for months over US tariffs and India's purchases of Russian oil.",
+   "matters": "US tariffs on Indian goods reached 50% in 2025 before a February framework cut them to 18%.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://abcnews.com/International/wireStory/rubio-jaishankar-hold-talks-mumbai-us-india-aim-137406921"
+    },
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261020-rubio-lands-in-india-for-trade-diplomacy"
+    },
+    {
+     "name": "The Tribune (ANI)",
+     "url": "https://www.tribuneindia.com/news/bilateral-talks/us-secretary-of-state-rubio-arrives-in-mumbai-for-talks-with-jaishankar-amid-push-for-india-us-trade-deal"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "serious": false,
+   "published": "2026-10-20T10:30:00Z",
+   "title": "GM profit beats forecasts but shares fall on cautious outlook",
+   "why": "General Motors said on 20 October its third-quarter adjusted operating profit rose 22% to $4.1 billion, on revenue of $50 billion, helped by pickup trucks, and approved a new $20 billion share buyback. Its shares fell more than 5% in New York after it narrowed its full-year forecast.",
+   "sources": [
+    {
+     "name": "General Motors (SEC filing)",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001467858/000146785826000056/gmq32026pressreleaseandfin.htm"
+    },
+    {
+     "name": "The Globe and Mail (Reuters)",
+     "url": "https://www.theglobeandmail.com/business/international-business/us-business/article-gms-core-profit-rises-22-beats-estimates/"
+    },
+    {
+     "name": "Yahoo Finance (DPA)",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/general-motors-profit-surges-announces-114852112.html"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-10-20T09:00:00Z",
+   "title": "Britain to fly RAF Typhoon jets to defend Saudi Arabia from Houthis",
+   "why": "Britain's Ministry of Defence said on Tuesday that RAF Typhoons will fly defensive missions over Saudi Arabia against Houthi drones and missiles, after a Saudi request. They will not strike Houthi targets in Yemen. Defence Secretary Wes Streeting called the Houthi attacks 'absolutely despicable'.",
+   "matters": "It deepens Britain's military role as Houthi strikes on Saudi cities, airports and oil sites continue.",
+   "sources": [
+    {
+     "name": "UK Ministry of Defence",
+     "url": "https://www.gov.uk/government/news/operational-update-20-october-uk-military-support-to-the-kingdom-of-saudi-arabia"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/uk/2026/10/20/uk-mission-to-defend-saudi-arabia-adds-typhoon-jets/"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "lead": true,
+   "developing": true,
+   "published": "2026-10-20T08:30:00Z",
+   "title": "Pakistan's army chief in Tehran as Iran-US talks remain stalled",
+   "why": "Pakistan's army chief, Field Marshal Asim Munir, arrived in Tehran on Tuesday, Iranian state media said, on his fifth mediation trip since a short-lived June deal. Iranian officials told Reuters Tehran sees little chance of a breakthrough before the US midterm elections on 3 November.",
+   "matters": "Talks centre on reopening the Strait of Hormuz, a key route for the world's oil, with Brent above $110 a barrel.",
+   "sources": [
+    {
+     "name": "Arab News (AFP)",
+     "url": "https://www.arabnews.com/middle-east/pakistan-army-chief-asim-munir-to-visit-tehran-on-tuesday-3007257"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/gulf/2026/10/20/pakistan-army-chief-arrives-in-tehran-as-iran-seeks-leverage-in-us-talks/"
+    },
+    {
+     "name": "Dawn (Reuters)",
+     "url": "https://www.dawn.com/news/2038436"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz/"
+    }
+   ]
+  },
   {
    "section": "world",
    "published": "2026-10-20T03:30:00Z",
@@ -23,29 +163,52 @@
    ]
   },
   {
+   "section": "science",
+   "serious": false,
+   "published": "2026-10-20T03:00:00Z",
+   "title": "Suspected Chinese rocket debris falls on plantation in Indonesian Borneo",
+   "why": "A large burnt metal piece, which police describe as up to nine metres long, was found on a palm oil plantation near Sampit, Central Kalimantan, on 19 October after residents heard a loud bang. Indonesia's research agency BRIN suspects it came from China's Zhuque-2E rocket. Nobody was hurt.",
+   "matters": "ESA says injury risk from falling space debris is very low but rising as launches increase.",
+   "sources": [
+    {
+     "name": "Phys.org (AFP)",
+     "url": "https://phys.org/news/2026-10-indonesia-probes-chinese-rocket-fragment.html"
+    },
+    {
+     "name": "detikNews",
+     "url": "https://news.detik.com/berita/d-8715258/terbaru-di-kalteng-ini-deretan-peristiwa-puing-roket-china-masuk-indonesia"
+    },
+    {
+     "name": "Kumparan",
+     "url": "https://kumparan.com/kumparannews/terdengar-gemuruh-puing-roket-china-jatuh-di-sampit-28PVYm6Ek1C"
+    }
+   ]
+  },
+  {
    "section": "climate",
    "serious": true,
    "developing": true,
+   "changed": "Updated: winds up to 195 km/h; closest to Batanes on Thursday or Friday",
    "published": "2026-10-20T02:40:00Z",
-   "title": "Super Typhoon Champi enters Philippine waters; storm signals raised in northern Luzon",
-   "why": "Champi, named Rosal locally, entered the Philippine area of responsibility at 02:40 UTC on Tuesday with winds of 185 km/h, the weather agency PAGASA says. Signal No. 1 is up in Batanes and parts of Cagayan, Isabela and Catanduanes. PAGASA expects it to leave Philippine waters by early Saturday.",
-   "matters": "Taiwan's weather agency expects Champi to turn north on Thursday but bring heavy rain to northern and eastern Taiwan from Friday.",
+   "title": "Super Typhoon Champi strengthens east of Philippines; Batanes braces for rain",
+   "why": "Champi, named Rosal locally, had winds of 195 km/h and gusts of 240 km/h on Tuesday afternoon, about 1,270 km east of Luzon, the Philippine weather agency PAGASA says. It expects no landfall, but the storm should pass closest to Batanes, in the far north, on Thursday or Friday.",
+   "matters": "PAGASA warns of up to 200 mm of rain in Batanes; Japan's weather agency expects Champi south of Okinawa on Friday.",
    "sources": [
     {
      "name": "Philstar",
-     "url": "https://www.philstar.com/headlines/weather/2026/10/20/2564530/signal-no-1-5-luzon-areas-super-typhoon-rosal-enters-par"
+     "url": "https://www.philstar.com/headlines/weather/2026/10/20/2564566/rosal-slightly-intensifies-approach-signal-no-1-still-luzon"
     },
     {
      "name": "The Manila Times",
-     "url": "https://www.manilatimes.net/2026/10/20/news/national/signal-no-1-up-in-parts-of-northern-southern-luzon/2449350"
+     "url": "https://www.manilatimes.net/2026/10/20/regions/pagasa-forecasts-rosal-induced-heavy-rains-in-batanes-cagayan-thursday-friday/2449614"
     },
     {
-     "name": "GMA News",
-     "url": "https://www.gmanetwork.com/news/weather/content/1006494/signal-no-1-up-over-parts-of-luzon-as-super-typhoon-rosal-enters-par/story/"
+     "name": "SunStar (PNA)",
+     "url": "https://www.sunstar.com.ph/pampanga/signal-no-1-up-in-parts-of-northern-luzon-due-to-rosal"
     },
     {
-     "name": "Focus Taiwan (CNA)",
-     "url": "https://focustaiwan.tw/society/202610200007"
+     "name": "The Star",
+     "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/20/typhoon-champi-may-approach-south-of-okinawa-on-friday-but-its-path-remains-uncertain"
     }
    ]
   },
@@ -75,6 +238,27 @@
    ]
   },
   {
+   "section": "sport",
+   "published": "2026-10-20T02:30:00Z",
+   "title": "Angel Reese's 30 points help Atlanta Dream level WNBA Finals",
+   "why": "The Atlanta Dream beat the Golden State Valkyries 79-65 in San Francisco on Monday 19 October, levelling the best-of-seven WNBA Finals at 1-1. Angel Reese scored 30 points and took 16 rebounds. It was Atlanta's first Finals win, after losing all three of its previous Finals.",
+   "matters": "Game 3 is in Atlanta on Wednesday 21 October.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/sports/2026/10/20/angel-reese-scores-30-as-dream-stun-valkyries-to-go-level-in-wnba-finals"
+    },
+    {
+     "name": "Yahoo Sports",
+     "url": "https://sports.yahoo.com/wnba/article/angel-reese-lifts-dream-to-first-wnba-finals-win-vs-valkyries-with-historic-breakout-performance-in-game-2-we-feed-off-her-energy-051815445.html"
+    },
+    {
+     "name": "NBC Sports",
+     "url": "https://www.nbcsports.com/wnba/news/angel-reese-shines-as-atlanta-dream-battle-back-to-even-wnba-finals-vs-golden-state-valkyries"
+    }
+   ]
+  },
+  {
    "section": "tech",
    "published": "2026-10-19T21:30:00Z",
    "title": "US judge orders ex-OpenAI engineer held without bail in recording-device case",
@@ -96,6 +280,51 @@
     {
      "name": "The National",
      "url": "https://www.thenationalnews.com/future/technology/2026/10/20/abdulrahman-alfozan-openai-saudi/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "developing": true,
+   "changed": "Updated: Trump says somebody else should negotiate for Ukraine",
+   "published": "2026-10-19T20:06:00Z",
+   "title": "Trump says 'somebody else' should negotiate for Ukraine instead of Zelensky",
+   "why": "US President Donald Trump said on Monday it is 'time for somebody else to negotiate on behalf of Ukraine'. Ukraine's President Volodymyr Zelensky told US senators that Patriot missiles Europe has paid for are being delayed and that US decisions are 'hard to explain between friends'.",
+   "matters": "Trump's envoy Steve Witkoff is due in Norway this week for further talks that Zelensky is expected to attend.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.yahoo.com/news/politics/articles/trump-says-zelenskiy-somebody-else-200613252.html"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms"
+    },
+    {
+     "name": "PBS NewsHour",
+     "url": "https://www.pbs.org/newshour/show/trump-escalates-clash-with-zelenskyy-as-russia-continues-deadly-attacks-on-ukraine"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "serious": true,
+   "published": "2026-10-19T20:00:00Z",
+   "title": "US approves immunotherapy that may spare some rectal cancer patients surgery",
+   "why": "The US Food and Drug Administration gave accelerated approval on 19 October to GSK's immunotherapy Jemperli (dostarlimab) for a genetic type of locally advanced rectal cancer. In a 154-patient trial, almost three-quarters needed no surgery, radiation or chemotherapy after a median follow-up of two years, the FDA says.",
+   "matters": "The subtype, called dMMR or MSI-H, is a small share of rectal cancers; the FDA says longer follow-up is still needed.",
+   "sources": [
+    {
+     "name": "US FDA",
+     "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-immunotherapy-may-allow-certain-patients-rectal-cancer-avoid-chemotherapy-radiation-and"
+    },
+    {
+     "name": "GSK",
+     "url": "https://us.gsk.com/en-us/media/press-releases/jemperli-dostarlimab-gxly-approved-in-us-as-first-and-only-immunotherapy-for-adults-with-msi-hdmmr-locally-advanced-rectal-cancer/"
+    },
+    {
+     "name": "The ASCO Post",
+     "url": "https://ascopost.com/news/october-2026/fda-approves-dostarlimab-for-msi-hdmmr-locally-advanced-rectal-cancer"
     }
    ]
   },
@@ -215,6 +444,79 @@
     {
      "name": "Xinhua",
      "url": "https://english.news.cn/20261020/03826e79b31f4c308b19d15caa9806bc/c.html"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "serious": false,
+   "published": "2026-10-19T17:00:00Z",
+   "title": "Germany and Nvidia agree to work on AI for industry",
+   "why": "German Chancellor Friedrich Merz and Nvidia chief Jensen Huang announced a partnership on 19 October at the first Invest in Germany summit in Berlin, aimed at AI models for factories and robots. Economy Minister Katherina Reiche says investors pledged more than €225 billion at the summit.",
+   "matters": "Germany, Europe's largest economy, hopes AI can help revive its struggling carmakers and machinery makers.",
+   "sources": [
+    {
+     "name": "Tech Xplore (AP)",
+     "url": "https://techxplore.com/news/2026-10-nvidia-ceo-urges-german-ai.html"
+    },
+    {
+     "name": "Yahoo Finance (DPA)",
+     "url": "https://finance.yahoo.com/technology/ai/articles/merz-unveils-nvidia-partnership-major-193335520.html"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/19/nvidia-ceo-jensen-huang-warns-germany-is-falling-behind-in-ai-race"
+    },
+    {
+     "name": "Nvidia",
+     "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "published": "2026-10-19T15:18:00Z",
+   "title": "Christiane Amanpour to leave CNN after 43 years",
+   "why": "CNN's chief international anchor, Christiane Amanpour, 68, said on 19 October that she will leave the network after 43 years. Her daily CNN and PBS programmes end in late 2026; a weekly CNN International show continues until May, and she leaves in June 2027.",
+   "matters": "It comes weeks after Paramount Skydance took over CNN's parent company; Amanpour did not mention the deal, AFP reports.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261019-christiane-amanpour-to-leave-cnn-after-43-years"
+    },
+    {
+     "name": "TheWrap",
+     "url": "https://www.thewrap.com/media-platforms/journalism/christiane-amanpour-leaving-cnn-after-43-years/"
+    },
+    {
+     "name": "ThePrint",
+     "url": "https://theprint.in/feature/christiane-amanpour-leaves-cnn-after-43-years-always-be-truthful-not-neutral/3076615/"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "serious": false,
+   "published": "2026-10-19T15:00:00Z",
+   "title": "Ramaphosa tells South Africa to prepare for losing US trade benefits",
+   "why": "South Africa's President Cyril Ramaphosa said on 19 October the country must prepare for possible exclusion from AGOA, the US scheme giving African goods duty-free access. He said the effect on jobs would be 'devastating'. Any exclusion from 1 January must be announced by 2 November.",
+   "matters": "Carmakers' groups say about 86,000 South African jobs depend directly on the deal.",
+   "sources": [
+    {
+     "name": "CNBC Africa (Reuters)",
+     "url": "https://www.cnbcafrica.com/2026/south-africa-must-prepare-for-potential-loss-of-us-trade-benefits-president-says"
+    },
+    {
+     "name": "East Coast Radio (AFP)",
+     "url": "https://www.ecr.co.za/news/news/ramaphosa-south-africa-agoa-us-trade-exclusion-warning/"
+    },
+    {
+     "name": "GBC Ghana",
+     "url": "https://www.gbcghanaonline.com/general-news/ramaphosa-warns-south-africa-to-prepare-for-possible-loss-of-us-africa-trade-deal/2026/"
+    },
+    {
+     "name": "Africanews",
+     "url": "https://www.africanews.com/2026/10/20/south-africa-ramaphosa-warns-of-devastating-impact-if-us-trade-deal-is-lost/"
     }
    ]
   },
@@ -374,31 +676,27 @@
    "section": "world",
    "serious": true,
    "developing": true,
-   "changed": "Updated: death toll rises to at least 53; Saudi Arabia postpones its big Riyadh investment summit to 2027",
+   "changed": "Updated: toll rises to at least 73",
    "published": "2026-10-19T11:00:00Z",
-   "title": "Yemen officials say Houthi missiles killed at least 53 at army camp",
-   "why": "Houthi ballistic missiles hit a government army training camp near Ataq, in Shabwa province, southern Yemen, on Monday. Yemeni military officials say at least 53 soldiers were killed and about 200 recruits wounded. The Houthis say Saudi officers ran the camp, without giving evidence.",
-   "matters": "Saudi Arabia has postponed its Future Investment Initiative summit, due in Riyadh next week, to 2027 after Houthi strikes.",
+   "title": "Yemen officials say Houthi missiles killed at least 73 at army camp",
+   "why": "Houthi ballistic missiles hit a government training camp near Ataq, in Shabwa province, southern Yemen, on Monday. A senior government official told AP at least 73 recruits were killed; the governor says more than 200 were wounded and some are missing. The Houthis said they targeted 'Saudi enemy' forces.",
+   "matters": "AP calls it the deadliest strike since fighting in Yemen escalated in July.",
    "sources": [
     {
-     "name": "AP (via Santa Fe New Mexican)",
-     "url": "https://www.santafenewmexican.com/news/houthi-rebels-strike-yemens-government-forces-killing-at-least-53/article_60920034-da9a-541c-a9b4-e6eaa2e553e7.html"
+     "name": "AP",
+     "url": "https://www.inquirer.com/news/nation-world/houthi-attack-yemen-training-camp-20261020.html"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/mena/2026/10/19/at-least-18-killed-in-houthi-attack-on-yemeni-government-military-camp-in-shabwa-sources-say/"
     },
     {
      "name": "Asharq Al-Awsat",
      "url": "https://english.aawsat.com/arab-world/5331202-53-killed-more-200-wounded-houthi-missile-strike-security-camp-shabwa"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa"
-    },
-    {
-     "name": "Jerusalem Post (Reuters)",
-     "url": "https://www.jpost.com/middle-east/article-912194"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks"
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz/"
     }
    ]
   },
@@ -469,6 +767,26 @@
   },
   {
    "section": "world",
+   "published": "2026-10-19T09:49:00Z",
+   "title": "South Africa's ex-president Mbeki denies blocking apartheid-era prosecutions",
+   "why": "Former president Thabo Mbeki told the Khampepe inquiry in Johannesburg on Monday that claims he held secret talks to shield apartheid-era generals from prosecution were 'a complete fabrication'. The inquiry is examining alleged political interference in more than 300 cases referred by the Truth and Reconciliation Commission.",
+   "sources": [
+    {
+     "name": "Mail & Guardian",
+     "url": "https://mg.co.za/politics/2026-10-19-complete-fabrication-mbeki-rejects-secret-amnesty-deal-claims/"
+    },
+    {
+     "name": "SABC News",
+     "url": "https://www.sabcnews.com/sabcnews/mbeki-denies-any-political-interference-with-npas-work-on-trc-cases/"
+    },
+    {
+     "name": "TimesLIVE",
+     "url": "https://www.timeslive.co.za/politics/2026-10-19-a-complete-fabrication-mbeki-rebuts-claims-of-secret-sadf-amnesty-meetings/"
+    }
+   ]
+  },
+  {
+   "section": "world",
    "serious": true,
    "published": "2026-10-19T09:00:00Z",
    "title": "Twelve migrants, including a baby, die off Greek islands",
@@ -496,26 +814,23 @@
   {
    "section": "climate",
    "serious": true,
+   "changed": "Updated: death toll rises to at least five; storm easing",
    "published": "2026-10-19T08:41:00Z",
-   "title": "Floods from Storm Adam kill at least four in eastern Spain",
-   "why": "Torrential rain flooded towns in Spain's Valencia region on Monday, with up to 700 litres per square metre in 24 hours in places, AFP reports. Officials say three people died in Valencia and one in Catalonia; more than 400 were rescued and over 2,000 evacuated, mostly in Oliva.",
-   "matters": "About 800,000 people were told to stay indoors on Monday; floods in the same region killed more than 230 people in 2024.",
+   "title": "Storm Adam death toll in Spain rises to at least five",
+   "why": "At least five people have died in floods from Storm Adam: three in the Valencia region, one in Catalonia and one in Andalusia, Italy's LaPresse agency reports. The Civil Guard says it has evacuated more than 2,100 people and rescued almost 500 in Valencia. The storm eased on Tuesday.",
+   "matters": "Prime Minister Pedro Sánchez was due in Oliva, the worst-hit town, on Tuesday; weather warnings remain in nine provinces.",
    "sources": [
     {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/europe/20261019-spain-floods-kill-four-as-torrential-rain-inundates-eastern-regions"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/20/four-dead-as-torrential-rain-batters-eastern-spain"
-    },
-    {
      "name": "Euronews",
-     "url": "https://www.euronews.com/video/2026/10/19/deadly-floods-sweep-through-eastern-spain-after-torrential-rain"
+     "url": "https://www.euronews.com/2026/10/20/at-least-five-killed-and-thousands-evacuated-as-storm-adam-batters-eastern-spain"
     },
     {
-     "name": "Público",
-     "url": "https://www.publico.es/sociedad/ultima-hora-temporal-lluvias-espana-directo.html"
+     "name": "LaPresse",
+     "url": "https://uk.lapresse.it/world-en/2026/10/20/spain-death-toll-from-storm-adam-rises-to-5-sanchez-visits-affected-areas/"
+    },
+    {
+     "name": "The Olive Press",
+     "url": "https://www.theolivepress.es/spain-news/2026/10/20/pm-sanchez-to-visit-valencia-town-ravaged-by-deadly-storm-adam/"
     }
    ]
   },
@@ -571,32 +886,25 @@
   },
   {
    "section": "money",
+   "serious": false,
    "developing": true,
-   "changed": "Updated: shares rebound about 4% on Tuesday morning after the exchange tightened limits on daily falls",
+   "changed": "Updated: the index closed 5.65% higher on Tuesday after new exchange measures.",
    "published": "2026-10-19T08:21:00Z",
-   "title": "Indonesian shares rebound after two-day slump over MSCI downgrade warning",
-   "why": "Jakarta's main share index was up about 4% at 5,205 at midday on Tuesday 20 October, after falling nearly 15% over Friday and Monday when MSCI warned it may move Indonesia to 'standalone' status. The stock exchange has halved its daily limit on share-price falls to 7%.",
-   "matters": "Bank Indonesia sets interest rates on Wednesday; some economists expect a rise to support the rupiah, which is near its record low.",
+   "title": "Indonesian shares jump 5.65% after two-day slump over MSCI warning",
+   "why": "Jakarta's main share index closed 5.65% higher at 5,278.89 on Tuesday 20 October, Antara reports, after a record two-day fall of about $82 billion when MSCI warned it may move Indonesia to 'standalone' status. The exchange halved its daily limit on falls to 7%.",
+   "matters": "Goldman Sachs estimates an MSCI downgrade could trigger $5.6 billion of passive fund selling.",
    "sources": [
     {
-     "name": "Reuters (via MarketScreener)",
-     "url": "https://www.marketscreener.com/news/indonesia-stems-market-rout-ignited-by-msci-expulsion-threat-ce785cdbde8df22c"
+     "name": "Antara",
+     "url": "https://en.antaranews.com/news/436805/ojk-says-it-is-going-all-out-on-indonesia-capital-market-reforms"
     },
     {
-     "name": "The Jakarta Post",
-     "url": "https://www.thejakartapost.com/business/2026/10/20/indonesian-markets-inch-up-after-authorities-move-to-stem-rout-on-msci-expulsion-fears"
+     "name": "Daily Sabah (Reuters)",
+     "url": "https://www.dailysabah.com/business/economy/indonesian-stocks-rise-after-measures-to-address-recent-rout"
     },
     {
-     "name": "Kontan",
-     "url": "https://english.kontan.co.id/news/indonesia-stock-exchange-cuts-lower-limit-for-more-stocks-to-cool-volatility"
-    },
-    {
-     "name": "Liputan6",
-     "url": "https://www.liputan6.com/saham/read/8317097/ihsg-terbang-416-ke-5204-633-saham-menghijau"
-    },
-    {
-     "name": "Nikkei Asia",
-     "url": "https://asia.nikkei.com/business/markets/indonesian-exchange-to-exclude-high-concentration-stocks-from-key-index"
+     "name": "Investing.com",
+     "url": "https://www.investing.com/news/stock-market-news/indonesia-stocks-rebound-48-after-new-market-measures-93CH-4959166"
     }
    ]
   },
@@ -664,31 +972,6 @@
     {
      "name": "SBS News",
      "url": "https://www.sbs.com.au/news/live-blog/helen-haines-attack-live-updates/s47x8oekx"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-10-19T03:51:00Z",
-   "title": "Zelensky accuses US of holding back Patriot missiles Europe has paid for",
-   "why": "Ukraine's President Volodymyr Zelensky said on Monday the US is delaying Patriot air-defence interceptors that European allies have already paid for, and that the shipment awaits Defence Secretary Pete Hegseth's approval. Secretary of State Marco Rubio denied the US had cut intelligence sharing with Kyiv.",
-   "matters": "Trump said Zelensky 'doesn't know what he's talking about' and said he is open to meeting Putin and Xi.",
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/us-delaying-patriot-missiles-already-paid-for-under-nato-initiative-zelensky-says/"
-    },
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/europe/20261020-zelensky-accuses-us-of-delaying-missile-deliveries-as-tensions-rise"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/10/20/us-allegedly-holding-up-delivery-of-patriot-air-defence-missiles-zelenskyy-says"
-    },
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/what-russias-doing-to-ukraine-is-fine-trump-says/"
     }
    ]
   },
@@ -836,27 +1119,6 @@
    ]
   },
   {
-   "section": "climate",
-   "published": "2026-10-18T14:50:00Z",
-   "title": "UN nature summit opens in Armenia with most targets off track",
-   "why": "Nearly 200 countries are meeting in Armenia's capital, Yerevan, for two weeks of UN biodiversity talks, COP17, the first review of a 2022 pact to halt nature loss by 2030. Opening the conference, Prime Minister Nikol Pashinyan said countries are \"not yet on track\".",
-   "matters": "A UN report says current plans would protect only 26% of land and 12% of oceans by 2030, against a 30% goal.",
-   "sources": [
-    {
-     "name": "AFP (via Arab News)",
-     "url": "https://www.arabnews.com/world/nations-meet-at-cop17-in-armenia-in-race-to-salvage-global-biodiversity-targets-3007092"
-    },
-    {
-     "name": "Armenpress",
-     "url": "https://armenpress.am/en/article/1263152"
-    },
-    {
-     "name": "UN News",
-     "url": "https://news.un.org/en/story/2026/10/1168607"
-    }
-   ]
-  },
-  {
    "section": "culture",
    "serious": true,
    "developing": true,
@@ -881,70 +1143,6 @@
     {
      "name": "The Week",
      "url": "https://www.theweek.in/news/india/2026/10/19/tiger-shroff-car-shooting-suspects-arrested-rajasthan-kota.html"
-    }
-   ]
-  },
-  {
-   "section": "culture",
-   "published": "2026-10-18T11:59:00Z",
-   "title": "Sergei Loznitsa's Soviet-era documentary Imperium wins top London Film Festival prize",
-   "why": "Imperium, a 175-minute documentary built from footage Italian cameramen shot in the Soviet Union in the early 1970s, won Best Film at the BFI London Film Festival on 18 October. Thailand's 9 Temples to Heaven won the best first feature award.",
-   "matters": "Concrete Land, about a family facing displacement in Jordan, won the festival's documentary prize, the Grierson Award.",
-   "sources": [
-    {
-     "name": "BFI",
-     "url": "https://www.bfi.org.uk/london-film-festival/news/competition-winners-announced-70th-bfi-london-film-festival"
-    },
-    {
-     "name": "Screen Daily",
-     "url": "https://www.screendaily.com/news/bfi-london-film-festival-unveils-2026-award-winners/5221561.article"
-    },
-    {
-     "name": "Deadline (via Yahoo)",
-     "url": "https://malaysia.news.yahoo.com/london-film-festival-sergei-loznitsa-130000106.html"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "serious": false,
-   "published": "2026-10-18T11:25:00Z",
-   "title": "Dozens of orangutans rescued from Indonesia's fires on Borneo",
-   "why": "At least 51 critically endangered orangutans have been rescued from burning forest in West Kalimantan, on Borneo, since early August, the conservation agency and the charity YIARI say. Many were thin and stressed; 27 need further care. Indonesia's forestry ministry suggests up to 96 across Kalimantan.",
-   "matters": "Satellite images show fire damaged over 90% of a protected forest area where many were found, Antara reports.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/environment/20261018-dozens-of-critically-endangered-orangutans-saved-from-rampant-wildfires-in-indonesia"
-    },
-    {
-     "name": "Antara",
-     "url": "https://en.antaranews.com/news/436525/some-51-orangutans-rescued-from-fire-affected-areas-in-west-kalimantan"
-    },
-    {
-     "name": "AP (via ABC News)",
-     "url": "https://www-cdn.abcnews.com/International/wireStory/indonesia-relocates-8-orangutans-protected-forest-after-rescue-137218880"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-10-18T09:08:00Z",
-   "title": "Ethiopians win both Amsterdam Marathon races; Diriba sets women's course record",
-   "why": "Buze Diriba won the women's race in Amsterdam, the Netherlands, on 18 October in 2:16:12, 40 seconds inside the course record, World Athletics says. Fellow Ethiopian Lemi Berhanu won the men's race in 2:03:33, three seconds outside the record.",
-   "matters": "Diriba's run, in wet conditions, moves her to 16th on the world all-time list, World Athletics says.",
-   "sources": [
-    {
-     "name": "World Athletics",
-     "url": "https://worldathletics.org/competitions/world-athletics-label-road-races/news/amsterdam-marathon-2026-diriba-berhanu"
-    },
-    {
-     "name": "Athletics Weekly",
-     "url": "https://athleticsweekly.com/news/diriba-breaks-course-record-as-berhanu-comes-within-three-seconds-in-amsterdam-1040013736/"
-    },
-    {
-     "name": "NOS",
-     "url": "https://nos.nl/artikel/2635452-diriba-loopt-parcoursrecord-in-natte-marathon-amsterdam-berhanu-net-niet"
     }
    ]
   },
@@ -1012,94 +1210,6 @@
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "lead": true,
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: Lavrov called the US-Israeli attacks illegal; Iran's president says Tehran will not accept demands imposed by force",
-   "published": "2026-10-17T07:00:00Z",
-   "title": "Russia's Lavrov calls US-Israeli attacks on Iran illegal during Tehran visit",
-   "why": "On his first visit to Iran since the war began, Russian Foreign Minister Sergei Lavrov called the US and Israeli attacks illegal and said Moscow wants to prevent a return to large-scale war. President Pezeshkian said Iran rejects demands imposed by force but will settle disputes through dialogue.",
-   "matters": "UKMTO says 10 ships were attacked near Hormuz last week; Iran says the strait would reopen if the US lifts its blockade.",
-   "sources": [
-    {
-     "name": "CBS News (AP)",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz/"
-    },
-    {
-     "name": "Xinhua",
-     "url": "https://english.news.cn/20261020/7b85ec47638945ffb0b17d132bb552f3/c.html"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/19/russias-lavrov-to-discuss-us-war-and-regional-security-during-tehran-visit"
-    },
-    {
-     "name": "The Moscow Times",
-     "url": "https://www.themoscowtimes.com/2026/10/19/fm-lavrov-arrives-in-tehran-for-talks-with-iranian-leadership-a94018"
-    },
-    {
-     "name": "Arab News (AFP)",
-     "url": "https://www.arabnews.com/middle-east/russian-fm-arrives-in-iran-as-moscow-looks-to-mediate-in-war-3007159"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: curfews in Paris, Lyon, Nice, Lille and Bordeaux on Monday night; the prime minister says they helped keep the night calm",
-   "published": "2026-10-17T05:17:00Z",
-   "title": "France's local curfews help keep night calm, prime minister says",
-   "why": "Partial overnight curfews took effect on Monday in parts of Paris, Lyon, Bordeaux, Nice and Lille after a weekend of riots and looting. Prime Minister Sébastien Lecornu said they 'helped keep the night calm' and more would follow where needed; police reported no major incidents.",
-   "matters": "Officials estimate at least 3,000 businesses were hit; Macron refused his interior minister's resignation and ordered a review of policing failures.",
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261020-live-curfews-come-into-effect-around-france-to-combat-looting"
-    },
-    {
-     "name": "Asharq Al-Awsat",
-     "url": "https://english.aawsat.com/world/5331435-france-impose-new-curfews-where-necessary-says-pm"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/10/20/pressure-mounts-on-macron-as-france-reels-from-unrest"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/10/19/emmanuel-macron-rejects-resignation-of-interior-minister-laurent-nunez"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "developing": true,
-   "changed": "Updated: Brent steady near $110 on Tuesday; Yemen's Houthis claim strikes on Saudi oil sites, unconfirmed",
-   "published": "2026-10-16T18:47:00Z",
-   "title": "Oil holds near five-month high as Gulf attacks offset Russia sanctions waiver",
-   "why": "Brent crude was steady at about $109.70 a barrel early on Tuesday 20 October, near Friday's five-month high of $110. Traders are weighing a US waiver of some Russia sanctions against attacks on ships near Hormuz and unconfirmed Houthi claims of strikes on Saudi oil sites.",
-   "matters": "Prices remain well above pre-war levels, keeping pressure on fuel, transport and food costs.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261020-tech-firms-bear-brunt-of-selling-as-asian-stocks-drop"
-    },
-    {
-     "name": "Reuters (via Investing.com)",
-     "url": "https://investing.com/news/economy-news/asian-shares-tumble-oil-rises-as-markets-await-ai-sector-results-4958677"
-    },
-    {
-     "name": "Xinhua",
-     "url": "https://english.news.cn/20261020/03826e79b31f4c308b19d15caa9806bc/c.html"
-    },
-    {
-     "name": "AP",
-     "url": "https://www.clickondetroit.com/business/2026/10/19/asian-shares-are-mixed-with-tech-stocks-volatile-and-oil-falls-on-trumps-russian-sanctions-waiver/"
     }
    ]
   }
