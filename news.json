@@ -1,6 +1,309 @@
 {
- "updated": "2026-10-19T14:07:56Z",
+ "updated": "2026-10-20T07:33:03Z",
  "items": [
+  {
+   "section": "world",
+   "published": "2026-10-20T03:30:00Z",
+   "title": "US defence secretary Hegseth meets Netanyahu on unannounced Israel visit",
+   "why": "US Defence Secretary Pete Hegseth met Israeli Prime Minister Benjamin Netanyahu at an air base in southern Israel on Monday, Axios and Israeli media report; the Pentagon declined to comment. Netanyahu later released video of a call in which he told President Trump they have 'a job to finish'.",
+   "matters": "It came a day after Trump endorsed Netanyahu for Israel's 27 October election and as Russia's foreign minister visited Tehran.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit"
+    },
+    {
+     "name": "Times of Israel",
+     "url": "https://www.timesofisrael.com/hegseth-reportedly-met-with-netanyahu-during-secret-visit-to-israel/"
+    },
+    {
+     "name": "CBS News (AP)",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz/"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "serious": true,
+   "developing": true,
+   "published": "2026-10-20T02:40:00Z",
+   "title": "Super Typhoon Champi enters Philippine waters; storm signals raised in northern Luzon",
+   "why": "Champi, named Rosal locally, entered the Philippine area of responsibility at 02:40 UTC on Tuesday with winds of 185 km/h, the weather agency PAGASA says. Signal No. 1 is up in Batanes and parts of Cagayan, Isabela and Catanduanes. PAGASA expects it to leave Philippine waters by early Saturday.",
+   "matters": "Taiwan's weather agency expects Champi to turn north on Thursday but bring heavy rain to northern and eastern Taiwan from Friday.",
+   "sources": [
+    {
+     "name": "Philstar",
+     "url": "https://www.philstar.com/headlines/weather/2026/10/20/2564530/signal-no-1-5-luzon-areas-super-typhoon-rosal-enters-par"
+    },
+    {
+     "name": "The Manila Times",
+     "url": "https://www.manilatimes.net/2026/10/20/news/national/signal-no-1-up-in-parts-of-northern-southern-luzon/2449350"
+    },
+    {
+     "name": "GMA News",
+     "url": "https://www.gmanetwork.com/news/weather/content/1006494/signal-no-1-up-over-parts-of-luzon-as-super-typhoon-rosal-enters-par/story/"
+    },
+    {
+     "name": "Focus Taiwan (CNA)",
+     "url": "https://focustaiwan.tw/society/202610200007"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-10-20T02:30:00Z",
+   "title": "South Korean shares fall 3.7% as AI doubts hit Asian tech stocks",
+   "why": "Seoul's KOSPI index closed 3.73% lower at 5,552.74 on Tuesday 20 October, with SK hynix down 4.2% and Samsung Electronics down 3%. Shares in Tokyo and Hong Kong also fell, AFP reports, as investors questioned whether heavy spending on AI will pay off.",
+   "matters": "Meta and Tesla report results this week, which investors will watch for signs that AI spending is earning returns.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261020-tech-firms-bear-brunt-of-selling-as-asian-stocks-drop"
+    },
+    {
+     "name": "Reuters (via Investing.com)",
+     "url": "https://investing.com/news/economy-news/asian-shares-tumble-oil-rises-as-markets-await-ai-sector-results-4958677"
+    },
+    {
+     "name": "Money Today (Korea)",
+     "url": "https://www.mt.co.kr/stock/2026/10/20/2026102015384373141"
+    },
+    {
+     "name": "Seoul Economic Daily",
+     "url": "https://en.sedaily.com/finance/2026/10/20/kospi-slides-more-than-2-percent-despite-us-chip-rebound"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-10-19T21:30:00Z",
+   "title": "US judge orders ex-OpenAI engineer held without bail in recording-device case",
+   "why": "A US federal judge in San Francisco on Monday ordered Abdulrahman Alfozan, a Saudi former OpenAI engineer, held until trial, citing a 'significant' flight risk. He is charged with hiding a recording device in an OpenAI meeting room. Prosecutors cite help from Saudi officials; his lawyer denies he would flee.",
+   "matters": "Prosecutors call the case a national security concern; the next hearing is on 6 November.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261019-us-judge-orders-saudi-engineer-held-in-openai-case"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/ex-openai-engineer-recording-device-saudi-royal-family/"
+    },
+    {
+     "name": "Al Jazeera (Reuters)",
+     "url": "https://www.aljazeera.com/economy/2026/10/19/ex-openai-employee-accused-of-planting-device-has-saudi-backing-prosecutor"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/future/technology/2026/10/20/abdulrahman-alfozan-openai-saudi/"
+    }
+   ]
+  },
+  {
+   "section": "science",
+   "serious": false,
+   "published": "2026-10-19T19:41:00Z",
+   "title": "Japan launches probe to bring back samples from Mars moon Phobos",
+   "why": "Japan's space agency JAXA launched its MMX probe on an H3 rocket from Tanegashima at 19:41 UTC on 19 October (04:41 Tuesday, Japan time). About 71 minutes later it was released into its planned orbit, Jiji Press reports. MMX should reach Mars in 2027 and return samples in 2031.",
+   "matters": "No mission has yet brought back material from the Mars system; it may show how Mars's two small moons formed.",
+   "sources": [
+    {
+     "name": "Jiji Press (via Nippon.com)",
+     "url": "https://www.nippon.com/en/news/yjj2026102000118/"
+    },
+    {
+     "name": "AFP (via RTÉ)",
+     "url": "https://www.rte.ie/news/world/2026/1019/1596042-japan-mars-moon/"
+    },
+    {
+     "name": "dpa (via blue News)",
+     "url": "https://www.bluewin.ch/en/lifestyle/japan-launches-mission-to-mars-moon-with-a-german-french-rover-on-board-li.3641705"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-20/japan-launches-mission-to-collect-mars-moon-samples/107283312"
+    },
+    {
+     "name": "DLR",
+     "url": "https://www.dlr.de/en/research-and-transfer/projects-and-missions/mmx"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-10-19T19:37:00Z",
+   "title": "Portugal federation bans Ronaldo for 30 days over squad walkout",
+   "why": "Portugal's football federation suspended captain Cristiano Ronaldo, 41, for 30 days and fined him €255 on 19 October for leaving the national team camp in Copenhagen after a dispute with coach Jorge Jesus. Reports say the ban is backdated to the start of October.",
+   "matters": "He is expected to be available for Portugal's Nations League games in November if Jesus picks him.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/sports/2026/10/19/ronaldo-banned-for-30-days-fined-285-by-portugal-over-spat-with-jesus"
+    },
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/football/news/13601082/cristiano-ronaldo-portugal-captain-punished-over-walkout-following-explosive-row-with-head-coach-jorge-jesus"
+    },
+    {
+     "name": "AP (via 1News)",
+     "url": "https://www.1news.co.nz/2026/10/20/ronaldo-suspended-for-30-days-fined-for-walking-out-on-portugal-camp/"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "published": "2026-10-19T19:00:00Z",
+   "title": "Trump orders new women's health division at US National Institutes of Health",
+   "why": "US President Donald Trump signed an executive order on Monday telling health officials to set up a women's health division at the National Institutes of Health within 90 days, plus a White House task force. First Lady Melania Trump led the effort; the order names no specific funding.",
+   "matters": "Critics cited by Al Jazeera question how it will work after thousands of NIH staff were laid off and budgets cut.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/19/trump-signs-order-launching-womens-health-division-at-nih-white-house"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/trump-executive-order-on-womens-health/"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/politics/trump-administration/trump-melania-womens-health-nih-rcna604387"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-10-19T18:21:00Z",
+   "title": "US orders civilian government agencies to stop using China's DeepSeek AI",
+   "why": "The US Department of Homeland Security has ordered federal civilian agencies to remove AI tools from Chinese company DeepSeek, including other firms' products built on its models. The order, made public on 19 October, does not cover the military, AFP reports.",
+   "matters": "DHS says using the tools may send sensitive data to China; the two countries' leaders are due to meet next month.",
+   "sources": [
+    {
+     "name": "AFP (via The Star)",
+     "url": "https://www.thestar.com.my/tech/tech-news/2026/10/20/us-bans-use-of-china039s-deepseek-by-govt-agencies"
+    },
+    {
+     "name": "BBC (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/politics/articles/us-bans-deepseek-ai-government-182158128.html"
+    },
+    {
+     "name": "Gizmodo",
+     "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "serious": true,
+   "published": "2026-10-19T17:50:00Z",
+   "title": "Saudi Arabia postpones its 'Davos in the Desert' investment summit to 2027",
+   "why": "The Future Investment Initiative, due in Riyadh, Saudi Arabia, from 26 to 29 October, has been moved to 2027, organisers said on Monday. AFP and Reuters link the delay to Houthi strikes on Saudi Arabia, including on Riyadh's main airport. New dates have not been set.",
+   "matters": "Expected speakers included the heads of BlackRock, Goldman Sachs and JPMorgan; two other Saudi business events were also postponed.",
+   "sources": [
+    {
+     "name": "AFP/Reuters (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/world/articles/saudi-arabia-cancels-2026-davos-010531543.html"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/business/economy/2026/10/19/saudi-arabia-postpones-fii-investment-in-riyadh-after-houthi-attacks/"
+    },
+    {
+     "name": "Business Insider (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/world/articles/saudi-arabia-postpones-major-investment-175038377.html"
+    },
+    {
+     "name": "Xinhua",
+     "url": "https://english.news.cn/20261020/03826e79b31f4c308b19d15caa9806bc/c.html"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-10-19T14:00:00Z",
+   "title": "Drone strikes across Sudan reported to kill more than 160 people",
+   "why": "A drone strike near a market in Al-Dibab, in RSF-held West Kordofan, killed about 80 people on Sunday evening, a medical source and a witness told AFP; the RSF's administration blamed the army. Medics and rights groups say drone attacks killed more than 160 people in recent days.",
+   "matters": "Sudan's army and the paramilitary Rapid Support Forces have fought since April 2023; the UN says it condemns the strikes 'unequivocally'.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan"
+    },
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/africa/20261019-drone-attack-near-southern-sudan-market-kills-scores"
+    },
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/10/1168628"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "serious": true,
+   "published": "2026-10-19T14:00:00Z",
+   "title": "Pakistan confirms first polio case in Karachi since December 2024",
+   "why": "Pakistan's polio programme confirmed on Monday that a six-month-old boy in Karachi East has wild poliovirus, the country's seventh case this year and Karachi's first since December 2024. Five of the seven cases are in Khyber Pakhtunkhwa province and two in Sindh, which includes Karachi.",
+   "matters": "A vaccination campaign from 2 to 8 November aims to reach nearly 24 million children under five in 97 districts.",
+   "sources": [
+    {
+     "name": "Dawn",
+     "url": "https://dawn.com/news/2038299"
+    },
+    {
+     "name": "Xinhua",
+     "url": "https://english.news.cn/20261019/57184eef14c648be941d589484690232/c.html"
+    },
+    {
+     "name": "The Express Tribune",
+     "url": "https://tribune.com.pk/story/2635801/new-karachi-case-takes-nationwide-polio-tally-to-7"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-10-19T13:45:00Z",
+   "title": "Ruling on Senegal's Africa Cup of Nations appeal expected in late November",
+   "why": "The Court of Arbitration for Sport said on 19 October it will rule on Senegal's appeal at the end of November, not within days as first signalled. Senegal beat Morocco 1-0 in January's final, but African football's governing body, CAF, later awarded Morocco the title.",
+   "matters": "CAF ruled Senegal forfeited by walking off for 14 minutes in protest at a penalty; Senegal says the referee let play finish.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/sports/2026/10/19/decision-on-senegals-afcon-final-appeal-to-be-made-by-end-of-november"
+    },
+    {
+     "name": "Reuters (via TimesLIVE)",
+     "url": "https://www.timeslive.co.za/sport/soccer/2026-10-19-cas-ruling-on-senegals-afcon-final-appeal-expected-at-end-of-november/"
+    },
+    {
+     "name": "Goal",
+     "url": "https://www.goal.com/en/lists/senegal-wait-november-cas-verdict-disputed-afcon-title-awarded-morocco/bltfe909b6e7550dc0e"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-10-19T12:47:00Z",
+   "title": "Benny Gantz quits Israel's election race eight days before the vote",
+   "why": "Former army chief Benny Gantz said on Monday he will not run in Israel's 27 October election, after polls repeatedly put his Blue and White party below the 3.25% threshold needed to enter parliament. 'The responsibility is mine,' he said. Opposition leader Gadi Eisenkot called it a 'responsible' decision.",
+   "matters": "Gantz was Netanyahu's main rival in three elections; his party's name will still appear on the ballot.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race"
+    },
+    {
+     "name": "Times of Israel",
+     "url": "https://www.timesofisrael.com/blue-and-whites-benny-gantz-pulls-out-of-race-sealing-precipitous-political-fall/"
+    },
+    {
+     "name": "Jerusalem Post",
+     "url": "https://www.jpost.com/israel-election-2026/article-912167"
+    }
+   ]
+  },
   {
    "section": "science",
    "serious": false,
@@ -26,62 +329,252 @@
   {
    "section": "world",
    "serious": true,
-   "developing": true,
-   "published": "2026-10-19T11:00:00Z",
-   "title": "Yemen officials say Houthi missiles killed at least 50 at army camp",
-   "why": "The Houthis fired three ballistic missiles at a government army training camp in Shabwa province, southern Yemen, on Monday morning, the government says. A Shabwa official told AFP at least 50 people were killed and more than 100 injured. The Houthis say they targeted a 'Saudi-backed' base.",
-   "matters": "US embassies in 12 Middle East countries told Americans on Monday to be highly vigilant, warning the fighting could spread quickly.",
+   "published": "2026-10-19T12:00:00Z",
+   "title": "Exiled critic of Rwanda's President Kagame found killed in Uganda",
+   "why": "A former Rwandan army sergeant who ran a popular YouTube channel criticising President Paul Kagame was found dead on 17 October in Mpigi district, near Uganda's capital, Kampala. Ugandan police said on Monday they had opened a murder case; no one has been arrested.",
+   "matters": "Rwanda's government has not commented; Al Jazeera notes Rwandan authorities have been accused before of killing opponents abroad.",
    "sources": [
+    {
+     "name": "Al Jazeera (AFP)",
+     "url": "https://www.aljazeera.com/news/2026/10/20/exiled-critic-of-rwandan-president-found-beheaded-in-uganda"
+    },
+    {
+     "name": "AP (via La Nación)",
+     "url": "https://www.lanacion.com.ar/usa/a-rwandan-dissident-has-been-found-beheaded-in-neighboring-uganda-nid19102026/"
+    },
+    {
+     "name": "Daily Monitor (Uganda)",
+     "url": "https://www.monitor.co.ug/uganda/news/national/uganda-police-speak-out-on-beheaded-rwandan-dissident-5637690"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "changed": "Updated: death toll rises to at least 53; Saudi Arabia postpones its big Riyadh investment summit to 2027",
+   "published": "2026-10-19T11:00:00Z",
+   "title": "Yemen officials say Houthi missiles killed at least 53 at army camp",
+   "why": "Houthi ballistic missiles hit a government army training camp near Ataq, in Shabwa province, southern Yemen, on Monday. Yemeni military officials say at least 53 soldiers were killed and about 200 recruits wounded. The Houthis say Saudi officers ran the camp, without giving evidence.",
+   "matters": "Saudi Arabia has postponed its Future Investment Initiative summit, due in Riyadh next week, to 2027 after Houthi strikes.",
+   "sources": [
+    {
+     "name": "AP (via Santa Fe New Mexican)",
+     "url": "https://www.santafenewmexican.com/news/houthi-rebels-strike-yemens-government-forces-killing-at-least-53/article_60920034-da9a-541c-a9b4-e6eaa2e553e7.html"
+    },
+    {
+     "name": "Asharq Al-Awsat",
+     "url": "https://english.aawsat.com/arab-world/5331202-53-killed-more-200-wounded-houthi-missile-strike-security-camp-shabwa"
+    },
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa"
     },
     {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/news/mena/2026/10/19/at-least-18-killed-in-houthi-attack-on-yemeni-government-military-camp-in-shabwa-sources-say/"
+     "name": "Jerusalem Post (Reuters)",
+     "url": "https://www.jpost.com/middle-east/article-912194"
     },
     {
-     "name": "CBS News (AFP)",
-     "url": "https://cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks"
+    }
+   ]
+  },
+  {
+   "section": "curious",
+   "published": "2026-10-19T11:00:00Z",
+   "title": "Baby orangutan rescued from a flat near Mumbai returns to Indonesia",
+   "why": "A young male Sumatran orangutan, found in an apartment in Thane, near Mumbai, India, in November 2024, was flown to Medan, Indonesia, on 19 October. He will go to a rescue centre in North Sumatra to learn climbing and foraging before any release, Indonesian officials say.",
+   "matters": "India waived the cost of his care; five more young orangutans found in India's Odisha state in September may follow.",
+   "sources": [
+    {
+     "name": "PTI (via ThePrint)",
+     "url": "https://theprint.in/world/baby-orangutan-rescued-in-india-repatriated-to-indonesia/3075902/"
+    },
+    {
+     "name": "Liputan6",
+     "url": "https://www.liputan6.com/news/read/8316632/dari-apartemen-di-india-rocky-si-orangutan-akhirnya-pulang-ke-indonesia"
+    },
+    {
+     "name": "detikNews",
+     "url": "https://news.detik.com/foto-news/d-8713949/orang-utan-sumatera-dipulangkan-dari-india"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "serious": true,
+   "published": "2026-10-19T10:15:00Z",
+   "title": "Bangladesh measles outbreak deaths pass 1,200, health officials say",
+   "why": "Five more children died with measles-like symptoms in the 24 hours to Monday morning, Bangladesh's health directorate says, taking this year's toll to 1,201: 104 confirmed and 1,097 suspected. It has recorded 214,551 suspected cases since mid-March.",
+   "matters": "Health experts blame gaps in childhood vaccination and weak infection control, The Daily Star reports.",
+   "sources": [
+    {
+     "name": "The Business Standard (Bangladesh)",
+     "url": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-crosses-1200-five-more-children-die-1577511"
+    },
+    {
+     "name": "bdnews24",
+     "url": "https://bdnews24.com/health/k88ee1cl0b"
+    },
+    {
+     "name": "The Daily Star (Bangladesh)",
+     "url": "https://www.thedailystar.net/news/healthcare/disease/news/five-more-die-measles-symptoms-4302951"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-10-19T10:00:00Z",
+   "title": "Kenyan court convicts cult leader Paul Mackenzie over 191 starvation deaths",
+   "why": "A Kenyan court on Monday found pastor Paul Mackenzie and 28 others guilty of murdering 191 people, 190 of them children. Prosecutors said he told followers to starve themselves to 'meet Jesus' in Shakahola forest, on Kenya's coast. Sentencing is set for 6 November.",
+   "matters": "Authorities say more than 400 people died in the forest; Mackenzie also faces separate terrorism and manslaughter charges.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/19/kenyan-court-convicts-starvation-cult-leader-for-murder-of-191-people"
+    },
+    {
+     "name": "AP (via ABC Australia)",
+     "url": "https://www.abc.net.au/news/2026-10-20/kenyan-starvation-cult-leader-paul-mackenzie-guilty/107286796"
+    },
+    {
+     "name": "Citizen Digital (Kenya)",
+     "url": "https://citizen.digital/article/court-finds-mackenzie-28-others-guilty-over-191-shakahola-deaths-n392346"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-10-19T09:00:00Z",
+   "title": "Twelve migrants, including a baby, die off Greek islands",
+   "why": "Six people died off Lesbos when a speedboat carrying migrants hit a Greek coast guard vessel and capsized, and six more died when another speedboat overturned north of Samos, Greece's coast guard says. Two survivors were arrested on suspicion of smuggling.",
+   "matters": "Greece's government blames smugglers; officials say the exact cause of the Lesbos collision is under investigation.",
+   "sources": [
+    {
+     "name": "Arab News (Reuters)",
+     "url": "https://www.arabnews.com/world/twelve-migrants-including-infant-drown-as-boats-capsize-off-greek-islands-3007129"
+    },
+    {
+     "name": "InfoMigrants",
+     "url": "https://infomigrants.net/en/post/74263/twelve-migrants-die-in-aegean-sea-during-attempted-crossings-to-greece"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/12-migrants-including-an-infant-drown-in-two-incidents-off-greece"
+    },
+    {
+     "name": "Arab News (AP)",
+     "url": "https://arabnews.com/world/capsizings-cause-the-deaths-of-12-migrants-off-greek-islands-3007244"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "serious": true,
+   "published": "2026-10-19T08:41:00Z",
+   "title": "Floods from Storm Adam kill at least four in eastern Spain",
+   "why": "Torrential rain flooded towns in Spain's Valencia region on Monday, with up to 700 litres per square metre in 24 hours in places, AFP reports. Officials say three people died in Valencia and one in Catalonia; more than 400 were rescued and over 2,000 evacuated, mostly in Oliva.",
+   "matters": "About 800,000 people were told to stay indoors on Monday; floods in the same region killed more than 230 people in 2024.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/europe/20261019-spain-floods-kill-four-as-torrential-rain-inundates-eastern-regions"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/20/four-dead-as-torrential-rain-batters-eastern-spain"
     },
     {
      "name": "Euronews",
-     "url": "https://www.euronews.com/2026/10/19/us-issues-rare-middle-east-red-alert-warning-to-its-citizens-in-the-region"
+     "url": "https://www.euronews.com/video/2026/10/19/deadly-floods-sweep-through-eastern-spain-after-torrential-rain"
     },
     {
-     "name": "Dawn",
-     "url": "https://www.dawn.com/news/2038255/us-embassies-issue-security-alert-for-americans-in-middle-east-citing-iran-and-houthis"
+     "name": "Público",
+     "url": "https://www.publico.es/sociedad/ultima-hora-temporal-lluvias-espana-directo.html"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "published": "2026-10-19T08:31:00Z",
+   "title": "Louvre closes for the day as students block its entrances",
+   "why": "About 50 students, mostly from the École du Louvre art school, blocked the entrances of the Louvre in Paris on 19 October, and the museum stayed shut all day, its management said. They were backing France's school protest movement and denouncing what they called police repression.",
+   "matters": "The Louvre, the world's most visited museum, says visitors who had booked will be refunded automatically.",
+   "sources": [
+    {
+     "name": "franceinfo (AFP)",
+     "url": "https://www.franceinfo.fr/culture/arts-expos/louvre/le-louvre-ferme-en-raison-d-une-manifestation-en-soutien-aux-lyceens_8243653.html"
+    },
+    {
+     "name": "ICI (Radio France)",
+     "url": "https://www.ici.fr/ile-de-france/paris-75/paris/l-acces-au-musee-du-louvre-est-bloque-par-des-etudiants-en-soutien-au-mouvement-lyceen-ce-lundi-matin-3304351"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/protesters-block-louvre-in-support-of-french-student-movement"
+    },
+    {
+     "name": "TRT World (Anadolu)",
+     "url": "https://trtworld.com/article/87f5723dc728"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-10-19T08:22:00Z",
+   "title": "China to require export licences for tunnel boring machines from 18 November",
+   "why": "China's commerce ministry said on Monday 19 October that exporters of tunnel boring machines and their key parts will need a licence from 18 November. It cited national security and the machines' military as well as civilian uses. Walking excavators and some dredger parts are also covered.",
+   "matters": "India, which is building metros and rail tunnels, relies heavily on imported boring machines, Reuters and PTI report.",
+   "sources": [
+    {
+     "name": "MOFCOM",
+     "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_1e581b3d58ff46dabe8c44abab408d6c.html"
+    },
+    {
+     "name": "Reuters (via Free Malaysia Today)",
+     "url": "https://www.freemalaysiatoday.com/category/business/2026/10/19/china-imposes-export-controls-on-tunnel-boring-machines"
+    },
+    {
+     "name": "PTI (via DT Next)",
+     "url": "https://www.dtnext.in/news/world/china-export-curbs"
+    },
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/india/story/china-announces-export-controls-on-tunnel-boring-machines-challenge-for-indias-infra-push-562564-2026-10-19"
     }
    ]
   },
   {
    "section": "money",
    "developing": true,
-   "changed": "Updated: index closes about 3.6% lower, below 5,000; exchange to drop about 80 stocks from the index after talks with MSCI",
+   "changed": "Updated: shares rebound about 4% on Tuesday morning after the exchange tightened limits on daily falls",
    "published": "2026-10-19T08:21:00Z",
-   "title": "Indonesian shares slump again after MSCI warns of index downgrade",
-   "why": "Jakarta's main share index closed about 3.6% lower on Monday, below 5,000 points for the first time since 2020, after an 11.6% drop on Friday. After talks with MSCI, the stock exchange said it will remove about 80 stocks with highly concentrated ownership from the index, Nikkei Asia reports.",
-   "matters": "A downgrade could force global index funds to sell Indonesian shares; the rupiah is near its record low against the dollar.",
+   "title": "Indonesian shares rebound after two-day slump over MSCI downgrade warning",
+   "why": "Jakarta's main share index was up about 4% at 5,205 at midday on Tuesday 20 October, after falling nearly 15% over Friday and Monday when MSCI warned it may move Indonesia to 'standalone' status. The stock exchange has halved its daily limit on share-price falls to 7%.",
+   "matters": "Bank Indonesia sets interest rates on Wednesday; some economists expect a rise to support the rupiah, which is near its record low.",
    "sources": [
     {
-     "name": "Reuters",
-     "url": "https://www.investing.com/news/stock-market-news/panic-selling-hits-indonesian-markets-on-msci-expulsion-threat-4956386"
+     "name": "Reuters (via MarketScreener)",
+     "url": "https://www.marketscreener.com/news/indonesia-stems-market-rout-ignited-by-msci-expulsion-threat-ce785cdbde8df22c"
+    },
+    {
+     "name": "The Jakarta Post",
+     "url": "https://www.thejakartapost.com/business/2026/10/20/indonesian-markets-inch-up-after-authorities-move-to-stem-rout-on-msci-expulsion-fears"
+    },
+    {
+     "name": "Kontan",
+     "url": "https://english.kontan.co.id/news/indonesia-stock-exchange-cuts-lower-limit-for-more-stocks-to-cool-volatility"
+    },
+    {
+     "name": "Liputan6",
+     "url": "https://www.liputan6.com/saham/read/8317097/ihsg-terbang-416-ke-5204-633-saham-menghijau"
     },
     {
      "name": "Nikkei Asia",
      "url": "https://asia.nikkei.com/business/markets/indonesian-exchange-to-exclude-high-concentration-stocks-from-key-index"
-    },
-    {
-     "name": "Investing.com",
-     "url": "https://in.investing.com/news/stock-market-news/indonesia-stocks-hit-sixyear-low-as-msci-warning-deepens-selloff-5639385"
-    },
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261019-asian-stocks-start-week-on-back-foot-tracking-tech-led-wall-st-losses"
-    },
-    {
-     "name": "Bernama (Xinhua)",
-     "url": "https://bernama.com/en/world/news.php?id=2621230"
     }
    ]
   },
@@ -132,22 +625,48 @@
    "section": "world",
    "serious": true,
    "developing": true,
+   "changed": "Updated: Australian media report she has lost a leg; police call it an isolated incident and no charges have yet been laid",
    "published": "2026-10-19T04:30:00Z",
    "title": "Australian MP Helen Haines critically injured after being hit by car",
-   "why": "Independent MP Helen Haines, 65, was hit by a four-wheel drive outside her office in Wangaratta, in the Australian state of Victoria, on Monday afternoon. Police say she has critical injuries. A 43-year-old man was detained by bystanders; police say a knife was found in his car.",
-   "matters": "Prime Minister Anthony Albanese called it a deliberate act; counter-terrorism police are involved, but police say the motive is not yet known.",
+   "why": "Independent MP Helen Haines, 65, was hit by a four-wheel drive outside her office in Wangaratta, Victoria, on Monday afternoon. She remains in a critical condition in a Melbourne hospital; Australian media report she has lost a leg. A 43-year-old man is in custody but has not yet been charged.",
+   "matters": "Federal police call it an 'isolated incident' with no known further threats; they say charges could include harming a Commonwealth official.",
    "sources": [
     {
      "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-10-19/victorian-mp-helen-haines-critically-injured/107285234"
+     "url": "https://www.abc.net.au/news/2026-10-20/live-blog-victoria-indi-mp-helen-haines-attacked-wangaratta/107285252"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/19/australian-mp-helen-haines-critically-injured-in-deliberate-car-ramming"
+     "name": "Al Jazeera (Reuters)",
+     "url": "https://www.aljazeera.com/news/2026/10/20/deliberate-car-ramming-of-australian-mp-an-isolated-incident-police-say"
     },
     {
-     "name": "UPI",
-     "url": "https://www.upi.com/Top_News/World-News/2026/10/19/Australia-MP-seriously-hurt-after-apparent-car-ramming-attack/4281792406504/"
+     "name": "SBS News",
+     "url": "https://www.sbs.com.au/news/live-blog/helen-haines-attack-live-updates/s47x8oekx"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-10-19T03:51:00Z",
+   "title": "Zelensky accuses US of holding back Patriot missiles Europe has paid for",
+   "why": "Ukraine's President Volodymyr Zelensky said on Monday the US is delaying Patriot air-defence interceptors that European allies have already paid for, and that the shipment awaits Defence Secretary Pete Hegseth's approval. Secretary of State Marco Rubio denied the US had cut intelligence sharing with Kyiv.",
+   "matters": "Trump said Zelensky 'doesn't know what he's talking about' and said he is open to meeting Putin and Xi.",
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/us-delaying-patriot-missiles-already-paid-for-under-nato-initiative-zelensky-says/"
+    },
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/europe/20261020-zelensky-accuses-us-of-delaying-missile-deliveries-as-tensions-rise"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/20/us-allegedly-holding-up-delivery-of-patriot-air-defence-missiles-zelenskyy-says"
+    },
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/what-russias-doing-to-ukraine-is-fine-trump-says/"
     }
    ]
   },
@@ -178,26 +697,27 @@
   },
   {
    "section": "sport",
+   "changed": "Updated: the Rays won Game 6 7-3 to take the series 4-2 and will meet the Brewers in the World Series",
    "published": "2026-10-19T00:15:00Z",
-   "title": "Rays beat Guardians to move one win from the World Series",
-   "why": "The Tampa Bay Rays beat the Cleveland Guardians 3-1 in Cleveland, Ohio, on 18 October to lead the American League Championship Series 3-2. Drew Rasmussen allowed one run in seven innings. Game 6 is on Monday night in St Petersburg, Florida.",
-   "matters": "The series winner plays the Milwaukee Brewers in the World Series, which starts on 23 October.",
+   "title": "Rays beat Guardians to reach World Series against Brewers",
+   "why": "The Tampa Bay Rays beat the Cleveland Guardians 7-3 in St Petersburg, Florida, on 19 October to win the American League Championship Series 4-2. Junior Caminero and Yandy Díaz hit two-run home runs; pitcher Freddy Peralta was named series MVP.",
+   "matters": "Neither the Rays nor the Milwaukee Brewers has ever won the World Series, which starts in Milwaukee on 23 October.",
    "sources": [
     {
-     "name": "MLB.com",
-     "url": "https://www.mlb.com/news/rays-win-alcs-game-5-2026"
-    },
-    {
      "name": "ESPN",
-     "url": "https://www.espn.com/mlb/story/_/id/50214985/rays-beat-guardians-game-5-take-3-2-alcs-lead"
-    },
-    {
-     "name": "AP (via NBC News)",
-     "url": "https://www.nbcnews.com/sports/mlb/drew-rasmussen-rays-guardians-game-5-alcs-world-series-rcna604252"
+     "url": "https://www.espn.com/mlb/story/_/id/50224233/rays-clinch-alcs-game-6-face-brewers-world-series"
     },
     {
      "name": "CBS Sports",
-     "url": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/"
+     "url": "https://www.cbssports.com/mlb/news/rays-guardians-score-live-updates-alcs-game-6/live/"
+    },
+    {
+     "name": "Boston Globe",
+     "url": "https://www.bostonglobe.com/2026/10/19/sports/rays-guardians-alcs-game-6-score/"
+    },
+    {
+     "name": "OutKick (Fox News)",
+     "url": "https://www.foxnews.com/outkick-sports/rays-punch-ticket-world-series-taking-down-guardians-game-6-set-up-series-brewers"
     }
    ]
   },
@@ -246,27 +766,6 @@
    ]
   },
   {
-   "section": "world",
-   "published": "2026-10-18T19:48:00Z",
-   "title": "Venezuela's opposition reaffirms exiled Nobel laureate Machado as its leader",
-   "why": "Venezuela's main opposition alliance, meeting in Caracas on Sunday, backed exiled Nobel Peace Prize laureate María Corina Machado as leader and set out 14 proposals for restoring democracy, including freeing all political prisoners. It called for free elections but set no date; Machado's party wants a vote in 2027.",
-   "matters": "Interim President Delcy Rodríguez has led Venezuela since the US removed Nicolás Maduro in January; separate talks with the opposition exclude her.",
-   "sources": [
-    {
-     "name": "AFP (via Yahoo News)",
-     "url": "https://www.yahoo.com/news/politics/articles/venezuela-opposition-alliance-reaffirms-nobel-194851828.html"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader"
-    },
-    {
-     "name": "Infobae",
-     "url": "https://www.infobae.com/venezuela/2026/10/19/la-oposicion-venezolana-presento-un-gran-acuerdo-nacional-y-ratifico-a-maria-corina-machado-como-su-lider-politica/"
-    }
-   ]
-  },
-  {
    "section": "health",
    "serious": true,
    "developing": true,
@@ -294,23 +793,23 @@
    ]
   },
   {
-   "section": "world",
-   "published": "2026-10-18T15:01:00Z",
-   "title": "Trump endorses Netanyahu nine days before Israel's 27 October election",
-   "why": "US President Donald Trump endorsed Israeli Prime Minister Benjamin Netanyahu on Sunday, saying that if Israel chose anyone else, America would have to deal with Iran itself. Polls show a tight race; AFP reports neither Netanyahu's bloc nor Gadi Eisenkot's is on course for a 61-seat majority.",
-   "matters": "It is Israel's first national election since the Hamas-led attack of 7 October 2023.",
+   "section": "culture",
+   "published": "2026-10-18T16:50:00Z",
+   "title": "Elizabeth Holmes documentary takes $15 million in surprise box-office debut",
+   "why": "You Can See Everything, Nathan Fielder and Lance Oppenheim's nearly three-hour film about the jailed Theranos founder, took about $15 million in North America over 16–18 October from just 855 cinemas, studio estimates show. The video-game film Street Fighter topped the chart with $31 million.",
+   "matters": "Screen Daily calls it the biggest documentary debut since Fahrenheit 9/11 in 2004, leaving aside concert films.",
    "sources": [
     {
-     "name": "Euronews (AP)",
-     "url": "https://www.euronews.com/2026/10/19/trump-endorses-netanyahu-days-before-israeli-election-breaking-months-of-silence"
+     "name": "AP (via ABC News)",
+     "url": "https://abcnews.com/Entertainment/wireStory/box-office-elizabeth-holmes-movie-now-hit-theaters-137363778"
     },
     {
-     "name": "Jerusalem Post",
-     "url": "https://www.jpost.com/israel-election-2026/article-912080"
+     "name": "Screen Daily",
+     "url": "https://www.screendaily.com/news/street-fighter-tops-global-box-office-with-51m-opening-punch-sense-and-sensibility-enters-top-10/5221569.article"
     },
     {
-     "name": "Arab News Japan (AFP)",
-     "url": "https://www.arabnews.jp/en/middle-east/trump-backs-ally-netanyahu-ahead-of-israels-tight-election-3000917"
+     "name": "Fortune",
+     "url": "https://fortune.com/2026/10/19/you-can-see-everything-box-office-opening-elizabeth-holmes-documentary/"
     }
    ]
   },
@@ -339,27 +838,27 @@
    "section": "culture",
    "serious": true,
    "developing": true,
-   "changed": "Updated: police say one of the three suspects detained in Kota is a minor and that they planned to flee to Nepal",
+   "changed": "Updated: Mumbai Police say none of the three suspects is a minor; police are examining an unverified claim of responsibility",
    "published": "2026-10-18T13:30:00Z",
    "title": "Bollywood actor Tiger Shroff unhurt after gunmen fire at his car",
-   "why": "Gunmen fired at actor Tiger Shroff's car in Mumbai's Juhu area, India, on the evening of 18 October, police say. He was unhurt; his driver and another man were injured. Police detained three suspects, one of them a minor, at Kota railway station in Rajasthan on 19 October.",
-   "matters": "Police say the suspects planned to flee to Nepal; an unverified social media post claimed the attack for the Lawrence Bishnoi gang.",
+   "why": "Gunmen fired at actor Tiger Shroff's car in Mumbai's Juhu area, India, on 18 October, police say. He was unhurt; his driver and a bystander were injured. Mumbai Police say none of the three suspects arrested in Kota, Rajasthan, is a minor: one is 18, two are 22.",
+   "matters": "Police are examining an unverified claim of responsibility by a gangster linked to the Lawrence Bishnoi gang; no weapon has been found.",
    "sources": [
     {
      "name": "PTI (via The Tribune)",
-     "url": "https://www.tribuneindia.com/news/india/tiger-shroff-firing-mumbai-crime-branch-takes-over-probe-fir-lodged-against-3-unidentified-persons/"
+     "url": "https://www.tribuneindia.com/news/india/tiger-shroff-firing-5-6-rounds-fired-at-car-no-weapon-recovered-3-accused-being-brought-to-mumbai-says-police/"
     },
     {
-     "name": "Scroll",
-     "url": "https://scroll.in/latest/1096497/attack-on-tiger-shroff-opposition-accuses-maharashtra-government-of-creating-a-jungle-raj"
+     "name": "ETV Bharat",
+     "url": "https://www.etvbharat.com/en/bharat/tiger-shroff-shooting-gangster-anil-pandit-role-being-probed-all-3-accused-adults-says-mumbai-police-enn26102000447"
+    },
+    {
+     "name": "The Federal",
+     "url": "https://thefederal.com/category/states/west/maharashtra/tiger-shroff-shooting-us-based-gangster-anil-pandit-under-scanner-260065"
     },
     {
      "name": "The Week",
      "url": "https://www.theweek.in/news/india/2026/10/19/tiger-shroff-car-shooting-suspects-arrested-rajasthan-kota.html"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/tiger-shroff-mumbai-shooting-salman-khan"
     }
    ]
   },
@@ -385,6 +884,28 @@
    ]
   },
   {
+   "section": "climate",
+   "serious": false,
+   "published": "2026-10-18T11:25:00Z",
+   "title": "Dozens of orangutans rescued from Indonesia's fires on Borneo",
+   "why": "At least 51 critically endangered orangutans have been rescued from burning forest in West Kalimantan, on Borneo, since early August, the conservation agency and the charity YIARI say. Many were thin and stressed; 27 need further care. Indonesia's forestry ministry suggests up to 96 across Kalimantan.",
+   "matters": "Satellite images show fire damaged over 90% of a protected forest area where many were found, Antara reports.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/environment/20261018-dozens-of-critically-endangered-orangutans-saved-from-rampant-wildfires-in-indonesia"
+    },
+    {
+     "name": "Antara",
+     "url": "https://en.antaranews.com/news/436525/some-51-orangutans-rescued-from-fire-affected-areas-in-west-kalimantan"
+    },
+    {
+     "name": "AP (via ABC News)",
+     "url": "https://www-cdn.abcnews.com/International/wireStory/indonesia-relocates-8-orangutans-protected-forest-after-rescue-137218880"
+    }
+   ]
+  },
+  {
    "section": "sport",
    "published": "2026-10-18T09:08:00Z",
    "title": "Ethiopians win both Amsterdam Marathon races; Diriba sets women's course record",
@@ -406,77 +927,26 @@
    ]
   },
   {
-   "section": "sport",
-   "published": "2026-10-18T08:00:00Z",
-   "title": "China's Ruoning Yin wins LPGA Shanghai, her second straight tour win",
-   "why": "Ruoning Yin won the Buick LPGA Shanghai at Sheshan Golf Club, China, on 18 October at 11 under par, one shot ahead of South Korea's Hye-Jin Choi. It is her seventh LPGA Tour title and her second Shanghai win, after 2024.",
-   "matters": "She had also won her previous LPGA event, the FM Championship near Boston, in August.",
-   "sources": [
-    {
-     "name": "AP (via LPGA)",
-     "url": "https://www.lpga.com/news/2026/ruoning-yin-overtakes-hye-jin-choi-to-win-the-2026-buick-lpga-shanghai"
-    },
-    {
-     "name": "Golf.com",
-     "url": "https://golf.com/news/ruoning-yin-defends-buick-lpga-shanghai-title-earns-7th-lpga-win/"
-    },
-    {
-     "name": "Australian Golf Digest",
-     "url": "https://www.australiangolfdigest.com.au/ruoning-yin-buick-lpga-shanghai-2026/"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-10-18T05:30:00Z",
-   "title": "Microsoft pulls out of planned AI data centre near London",
-   "why": "Microsoft has confirmed it withdrew from a deal to rent about 23,000 Nvidia AI chips at a data centre planned by British start-up Nscale in Loughton, northeast of London. Grid officials reportedly told Nscale the site may not get enough power until the 2030s. Nscale says the project continues.",
-   "matters": "The UK government had promoted the site as its largest 'sovereign' AI data centre; grid delays are holding back several such projects.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261019-microsoft-exits-data-centre-deal-in-blow-to-uk-ai-ambitions"
-    },
-    {
-     "name": "The Telegraph",
-     "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-axes-ai-deal-setback-053000624.html"
-    },
-    {
-     "name": "The Register",
-     "url": "https://theregister.com/on-prem/2026/10/19/microsoft-abandons-uk-ai-supercomputer-as-grid-struggles-to-keep-up/5303824"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "serious": false,
-   "developing": true,
-   "published": "2026-10-18T05:00:00Z",
-   "title": "Japan set to launch probe to bring back samples from Mars moon",
-   "why": "Japan's space agency JAXA plans to launch its MMX probe on an H3 rocket from Tanegashima at 19:41 UTC on 19 October (04:41 Tuesday, Japan time). It should reach Mars in 2027, collect at least 10 grams from the moon Phobos, and return them in 2031.",
-   "matters": "No mission has yet brought back material from the Mars system; it may show how Mars's two small moons formed.",
-   "sources": [
-    {
-     "name": "JAXA",
-     "url": "https://global.jaxa.jp/press/2026/10/20261018-1_e.html"
-    },
-    {
-     "name": "ESA",
-     "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October"
-    },
-    {
-     "name": "AFP (via Taipei Times)",
-     "url": "https://taipeitimes.com/News/world/archives/2026/10/19/2003866237"
-    }
-   ]
-  },
-  {
    "section": "culture",
+   "developing": true,
+   "changed": "Updated: a Bogotá court ordered the museum to preserve the removed works and remove no others, pending a full ruling",
    "published": "2026-10-18T03:13:00Z",
-   "title": "Protests in Bogotá after Colombia's government removes works from National Museum",
-   "why": "Riot police used tear gas and a water cannon to break up a protest outside Colombia's National Museum in Bogotá on Saturday, AFP reports. The Culture Ministry had ordered at least 30 pieces removed, on feminism, LGBTQ rights, the 2016 peace deal and assassinated political leaders.",
-   "matters": "The government says the museum must not be 'an instrument of political indoctrination'; six other museums urged it to guarantee museums' autonomy.",
+   "title": "Colombian court orders National Museum to keep works the government removed",
+   "why": "A Bogotá family court on 19 October ordered Colombia's National Museum to keep the works the Culture Ministry removed, and to take down no others, pending a full ruling. At least 30 pieces on feminism, LGBTQ rights and the 2016 peace deal had been removed.",
+   "matters": "The government says museums must not be instruments of 'political indoctrination'; riot police broke up a protest at the museum on Saturday.",
    "sources": [
+    {
+     "name": "El Tiempo",
+     "url": "https://www.eltiempo.com/cultura/arte-y-teatro/juez-ordena-al-museo-nacional-conservar-las-obras-retiradas-por-el-gobierno-y-suspender-nuevas-intervenciones-tras-aceptar-una-tutela-3594665"
+    },
+    {
+     "name": "El Espectador",
+     "url": "https://www.elespectador.com/judicial/juez-ordena-frenar-el-retiro-de-piezas-del-museo-nacional-por-parte-del-mincultura/"
+    },
+    {
+     "name": "El Colombiano",
+     "url": "https://www.elcolombiano.com/colombia/juez-ordena-museo-nacional-conservar-obras-retiradas-frenar-intervenciones-FG42444652"
+    },
     {
      "name": "AFP (via myRepublica)",
      "url": "https://myrepublica.nagariknetwork.com/news/protesters-accuse-colombia-govt-of-erasing-history-at-national-museum-68-89.html"
@@ -484,14 +954,6 @@
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/museum-protesters-in-colombia-accuse-govt-of-erasing-history"
-    },
-    {
-     "name": "El Heraldo (Colombia)",
-     "url": "https://www.elheraldo.co/colombia/2026/10/18/protestas-frente-al-museo-nacional-en-rechazo-al-retiro-de-varias-obras-de-exposicion-terminaron-en-disturbios-hubo-enfrentamientos-con-la-undmo/?outputType=amp-type"
-    },
-    {
-     "name": "Infobae",
-     "url": "https://www.infobae.com/cultura/2026/10/18/censura-en-colombia-el-gobierno-retiro-obras-lgbt-y-del-proceso-de-paz-del-museo-nacional-y-encendio-una-protesta-historica/"
     }
    ]
   },
@@ -499,103 +961,35 @@
    "section": "world",
    "serious": true,
    "developing": true,
-   "changed": "Updated: Russian strikes on 11 regions overnight cut power to at least 550,000 families, Zelensky says",
+   "changed": "Updated: a Russian drone strike on a park in Kharkiv region killed six people, including two children, officials say",
    "published": "2026-10-18T01:34:00Z",
-   "title": "Russian strikes cut power to 550,000 Ukrainian homes after drone barrage",
-   "why": "Russia says it downed 1,015 Ukrainian drones overnight into Sunday; fires hit an oil terminal in St Petersburg. Overnight into Monday, Russia struck energy sites in 11 Ukrainian regions, and President Zelensky says at least 550,000 families lost power. Ukrainian officials say at least four people were killed.",
+   "title": "Russian drone kills six in Kharkiv park as strikes cut Ukraine's power",
+   "why": "Russia struck 28 energy facilities in 11 Ukrainian regions overnight into Monday, cutting power to at least 550,000 households, President Zelensky says. On Monday afternoon a Russian drone hit a park in Nova Vodolaha, Kharkiv region, killing six people, including two girls, the regional governor says.",
    "matters": "Both sides are striking energy sites despite the 'energy ceasefire' US President Donald Trump announced on 11 October.",
    "sources": [
     {
      "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/3-killed-53-injured-in-russian-attacks-across-ukraine-over-past-day-as-550-000-households-lose-power/"
+     "url": "https://kyivindependent.com/russian-drone-strike-on-park-in-kharkiv-oblast-kills-children-and-infant/"
+    },
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russia-strikes-28-critical-energy-facilities-across-ukraine-in-latest-wave-of-attacks-zelensky-says/"
+    },
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/europe/20261020-zelensky-accuses-us-of-delaying-missile-deliveries-as-tensions-rise"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/20/europe-today-blame-continues-in-france-russia-kills-two-children-in-kharkiv"
     },
     {
      "name": "ABC News",
      "url": "https://abcnews.com/International/russia-targets-kyiv-ballistic-missiles-strikes-energy-facilities/story?id=137371745"
     },
     {
-     "name": "Irish Times",
-     "url": "https://www.irishtimes.com/world/europe/2026/10/19/russian-air-strike-kills-woman-in-kyiv-and-hits-subway-station-amid-massive-attack/"
-    },
-    {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites"
-    },
-    {
-     "name": "NBC News (AP)",
-     "url": "https://www.nbcnews.com/world/russia/st-petersburg-oil-facilities-ablaze-ukraine-launches-1000-drones-russi-rcna604137"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-10-17T17:50:00Z",
-   "title": "Stampede at Durga Puja pavilion in India's Kolkata kills at least 19",
-   "why": "A crowd surged as rain began outside a Durga Puja festival pavilion in Kolkata, eastern India, on Saturday evening. Indian media report at least 19 people died and about 25 were injured. Police have arrested seven people, including organisers.",
-   "matters": "West Bengal's Chief Minister, Suvendu Adhikari, has ordered an investigation led by a sitting Calcutta High Court judge.",
-   "sources": [
-    {
-     "name": "Al Jazeera (AFP/Reuters/AP)",
-     "url": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india"
-    },
-    {
-     "name": "The Business Standard (Bangladesh)",
-     "url": "https://www.tbsnews.net/world/south-asia/17-killed-25-injured-stampede-kolkata-durga-puja-pandal-1575936"
-    },
-    {
-     "name": "Deccan Chronicle",
-     "url": "https://www.deccanchronicle.com/nation/crime/7-held-for-fatal-kolkata-durga-puja-stampede-1997017"
-    },
-    {
-     "name": "The Hans India",
-     "url": "https://www.thehansindia.com/kolkata/kolkata-durga-puja-stampede-19-dead-seven-arrested-including-pandal-organisers-1133524"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-10-17T17:07:00Z",
-   "title": "Rain washes out decider; India and West Indies draw T20 series 2-2",
-   "why": "The fifth and final T20 international in Bengaluru, India, was abandoned on 17 October after India reached 118 for 5 in 7.4 overs of a match cut to nine overs a side. West Indies captain Shai Hope, with two centuries, was player of the series.",
-   "matters": "West Indies have not won a bilateral series in India since 2002-03, ANI reports.",
-   "sources": [
-    {
-     "name": "AFP (via Dawn)",
-     "url": "https://www.dawn.com/news/2037991/india-t20-series-decider-with-west-indies-washed-out"
-    },
-    {
-     "name": "ANI (via The Tribune)",
-     "url": "https://www.tribuneindia.com/news/india-west-indies-fifth-t20i/success-doesnt-have-to-be-series-wins-necessarily-wi-skipper-hope-after-well-fought-2-2-draw-against-india-in-t20is"
-    },
-    {
-     "name": "Outlook India",
-     "url": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-5th-t20i-live-score-today-cricket-latest-updates"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-10-17T16:30:00Z",
-   "title": "Manchester City win first seven league games as Haaland reaches milestone",
-   "why": "Manchester City beat Ipswich Town 3-2 in Manchester, England, on 17 October, their seventh Premier League win in seven games. Erling Haaland scored twice, reaching 100 Premier League non-penalty goals in 139 games, the fewest of any player, ESPN says.",
-   "matters": "Arsenal, second, beat Nottingham Forest 1-0 on Sunday and are three points behind City.",
-   "sources": [
-    {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/football/news/13598864/man-city-3-2-ipswich-erling-haalands-incredible-scoring-run-continues-as-enzo-marescas-side-continue-to-weather-storm"
-    },
-    {
-     "name": "ESPN",
-     "url": "https://www.espn.com/soccer/report/_/gameId/401879259"
-    },
-    {
-     "name": "AP (via Al Jazeera)",
-     "url": "https://www.aljazeera.com/sports/2026/10/18/haalands-record-scoring-spree-helps-man-city-to-seventh-premier-league-win"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/sports/2026/10/18/madueke-scores-only-goal-as-below-par-arsenal-beat-nottingham-forest"
     }
    ]
   },
@@ -604,35 +998,31 @@
    "lead": true,
    "serious": true,
    "developing": true,
-   "changed": "Updated: Russia's foreign minister, Sergei Lavrov, arrived in Tehran on Monday for talks on preventing renewed war",
+   "changed": "Updated: Lavrov called the US-Israeli attacks illegal; Iran's president says Tehran will not accept demands imposed by force",
    "published": "2026-10-17T07:00:00Z",
-   "title": "Russia's Lavrov in Tehran for talks as Hormuz ship attacks continue",
-   "why": "Russian Foreign Minister Lavrov arrived in Tehran on Monday, his first visit since the war began, saying Moscow wants to prevent a return to large-scale war. UKMTO says a tug was hit off the UAE; Iran says Hormuz would reopen within six days if the US lifts its blockade.",
-   "matters": "Al Jazeera reports more ships attacked this month than in any month since the Iran war began in February.",
+   "title": "Russia's Lavrov calls US-Israeli attacks on Iran illegal during Tehran visit",
+   "why": "On his first visit to Iran since the war began, Russian Foreign Minister Sergei Lavrov called the US and Israeli attacks illegal and said Moscow wants to prevent a return to large-scale war. President Pezeshkian said Iran rejects demands imposed by force but will settle disputes through dialogue.",
+   "matters": "UKMTO says 10 ships were attacked near Hormuz last week; Iran says the strait would reopen if the US lifts its blockade.",
    "sources": [
     {
-     "name": "Arab News (AFP)",
-     "url": "https://www.arabnews.com/middle-east/russian-fm-arrives-in-iran-as-moscow-looks-to-mediate-in-war-3007159"
+     "name": "CBS News (AP)",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz/"
+    },
+    {
+     "name": "Xinhua",
+     "url": "https://english.news.cn/20261020/7b85ec47638945ffb0b17d132bb552f3/c.html"
     },
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/10/19/russias-lavrov-to-discuss-us-war-and-regional-security-during-tehran-visit"
     },
     {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/news/gulf/2026/10/19/russias-lavrov-heads-to-tehran-as-gulf-states-press-moscow-over-iran-attacks/"
+     "name": "The Moscow Times",
+     "url": "https://www.themoscowtimes.com/2026/10/19/fm-lavrov-arrives-in-tehran-for-talks-with-iranian-leadership-a94018"
     },
     {
-     "name": "CBS News",
-     "url": "https://cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz"
-    },
-    {
-     "name": "Arab News (Reuters)",
-     "url": "https://www.arabnews.com/middle-east/authority-marine-tug-targeted-by-two-projectiles-off-khor-fakkan-in-uae-3006965"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news-analysis/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels"
+     "name": "Arab News (AFP)",
+     "url": "https://www.arabnews.com/middle-east/russian-fm-arrives-in-iran-as-moscow-looks-to-mediate-in-war-3007159"
     }
    ]
   },
@@ -640,138 +1030,54 @@
    "section": "world",
    "serious": true,
    "developing": true,
-   "changed": "Updated: the prime minister ordered local curfews on Monday and did not rule out a state of emergency",
+   "changed": "Updated: curfews in Paris, Lyon, Nice, Lille and Bordeaux on Monday night; the prime minister says they helped keep the night calm",
    "published": "2026-10-17T05:17:00Z",
-   "title": "France orders local curfews after weekend of riots and looting",
-   "why": "Prime Minister Sébastien Lecornu asked prefects on Monday to impose partial, local curfews in some cities after cost-of-living protests turned into riots and looting. He said a state of emergency was possible 'if necessary'. The interior ministry says about 2,400 were arrested on Saturday; Macron refused his interior minister's resignation.",
-   "matters": "Macron admits 'failures in anticipation and intelligence'; the unrest is seen as a test of the mood before the 2027 election.",
+   "title": "France's local curfews help keep night calm, prime minister says",
+   "why": "Partial overnight curfews took effect on Monday in parts of Paris, Lyon, Bordeaux, Nice and Lille after a weekend of riots and looting. Prime Minister Sébastien Lecornu said they 'helped keep the night calm' and more would follow where needed; police reported no major incidents.",
+   "matters": "Officials estimate at least 3,000 businesses were hit; Macron refused his interior minister's resignation and ordered a review of policing failures.",
    "sources": [
     {
      "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261019-live-france-macron-slams-unbridled-violence-protests-weekend-unrest"
+     "url": "https://www.france24.com/en/europe/20261020-live-curfews-come-into-effect-around-france-to-combat-looting"
     },
     {
-     "name": "France 24 (AFP, French)",
-     "url": "https://www.france24.com/fr/info-en-continu/20261019-violences-lecornu-annonce-des-couvre-feux-localis%C3%A9s-et-des-aides-pour-les-commerces-touch%C3%A9s"
+     "name": "Asharq Al-Awsat",
+     "url": "https://english.aawsat.com/world/5331435-france-impose-new-curfews-where-necessary-says-pm"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/10/19/france-protests-live-macron-admits-failures-after-days-of-violent-unrest"
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/20/pressure-mounts-on-macron-as-france-reels-from-unrest"
     },
     {
      "name": "Euronews",
      "url": "https://www.euronews.com/2026/10/19/emmanuel-macron-rejects-resignation-of-interior-minister-laurent-nunez"
-    },
-    {
-     "name": "Arab News (AFP)",
-     "url": "https://www.arabnews.com/world/french-president-refuses-interior-ministers-resignation-after-protests-3007095"
     }
    ]
   },
   {
    "section": "money",
    "developing": true,
-   "changed": "Updated: Brent eases about 2% after Trump waives Russia sanctions",
+   "changed": "Updated: Brent steady near $110 on Tuesday; Yemen's Houthis claim strikes on Saudi oil sites, unconfirmed",
    "published": "2026-10-16T18:47:00Z",
-   "title": "Oil eases from five-month high after US waives Russia sanctions",
-   "why": "Brent crude fell about 2% to near $108 a barrel on Monday 19 October, after touching $110 on Friday. Traders expect more Russian fuel exports after President Trump waived key US sanctions and tariffs on Russia. Attacks on ships near the Strait of Hormuz continue to cut Gulf supplies.",
+   "title": "Oil holds near five-month high as Gulf attacks offset Russia sanctions waiver",
+   "why": "Brent crude was steady at about $109.70 a barrel early on Tuesday 20 October, near Friday's five-month high of $110. Traders are weighing a US waiver of some Russia sanctions against attacks on ships near Hormuz and unconfirmed Houthi claims of strikes on Saudi oil sites.",
    "matters": "Prices remain well above pre-war levels, keeping pressure on fuel, transport and food costs.",
    "sources": [
     {
-     "name": "Reuters",
-     "url": "https://www.arabnews.com/energy/oil-slips-from-5-month-high-as-trumps-russia-sanctions-waiver-may-bring-more-supplies-3007111"
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261020-tech-firms-bear-brunt-of-selling-as-asian-stocks-drop"
+    },
+    {
+     "name": "Reuters (via Investing.com)",
+     "url": "https://investing.com/news/economy-news/asian-shares-tumble-oil-rises-as-markets-await-ai-sector-results-4958677"
+    },
+    {
+     "name": "Xinhua",
+     "url": "https://english.news.cn/20261020/03826e79b31f4c308b19d15caa9806bc/c.html"
     },
     {
      "name": "AP",
      "url": "https://www.clickondetroit.com/business/2026/10/19/asian-shares-are-mixed-with-tech-stocks-volatile-and-oil-falls-on-trumps-russian-sanctions-waiver/"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://abc.net.au/news/2026-10-19/asx-markets-business-live-news/107280976"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: four more deaths; the toll is now 352, with 107 in October so far",
-   "published": "2026-10-16T11:50:00Z",
-   "title": "Bangladesh dengue deaths reach 352 this year as cases pass 114,000",
-   "why": "Bangladesh's health directorate reported four more dengue deaths in the 24 hours to Monday morning, bringing this year's toll to 352, with 114,251 cases. October has seen 107 deaths so far, after 148 in September, the deadliest month this year.",
-   "matters": "Dengue, spread by mosquitoes, has no specific treatment; Bangladesh's government has ordered neighbourhood awareness campaigns to curb it.",
-   "sources": [
-    {
-     "name": "bdnews24",
-     "url": "https://bdnews24.com/health/1482m3smqx"
-    },
-    {
-     "name": "The Business Standard (Bangladesh)",
-     "url": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-352-4-more-die-1577631"
-    },
-    {
-     "name": "The Daily Star (Bangladesh)",
-     "url": "https://www.thedailystar.net/news/healthcare/disease/news/4-die-dengue-1851-hospitalised-24-hours-4302571"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: fire hotspots in Indonesia almost quadrupled on Sunday, and Singapore has served notices on three more firms, 10 in all",
-   "published": "2026-10-16T07:00:00Z",
-   "title": "Indonesia's fires push South-East Asia's haze alert to highest level",
-   "why": "Smoke from Indonesia's worst forest fires in a decade keeps southern South-East Asia under the regional haze monitor's highest alert. Indonesia's forestry ministry says fire hotspots rose to 1,104 on Sunday from 270 a day earlier, most in Kalimantan, on Borneo.",
-   "matters": "Haze has disrupted 2,458 Indonesian flights since August; Singapore has ordered 10 Indonesian firms it links to the fires to act.",
-   "sources": [
-    {
-     "name": "AP (via The Manila Times)",
-     "url": "https://manilatimes.net/2026/10/19/world/singapore-expands-crackdown-on-indonesian-companies-linked-to-haze/2448761"
-    },
-    {
-     "name": "Bernama",
-     "url": "https://www.bernama.com/en/world/news.php?id=2622426"
-    },
-    {
-     "name": "Antara",
-     "url": "https://jatim.antaranews.com/berita/1108505/haze-from-forest-fires-impacts-2458-flights-nationwide-ministry"
-    },
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/asia-pacific/20261018-months-long-indonesia-wildfires-spew-toxic-haze-across-southeast-asia"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/16/four-killed-as-indonesia-battles-worst-forest-fires-in-more-than-a-decade"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: Champi is a super typhoon again east of the Philippines and is heading for waters off northern Luzon and Taiwan",
-   "published": "2026-10-16T04:15:00Z",
-   "title": "Champi regains super typhoon strength, heading for waters off Luzon and Taiwan",
-   "why": "After passing just south of Guam on Sunday, Champi regained super typhoon strength on Monday about 1,500 km east of Luzon, with winds of 185 km/h, the Philippine weather agency PAGASA says. It should enter Philippine waters on Tuesday, where it will be called Rosal.",
-   "matters": "Taiwan's weather agency expects Champi to turn north before reaching the island but bring heavy rain on Friday and Saturday.",
-   "sources": [
-    {
-     "name": "The Manila Times",
-     "url": "https://www.manilatimes.net/2026/10/19/news/national/champi-re-intensifies-into-super-typhoon/2448726"
-    },
-    {
-     "name": "Philstar",
-     "url": "https://www.philstar.com/headlines/weather/2026/10/19/2564255/champi-may-re-intensify-super-typhoon-enter-par-tuesday"
-    },
-    {
-     "name": "Focus Taiwan (CNA)",
-     "url": "https://focustaiwan.tw/society/202610190025"
-    },
-    {
-     "name": "The Guam Daily Post",
-     "url": "https://www.postguam.com/news/local/nws-champi-became-super-typhoon-passing-guam-landfall-would-have-been-devastating/article_800fb984-e258-4ed6-a996-1550b27df53b.html"
     }
    ]
   }
