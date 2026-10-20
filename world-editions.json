@@ -3054,5 +3054,175 @@
         ]
       }
     ]
+  },
+  {
+    "id": "030",
+    "published": "2026-10-22",
+    "title": "A green star, a trip to a moon of Mars and a €255 fine for Ronaldo",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Did this actually happen?",
+        "claim": "Astronomers say they have found the first known star that would look green to the human eye.",
+        "options": [
+          "Yes — that happened",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this happened. On 15 October astronomers at the University of Warwick in England said a dead star called a white dwarf would look green if we could see it. Stars normally look white, yellow, red or blue, because their colour mostly depends on how hot they are, so a green star was thought impossible. This one has swallowed rocky debris from its own planets, and sodium from that debris soaks up the orange part of its light, leaving a green glow. Nobody has actually seen it with their own eyes: the team worked out its colour from its light, using a model of how human vision works.",
+        "sources": [
+          [
+            "University of Warwick · Astronomers reveal surprising true colours of white dwarfs",
+            "https://warwick.ac.uk/news/pressreleases/astronomers-reveal-true-colours-of-white-dwarf-stars/"
+          ],
+          [
+            "Phys.org · Green, pink and purple: astronomers reveal the surprising true colors of white dwarf stars",
+            "https://phys.org/news/2026-10-green-pink-purple-astronomers-reveal.html"
+          ],
+          [
+            "BBC Sky at Night Magazine · Scientists have found a green star",
+            "https://www.skyatnightmagazine.com/news/green-star-white-dwarf-discovery"
+          ],
+          [
+            "FOX 2 Detroit · Astronomers discover 1st green star in space as white dwarfs break color rules",
+            "https://www.fox2detroit.com/news/astronomers-discover-1st-green-star-space-white-dwarfs-break-color-rules"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three terms. Find their partners.",
+        "pairs": [
+          [
+            "Cristiano Ronaldo",
+            "Banned for 30 days for walking out of Portugal’s team camp"
+          ],
+          [
+            "Jorge Jesus",
+            "Portugal coach he accused of breaking a promise about playing time"
+          ],
+          [
+            "€255",
+            "His fine — the most allowed once his apology was taken into account"
+          ]
+        ],
+        "why": "The pairs are: Cristiano Ronaldo – banned for 30 days for walking out of Portugal’s camp; Jorge Jesus – the coach he accused of breaking a promise; €255 – his fine. Ronaldo was left on the bench for a whole match against Norway in late September, said coach Jorge Jesus had broken his word about his role, and then left the team’s base in Copenhagen before a game against Denmark. Jesus denies making any promise. On 19 October Portugal’s football federation gave Ronaldo a 30-day suspension and a fine of just €255; it said his apology, his full admission and his clean record reduced the punishment. He is expected to be available again for Portugal’s match against Denmark on 14 November.",
+        "sources": [
+          [
+            "ABC News (AP) · Ronaldo suspended for 30 days and fined for walking out on Portugal camp",
+            "https://abcnews.com/Sports/wireStory/ronaldo-suspended-30-days-fined-walking-portugal-camp-137395782"
+          ],
+          [
+            "Flashscore · Cristiano Ronaldo handed 30-day suspension and €255 fine for leaving Portugal camp",
+            "https://www.flashscore.com/news/cristiano-ronaldo-handed-30-day-suspension-and-255-fine-for-leaving-portugal-camp/AHnLoSIb/"
+          ],
+          [
+            "ETV Bharat · Cristiano Ronaldo handed 30-day suspension and fine by Portuguese Football Federation",
+            "https://www.etvbharat.com/en/sports/cristiano-ronaldo-handed-30-day-suspension-and-27k-rupee-fine-by-portuguese-football-federation-enn26102001174"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "A classic video game in which players battle each other one on one",
+          "A new big-budget film that cost a reported $82 million to make",
+          "Number one in North American cinemas on the weekend of 16–18 October"
+        ],
+        "options": [
+          "The new Street Fighter film tops the box office",
+          "A Pac-Man film breaks box-office records",
+          "A new Super Mario film tops the box office",
+          "A Tetris film becomes the year’s biggest hit"
+        ],
+        "correct": 0,
+        "why": "It was: the new Street Fighter film topped the box office. Street Fighter is Capcom’s classic fighting game, where two players battle one on one, and Paramount has turned it into a new live-action film. On its first weekend, 16–18 October, it took about $31 million in the United States and Canada and about $51 million worldwide, enough for first place, although some reports called the start a little below expectations. Pac-Man, Super Mario and Tetris are famous games too, but none of them is a one-on-one fighting game.",
+        "sources": [
+          [
+            "ABC News (AP) · Box office: Elizabeth Holmes movie now a hit in theaters too",
+            "https://abcnews.com/Entertainment/wireStory/box-office-elizabeth-holmes-movie-now-hit-theaters-137363778"
+          ],
+          [
+            "JoBlo · Weekend box office: Street Fighter scores a solid (if unspectacular) win with $31 million",
+            "https://www.joblo.com/weekend-box-office-street-fighter-scores-a-solid-if-unspectacular-win-with-31-million/"
+          ],
+          [
+            "Yahoo (Men’s Journal) · ‘Street Fighter’ leads the box office with a No. 1 opening weekend",
+            "https://www.yahoo.com/entertainment/movies/articles/street-fighter-leads-box-office-140000057.html"
+          ],
+          [
+            "Bleeding Cool · Street Fighter wins weekend box office, but was not the big story",
+            "https://bleedingcool.com/movies/street-fighter-wins-weekend-box-office-but-was-not-the-big-story/"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "Japan’s round trip to a moon of Mars: put these in order, earliest first.",
+        "items": [
+          "A small rover is dropped onto the moon Phobos",
+          "The MMX probe blasts off from Japan",
+          "A capsule of Phobos soil lands in Australia",
+          "The probe arrives at Mars"
+        ],
+        "correctOrder": [
+          1,
+          3,
+          0,
+          2
+        ],
+        "why": "The right order is: the probe blasts off (20 October 2026), it arrives at Mars (planned for August 2027), a small rover is dropped onto Phobos (planned for early 2029), and a capsule of soil lands in Australia (planned for 2031). Japan’s space agency launched the MMX (Martian Moons eXploration) probe on an H3 rocket from Tanegashima, working with NASA and European partners. Phobos is the larger of Mars’s two small moons, and the probe aims to land on it, scoop up at least 10 grams of its surface and bring it home. If it works, it will be the first mission ever to bring back a sample from a moon of Mars, which could help explain how the two moons formed.",
+        "sources": [
+          [
+            "Nippon.com (Jiji Press) · Japan successfully launches Martian moon probe on landmark mission",
+            "https://www.nippon.com/en/news/yjj2026102000118/japan-successfully-launches-martian-moon-probe-on-landmark-mission.html"
+          ],
+          [
+            "CBS News · Japan launches ambitious robotic mission to land on Martian moon Phobos, return samples to Earth",
+            "https://www.cbsnews.com/news/japan-launches-ambitious-robotic-mission-to-land-on-martian-moon-phobos-return-samples-to-earth/"
+          ],
+          [
+            "ESA · Mars moon lander set to launch on 19 October",
+            "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October"
+          ],
+          [
+            "JAXA · Martian Moons eXploration (MMX)",
+            "https://www.mmx.jaxa.jp/en/"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "Vietnam signed a free trade deal on 18 October with four European countries that are not in the European Union. Which of these is NOT one of the four?",
+        "options": [
+          "Sweden",
+          "Norway",
+          "Switzerland",
+          "Iceland"
+        ],
+        "correct": 0,
+        "why": "It was Sweden. Sweden is a member of the European Union, so it is not part of this deal. The four countries are Norway, Switzerland, Iceland and tiny Liechtenstein, which together form the European Free Trade Association (EFTA), a trade club of European countries that work closely with the EU but have not joined it. The deal was signed in Vietnam’s capital, Hanoi, after talks that began back in 2012, and it cuts or removes customs duties on goods such as industrial products, fish and farm produce.",
+        "sources": [
+          [
+            "EFTA · EFTA and Viet Nam sign Free Trade Agreement",
+            "https://www.efta.int/media-resources/news/efta-and-viet-nam-sign-free-trade-agreement"
+          ],
+          [
+            "Asharq Al-Awsat (AFP) · Vietnam signs free trade deal with four European countries",
+            "https://english.aawsat.com/business/5330716-vietnam-signs-free-trade-deal-four-european-countries"
+          ],
+          [
+            "VnExpress International · Vietnam, EFTA sign free trade agreement after 14 years of negotiations",
+            "https://e.vnexpress.net/news/business/economy/vietnam-efta-sign-free-trade-agreement-after-14-years-of-negotiations-5133850.html"
+          ]
+        ]
+      }
+    ]
   }
 ]
