@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T06:52:17Z",
+ "updated": "2026-10-21T08:04:11Z",
  "items": [
   {
    "section": "money",
@@ -41,6 +41,51 @@
     {
      "name": "Down To Earth",
      "url": "https://www.downtoearth.org.in/climate-change/emissions-gap-report-2026-point-of-no-return-for-the-15c-warming-threshold"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-10-21T02:00:00Z",
+   "title": "LeBron James's 76ers spoil Knicks' title celebration as NBA season opens",
+   "why": "The Philadelphia 76ers beat the champion New York Knicks 106-100 at Madison Square Garden on 20 October, the NBA's opening night, after the Knicks raised their first title banner in 53 years. LeBron James, in a record 24th season, had 14 points on his 76ers debut; Tyrese Maxey scored 28.",
+   "sources": [
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/nba/story/_/id/50220591/nba-opening-day-live-updates-highlights"
+    },
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/nba/news/13601764/lebron-james-philadelphia-76ers-knock-off-champion-new-york-knicks-in-sensational-road-victory-to-open-nba-season"
+    },
+    {
+     "name": "BBC Sport (via Yahoo Sports)",
+     "url": "https://sports.yahoo.com/articles/lebron-james-76ers-beat-knicks-063419082.html"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-10-21T00:30:00Z",
+   "title": "South Korea's Kospi jumps more than 4% as chip shares rebound",
+   "why": "Seoul's main share index rose more than 4% on Wednesday morning, a day after falling nearly 4%, with Samsung Electronics and SK hynix up about 7%. Strong US tech earnings revived confidence, and the exchange briefly paused programme buying for the first time since August.",
+   "matters": "Korean chipmakers are a bellwether for global spending on artificial intelligence.",
+   "sources": [
+    {
+     "name": "Yonhap (Korea Times)",
+     "url": "https://koreatimes.co.kr/economy/20261021/seoul-shares-extend-gains-late-wednesday-morning-on-tech-rebound"
+    },
+    {
+     "name": "SBS News (Korea)",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008807963"
+    },
+    {
+     "name": "AP",
+     "url": "https://www.wsls.com/business/2026/10/21/asian-shares-are-mixed-with-kospi-up-3-after-us-stocks-rally-on-strong-earnings/"
+    },
+    {
+     "name": "KED Global",
+     "url": "https://www.kedglobal.com/korean-stock-market/newsView/ked202610210002"
     }
    ]
   },
@@ -109,6 +154,27 @@
    ]
   },
   {
+   "section": "sport",
+   "published": "2026-10-20T21:00:00Z",
+   "title": "Liverpool come from two goals down to beat Villarreal 4-3",
+   "why": "Liverpool beat Villarreal 4-3 in the Champions League at Anfield on 20 October after trailing 2-0 within 29 minutes. Alexis Mac Allister scored twice, with Ronald Araújo and substitute Florian Wirtz also scoring; 18-year-old Rio Ngumoha set up two goals.",
+   "matters": "Liverpool and the holders, Paris Saint-Germain, lead the table with nine points from three games each.",
+   "sources": [
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/football/liverpool-vs-villarreal/report/577635"
+    },
+    {
+     "name": "AFP (via Jamaica Observer)",
+     "url": "https://www.jamaicaobserver.com/2026/10/20/liverpool-strike-back-beat-villarreal-seven-goal-thriller/"
+    },
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/soccer/report/_/gameId/401915397"
+    }
+   ]
+  },
+  {
    "section": "money",
    "serious": false,
    "published": "2026-10-20T20:01:00Z",
@@ -133,23 +199,91 @@
   {
    "section": "world",
    "developing": true,
-   "changed": "Updated: both campaigns ask the electoral court to disqualify the other",
+   "changed": "Updated: electoral court meets Meta and both campaigns over equal treatment online",
    "published": "2026-10-20T20:00:00Z",
-   "title": "Lula and Flávio Bolsonaro seek each other's disqualification before run-off",
-   "why": "Lawyers for Senator Flávio Bolsonaro asked Brazil's electoral court on Tuesday to disqualify President Lula, alleging abuse of power through government WhatsApp messages. Lula's campaign says it will seek Bolsonaro's disqualification over alleged 'algorithmic manipulation' by Meta, which denies favouring either side.",
-   "matters": "Polls show Sunday's run-off is essentially tied; the court gave Meta 24 hours to prove it treats both campaigns equally.",
+   "title": "Brazil's electoral court meets Meta and both campaigns before Sunday's run-off",
+   "why": "A judge at Brazil's Superior Electoral Court met Meta and lawyers for President Lula and Flávio Bolsonaro on Tuesday over an order to treat both candidates equally online. Lula's campaign says its posts were restricted; Meta denies favouring either side and blames technical faults. The run-off is on 25 October.",
+   "matters": "It tests how far courts can police tech platforms during an election.",
    "sources": [
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/21/lula-bolsonaro-seek-to-disqualify-each-other-ahead-of-brazil-runoff"
-    },
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/americas/20261020-lula-campaign-seeks-disqualify-bolsonoro-from-brazil-presidential-vote-over-meta-interference"
-    },
-    {
      "name": "Agência Brasil",
-     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-da-24-horas-para-meta-dar-informacoes-sobre-igualdade-de-campanhas"
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-reune-meta-e-campanhas-para-tratar-de-restricoes-de-postagens"
+    },
+    {
+     "name": "O Tempo",
+     "url": "https://www.otempo.com.br/eleicoes/2026/2026/10/20/tse-cobra-meta-por-cumprimento-de-decisao-sobre-campanhas-nas-redes"
+    },
+    {
+     "name": "Poder360",
+     "url": "https://www.poder360.com.br/poder-eleicoes-2026/tse-faz-reuniao-com-meta-e-advogados-das-campanhas-de-lula-e-flavio/"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261020-lula-campaign-seeks-disqualify-bolsonoro-from-brazil-presidential-vote-over-meta-interference"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "serious": true,
+   "published": "2026-10-20T20:00:00Z",
+   "title": "US approves first drug of its kind for chronic hepatitis B",
+   "why": "The US Food and Drug Administration approved GSK's Hibsago (bepirovirsen) on 20 October for some adults with chronic hepatitis B, given alongside existing antivirals. In two trials, 19% of patients still had the virus under control six months after stopping all treatment; none did on placebo.",
+   "matters": "GSK says more than 240 million people live with chronic hepatitis B, which causes about 1.1 million deaths a year.",
+   "sources": [
+    {
+     "name": "US FDA",
+     "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment"
+    },
+    {
+     "name": "GSK",
+     "url": "https://us.gsk.com/en-us/media/press-releases/hibsago-bepirovirsen-approved-in-the-us-for-the-treatment-of-chronic-hepatitis-b-chb/"
+    },
+    {
+     "name": "HCPLive",
+     "url": "https://www.hcplive.com/view/fda-approves-bepirovirsen-for-chronic-hepatitis-b"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-10-20T19:38:00Z",
+   "title": "US regulator approves Boeing's largest 737 Max after years of delays",
+   "why": "The US Federal Aviation Administration certified the Boeing 737 Max 10 on 20 October, almost a decade after the jet was unveiled in 2017. It seats up to 230 passengers. More than 30 customers have ordered 1,555, and Boeing expects deliveries to begin in the coming months.",
+   "matters": "It is the first airliner certified under all of a 2020 US safety law passed after two 737 Max crashes.",
+   "sources": [
+    {
+     "name": "AP (via France 24)",
+     "url": "https://www.france24.com/en/technology/20261021-boeing-s-737-max-10-finally-wins-faa-approval-after-years-of-delays"
+    },
+    {
+     "name": "Seattle Times (via Spokesman-Review)",
+     "url": "https://www.spokesman.com/stories/2026/oct/20/boeing-737-max-10-lands-long-awaited-faa-certifica/"
+    },
+    {
+     "name": "Boeing",
+     "url": "https://www.prnewswire.com/news-releases/us-faa-certifies-boeing-737-10-largest-member-of-737-max-family-302914559.html"
+    }
+   ]
+  },
+  {
+   "section": "curious",
+   "published": "2026-10-20T19:30:00Z",
+   "title": "Rare Arctic beluga whale filmed off Ireland's Donegal coast",
+   "why": "A beluga whale, normally found in Arctic and sub-Arctic waters, was filmed by drone in Donegal Bay, north-west Ireland, on 17 October. The Irish Whale and Dolphin Group says it is only the second validated beluga record in Irish waters, after one off County Antrim in 2015.",
+   "matters": "The group says the adult appears healthy, and Arctic species such as belugas and narwhals are being seen more often off Ireland.",
+   "sources": [
+    {
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/news/ulster/2026/1020/1596169-beluga-whale-donegal/"
+    },
+    {
+     "name": "The Irish Times",
+     "url": "https://www.irishtimes.com/ireland/2026/10/21/nowhere-left-to-go-beluga-whale-off-ireland-amid-growing-sightings-of-arctic-species/"
+    },
+    {
+     "name": "TheJournal.ie",
+     "url": "https://www.thejournal.ie/beluga-whale-donegal-bay-7199870-Oct2026/"
     }
    ]
   },
@@ -157,27 +291,49 @@
    "section": "world",
    "serious": true,
    "developing": true,
-   "changed": "Updated: Oslo talks held; Witkoff due to meet Putin on Wednesday",
-   "published": "2026-10-20T17:30:00Z",
-   "title": "US envoy Witkoff to meet Putin after Oslo talks with Zelensky",
-   "why": "US envoy Steve Witkoff met Ukraine's President Volodymyr Zelensky and the leaders of Norway and Finland in Oslo on Tuesday. He is due to meet Russia's President Vladimir Putin in St Petersburg on Wednesday. Zelensky said US intelligence warning of Russian missile attacks is working again.",
-   "matters": "Russian strikes killed at least nine people across Ukraine on Tuesday, officials say; Russia's foreign minister says he expects no 'miracle'.",
+   "published": "2026-10-20T18:27:00Z",
+   "title": "Iran's Revolutionary Guards say three tankers hit mines near Hormuz",
+   "why": "Iran's Revolutionary Guards said on Tuesday that naval mines set two tankers on fire in the Strait of Hormuz and a third, carrying over 2 million barrels of crude, exploded south of the strait. They said the ships took routes Iran calls unauthorised. The claims have not been independently confirmed.",
+   "matters": "Before the war about a fifth of the world's oil passed through the strait.",
    "sources": [
     {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/europe/20261021-us-envoy-witkoff-to-meet-putin-in-russia-after-positive-talks-with-zelensky"
+     "name": "AFP (Arab News)",
+     "url": "https://www.arabnews.pk/middle-east/iran-guards-say-three-tankers-hit-mines-crossing-hormuz-strait-3004761"
     },
     {
-     "name": "PBS NewsHour (AP)",
-     "url": "https://www.pbs.org/newshour/world/russian-missile-and-drone-blitz-kills-9-in-ukraine-as-zelenskyy-meets-u-s-and-european-officials-in-norway"
+     "name": "Xinhua",
+     "url": "https://english.news.cn/20261021/0fb02e6579c84b5284058528b71681ee/c.html"
     },
     {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-10-21/ukraine-interceptor-missiles-zelenskyy-us-trump-tensions/107290418"
+     "name": "Middle East Eye",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-guards-say-three-tankers-hit-mines-crossing-hormuz-strait"
     },
     {
-     "name": "Kyiv Post",
-     "url": "https://www.kyivpost.com/post/87670"
+     "name": "Gulf News",
+     "url": "https://gulfnews.com/world/mena/middle-east-war-iran-rejects-us-terms-as-tanker-explodes-near-hormuz-1.500717832"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "developing": true,
+   "changed": "Updated: Witkoff lands in St Petersburg; Kremlin says Putin receives him on Wednesday",
+   "published": "2026-10-20T17:30:00Z",
+   "title": "Witkoff arrives in St Petersburg for talks with Putin on Ukraine",
+   "why": "US envoy Steve Witkoff landed in St Petersburg after talks with Ukraine's President Zelensky in Oslo. Kremlin aide Yuri Ushakov said Putin would receive him at the Constantine Palace on Wednesday morning. A US official told Axios he carries an updated proposal to end the war.",
+   "matters": "It is the latest US attempt to bring Russia and Ukraine towards direct talks.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy"
+    },
+    {
+     "name": "TASS",
+     "url": "https://tass.com/politics/2205085"
+    },
+    {
+     "name": "Il Sole 24 Ore",
+     "url": "https://en.ilsole24ore.com/art/ukrainian-witkoff-and-putin-rubio-positive-talks-with-zelensky-AJzkIvpB"
     }
    ]
   },
@@ -203,6 +359,28 @@
     {
      "name": "France 24",
      "url": "https://www.france24.com/en/europe/20261021-live-french-pm-lecornu-to-meet-with-unions-ahead-of-new-protests"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "serious": true,
+   "published": "2026-10-20T17:00:00Z",
+   "title": "Christina Applegate says doctors now find she does not have MS",
+   "why": "US actor Christina Applegate, 54, who announced a multiple sclerosis diagnosis in 2021, said on her podcast MeSsy on 20 October that her doctor has told her she does not have the disease. She still has severe symptoms and says she is 'back at square one'.",
+   "matters": "A Cedars-Sinai neurologist on the podcast said misdiagnosis of MS is fairly common, as there is no single test for it.",
+   "sources": [
+    {
+     "name": "AFP/AP (via ABC Australia)",
+     "url": "https://www.abc.net.au/news/2026-10-21/christina-applegate-says-she-was-misdiagnosed-with-ms/107291302"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/christina-applegate-misdiagnosis-multiple-sclerosis/"
+    },
+    {
+     "name": "TODAY (NBC)",
+     "url": "https://www.today.com/health/celebrity-health/christina-applegate-reveals-misdiagnosis-ms-podcast-rcna604549"
     }
    ]
   },
@@ -271,23 +449,24 @@
   },
   {
    "section": "money",
-   "serious": false,
+   "developing": true,
+   "changed": "Updated: Brent settled lower on Tuesday after mediation reports, then rose again early Wednesday",
    "published": "2026-10-20T11:30:00Z",
-   "title": "Brent oil rises above $111 a barrel, its highest since May",
-   "why": "Brent crude rose as high as $111.75 a barrel on Tuesday 20 October, its highest since May, Reuters reports, and was at $111.20 at 11:20 GMT. Traders cited attacks on ships near the Strait of Hormuz and Houthi claims, unconfirmed by Saudi Arabia, of strikes on Saudi oil sites.",
-   "matters": "Higher oil prices feed through to fuel, transport and food costs around the world.",
+   "title": "Oil swings around $110 a barrel on Iran mediation reports",
+   "why": "Brent crude touched $111.99 on Tuesday, its highest since May, then settled at $108.79 after reports of a Qatar-Pakistan plan to revive US-Iran talks, Reuters reported. Early on Wednesday it rose about 1.5% to around $110.40, AP said.",
+   "matters": "Oil prices feed into fuel, heating and shipping costs around the world.",
    "sources": [
     {
-     "name": "MarketScreener (Reuters)",
-     "url": "https://www.marketscreener.com/news/brent-crude-holds-near-five-month-high-on-middle-east-tension-ce785cdbde8cf722"
+     "name": "Reuters",
+     "url": "https://finance.yahoo.com/news/oil-eases-markets-assess-potential-005750414.html"
     },
     {
-     "name": "Investing.com",
-     "url": "https://www.investing.com/news/commodities-news/oil-holds-near-fivemonth-high-as-hormuz-attacks-threaten-supply-recovery-4958615"
+     "name": "AP",
+     "url": "https://www.wsls.com/business/2026/10/21/asian-shares-are-mixed-with-kospi-up-3-after-us-stocks-rally-on-strong-earnings/"
     },
     {
-     "name": "Oilprice.com (Yahoo Finance)",
-     "url": "https://finance.yahoo.com/energy/articles/brent-tops-110-tanker-attacks-045606283.html"
+     "name": "Gulf News",
+     "url": "https://gulfnews.com/world/mena/middle-east-war-iran-rejects-us-terms-as-tanker-explodes-near-hormuz-1.500717832"
     }
    ]
   },
