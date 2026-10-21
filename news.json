@@ -1,25 +1,271 @@
 {
- "updated": "2026-10-20T14:09:03Z",
+ "updated": "2026-10-21T06:52:17Z",
  "items": [
   {
-   "section": "sport",
-   "developing": true,
-   "published": "2026-10-20T12:17:00Z",
-   "title": "Captain Bavuma's century lifts South Africa in second Test against Australia",
-   "why": "South Africa captain Temba Bavuma made his fifth Test century, and his first against Australia, on day three of the second Test in Gqeberha on 20 October. After rain cut much of the first two days, South Africa slid to 110 for six before recovering past 330 for seven.",
-   "matters": "Scott Boland took five wickets for Australia, who lead the three-Test series 1-0 after winning in Durban.",
+   "section": "money",
+   "serious": false,
+   "published": "2026-10-21T06:00:00Z",
+   "title": "UK inflation rises to 3.5%, its highest in almost a year",
+   "why": "Prices in the UK rose 3.5% in the year to September, up from 3.1% in August and above the 3.4% most economists expected, the Office for National Statistics said on 21 October. Petrol and diesel drove the rise; diesel is at its highest since July 2022.",
+   "matters": "Motor fuel prices are up nearly 30% on a year ago, the ONS says, raising costs for households and businesses.",
    "sources": [
     {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-10-20/test-cricket-live-updates-south-africa-vs-australia/107287648"
+     "name": "ONS",
+     "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/september2026"
     },
     {
-     "name": "Outlook India",
-     "url": "https://www.outlookindia.com/sports/cricket/south-africa-vs-australia-live-score-2nd-test-day-3-sa-v-aus-updates-gqeberha-2026-highlights"
+     "name": "LBC",
+     "url": "https://www.lbc.co.uk/article/uk-inflation-september-fuel-surge-5HjdkC6_2/"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://uk.investing.com/news/economic-indicators/uk-inflation-rises-to-35-in-september-highest-since-october-2025-4921420"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "published": "2026-10-21T05:00:00Z",
+   "title": "UN says world heads for 2.6C warming even if pledges are met",
+   "why": "The UN Environment Programme's Emissions Gap Report, published on 21 October, says fully delivering countries' climate pledges would still mean about 2.6C of warming by 2100; current policies point to 2.8C. Global emissions were about 58.4 billion tonnes in 2025, roughly level with 2024.",
+   "matters": "UNEP says emissions must fall 18% by 2030 to keep the overshoot above 1.5C as small as possible.",
+   "sources": [
+    {
+     "name": "Euronews (with AFP)",
+     "url": "https://www.euronews.com/2026/10/21/this-is-possible-emissions-must-fall-by-18-in-next-4-years-to-limit-worst-impacts-of-globa"
+    },
+    {
+     "name": "Carbon Brief",
+     "url": "https://www.carbonbrief.org/unep-opportunity-has-been-lost-to-meet-1-5c-warming-limit-without-overshoot"
+    },
+    {
+     "name": "Down To Earth",
+     "url": "https://www.downtoearth.org.in/climate-change/emissions-gap-report-2026-point-of-no-return-for-the-15c-warming-threshold"
+    }
+   ]
+  },
+  {
+   "section": "science",
+   "serious": false,
+   "published": "2026-10-20T23:01:00Z",
+   "title": "Skeleton in Roman coffin at Westminster Abbey was probably a Saxon abbot",
+   "why": "A skeleton found in a fourth-century Roman sarcophagus at Westminster Abbey in London is most likely Ælfwig, an abbot who died around 1020, the abbey's consultant archaeologist Warwick Rodwell argues in the Journal of the British Archaeological Association. Radiocarbon dating places the man's death between 987 and 1052.",
+   "matters": "The coffin's inscription names a fourth-century Briton, so it was reused centuries later; Rodwell names a second candidate, Wulfnoth.",
+   "sources": [
+    {
+     "name": "The Guardian (via AOL)",
+     "url": "https://www.aol.co.uk/articles/mystery-roman-sarcophagus-unearthed-westminster-050003000.html"
+    },
+    {
+     "name": "Discover",
+     "url": "https://www.discovermagazine.com/a-mysterious-skeleton-in-a-roman-sarcophagus-may-be-one-of-westminster-abbey-s-medieval-abbots-49834"
+    },
+    {
+     "name": "Yahoo News UK (Newsquest)",
+     "url": "https://uk.news.yahoo.com/mystery-1-000-old-skeleton-230100974.html"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "serious": false,
+   "published": "2026-10-20T21:30:00Z",
+   "title": "Musk says SpaceX and Tesla have formed committees to consider merging",
+   "why": "Elon Musk said on 20 October that SpaceX and Tesla have each set up committees of independent directors to discuss combining, calling it 'a good idea' but not certain. SpaceX, which listed in June, reported a $4.4 billion quarterly profit on revenue up 161% to $14.6 billion.",
+   "matters": "Al Jazeera says the two firms are worth about $3.5 trillion together, so a deal would be the largest merger ever.",
+   "sources": [
+    {
+     "name": "Reuters (via Lufkin Daily News)",
+     "url": "https://lufkindailynews.com/news_reuters/business/musk-says-spacex-tesla-merger-is-a-good-idea-as-companies-form-deal-committees/article_6e6ce10d-0ce3-598a-8de1-588e1ade0411.html"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in"
+    },
+    {
+     "name": "Fox Business",
+     "url": "https://www.foxbusiness.com/technology/elon-musk-says-tesla-spacex-merger-would-a-good-idea-companies-form-special-committees"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-10-20T21:00:00Z",
+   "title": "PSG beat Barcelona 4-2, ending their winning start to the season",
+   "why": "Champions League holders Paris Saint-Germain beat Barcelona 4-2 in Paris on 20 October, with late goals from Vitinha and Fabián Ruiz after Lamine Yamal had made it 2-2. It ended Barcelona's run of 11 straight wins; PSG top the league phase with nine points.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row"
     },
     {
      "name": "ESPN",
-     "url": "https://www.espn.com/cricket/series/1525634/scorecard/1525660/south-africa-vs-australia-2nd-test-australia-in-south-africa-2026-27"
+     "url": "https://www.espn.com/soccer/report/_/gameId/401915399"
+    },
+    {
+     "name": "Sports Mole",
+     "url": "https://www.sportsmole.co.uk/football/barcelona/champions-league/result/psg-show-barca-the-level-as-european-champions-down-yamal--co_607323.html"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "serious": false,
+   "published": "2026-10-20T20:01:00Z",
+   "title": "Netflix shares fall after weak forecast and cut to advertising outlook",
+   "why": "Netflix said on 20 October its third-quarter revenue rose 12% to $12.9 billion, in line with forecasts, but it predicted lower fourth-quarter profit than analysts expected and cut its 2026 advertising revenue forecast to about $2.7 billion from $3 billion. Shares fell nearly 6% in after-hours trading.",
+   "matters": "The company recently cut about 1,000 jobs, around 6% of staff, and replaced its content chief, Reuters reports.",
+   "sources": [
+    {
+     "name": "Netflix (SEC filing)",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001065280/000106528026000290/ex991_q326.htm"
+    },
+    {
+     "name": "The Star (Reuters)",
+     "url": "https://www.thestar.com.my/tech/tech-news/2026/10/21/netflix-issues-weak-fourth-quarter-forecast-as-company-seeks-to-kick-start-growth"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://www.investing.com/news/stock-market-news/why-is-netflix-stock-sliding-today-93CH-4961253"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "developing": true,
+   "changed": "Updated: both campaigns ask the electoral court to disqualify the other",
+   "published": "2026-10-20T20:00:00Z",
+   "title": "Lula and Flávio Bolsonaro seek each other's disqualification before run-off",
+   "why": "Lawyers for Senator Flávio Bolsonaro asked Brazil's electoral court on Tuesday to disqualify President Lula, alleging abuse of power through government WhatsApp messages. Lula's campaign says it will seek Bolsonaro's disqualification over alleged 'algorithmic manipulation' by Meta, which denies favouring either side.",
+   "matters": "Polls show Sunday's run-off is essentially tied; the court gave Meta 24 hours to prove it treats both campaigns equally.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/21/lula-bolsonaro-seek-to-disqualify-each-other-ahead-of-brazil-runoff"
+    },
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/americas/20261020-lula-campaign-seeks-disqualify-bolsonoro-from-brazil-presidential-vote-over-meta-interference"
+    },
+    {
+     "name": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-da-24-horas-para-meta-dar-informacoes-sobre-igualdade-de-campanhas"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "changed": "Updated: Oslo talks held; Witkoff due to meet Putin on Wednesday",
+   "published": "2026-10-20T17:30:00Z",
+   "title": "US envoy Witkoff to meet Putin after Oslo talks with Zelensky",
+   "why": "US envoy Steve Witkoff met Ukraine's President Volodymyr Zelensky and the leaders of Norway and Finland in Oslo on Tuesday. He is due to meet Russia's President Vladimir Putin in St Petersburg on Wednesday. Zelensky said US intelligence warning of Russian missile attacks is working again.",
+   "matters": "Russian strikes killed at least nine people across Ukraine on Tuesday, officials say; Russia's foreign minister says he expects no 'miracle'.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/europe/20261021-us-envoy-witkoff-to-meet-putin-in-russia-after-positive-talks-with-zelensky"
+    },
+    {
+     "name": "PBS NewsHour (AP)",
+     "url": "https://www.pbs.org/newshour/world/russian-missile-and-drone-blitz-kills-9-in-ukraine-as-zelenskyy-meets-u-s-and-european-officials-in-norway"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-21/ukraine-interceptor-missiles-zelenskyy-us-trump-tensions/107290418"
+    },
+    {
+     "name": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/87670"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-10-20T17:00:00Z",
+   "title": "Italy sends 500 soldiers to Milan and toughens protest laws after riots",
+   "why": "Italy's cabinet approved a decree on Tuesday sending 500 extra soldiers to Milan until the end of the year, after weekend riots and looting during cost-of-living protests. It creates an offence of 'violent participation in a demonstration', punishable by up to five years in prison.",
+   "matters": "It follows similar fuel-price unrest in France, where night curfews remain in parts of Paris and Lyon.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests"
+    },
+    {
+     "name": "France 24 (AP)",
+     "url": "https://www.france24.com/en/europe/20261020-italy-announces-new-security-measures-after-milan-riots-deploying-500-soldiers"
+    },
+    {
+     "name": "ANSA",
+     "url": "https://www.ansa.it/english/news/politics/2026/10/20/meloni-says-new-crime-of-violent-participation-in-demo-introduced-4_65e6e8cc-7952-42d5-a8fe-956bb3082b28.html"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261021-live-french-pm-lecornu-to-meet-with-unions-ahead-of-new-protests"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-10-20T15:51:00Z",
+   "title": "Arafat Minhas takes six wickets as Pakistan beat England by 87 runs",
+   "why": "All-rounder Arafat Minhas scored 59 and took six wickets for 40 as Pakistan beat England by 87 runs in a one-day tri-series match in Rawalpindi, Pakistan, on 20 October. Pakistan made 302 for nine; England were bowled out for 215.",
+   "sources": [
+    {
+     "name": "Dawn",
+     "url": "https://www.dawn.com/news/2038503"
+    },
+    {
+     "name": "Gulf News",
+     "url": "https://gulfnews.com/sport/arafat-minhas-takes-six-wickets-scores-maiden-half-century-as-pakistan-dominates-england-1.500717509"
+    },
+    {
+     "name": "Sky Sports",
+     "url": "https://skysports.com/cricket/live-blog/13601207/pakistan-vs-england-odi-tri-series-live-latest-cricket-score-updates-and-video-as-harry-brooks-side-begin-50-over-tour"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-10-20T14:00:00Z",
+   "title": "UN experts urge India to stop 'excessive force' against protesters",
+   "why": "About two dozen independent UN human rights experts said on Tuesday that police used baton charges on unarmed students at protests in New Delhi and elsewhere. They cite reports that more than 7,000 people were detained. Protesters want India's chief election commissioner to resign over voter-list revisions.",
+   "matters": "Critics say about 130 million names were removed from voter lists; the Election Commission says it removed ineligible voters.",
+   "sources": [
+    {
+     "name": "Al Jazeera (Reuters)",
+     "url": "https://www.aljazeera.com/news/2026/10/21/un-experts-call-on-india-to-stop-using-excessive-force-against-protesters"
+    },
+    {
+     "name": "Scroll.in",
+     "url": "https://scroll.in/latest/1096540/un-experts-flag-heavy-handed-response-of-police-against-peaceful-protests-in-india"
+    },
+    {
+     "name": "The Tribune",
+     "url": "https://www.tribuneindia.com/news/india/un-experts-want-independent-probe-into-police-action-on-protesters-in-india/"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "developing": true,
+   "changed": "Updated: Bavuma made 179 and South Africa declared on 425 for nine",
+   "published": "2026-10-20T12:17:00Z",
+   "title": "Bavuma's 179 puts South Africa on top in second Test",
+   "why": "South Africa captain Temba Bavuma made a Test-best 179 on day three in Gqeberha on 20 October, after his side had slipped to 40 for four. South Africa declared on 425 for nine; Australia closed on 3 for one. Australia lead the three-match series 1-0.",
+   "sources": [
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/cricket/news/13601427/temba-bavuma-hits-test-best-179-as-south-africa-dominate-australia-on-day-three-of-second-test-in-gqeberha"
+    },
+    {
+     "name": "AP (via WRAL)",
+     "url": "https://www.wral.com/news/ap/645ae-skipper-bavuma-s-179-puts-south-africa-in-control-in-2nd-test-vs-australia/"
+    },
+    {
+     "name": "The Herald",
+     "url": "https://theherald.co.za/sport/cricket/2026-10-20-bavuma-jansen-spark-recovery-in-second-test/"
     }
    ]
   },
@@ -68,27 +314,6 @@
    ]
   },
   {
-   "section": "money",
-   "serious": false,
-   "published": "2026-10-20T10:30:00Z",
-   "title": "GM profit beats forecasts but shares fall on cautious outlook",
-   "why": "General Motors said on 20 October its third-quarter adjusted operating profit rose 22% to $4.1 billion, on revenue of $50 billion, helped by pickup trucks, and approved a new $20 billion share buyback. Its shares fell more than 5% in New York after it narrowed its full-year forecast.",
-   "sources": [
-    {
-     "name": "General Motors (SEC filing)",
-     "url": "https://www.sec.gov/Archives/edgar/data/0001467858/000146785826000056/gmq32026pressreleaseandfin.htm"
-    },
-    {
-     "name": "The Globe and Mail (Reuters)",
-     "url": "https://www.theglobeandmail.com/business/international-business/us-business/article-gms-core-profit-rises-22-beats-estimates/"
-    },
-    {
-     "name": "Yahoo Finance (DPA)",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/general-motors-profit-surges-announces-114852112.html"
-    }
-   ]
-  },
-  {
    "section": "world",
    "serious": true,
    "published": "2026-10-20T09:00:00Z",
@@ -118,26 +343,48 @@
    "section": "world",
    "lead": true,
    "developing": true,
+   "changed": "Updated: Iran tells mediator no talks before US meets its terms; Rubio calls a deal 'extremely difficult'",
    "published": "2026-10-20T08:30:00Z",
-   "title": "Pakistan's army chief in Tehran as Iran-US talks remain stalled",
-   "why": "Pakistan's army chief, Field Marshal Asim Munir, arrived in Tehran on Tuesday, Iranian state media said, on his fifth mediation trip since a short-lived June deal. Iranian officials told Reuters Tehran sees little chance of a breakthrough before the US midterm elections on 3 November.",
-   "matters": "Talks centre on reopening the Strait of Hormuz, a key route for the world's oil, with Brent above $110 a barrel.",
+   "title": "Iran tells Pakistan's army chief no US talks until demands met",
+   "why": "Pakistan's army chief, Field Marshal Asim Munir, met Iran's president and top officials in Tehran on Tuesday, but no breakthrough was announced. Iranian media say Tehran wants the US to accept its seven conditions first, including lifting oil sanctions. US Secretary of State Marco Rubio called a deal 'extremely difficult'.",
+   "matters": "Talks centre on reopening the Strait of Hormuz, a key oil route, which Iran says stays shut until its terms are met.",
    "sources": [
     {
-     "name": "Arab News (AFP)",
-     "url": "https://www.arabnews.com/middle-east/pakistan-army-chief-asim-munir-to-visit-tehran-on-tuesday-3007257"
+     "name": "Arab News (Reuters)",
+     "url": "https://www.arabnews.com/world/iran-to-pakistans-army-chief-no-talks-with-washington-before-our-demands-are-met-3007469"
     },
     {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/news/gulf/2026/10/20/pakistan-army-chief-arrives-in-tehran-as-iran-seeks-leverage-in-us-talks/"
+     "name": "Dawn",
+     "url": "https://www.dawn.com/news/2038686/cdf-munir-pezeshkian-meeting-raises-peace-hopes"
     },
     {
-     "name": "Dawn (Reuters)",
-     "url": "https://www.dawn.com/news/2038436"
+     "name": "TRT World",
+     "url": "https://www.trtworld.com/article/d8692cabe4ce"
     },
     {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz/"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-10-20T05:00:00Z",
+   "title": "Alberta votes by about three to one to stay in Canada",
+   "why": "About 76% of voters in the western Canadian province of Alberta chose to remain in Canada in Monday's referendum, preliminary results show, with about 1.8 million votes counted. The rest backed starting a process towards a binding vote on leaving.",
+   "matters": "Prime Minister Mark Carney said Albertans 'chose unity'; separatist campaigners say their push will continue.",
+   "sources": [
+    {
+     "name": "Global News",
+     "url": "https://globalnews.ca/news/12108827/alberta-referendum-result/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show"
+    },
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/americas/20261019-alberta-votes-to-remain-part-of-canada-in-victory-for-pm-carney"
     }
    ]
   },
@@ -188,52 +435,27 @@
    "section": "climate",
    "serious": true,
    "developing": true,
-   "changed": "Updated: winds up to 195 km/h; closest to Batanes on Thursday or Friday",
+   "changed": "Updated: winds up to 215 km/h; Batanes now under Signal No. 2",
    "published": "2026-10-20T02:40:00Z",
-   "title": "Super Typhoon Champi strengthens east of Philippines; Batanes braces for rain",
-   "why": "Champi, named Rosal locally, had winds of 195 km/h and gusts of 240 km/h on Tuesday afternoon, about 1,270 km east of Luzon, the Philippine weather agency PAGASA says. It expects no landfall, but the storm should pass closest to Batanes, in the far north, on Thursday or Friday.",
-   "matters": "PAGASA warns of up to 200 mm of rain in Batanes; Japan's weather agency expects Champi south of Okinawa on Friday.",
+   "title": "Batanes raised to storm Signal No. 2 as Super Typhoon Champi nears",
+   "why": "Champi, named Rosal locally, had winds of 215 km/h and gusts of 265 km/h on Wednesday morning, about 845 km east of northern Luzon, the weather agency PAGASA says. It expects no landfall, but closest approach to Batanes on Thursday or Friday.",
+   "matters": "Taiwan's weather agency expects heavy rain and waves of up to 6 metres in the north and east on Friday and Saturday.",
    "sources": [
     {
      "name": "Philstar",
-     "url": "https://www.philstar.com/headlines/weather/2026/10/20/2564566/rosal-slightly-intensifies-approach-signal-no-1-still-luzon"
+     "url": "https://www.philstar.com/headlines/weather/2026/10/21/2564785/batanes-placed-under-signal-no-2-due-rosal"
     },
     {
-     "name": "The Manila Times",
-     "url": "https://www.manilatimes.net/2026/10/20/regions/pagasa-forecasts-rosal-induced-heavy-rains-in-batanes-cagayan-thursday-friday/2449614"
+     "name": "GMA News",
+     "url": "https://www.gmanetwork.com/news/weather/content/1006605/super-typhoon-rosal-to-hit-thursday-may-match-uwan-s-strength/story/"
     },
     {
-     "name": "SunStar (PNA)",
-     "url": "https://www.sunstar.com.ph/pampanga/signal-no-1-up-in-parts-of-northern-luzon-due-to-rosal"
+     "name": "Taipei Times",
+     "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/21/2003866354"
     },
     {
-     "name": "The Star",
-     "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/20/typhoon-champi-may-approach-south-of-okinawa-on-friday-but-its-path-remains-uncertain"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-10-20T02:30:00Z",
-   "title": "South Korean shares fall 3.7% as AI doubts hit Asian tech stocks",
-   "why": "Seoul's KOSPI index closed 3.73% lower at 5,552.74 on Tuesday 20 October, with SK hynix down 4.2% and Samsung Electronics down 3%. Shares in Tokyo and Hong Kong also fell, AFP reports, as investors questioned whether heavy spending on AI will pay off.",
-   "matters": "Meta and Tesla report results this week, which investors will watch for signs that AI spending is earning returns.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261020-tech-firms-bear-brunt-of-selling-as-asian-stocks-drop"
-    },
-    {
-     "name": "Reuters (via Investing.com)",
-     "url": "https://investing.com/news/economy-news/asian-shares-tumble-oil-rises-as-markets-await-ai-sector-results-4958677"
-    },
-    {
-     "name": "Money Today (Korea)",
-     "url": "https://www.mt.co.kr/stock/2026/10/20/2026102015384373141"
-    },
-    {
-     "name": "Seoul Economic Daily",
-     "url": "https://en.sedaily.com/finance/2026/10/20/kospi-slides-more-than-2-percent-despite-us-chip-rebound"
+     "name": "Focus Taiwan",
+     "url": "https://focustaiwan.tw/society/202610200007"
     }
    ]
   },
@@ -280,29 +502,6 @@
     {
      "name": "The National",
      "url": "https://www.thenationalnews.com/future/technology/2026/10/20/abdulrahman-alfozan-openai-saudi/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "developing": true,
-   "changed": "Updated: Trump says somebody else should negotiate for Ukraine",
-   "published": "2026-10-19T20:06:00Z",
-   "title": "Trump says 'somebody else' should negotiate for Ukraine instead of Zelensky",
-   "why": "US President Donald Trump said on Monday it is 'time for somebody else to negotiate on behalf of Ukraine'. Ukraine's President Volodymyr Zelensky told US senators that Patriot missiles Europe has paid for are being delayed and that US decisions are 'hard to explain between friends'.",
-   "matters": "Trump's envoy Steve Witkoff is due in Norway this week for further talks that Zelensky is expected to attend.",
-   "sources": [
-    {
-     "name": "Reuters",
-     "url": "https://www.yahoo.com/news/politics/articles/trump-says-zelenskiy-somebody-else-200613252.html"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms"
-    },
-    {
-     "name": "PBS NewsHour",
-     "url": "https://www.pbs.org/newshour/show/trump-escalates-clash-with-zelenskyy-as-russia-continues-deadly-attacks-on-ukraine"
     }
    ]
   },
@@ -523,22 +722,23 @@
   {
    "section": "world",
    "serious": true,
-   "published": "2026-10-19T14:00:00Z",
-   "title": "Drone strikes across Sudan reported to kill more than 160 people",
-   "why": "A drone strike near a market in Al-Dibab, in RSF-held West Kordofan, killed about 80 people on Sunday evening, a medical source and a witness told AFP; the RSF's administration blamed the army. Medics and rights groups say drone attacks killed more than 160 people in recent days.",
-   "matters": "Sudan's army and the paramilitary Rapid Support Forces have fought since April 2023; the UN says it condemns the strikes 'unequivocally'.",
+   "developing": true,
+   "published": "2026-10-19T15:00:00Z",
+   "title": "Four Salvadoran soldiers missing after gang ambush in Haiti",
+   "why": "Gangs attacked an armoured vehicle of the UN-backed Gang Suppression Force on Sunday in Croix-des-Bouquets, near Haiti's capital, Port-au-Prince, El Salvador's military says. Four Salvadoran air force members escaped the burning vehicle but remain unaccounted for; helicopters sent to help came under fire.",
+   "matters": "AP calls it the first major attack on the force, which has about 2,000 troops, just over a third of its target.",
    "sources": [
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan"
+     "name": "Reuters (via Investing.com)",
+     "url": "https://www.investing.com/news/world-news/four-salvadoran-air-force-members-missing-after-gang-ambush-in-haiti-4958010"
     },
     {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/africa/20261019-drone-attack-near-southern-sudan-market-kills-scores"
+     "name": "Al Jazeera (AP)",
+     "url": "https://www.aljazeera.com/news/2026/10/19/search-under-way-for-four-soldiers-missing-after-gang-attack-in-haiti"
     },
     {
-     "name": "UN News",
-     "url": "https://news.un.org/en/story/2026/10/1168628"
+     "name": "UPI",
+     "url": "https://www.upi.com/Top_News/World-News/2026/10/19/latam-haiti-elsalvador-military-missing-gang-suppression/4981792424229/"
     }
    ]
   },
@@ -582,28 +782,6 @@
     {
      "name": "Goal",
      "url": "https://www.goal.com/en/lists/senegal-wait-november-cas-verdict-disputed-afcon-title-awarded-morocco/bltfe909b6e7550dc0e"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-10-19T13:30:00Z",
-   "title": "Collapse at illegal gold mine in Colombia kills at least 14",
-   "why": "A landslide buried workers at an informal open-pit gold mine in Santa Bárbara de Iscuandé, on the Pacific coast of Colombia’s Nariño department, on Monday morning. Regional disaster officials say 14 people died and seven were injured.",
-   "matters": "It is Nariño’s second deadly mine collapse in under three months; the governor wants tighter rules for informal mining.",
-   "sources": [
-    {
-     "name": "El Tiempo",
-     "url": "https://www.eltiempo.com/colombia/cali/a-14-ascienden-los-muertos-en-una-mina-artesanal-de-oro-en-santa-barbara-de-iscuande-narino-hay-otras-siete-personas-heridas-3594786"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/19/colombia-illegal-gold-mine-collapse-kills-14-people"
-    },
-    {
-     "name": "AAP",
-     "url": "https://www.thecourier.com.au/story/9371758/colombia-gold-mine-collapse-kills-at-least-14/"
     }
    ]
   },
@@ -724,22 +902,22 @@
   {
    "section": "health",
    "serious": true,
+   "changed": "Updated: the latest daily figures put the toll at 1,204",
    "published": "2026-10-19T10:15:00Z",
    "title": "Bangladesh measles outbreak deaths pass 1,200, health officials say",
-   "why": "Five more children died with measles-like symptoms in the 24 hours to Monday morning, Bangladesh's health directorate says, taking this year's toll to 1,201: 104 confirmed and 1,097 suspected. It has recorded 214,551 suspected cases since mid-March.",
-   "matters": "Health experts blame gaps in childhood vaccination and weak infection control, The Daily Star reports.",
+   "why": "Bangladesh's health directorate says more than 1,200 people, mostly children, have died with measles or measles-like symptoms this year; its latest daily figures put the toll at 1,204, including 1,100 suspected deaths. More than 215,000 suspected cases have been recorded since mid-March.",
    "sources": [
     {
-     "name": "The Business Standard (Bangladesh)",
-     "url": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-crosses-1200-five-more-children-die-1577511"
+     "name": "The Business Standard",
+     "url": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1204-3-more-children-die-24hrs-1578446"
+    },
+    {
+     "name": "Daily Waadaa",
+     "url": "https://www.dailywaadaa.com/health/2026/10/20/bangladesh-logs-three-more-suspected-measles-deaths"
     },
     {
      "name": "bdnews24",
      "url": "https://bdnews24.com/health/k88ee1cl0b"
-    },
-    {
-     "name": "The Daily Star (Bangladesh)",
-     "url": "https://www.thedailystar.net/news/healthcare/disease/news/five-more-die-measles-symptoms-4302951"
     }
    ]
   },
@@ -767,47 +945,25 @@
   },
   {
    "section": "world",
-   "published": "2026-10-19T09:49:00Z",
-   "title": "South Africa's ex-president Mbeki denies blocking apartheid-era prosecutions",
-   "why": "Former president Thabo Mbeki told the Khampepe inquiry in Johannesburg on Monday that claims he held secret talks to shield apartheid-era generals from prosecution were 'a complete fabrication'. The inquiry is examining alleged political interference in more than 300 cases referred by the Truth and Reconciliation Commission.",
-   "sources": [
-    {
-     "name": "Mail & Guardian",
-     "url": "https://mg.co.za/politics/2026-10-19-complete-fabrication-mbeki-rejects-secret-amnesty-deal-claims/"
-    },
-    {
-     "name": "SABC News",
-     "url": "https://www.sabcnews.com/sabcnews/mbeki-denies-any-political-interference-with-npas-work-on-trc-cases/"
-    },
-    {
-     "name": "TimesLIVE",
-     "url": "https://www.timeslive.co.za/politics/2026-10-19-a-complete-fabrication-mbeki-rebuts-claims-of-secret-sadf-amnesty-meetings/"
-    }
-   ]
-  },
-  {
-   "section": "world",
    "serious": true,
+   "developing": true,
+   "changed": "Updated: drone strike on Abyei market; local officials say at least 153 killed",
    "published": "2026-10-19T09:00:00Z",
-   "title": "Twelve migrants, including a baby, die off Greek islands",
-   "why": "Six people died off Lesbos when a speedboat carrying migrants hit a Greek coast guard vessel and capsized, and six more died when another speedboat overturned north of Samos, Greece's coast guard says. Two survivors were arrested on suspicion of smuggling.",
-   "matters": "Greece's government blames smugglers; officials say the exact cause of the Lesbos collision is under investigation.",
+   "title": "Officials say drone strike on Abyei market killed at least 153",
+   "why": "A drone hit Amiet market and a nearby fuel depot in Abyei, an area claimed by both Sudan and South Sudan, on Monday. Abyei's information minister says at least 153 people died and later put the toll above 220. He and South Sudan's government blame Sudan's army.",
+   "matters": "A Sudanese army officer told AP the army targeted fuel bound for the paramilitary RSF and does not target civilians.",
    "sources": [
     {
-     "name": "Arab News (Reuters)",
-     "url": "https://www.arabnews.com/world/twelve-migrants-including-infant-drown-as-boats-capsize-off-greek-islands-3007129"
+     "name": "AP",
+     "url": "https://www.wsls.com/news/world/2026/10/20/drone-strike-on-a-market-in-disputed-african-region-of-abyei-kills-at-least-153/"
     },
     {
-     "name": "InfoMigrants",
-     "url": "https://infomigrants.net/en/post/74263/twelve-migrants-die-in-aegean-sea-during-attempted-crossings-to-greece"
+     "name": "Eye Radio (South Sudan)",
+     "url": "https://eyeradio.org/sudanese-military-source-acknowledges-abyei-market-strike-claims-site-supplied-fuel-to-rsf/"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/12-migrants-including-an-infant-drown-in-two-incidents-off-greece"
-    },
-    {
-     "name": "Arab News (AP)",
-     "url": "https://arabnews.com/world/capsizings-cause-the-deaths-of-12-migrants-off-greek-islands-3007244"
+     "name": "Radio Tamazuj",
+     "url": "https://www.radiotamazuj.org/en/news/article/south-sudan-summons-sudan-envoy-over-abyei-market-attack"
     }
    ]
   },
@@ -835,238 +991,26 @@
    ]
   },
   {
-   "section": "culture",
-   "published": "2026-10-19T08:31:00Z",
-   "title": "Louvre closes for the day as students block its entrances",
-   "why": "About 50 students, mostly from the École du Louvre art school, blocked the entrances of the Louvre in Paris on 19 October, and the museum stayed shut all day, its management said. They were backing France's school protest movement and denouncing what they called police repression.",
-   "matters": "The Louvre, the world's most visited museum, says visitors who had booked will be refunded automatically.",
-   "sources": [
-    {
-     "name": "franceinfo (AFP)",
-     "url": "https://www.franceinfo.fr/culture/arts-expos/louvre/le-louvre-ferme-en-raison-d-une-manifestation-en-soutien-aux-lyceens_8243653.html"
-    },
-    {
-     "name": "ICI (Radio France)",
-     "url": "https://www.ici.fr/ile-de-france/paris-75/paris/l-acces-au-musee-du-louvre-est-bloque-par-des-etudiants-en-soutien-au-mouvement-lyceen-ce-lundi-matin-3304351"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/protesters-block-louvre-in-support-of-french-student-movement"
-    },
-    {
-     "name": "TRT World (Anadolu)",
-     "url": "https://trtworld.com/article/87f5723dc728"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-10-19T08:22:00Z",
-   "title": "China to require export licences for tunnel boring machines from 18 November",
-   "why": "China's commerce ministry said on Monday 19 October that exporters of tunnel boring machines and their key parts will need a licence from 18 November. It cited national security and the machines' military as well as civilian uses. Walking excavators and some dredger parts are also covered.",
-   "matters": "India, which is building metros and rail tunnels, relies heavily on imported boring machines, Reuters and PTI report.",
-   "sources": [
-    {
-     "name": "MOFCOM",
-     "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_1e581b3d58ff46dabe8c44abab408d6c.html"
-    },
-    {
-     "name": "Reuters (via Free Malaysia Today)",
-     "url": "https://www.freemalaysiatoday.com/category/business/2026/10/19/china-imposes-export-controls-on-tunnel-boring-machines"
-    },
-    {
-     "name": "PTI (via DT Next)",
-     "url": "https://www.dtnext.in/news/world/china-export-curbs"
-    },
-    {
-     "name": "Business Today",
-     "url": "https://www.businesstoday.in/india/story/china-announces-export-controls-on-tunnel-boring-machines-challenge-for-indias-infra-push-562564-2026-10-19"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "serious": false,
-   "developing": true,
-   "changed": "Updated: the index closed 5.65% higher on Tuesday after new exchange measures.",
-   "published": "2026-10-19T08:21:00Z",
-   "title": "Indonesian shares jump 5.65% after two-day slump over MSCI warning",
-   "why": "Jakarta's main share index closed 5.65% higher at 5,278.89 on Tuesday 20 October, Antara reports, after a record two-day fall of about $82 billion when MSCI warned it may move Indonesia to 'standalone' status. The exchange halved its daily limit on falls to 7%.",
-   "matters": "Goldman Sachs estimates an MSCI downgrade could trigger $5.6 billion of passive fund selling.",
-   "sources": [
-    {
-     "name": "Antara",
-     "url": "https://en.antaranews.com/news/436805/ojk-says-it-is-going-all-out-on-indonesia-capital-market-reforms"
-    },
-    {
-     "name": "Daily Sabah (Reuters)",
-     "url": "https://www.dailysabah.com/business/economy/indonesian-stocks-rise-after-measures-to-address-recent-rout"
-    },
-    {
-     "name": "Investing.com",
-     "url": "https://www.investing.com/news/stock-market-news/indonesia-stocks-rebound-48-after-new-market-measures-93CH-4959166"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-10-19T08:00:00Z",
-   "title": "Elon Musk pledges one SpaceX share to every child in America",
-   "why": "Elon Musk said on X on Monday that next year he will give one of his SpaceX shares to 'every kid in America'. With more than 70 million under-18s and Friday's closing price of $146, that would be worth over $10 billion. He gave no details.",
-   "matters": "Musk made the pledge in reply to Anthropic's plan to put 5% of its shares into a public benefit fund.",
-   "sources": [
-    {
-     "name": "AP (via Siasat)",
-     "url": "https://www.siasat.com/musk-to-give-spacex-shares-to-us-kids-after-anthropic-fund-pledge-3561037/"
-    },
-    {
-     "name": "TechCrunch",
-     "url": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/"
-    },
-    {
-     "name": "Investing.com",
-     "url": "https://www.investing.com/news/stock-market-news/musk-pledges-one-share-of-spacex-to-every-us-child-4957439"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-10-19T07:25:00Z",
-   "title": "UN food agency cuts aid to half a million people in Gaza",
-   "why": "The UN World Food Programme said on Monday it will stop monthly food aid for about 500,000 people in Gaza because of a funding shortfall, cutting its caseload from 1.6 million to 1.1 million. It says about two-thirds of Gazans are acutely food insecure.",
-   "matters": "The WFP blames lower donor funding as winter nears; Israel's military aid body, COGAT, says Gaza is well supplied.",
-   "sources": [
-    {
-     "name": "Reuters (via Investing.com)",
-     "url": "https://www.investing.com/news/commodities-news/world-food-programme-cuts-aid-to-500000-palestinians-in-gaza-citing-funding-shortages-4956520"
-    },
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/middle-east/20261019-world-food-programme-to-end-aid-for-half-a-million-in-gaza-due-to-funding-shortfall"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-10-19/un-world-food-programme-slashes-assistance-in-gaza/107282322"
-    }
-   ]
-  },
-  {
    "section": "world",
    "serious": true,
    "developing": true,
-   "changed": "Updated: Australian media report she has lost a leg; police call it an isolated incident and no charges have yet been laid",
+   "changed": "Updated: man charged and remanded in custody; her husband says she is stable",
    "published": "2026-10-19T04:30:00Z",
-   "title": "Australian MP Helen Haines critically injured after being hit by car",
-   "why": "Independent MP Helen Haines, 65, was hit by a four-wheel drive outside her office in Wangaratta, Victoria, on Monday afternoon. She remains in a critical condition in a Melbourne hospital; Australian media report she has lost a leg. A 43-year-old man is in custody but has not yet been charged.",
-   "matters": "Federal police call it an 'isolated incident' with no known further threats; they say charges could include harming a Commonwealth official.",
+   "title": "Man charged over car attack on Australian MP Helen Haines",
+   "why": "Independent MP Helen Haines, 65, was hit by a four-wheel drive outside her office in Wangaratta, Victoria, on Monday. A 43-year-old man appeared in court on Wednesday charged with intentionally causing serious injury and harming a Commonwealth official, and was remanded in custody.",
+   "matters": "Her husband says both her legs have been amputated and she is stable; police have not ruled out further charges.",
    "sources": [
     {
      "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-10-20/live-blog-victoria-indi-mp-helen-haines-attacked-wangaratta/107285252"
-    },
-    {
-     "name": "Al Jazeera (Reuters)",
-     "url": "https://www.aljazeera.com/news/2026/10/20/deliberate-car-ramming-of-australian-mp-an-isolated-incident-police-say"
+     "url": "https://www.abc.net.au/news/2026-10-21/brendan-nugent-faces-court-over-alleged-attack-on-helen-haines/107291248"
     },
     {
      "name": "SBS News",
-     "url": "https://www.sbs.com.au/news/live-blog/helen-haines-attack-live-updates/s47x8oekx"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-10-19T02:00:00Z",
-   "title": "China's economy grows 4.5% in third quarter, slightly beating forecasts",
-   "why": "China's economy grew 4.5% year on year in July–September, official figures showed on Monday, up from 4.3% in the previous quarter and just above the 4.4% economists expected. Retail sales rose 1.1% in September, while investment in property development fell 20.6% in the first nine months.",
-   "matters": "Growth relies on strong exports while shoppers stay cautious, which matters for the many countries that trade with China.",
-   "sources": [
+     "url": "https://www.sbs.com.au/news/live-blog/helen-haines-brendan-nugent-court-live-updates/l2zx6dhdm"
+    },
     {
      "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261018-china-growth-expected-to-miss-official-target-in-third-quarter"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/10/19/chinas-economy-grows-4-5-percent-in-q3-beating-forecasts"
-    },
-    {
-     "name": "Seoul Economic Daily",
-     "url": "https://en.sedaily.com/international/2026/10/19/chinas-third-quarter-gdp-grows-45-percent-beating-forecasts"
-    },
-    {
-     "name": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/economy/articles/china-industrial-output-retail-sales-025938695.html"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "changed": "Updated: the Rays won Game 6 7-3 to take the series 4-2 and will meet the Brewers in the World Series",
-   "published": "2026-10-19T00:15:00Z",
-   "title": "Rays beat Guardians to reach World Series against Brewers",
-   "why": "The Tampa Bay Rays beat the Cleveland Guardians 7-3 in St Petersburg, Florida, on 19 October to win the American League Championship Series 4-2. Junior Caminero and Yandy Díaz hit two-run home runs; pitcher Freddy Peralta was named series MVP.",
-   "matters": "Neither the Rays nor the Milwaukee Brewers has ever won the World Series, which starts in Milwaukee on 23 October.",
-   "sources": [
-    {
-     "name": "ESPN",
-     "url": "https://www.espn.com/mlb/story/_/id/50224233/rays-clinch-alcs-game-6-face-brewers-world-series"
-    },
-    {
-     "name": "CBS Sports",
-     "url": "https://www.cbssports.com/mlb/news/rays-guardians-score-live-updates-alcs-game-6/live/"
-    },
-    {
-     "name": "Boston Globe",
-     "url": "https://www.bostonglobe.com/2026/10/19/sports/rays-guardians-alcs-game-6-score/"
-    },
-    {
-     "name": "OutKick (Fox News)",
-     "url": "https://www.foxnews.com/outkick-sports/rays-punch-ticket-world-series-taking-down-guardians-game-6-set-up-series-brewers"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "developing": true,
-   "published": "2026-10-18T23:15:00Z",
-   "title": "Lula and Flávio Bolsonaro trade insults in first Brazil run-off debate",
-   "why": "Brazil's President Lula and right-wing Senator Flávio Bolsonaro met on Sunday night in São Paulo for their first debate before the 25 October run-off. They accused each other of corruption and clashed over security, healthcare and the economy. AFP says two polls this week put Bolsonaro ahead 51% to 49%.",
-   "matters": "The winner will lead Latin America's largest country; a second and final TV debate is scheduled for Friday 23 October.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/americas/20261019-brazil-lula-bolsonaro-debate-election-runoff"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate"
-    },
-    {
-     "name": "Congresso em Foco",
-     "url": "https://www.congressoemfoco.com.br/noticia/123351/veja-o-primeiro-debate-entre-lula-e-flavio-bolsonaro-na-band"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "serious": false,
-   "published": "2026-10-18T20:30:00Z",
-   "title": "Anthropic commits 5% of its shares to a new public benefit fund",
-   "why": "US AI company Anthropic, maker of the Claude chatbot, said on 18 October it will put 5% of its shares into a new fund for public-good projects, subject to shareholder approval. Its board may add 2% for every 50% rise in the company's value.",
-   "matters": "Anthropic says the fund could support people affected by AI-driven job changes; it cannot be used for lobbying or political donations.",
-   "sources": [
-    {
-     "name": "AP",
-     "url": "https://abcnews.com/Business/wireStory/anthropic-commits-5-stock-new-public-benefit-fund-137368439"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/10/19/anthropic-says-it-will-commit-5-of-shares-to-public-benefit-fund"
-    },
-    {
-     "name": "TechCrunch",
-     "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+     "url": "https://www.france24.com/en/asia-pacific/20261020-driver-charged-over-targeted-car-attack-on-australian-lawmaker-helen-haines"
     }
    ]
   },
@@ -1074,47 +1018,23 @@
    "section": "health",
    "serious": true,
    "developing": true,
+   "changed": "Updated: Nigeria confirms its first case; Kenya's total rises to nine",
    "published": "2026-10-18T19:30:00Z",
-   "title": "Kenya confirms eighth Ebola case as Congo outbreak reaches new province",
-   "why": "Kenya's health ministry confirmed an eighth Ebola case on Sunday: a 49-year-old man who worked as an attendant near the country's first patient and was already in quarantine. Congo says the virus has reached an eighth province, North Ubangi, bordering the Central African Republic.",
-   "matters": "The Bundibugyo strain has no approved vaccine or treatment; Congo's latest report counts 9,415 cases and 4,536 deaths, Reuters says.",
+   "title": "Nigeria confirms first Ebola case as Kenya's total rises to nine",
+   "why": "Nigeria's health ministry said on 20 October that a woman who arrived in the capital, Abuja, from Uganda has Ebola; 44 contacts are being traced. Kenya confirmed its ninth case, all in one cluster. Congo has recorded more than 9,000 cases and 4,300 deaths, its health authorities say.",
+   "matters": "There is no licensed vaccine for this Bundibugyo strain, and Africa CDC calls it the most widespread Ebola outbreak on record.",
    "sources": [
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/19/kenya-confirms-eighth-ebola-case-amid-widening-regional-outbreak"
+     "url": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case"
     },
     {
-     "name": "AP (via ABC Australia)",
-     "url": "https://www.abc.net.au/news/2026-10-19/kenya-ebola-outbreak-hits-eight-continues-spread-in-congo/107282278"
+     "name": "France 24",
+     "url": "https://www.france24.com/en/africa/20261020-nigeria-records-first-ebola-case-as-outbreak-spreads-across-africa"
     },
     {
-     "name": "The Standard (Kenya)",
-     "url": "https://www.standardmedia.co.ke/health/health-science/article/2001560409/kenyas-ebola-cases-rise-to-eight-as-new-patient-tests-positive"
-    },
-    {
-     "name": "Reuters (via GMA News)",
-     "url": "https://www.gmanetwork.com/news/topstories/world/1006313/dr-congo-confirms-ebola-outbreak-has-spread-to-eighth-province/story/"
-    }
-   ]
-  },
-  {
-   "section": "culture",
-   "published": "2026-10-18T16:50:00Z",
-   "title": "Elizabeth Holmes documentary takes $15 million in surprise box-office debut",
-   "why": "You Can See Everything, Nathan Fielder and Lance Oppenheim's nearly three-hour film about the jailed Theranos founder, took about $15 million in North America over 16–18 October from just 855 cinemas, studio estimates show. The video-game film Street Fighter topped the chart with $31 million.",
-   "matters": "Screen Daily calls it the biggest documentary debut since Fahrenheit 9/11 in 2004, leaving aside concert films.",
-   "sources": [
-    {
-     "name": "AP (via ABC News)",
-     "url": "https://abcnews.com/Entertainment/wireStory/box-office-elizabeth-holmes-movie-now-hit-theaters-137363778"
-    },
-    {
-     "name": "Screen Daily",
-     "url": "https://www.screendaily.com/news/street-fighter-tops-global-box-office-with-51m-opening-punch-sense-and-sensibility-enters-top-10/5221569.article"
-    },
-    {
-     "name": "Fortune",
-     "url": "https://fortune.com/2026/10/19/you-can-see-everything-box-office-opening-elizabeth-holmes-documentary/"
+     "name": "AP (via KPBS)",
+     "url": "https://www.kpbs.org/news/health/2026/10/20/nigeria-confirms-an-ebola-case-in-abuja-as-a-woman-arriving-from-uganda-tests-positive"
     }
    ]
   },
@@ -1122,27 +1042,22 @@
    "section": "culture",
    "serious": true,
    "developing": true,
-   "changed": "Updated: Mumbai Police say none of the three suspects is a minor; police are examining an unverified claim of responsibility",
+   "changed": "Updated: police say the actor was not the gunmen's first target",
    "published": "2026-10-18T13:30:00Z",
-   "title": "Bollywood actor Tiger Shroff unhurt after gunmen fire at his car",
-   "why": "Gunmen fired at actor Tiger Shroff's car in Mumbai's Juhu area, India, on 18 October, police say. He was unhurt; his driver and a bystander were injured. Mumbai Police say none of the three suspects arrested in Kota, Rajasthan, is a minor: one is 18, two are 22.",
-   "matters": "Police are examining an unverified claim of responsibility by a gangster linked to the Lawrence Bishnoi gang; no weapon has been found.",
+   "title": "Police say Tiger Shroff was not the gunmen's original target",
+   "why": "Mumbai's Crime Branch says the men who fired at actor Tiger Shroff's car on 18 October first planned to attack another film star but found his security too tight. Three suspects arrested in Kota, Rajasthan, were brought to Mumbai on 21 October; Delhi Police arrested four more.",
    "sources": [
     {
-     "name": "PTI (via The Tribune)",
-     "url": "https://www.tribuneindia.com/news/india/tiger-shroff-firing-5-6-rounds-fired-at-car-no-weapon-recovered-3-accused-being-brought-to-mumbai-says-police/"
+     "name": "PTI (via DT Next)",
+     "url": "https://www.dtnext.in/news/national/tiger-shroff-firing-three-key-accused-brought-to-mumbai-from-kota"
     },
     {
-     "name": "ETV Bharat",
-     "url": "https://www.etvbharat.com/en/bharat/tiger-shroff-shooting-gangster-anil-pandit-role-being-probed-all-3-accused-adults-says-mumbai-police-enn26102000447"
+     "name": "ANI (via Asianet Newsable)",
+     "url": "https://newsable.asianetnews.com/entertainment/tiger-shroff-not-original-target-in-firing-case-crime-branch-says-articleshow-xk5gigr"
     },
     {
-     "name": "The Federal",
-     "url": "https://thefederal.com/category/states/west/maharashtra/tiger-shroff-shooting-us-based-gangster-anil-pandit-under-scanner-260065"
-    },
-    {
-     "name": "The Week",
-     "url": "https://www.theweek.in/news/india/2026/10/19/tiger-shroff-car-shooting-suspects-arrested-rajasthan-kota.html"
+     "name": "Gulf News",
+     "url": "https://gulfnews.com/entertainment/bollywood/tiger-shroff-was-not-original-target-shooters-wanted-another-bollywood-star-1.500717388"
     }
    ]
   },
@@ -1174,42 +1089,6 @@
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/museum-protesters-in-colombia-accuse-govt-of-erasing-history"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: a Russian drone strike on a park in Kharkiv region killed six people, including two children, officials say",
-   "published": "2026-10-18T01:34:00Z",
-   "title": "Russian drone kills six in Kharkiv park as strikes cut Ukraine's power",
-   "why": "Russia struck 28 energy facilities in 11 Ukrainian regions overnight into Monday, cutting power to at least 550,000 households, President Zelensky says. On Monday afternoon a Russian drone hit a park in Nova Vodolaha, Kharkiv region, killing six people, including two girls, the regional governor says.",
-   "matters": "Both sides are striking energy sites despite the 'energy ceasefire' US President Donald Trump announced on 11 October.",
-   "sources": [
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russian-drone-strike-on-park-in-kharkiv-oblast-kills-children-and-infant/"
-    },
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russia-strikes-28-critical-energy-facilities-across-ukraine-in-latest-wave-of-attacks-zelensky-says/"
-    },
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/europe/20261020-zelensky-accuses-us-of-delaying-missile-deliveries-as-tensions-rise"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/10/20/europe-today-blame-continues-in-france-russia-kills-two-children-in-kharkiv"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://abcnews.com/International/russia-targets-kyiv-ballistic-missiles-strikes-energy-facilities/story?id=137371745"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites"
     }
    ]
   }
