@@ -3224,5 +3224,175 @@
         ]
       }
     ]
+  },
+  {
+    "id": "031",
+    "published": "2026-10-23",
+    "title": "A record-chasing racer, a Doomsday Glacier and a sultan at Windsor",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Did this actually happen?",
+        "claim": "Kimi Antonelli could become the youngest Formula 1 world champion in history at this weekend’s United States Grand Prix.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this is true. Kimi Antonelli, a 20-year-old Italian who drives for Mercedes, leads the 2026 championship by 102 points over his teammate George Russell as the season reaches Austin, Texas. If he wins the race there and Russell finishes ninth or lower, nobody can catch him in the five races that are left. He would beat Sebastian Vettel’s record as the youngest champion by more than three years, and be the first Italian champion since Alberto Ascari in 1953. If he doesn’t manage it in Austin, he gets more chances at the next races.",
+        "sources": [
+          [
+            "Formula 1 · It’s race week: 5 storylines ahead of the 2026 United States Grand Prix",
+            "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-united-states-grand-prix.4utgT1kLqHM2HAM98YP4TW"
+          ],
+          [
+            "Autosport · How can Antonelli become F1 world champion at US GP?",
+            "https://www.autosport.com/f1/news/how-can-antonelli-become-f1-world-champion-at-us-gp/10864377/"
+          ],
+          [
+            "RacingNews365 · Here’s how Kimi Antonelli can win the 2026 F1 title in the United States GP",
+            "https://racingnews365.com/heres-how-kimi-antonelli-can-win-the-2026-f1-title-in-the-united-states-gp"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three terms. Find their partners.",
+        "pairs": [
+          [
+            "Sultan Haitham bin Tariq",
+            "Ruler of Oman, on a three-day state visit to the UK"
+          ],
+          [
+            "Windsor Castle",
+            "Where King Charles welcomed him with a carriage ride and a banquet"
+          ],
+          [
+            "1982",
+            "The last time a sultan of Oman made a state visit to Britain"
+          ]
+        ],
+        "why": "The pairs are: Sultan Haitham bin Tariq – the ruler of Oman, on a state visit to the UK; Windsor Castle – where King Charles welcomed him; 1982 – the last time an Omani sultan made a state visit. The visit runs from 20 to 22 October. On the first day the King and the Sultan rode through Windsor in a horse-drawn coach, and in the evening the King and Queen held a state banquet for him at the castle. The last such visit was 44 years ago, when Sultan Qaboos was hosted by Queen Elizabeth II. A state visit is the most formal kind of visit one head of state can pay to another country.",
+        "sources": [
+          [
+            "Al Jazeera · King Charles welcomes Omani sultan, hails peace efforts in UK state visit",
+            "https://www.aljazeera.com/news/2026/10/21/king-charles-welcomes-omani-sultan-hails-peace-efforts-in-uk-state-visit"
+          ],
+          [
+            "The National · Sultan of Oman welcomed by King Charles for UK state visit",
+            "https://www.thenationalnews.com/news/uk/2026/10/20/sultan-of-oman-welcomed-by-king-charles-at-uk-state-visit/"
+          ],
+          [
+            "Internazionale (Reuters) · Britain’s King Charles to host Oman’s Sultan for October state visit",
+            "https://www.internazionale.it/ultime-notizie-reuters/2026/09/03/britain-s-king-charles-to-host-oman-s-sultan-for-october-state-visit"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "A giant river of ice in West Antarctica, roughly the size of Florida",
+          "Warm seawater is melting it from underneath",
+          "Its nickname sounds like the end of the world"
+        ],
+        "options": [
+          "Greenland’s ice sheet grows for the first time in decades",
+          "The ‘Doomsday Glacier’ is melting faster than scientists thought",
+          "A huge iceberg breaks off and floats towards South America",
+          "Mount Everest’s glaciers are found to be growing"
+        ],
+        "correct": 1,
+        "why": "It was: the ‘Doomsday Glacier’ is melting faster than scientists thought. Thwaites Glacier in West Antarctica got that nickname because, if it collapsed, it could raise sea levels around the world by more than half a metre. A new study published in the journal Nature Communications in mid-October found that tides push warm seawater far underneath the ice, melting it from below more strongly than older computer models allowed for. The scientists now think it could add about twice as much to sea levels by 2100 as earlier estimates said. Greenland is in the Arctic, not Antarctica, and Everest is in Asia, so those options don’t fit the first clue.",
+        "sources": [
+          [
+            "Al Jazeera · Senegal-sized Antarctic glacier melting faster than thought: Why it matters",
+            "https://www.aljazeera.com/news/2026/10/17/senegal-sized-antarctic-glacier-melting-faster-than-thought-why-it-matters"
+          ],
+          [
+            "ABC17 News (CNN) · Scientists find Doomsday Glacier is melting ‘more aggressively’ than thought",
+            "https://abc17news.com/cnn-other/2026/10/15/scientists-find-doomsday-glacier-is-melting-more-aggressively-than-thought-with-big-impacts-for-sea-level-rise/"
+          ],
+          [
+            "13 ABC · ‘Doomsday’ glacier is melting more aggressively than previously projected, study says",
+            "https://www.13abc.com/2026/10/15/doomsday-glacier-is-melting-more-aggressively-than-previously-projected-study-says/?outputType=amp"
+          ],
+          [
+            "London Loves Business · ‘Doomsday Glacier’ deteriorating twice as fast as feared",
+            "https://londonlovesbusiness.com/doomsday-glacier-deteriorating-twice-as-fast-as-feared-as-scientists-warn-of-rising-seas/"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "The new trade deal between New Zealand and India: put these in order, earliest first.",
+        "items": [
+          "The deal comes into force and India drops its taxes on more than half of New Zealand’s exports",
+          "Trade ministers from the two countries sign the deal in New Delhi",
+          "A second round of tax cuts on goods begins",
+          "New Zealand’s parliament passes the law needed to put the deal into effect"
+        ],
+        "correctOrder": [
+          1,
+          3,
+          0,
+          2
+        ],
+        "why": "The right order is: the ministers sign the deal (April 2026), New Zealand’s parliament passes the law (September 2026), the deal comes into force (20 October 2026), and a second round of cuts begins (1 January 2027). A free trade deal cuts tariffs, the taxes countries charge on goods coming in from abroad. From day one, India removed tariffs on about 57% of New Zealand’s exports, including sheep meat, wool and wood, while Indian goods can now enter New Zealand tax-free. Taxes on other products, such as wine and honey, will come down step by step over several years.",
+        "sources": [
+          [
+            "The Star (Reuters) · New Zealand parliament passes India trade deal, cutting tariffs on most exports",
+            "https://www.thestar.com.my/news/world/2026/09/16/new-zealand-parliament-passes-india-trade-deal-cutting-tariffs-on-most-exports"
+          ],
+          [
+            "The Canberra Times (AAP) · NZ-India trade deal to come into force on October 20",
+            "https://www.canberratimes.com.au/story/9354666/nz-india-trade-deal-to-come-into-force-on-october-20/"
+          ],
+          [
+            "Newswire NZ · New Zealand India free trade agreement takes effect, 57 per cent of exports now tariff-free",
+            "https://newswire.co.nz/2026/10/new-zealand-india-free-trade-agreement-in-force-20-october-2026/"
+          ],
+          [
+            "New Zealand Customs Service · New Zealand–India Free Trade Agreement",
+            "https://www.customs.govt.nz/information-releases-and-legislation/legislation/international-agreements/free-trade-agreements/new-zealand-india-free-trade-agreement"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "Baseball’s World Series starts today, 23 October, between the Milwaukee Brewers and the Tampa Bay Rays. What is special about this final?",
+        "options": [
+          "Both teams were champions in the last two years",
+          "Neither team has ever won the World Series",
+          "It is the first World Series played outside the United States",
+          "The two teams also met in last year’s final"
+        ],
+        "correct": 1,
+        "why": "It is that neither team has ever won the World Series, so whoever wins, a club will lift the trophy for the first time. The Brewers reached the final by sweeping the Los Angeles Dodgers, who had been champions for the last two years, and have only been to one World Series before, in 1982, when they lost. The Rays beat the Cleveland Guardians 4–2 in their semi-final series and are in their third World Series, after losing in 2008 and 2020. Game 1 is in Milwaukee, because the Brewers had the best record in the regular season.",
+        "sources": [
+          [
+            "MLB.com · What you need to know about the 2026 World Series",
+            "https://www.mlb.com/news/2026-mlb-world-series-faq-schedule-times-teams-and-more"
+          ],
+          [
+            "NBC Chicago · Milwaukee Brewers World Series history",
+            "https://www.nbcchicago.com/news/sports/mlb/milwaukee-brewers-world-series-history"
+          ],
+          [
+            "Yahoo Sports · Recapping the Rays-Guardians 2026 ALCS",
+            "https://sports.yahoo.com/articles/recapping-rays-guardians-2026-alcs-220753126.html"
+          ],
+          [
+            "ESPN · Guardians run out of gas, see franchise’s World Series title drought hit 78 years",
+            "https://www.espn.com/mlb/story/_/id/50225168/cleveland-sees-world-series-title-drought-reach-78-years"
+          ]
+        ]
+      }
+    ]
   }
 ]
