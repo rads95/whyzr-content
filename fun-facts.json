@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "facts": [
     {
       "date": "2026-09-20",
@@ -926,6 +926,36 @@
         {
           "name": "Black Dot Research – Is Australia wider than the moon?",
           "url": "https://blackdotresearch.sg/?p=11605"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "kind": "fact",
+      "category": "Animals",
+      "emoji": "🦦",
+      "title": "Sea otters have built-in pockets",
+      "text": "Sea otters have a baggy pocket of loose skin under each forearm. On a dive they stash clams and crabs in it, keeping their paws free to grab more. Back at the surface they float on their backs, use their chest as a table and crack the shells open with a rock.",
+      "sources": [
+        {
+          "name": "Monterey Bay Aquarium",
+          "url": "https://www.montereybayaquarium.org/animals/animals-a-to-z/sea-otter"
+        },
+        {
+          "name": "NOAA Ocean Today",
+          "url": "https://oceantoday.noaa.gov/seaotteranatomy"
+        },
+        {
+          "name": "US Fish and Wildlife Service",
+          "url": "https://www.fws.gov/species/southern-sea-otter-enhydra-lutris-nereis"
+        },
+        {
+          "name": "Oceana",
+          "url": "https://usa.oceana.org/blog/thursday-trivia-sea-otters/"
+        },
+        {
+          "name": "National Geographic",
+          "url": "https://www.nationalgeographic.com/animals/mammals/facts/sea-otter"
         }
       ]
     }
