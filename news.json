@@ -1,6 +1,311 @@
 {
- "updated": "2026-10-21T08:04:11Z",
+ "updated": "2026-10-22T06:15:27Z",
  "items": [
+  {
+   "section": "sport",
+   "published": "2026-10-22T03:00:00Z",
+   "title": "Palmeiras reach Copa Libertadores final after penalty shoot-out win",
+   "why": "Brazil's Palmeiras beat Fluminense 5-3 on penalties in São Paulo on 21 October after their semi-final finished 2-2 on aggregate; Fluminense won the second leg 1-0. Goalkeeper Carlos Miguel saved Nonato's penalty and Marlon Freitas scored the winning kick.",
+   "matters": "The final is in Montevideo, Uruguay, on 28 November against Flamengo or Estudiantes, who meet on Thursday.",
+   "sources": [
+    {
+     "name": "AP (via WRAL)",
+     "url": "https://www.wral.com/news/ap/e97a9-carlos-miguel-shines-in-shootout-as-palmeiras-reaches-the-copa-libertadores-final/"
+    },
+    {
+     "name": "AFP (via Yahoo Sports)",
+     "url": "https://sports.yahoo.com/articles/palmeiras-edge-fluminense-reach-copa-030008983.html"
+    },
+    {
+     "name": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/palmeiras-elimina-o-fluminense-nos-penaltis-e-chega-a-final-da-libertadores/"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-10-22T01:30:00Z",
+   "title": "Angel Reese leads Atlanta Dream to 2-1 lead in WNBA Finals",
+   "why": "The Atlanta Dream beat the Golden State Valkyries 97-71 in Atlanta on Wednesday 21 October to lead the best-of-seven WNBA Finals 2-1. Angel Reese had 21 points and 12 rebounds in a sold-out arena; the Valkyries made only 35% of their shots.",
+   "matters": "Game 4 is in Atlanta on Saturday; the Dream are two wins from their first WNBA title.",
+   "sources": [
+    {
+     "name": "AP (via NBC Los Angeles)",
+     "url": "https://www.nbclosangeles.com/wnba/dream-valkyries-finals-game-3-score/3959165/"
+    },
+    {
+     "name": "CBS Sports",
+     "url": "https://www.cbssports.com/wnba/news/wnba-finals-game-3-live-updates-dream-valkyries/live/"
+    },
+    {
+     "name": "ClutchPoints (via Yahoo Sports)",
+     "url": "https://sports.yahoo.com/articles/angel-reese-dream-power-past-033509618.html"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "serious": false,
+   "published": "2026-10-22T01:00:00Z",
+   "title": "South Korea's central bank holds interest rate at 3% after two rises",
+   "why": "The Bank of Korea kept its main interest rate at 3.00% on 22 October, a unanimous decision by its seven board members, after raising it in July and August. It said it wanted to watch how the earlier rises take effect; most analysts expect another rise in November.",
+   "matters": "Booming chip exports are lifting South Korea's economy but adding to price pressures, Seoul Economic Daily reports.",
+   "sources": [
+    {
+     "name": "Reuters (via Investing.com)",
+     "url": "https://www.investing.com/news/economy-news/bank-of-korea-holds-rates-as-expected-after-backtoback-hikes-4964494"
+    },
+    {
+     "name": "SBS News (Korea)",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008810069"
+    },
+    {
+     "name": "Seoul Economic Daily",
+     "url": "https://en.sedaily.com/finance/2026/10/22/bank-of-korea-holds-base-rate-at-300-percent"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-10-21T22:45:00Z",
+   "title": "North Korea to restart propaganda loudspeakers along the border with South Korea",
+   "why": "Kim Yo Jong, sister of leader Kim Jong Un, said on Thursday loudspeakers would be on standby along the whole border within days and 'new counter means' on alert. South Korea says it fired warning shots when North Korean troops crossed the border during fortification work.",
+   "matters": "South Korea's President Lee Jae Myung halted Seoul's own broadcasts last year to ease tensions; Seoul urges talks.",
+   "sources": [
+    {
+     "name": "AP (via NBC News)",
+     "url": "https://www.nbcnews.com/world/asia/north-korea-says-will-resume-propaganda-broadcasts-border-south-korea-rcna604939"
+    },
+    {
+     "name": "Yonhap (Korea Times)",
+     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261022/nk-leaders-sister-warns-of-border-countermeasures-loudspeakers-to-be-ready-within-days"
+    },
+    {
+     "name": "AsiaOne",
+     "url": "https://www.asiaone.com/asia/north-koreas-kim-yo-jong-warns-south-korea-says-border-loudspeakers-be-ready-within-days"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "serious": false,
+   "published": "2026-10-21T20:05:00Z",
+   "title": "Tesla's profit falls 43% as car sales revenue slips",
+   "why": "Tesla said on 21 October that third-quarter revenue was flat at $28.05 billion, slightly above forecasts, but net profit fell 43% to $787 million, partly because of a paper loss on its SpaceX stake. Revenue from car sales fell 3%.",
+   "matters": "Elon Musk said a planned Tesla-SpaceX chip factory could cost over $100 billion, Investing.com reports.",
+   "sources": [
+    {
+     "name": "Investing.com",
+     "url": "https://www.investing.com/news/stock-market-news/why-is-tesla-stock-falling-afterhours-today-93CH-4964486"
+    },
+    {
+     "name": "Electrek",
+     "url": "https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/"
+    },
+    {
+     "name": "TT (via Sweden Herald)",
+     "url": "https://swedenherald.com/article/tesla-beats-expectations-with-higher-earnings-and-revenue-in-third-quarter"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "serious": false,
+   "published": "2026-10-21T20:05:00Z",
+   "title": "Meta's sales jump 26% as it spends heavily on AI",
+   "why": "Meta, owner of Facebook, Instagram and WhatsApp, said on 21 October that third-quarter revenue rose 26% to $64.6 billion. Profit was cut by a $9.89 billion charge for a settlement with 52 US states over teen mental health. It expects 2026 capital spending of $135–145 billion.",
+   "matters": "Spending on AI data centres turned Meta's free cash flow negative, at minus $2.1 billion for the quarter, Fortune reports.",
+   "sources": [
+    {
+     "name": "Meta",
+     "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx"
+    },
+    {
+     "name": "Fortune",
+     "url": "https://fortune.com/2026/10/21/meta-q3-earnings-mark-zuckerberg-capex-muse/"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://www.investing.com/news/company-news/meta-q3-2026-slides-revenue-surges-26-as-margins-compress-sharply-93CH-4964286"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "published": "2026-10-21T20:00:00Z",
+   "title": "US orders non-emergency staff out of Saudi Arabia amid Houthi attacks",
+   "why": "The US State Department on Wednesday ordered non-emergency staff and their families to leave Saudi Arabia, citing Houthi attacks on airports and infrastructure. Saudi aviation officials said an attack on Dammam's King Fahd airport, in the east, that evening killed one person and injured eight.",
+   "matters": "Reuters reports other US Gulf missions will also send families home; the State Department calls reports of a Gulf-wide order 'inaccurate'.",
+   "sources": [
+    {
+     "name": "ABC Australia (AFP/Reuters)",
+     "url": "https://www.abc.net.au/news/2026-10-22/us-diplomats-to-leave-saudi-arabia-amid-houthi-strikes/107295684"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/gulf/2026/10/22/us-pulls-diplomats-from-saudi-arabia-but-denies-wider-gulf-withdrawal/"
+    },
+    {
+     "name": "Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog-october-22-2026/"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-10-21T18:40:00Z",
+   "title": "Como beat Manchester United 4-1 in their first Champions League season",
+   "why": "Italian club Como, coached by Cesc Fàbregas, beat Manchester United 4-1 in the Champions League at home in Como on 21 October. Nico Paz scored twice, with Tasos Douvikas and Jacobo Ramón also scoring; Joshua Zirkzee replied in stoppage time.",
+   "matters": "United manager Michael Carrick apologised for an 'unacceptable' display; Como now have six points, United three.",
+   "sources": [
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/football/news/13600997/como-4-1-man-utd-michael-carricks-side-ripped-apart-in-italy-during-champions-league-hammering"
+    },
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/soccer/story/_/id/50240080/man-united-como-uefa-champions-league-2026"
+    },
+    {
+     "name": "beIN Sports",
+     "url": "https://www.beinsports.com/en-mena/football/uefa-champions-league/articles-video/manchester-united-thrashed-by-como-in-champions-league-horror-show-2026-10-21"
+    }
+   ]
+  },
+  {
+   "section": "science",
+   "serious": false,
+   "published": "2026-10-21T15:00:00Z",
+   "title": "Physicists hold a single antimatter particle in a trap for months",
+   "why": "A Northwestern University team in the US has trapped one positron, the antimatter twin of the electron, and controlled its quantum states, they report in Physical Review Letters on 21 October. The particle can be held for months; loading one takes 8 to 11 hours.",
+   "matters": "A precise measurement could test whether matter and antimatter truly mirror each other, part of why the universe has matter.",
+   "sources": [
+    {
+     "name": "Scientific American",
+     "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/"
+    },
+    {
+     "name": "Physics (APS)",
+     "url": "https://physics.aps.org/articles/v19/132"
+    },
+    {
+     "name": "Physical Review Letters",
+     "url": "https://journals.aps.org/prl/abstract/10.1103/gbkc-6nlj"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-10-21T12:30:00Z",
+   "title": "Qatar, Türkiye, Pakistan and Indonesia sign 'Badr' defence industry pact",
+   "why": "Defence ministers and officials of the four countries signed the 'Badr' memorandum in Qatar's capital, Doha, on Wednesday, Türkiye's defence ministry said. It covers joint weapons production, training, and research and development. It does not include a mutual defence pledge.",
+   "matters": "Al Jazeera sees it as part of a wider push for new security ties in the region during the war with Iran.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties"
+    },
+    {
+     "name": "Reuters (Arab News)",
+     "url": "https://www.arabnews.com/middle-east/turkiye-qatar-pakistan-indonesia-sign-defense-cooperation-accord-ankara-says-3007521"
+    },
+    {
+     "name": "Türkiye Today",
+     "url": "https://www.turkiyetoday.com/nation/turkiye-qatar-pakistan-and-indonesia-sign-badr-military-cooperation-pact-3230765"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "published": "2026-10-21T10:30:00Z",
+   "title": "UN warns El Niño could be the strongest on record",
+   "why": "The World Meteorological Organization says tropical Pacific temperatures may reach 3.8C above average between November and January; its chief says record El Niños have reached about 3C. In Geneva on 21 October, UN aid chief Tom Fletcher released over $50 million for 11 countries, including Chad, Ethiopia and Somalia.",
+   "matters": "Fletcher says about 50 million people could face increased hunger as heat, drought and floods hit.",
+   "sources": [
+    {
+     "name": "UN Geneva",
+     "url": "https://www.unognewsroom.org/story/en/3305/joint-press-conference-ocha-wmo-el-nino-is-set-to-hit-fragile-communities-hard"
+    },
+    {
+     "name": "Reuters (via CNBC Africa)",
+     "url": "https://www.cnbcafrica.com/2026/el-nino-wrecking-ball-could-cause-record-pacific-temperature-rise-un-says"
+    },
+    {
+     "name": "Euronews (with AFP)",
+     "url": "https://www.euronews.com/2026/10/21/un-warns-elnino-could-be-strongest-on-record"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "published": "2026-10-21T09:00:00Z",
+   "title": "WHO launches global indicators to track heat risks for mothers and children",
+   "why": "The World Health Organization, with the WMO, UNICEF and the UN Population Fund, published on 21 October the first global set of indicators for how extreme heat affects pregnant women, newborns and children. It links heat exposure to 26% higher odds of preterm birth.",
+   "matters": "WHO says about 1.5 billion children face heatwaves that are more frequent, longer or more severe.",
+   "sources": [
+    {
+     "name": "WHO",
+     "url": "https://www.who.int/news/item/21-10-2026-new-global-framework-launched-to-track-increasing-health-risks-of-extreme-heat-for-pregnant-women--newborns-and-children"
+    },
+    {
+     "name": "KBC",
+     "url": "https://www.kbc.co.ke/who-warns-of-rising-heat-risks-for-mothers-children/"
+    },
+    {
+     "name": "Greater Kashmir",
+     "url": "https://www.greaterkashmir.com/health/who-launches-framework-to-track-heat-risks-for-pregnant-women-and-children-12716716"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "serious": false,
+   "published": "2026-10-21T07:10:00Z",
+   "title": "Indonesia holds main interest rate, lifts deposit rate to support rupiah",
+   "why": "Bank Indonesia kept its main rate at 5.75% on 21 October but raised its deposit facility rate to 5% and will cut banks' reserve requirements, freeing about 190 trillion rupiah ($10.6 billion). The rupiah, down more than 7% this year, is near 18,000 per dollar.",
+   "matters": "It follows MSCI's warning it may downgrade Indonesia's stock market, which set off the country's steepest share fall in decades.",
+   "sources": [
+    {
+     "name": "Reuters (via Kontan)",
+     "url": "https://english.kontan.co.id/news/bank-indonesia-keeps-benchmark-steady-cuts-required-reserves-after-stock-market-rout"
+    },
+    {
+     "name": "Bloomberg (via The Edge Malaysia)",
+     "url": "https://theedgemalaysia.com/node/822674"
+    },
+    {
+     "name": "FXStreet",
+     "url": "https://www.fxstreet.com/news/indonesian-rupiah-declines-as-bi-decides-to-keep-benchmark-rate-unchanged-202610210716"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-10-21T06:00:00Z",
+   "title": "Mexico holds ex-prosecutor on treason charge over US agents in drug raid",
+   "why": "A federal judge has ordered César Jáuregui, former attorney general of Mexico's northern Chihuahua state, held in pre-trial detention. Prosecutors accuse him of letting US agents, reported to be CIA officers, join an April drug-lab raid without federal approval. His defence calls the case political.",
+   "matters": "Mexico rarely brings treason charges; the case tests limits on US security operations inside Mexico.",
+   "sources": [
+    {
+     "name": "Al Jazeera (Reuters)",
+     "url": "https://www.aljazeera.com/news/2026/10/21/mexico-charges-prosecutor-with-treason-over-us-involvement-in-drug-raid"
+    },
+    {
+     "name": "El Financiero",
+     "url": "https://www.elfinanciero.com.mx/estados/2026/10/21/cesar-jauregui-seguira-en-el-altiplano-juez-dicta-prision-preventiva-por-traicion-a-la-patria/"
+    },
+    {
+     "name": "Mexico News Daily",
+     "url": "https://mexiconewsdaily.com/politics/former-chihuahua-ag-arrested-treason-conspiracy/"
+    }
+   ]
+  },
   {
    "section": "money",
    "serious": false,
@@ -66,26 +371,23 @@
   },
   {
    "section": "money",
+   "changed": "Updated: the Kospi fell back more than 2% on Thursday after Wednesday's rebound",
    "published": "2026-10-21T00:30:00Z",
-   "title": "South Korea's Kospi jumps more than 4% as chip shares rebound",
-   "why": "Seoul's main share index rose more than 4% on Wednesday morning, a day after falling nearly 4%, with Samsung Electronics and SK hynix up about 7%. Strong US tech earnings revived confidence, and the exchange briefly paused programme buying for the first time since August.",
+   "title": "Asian shares fall again as doubts over AI spending hit chipmakers",
+   "why": "After Wednesday's 3.3% rebound, Seoul's Kospi fell more than 2% on Thursday morning, with Samsung Electronics and SK hynix down over 3%. Hong Kong's Hang Seng dropped about 2.5% and Tokyo's Nikkei 1.1%. Mixed results from Tesla and Meta revived doubts over AI investment returns, AFP reports.",
    "matters": "Korean chipmakers are a bellwether for global spending on artificial intelligence.",
    "sources": [
     {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261022-asian-stocks-back-in-retreat-as-tech-mood-sours-again"
+    },
+    {
      "name": "Yonhap (Korea Times)",
-     "url": "https://koreatimes.co.kr/economy/20261021/seoul-shares-extend-gains-late-wednesday-morning-on-tech-rebound"
+     "url": "https://www.koreatimes.co.kr/economy/20261022/seoul-stocks-sharply-down-late-thursday-morning-amid-ai-concerns"
     },
     {
-     "name": "SBS News (Korea)",
-     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008807963"
-    },
-    {
-     "name": "AP",
-     "url": "https://www.wsls.com/business/2026/10/21/asian-shares-are-mixed-with-kospi-up-3-after-us-stocks-rally-on-strong-earnings/"
-    },
-    {
-     "name": "KED Global",
-     "url": "https://www.kedglobal.com/korean-stock-market/newsView/ked202610210002"
+     "name": "Investing.com",
+     "url": "https://in.investing.com/news/stock-market-news/asia-stocks-slide-as-ai-jitters-hit-korean-chipmakers-5646879"
     }
    ]
   },
@@ -137,7 +439,7 @@
    "section": "sport",
    "published": "2026-10-20T21:00:00Z",
    "title": "PSG beat Barcelona 4-2, ending their winning start to the season",
-   "why": "Champions League holders Paris Saint-Germain beat Barcelona 4-2 in Paris on 20 October, with late goals from Vitinha and Fabián Ruiz after Lamine Yamal had made it 2-2. It ended Barcelona's run of 11 straight wins; PSG top the league phase with nine points.",
+   "why": "Champions League holders Paris Saint-Germain beat Barcelona 4-2 in Paris on 20 October, with late goals from Vitinha and Fabián Ruiz after Lamine Yamal had made it 2-2. It ended Barcelona's run of 11 straight wins; PSG have nine points from three league-phase games.",
    "sources": [
     {
      "name": "Al Jazeera",
@@ -158,7 +460,6 @@
    "published": "2026-10-20T21:00:00Z",
    "title": "Liverpool come from two goals down to beat Villarreal 4-3",
    "why": "Liverpool beat Villarreal 4-3 in the Champions League at Anfield on 20 October after trailing 2-0 within 29 minutes. Alexis Mac Allister scored twice, with Ronald Araújo and substitute Florian Wirtz also scoring; 18-year-old Rio Ngumoha set up two goals.",
-   "matters": "Liverpool and the holders, Paris Saint-Germain, lead the table with nine points from three games each.",
    "sources": [
     {
      "name": "Sky Sports",
@@ -291,49 +592,54 @@
    "section": "world",
    "serious": true,
    "developing": true,
+   "changed": "Updated: Guards now say they struck four more ships and three others hit mines",
    "published": "2026-10-20T18:27:00Z",
-   "title": "Iran's Revolutionary Guards say three tankers hit mines near Hormuz",
-   "why": "Iran's Revolutionary Guards said on Tuesday that naval mines set two tankers on fire in the Strait of Hormuz and a third, carrying over 2 million barrels of crude, exploded south of the strait. They said the ships took routes Iran calls unauthorised. The claims have not been independently confirmed.",
+   "title": "Iran's Revolutionary Guards say they hit seven more ships in the Gulf",
+   "why": "Iran's Revolutionary Guards navy said on Thursday it struck four ships transferring oil in the northern Gulf, setting them on fire, and that three more hit mines west of the Strait of Hormuz. It warned the US that its regional bases could be targeted. The claims are not independently confirmed.",
    "matters": "Before the war about a fifth of the world's oil passed through the strait.",
    "sources": [
     {
-     "name": "AFP (Arab News)",
-     "url": "https://www.arabnews.pk/middle-east/iran-guards-say-three-tankers-hit-mines-crossing-hormuz-strait-3004761"
+     "name": "Reuters (Arab News)",
+     "url": "https://www.arabnews.com/middle-east/irans-navy-says-seven-vessels-hit-warns-us-of-wider-response-3007657"
     },
     {
-     "name": "Xinhua",
-     "url": "https://english.news.cn/20261021/0fb02e6579c84b5284058528b71681ee/c.html"
+     "name": "Press TV",
+     "url": "https://www.presstv.co.uk/Detail/2026/10/22/778916/IRGC-Navy-four-vessels-hit-Persian-Gulf"
     },
     {
-     "name": "Middle East Eye",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-guards-say-three-tankers-hit-mines-crossing-hormuz-strait"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive"
     },
     {
-     "name": "Gulf News",
-     "url": "https://gulfnews.com/world/mena/middle-east-war-iran-rejects-us-terms-as-tanker-explodes-near-hormuz-1.500717832"
+     "name": "Iran International",
+     "url": "https://www.iranintl.com/en/liveblog/202610187555"
     }
    ]
   },
   {
    "section": "world",
    "developing": true,
-   "changed": "Updated: Witkoff lands in St Petersburg; Kremlin says Putin receives him on Wednesday",
+   "changed": "Updated: Putin agrees to resume three-way talks after 10 November and frees a US prisoner",
    "published": "2026-10-20T17:30:00Z",
-   "title": "Witkoff arrives in St Petersburg for talks with Putin on Ukraine",
-   "why": "US envoy Steve Witkoff landed in St Petersburg after talks with Ukraine's President Zelensky in Oslo. Kremlin aide Yuri Ushakov said Putin would receive him at the Constantine Palace on Wednesday morning. A US official told Axios he carries an updated proposal to end the war.",
-   "matters": "It is the latest US attempt to bring Russia and Ukraine towards direct talks.",
+   "title": "Putin agrees to resume Ukraine peace talks after meeting Witkoff",
+   "why": "Russia's President Putin met US envoy Steve Witkoff for about three hours in St Petersburg on Wednesday. Kremlin aide Yuri Ushakov said Russia agreed in principle to resume three-way talks with Ukraine and the US after 10 November, possibly in Abu Dhabi. Russia freed US citizen Stephen Hubbard.",
+   "matters": "Ushakov said Western and Ukrainian proposals offered 'little' of use; Zelensky says freezing the front line is the minimum.",
    "sources": [
     {
+     "name": "AP (via PBS)",
+     "url": "https://www.pbs.org/newshour/world/putin-agrees-to-resume-trilateral-russia-ukraine-u-s-talks-next-month"
+    },
+    {
+     "name": "CNN (via Yahoo)",
+     "url": "https://sg.news.yahoo.com/us-envoy-witkoff-lands-russia-083233464.html"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/russia-ukraine-war-witkoff-putin-trump-zelenskyy/"
+    },
+    {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy"
-    },
-    {
-     "name": "TASS",
-     "url": "https://tass.com/politics/2205085"
-    },
-    {
-     "name": "Il Sole 24 Ore",
-     "url": "https://en.ilsole24ore.com/art/ukrainian-witkoff-and-putin-rubio-positive-talks-with-zelensky-AJzkIvpB"
+     "url": "https://www.aljazeera.com/news/2026/10/21/what-happened-during-witkoff-and-kushners-latest-meeting-with-putin"
     }
    ]
   },
@@ -428,45 +734,47 @@
   {
    "section": "sport",
    "developing": true,
-   "changed": "Updated: Bavuma made 179 and South Africa declared on 425 for nine",
+   "changed": "Updated: Australia were bowled out for 99 and made to follow on",
    "published": "2026-10-20T12:17:00Z",
-   "title": "Bavuma's 179 puts South Africa on top in second Test",
-   "why": "South Africa captain Temba Bavuma made a Test-best 179 on day three in Gqeberha on 20 October, after his side had slipped to 40 for four. South Africa declared on 425 for nine; Australia closed on 3 for one. Australia lead the three-match series 1-0.",
+   "title": "Australia bowled out for 99 and follow on in second Test",
+   "why": "Marco Jansen took five for 33 as Australia were bowled out for 99 on day four in Gqeberha, South Africa, on 21 October, 326 behind. Following on, they closed on 156 for four, still 170 behind, with Travis Head 87 not out. Australia lead the series 1-0.",
+   "matters": "Day five is on Thursday 22 October; South Africa need six more wickets to level the three-match series.",
    "sources": [
     {
      "name": "Sky Sports",
-     "url": "https://www.skysports.com/cricket/news/13601427/temba-bavuma-hits-test-best-179-as-south-africa-dominate-australia-on-day-three-of-second-test-in-gqeberha"
+     "url": "https://www.skysports.com/cricket/news/13601859/south-africa-vs-australia-baggy-greens-skittled-for-99-after-sensational-proteas-bowling-performance-on-day-four-of-second-test"
     },
     {
-     "name": "AP (via WRAL)",
-     "url": "https://www.wral.com/news/ap/645ae-skipper-bavuma-s-179-puts-south-africa-in-control-in-2nd-test-vs-australia/"
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-22/cricket-south-africa-vs-australia-day-four-analysis/107295048"
     },
     {
-     "name": "The Herald",
-     "url": "https://theherald.co.za/sport/cricket/2026-10-20-bavuma-jansen-spark-recovery-in-second-test/"
+     "name": "TimesLIVE",
+     "url": "https://www.timeslive.co.za/sport/cricket/2026-10-21-sa-enforce-follow-on-after-bowling-australia-out-for-99/"
     }
    ]
   },
   {
    "section": "money",
+   "serious": true,
    "developing": true,
-   "changed": "Updated: Brent settled lower on Tuesday after mediation reports, then rose again early Wednesday",
+   "changed": "Updated: Brent back above $110 after Houthi attacks in Saudi Arabia",
    "published": "2026-10-20T11:30:00Z",
-   "title": "Oil swings around $110 a barrel on Iran mediation reports",
-   "why": "Brent crude touched $111.99 on Tuesday, its highest since May, then settled at $108.79 after reports of a Qatar-Pakistan plan to revive US-Iran talks, Reuters reported. Early on Wednesday it rose about 1.5% to around $110.40, AP said.",
+   "title": "Oil rises above $110 a barrel after attacks in Saudi Arabia",
+   "why": "Brent crude rose about 1.5% to above $110 a barrel early on Thursday after Houthi drone attacks in Saudi Arabia, including near Aramco's Shaybah oilfield, The National and AFP report. It had settled almost flat near $108.8 on Wednesday. The US ordered non-emergency staff to leave Saudi Arabia.",
    "matters": "Oil prices feed into fuel, heating and shipping costs around the world.",
    "sources": [
     {
-     "name": "Reuters",
-     "url": "https://finance.yahoo.com/news/oil-eases-markets-assess-potential-005750414.html"
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/business/energy/2026/10/22/oil-tops-110-as-houthi-drone-strike-near-saudi-shaybah-field-rattles-markets/"
     },
     {
-     "name": "AP",
-     "url": "https://www.wsls.com/business/2026/10/21/asian-shares-are-mixed-with-kospi-up-3-after-us-stocks-rally-on-strong-earnings/"
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261022-asian-stocks-back-in-retreat-as-tech-mood-sours-again"
     },
     {
-     "name": "Gulf News",
-     "url": "https://gulfnews.com/world/mena/middle-east-war-iran-rejects-us-terms-as-tanker-explodes-near-hormuz-1.500717832"
+     "name": "Oilprice.com",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-Above-111-as-Houthis-Strike-Saudi-Targets.html"
     }
    ]
   },
@@ -519,94 +827,51 @@
    ]
   },
   {
+   "section": "curious",
+   "published": "2026-10-20T08:31:00Z",
+   "title": "South Africa's Transnet claims world record with 7.6 km freight train",
+   "why": "State rail company Transnet says a train of 696 empty wagons, 7.6 km long, ran about 861 km from Saldanha port to the iron ore mines of the Northern Cape over the weekend of 17-18 October. The previous record, per Guinness, was BHP's 7.35 km train in Australia in 2001.",
+   "matters": "The claim has not yet been independently verified; Transnet's rail chief says the technical lessons matter more than the record.",
+   "sources": [
+    {
+     "name": "News24",
+     "url": "https://www.news24.com/business/economy/watch-transnet-smashes-world-record-with-76km-freight-train-20261020-1031"
+    },
+    {
+     "name": "Railway PRO",
+     "url": "https://www.railwaypro.com/wp/south-africa-sets-new-freight-rail-milestone-as-transnet-operates-696-wagon-train/"
+    },
+    {
+     "name": "Joburg ETC",
+     "url": "https://www.joburgetc.com/news/transnet-696-wagon-world-record-train/"
+    }
+   ]
+  },
+  {
    "section": "world",
    "lead": true,
    "developing": true,
-   "changed": "Updated: Iran tells mediator no talks before US meets its terms; Rubio calls a deal 'extremely difficult'",
+   "changed": "Updated: Trump says the US is 'not negotiating'; NYT reports plans for renewed strikes",
    "published": "2026-10-20T08:30:00Z",
-   "title": "Iran tells Pakistan's army chief no US talks until demands met",
-   "why": "Pakistan's army chief, Field Marshal Asim Munir, met Iran's president and top officials in Tehran on Tuesday, but no breakthrough was announced. Iranian media say Tehran wants the US to accept its seven conditions first, including lifting oil sanctions. US Secretary of State Marco Rubio called a deal 'extremely difficult'.",
-   "matters": "Talks centre on reopening the Strait of Hormuz, a key oil route, which Iran says stays shut until its terms are met.",
+   "title": "Trump says US is 'not negotiating' with Iran as mediation stalls",
+   "why": "President Trump told reporters on Wednesday the US is 'not negotiating' with Iran and that something will happen 'fairly soon'. The New York Times reports US and Israeli plans for renewed strikes after the 3 November midterms; the White House does not comment. Iran insists on its seven conditions.",
+   "matters": "Iran says the Strait of Hormuz, a key oil route, stays shut until its terms are met; Pakistan is mediating.",
    "sources": [
     {
-     "name": "Arab News (Reuters)",
-     "url": "https://www.arabnews.com/world/iran-to-pakistans-army-chief-no-talks-with-washington-before-our-demands-are-met-3007469"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive"
+    },
+    {
+     "name": "Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog-october-22-2026/"
+    },
+    {
+     "name": "Arab Times",
+     "url": "https://www.arabtimesonline.com/news/us-is-not-negotiating-with-iran-something-will-happen-soon/"
     },
     {
      "name": "Dawn",
      "url": "https://www.dawn.com/news/2038686/cdf-munir-pezeshkian-meeting-raises-peace-hopes"
-    },
-    {
-     "name": "TRT World",
-     "url": "https://www.trtworld.com/article/d8692cabe4ce"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-10-20T05:00:00Z",
-   "title": "Alberta votes by about three to one to stay in Canada",
-   "why": "About 76% of voters in the western Canadian province of Alberta chose to remain in Canada in Monday's referendum, preliminary results show, with about 1.8 million votes counted. The rest backed starting a process towards a binding vote on leaving.",
-   "matters": "Prime Minister Mark Carney said Albertans 'chose unity'; separatist campaigners say their push will continue.",
-   "sources": [
-    {
-     "name": "Global News",
-     "url": "https://globalnews.ca/news/12108827/alberta-referendum-result/"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show"
-    },
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/americas/20261019-alberta-votes-to-remain-part-of-canada-in-victory-for-pm-carney"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-10-20T03:30:00Z",
-   "title": "US defence secretary Hegseth meets Netanyahu on unannounced Israel visit",
-   "why": "US Defence Secretary Pete Hegseth met Israeli Prime Minister Benjamin Netanyahu at an air base in southern Israel on Monday, Axios and Israeli media report; the Pentagon declined to comment. Netanyahu later released video of a call in which he told President Trump they have 'a job to finish'.",
-   "matters": "It came a day after Trump endorsed Netanyahu for Israel's 27 October election and as Russia's foreign minister visited Tehran.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit"
-    },
-    {
-     "name": "Times of Israel",
-     "url": "https://www.timesofisrael.com/hegseth-reportedly-met-with-netanyahu-during-secret-visit-to-israel/"
-    },
-    {
-     "name": "CBS News (AP)",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz/"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "serious": false,
-   "published": "2026-10-20T03:00:00Z",
-   "title": "Suspected Chinese rocket debris falls on plantation in Indonesian Borneo",
-   "why": "A large burnt metal piece, which police describe as up to nine metres long, was found on a palm oil plantation near Sampit, Central Kalimantan, on 19 October after residents heard a loud bang. Indonesia's research agency BRIN suspects it came from China's Zhuque-2E rocket. Nobody was hurt.",
-   "matters": "ESA says injury risk from falling space debris is very low but rising as launches increase.",
-   "sources": [
-    {
-     "name": "Phys.org (AFP)",
-     "url": "https://phys.org/news/2026-10-indonesia-probes-chinese-rocket-fragment.html"
-    },
-    {
-     "name": "detikNews",
-     "url": "https://news.detik.com/berita/d-8715258/terbaru-di-kalteng-ini-deretan-peristiwa-puing-roket-china-masuk-indonesia"
-    },
-    {
-     "name": "Kumparan",
-     "url": "https://kumparan.com/kumparannews/terdengar-gemuruh-puing-roket-china-jatuh-di-sampit-28PVYm6Ek1C"
     }
    ]
   },
@@ -614,287 +879,27 @@
    "section": "climate",
    "serious": true,
    "developing": true,
-   "changed": "Updated: winds up to 215 km/h; Batanes now under Signal No. 2",
+   "changed": "Updated: Champi has weakened slightly; Taiwan has issued a sea warning",
    "published": "2026-10-20T02:40:00Z",
-   "title": "Batanes raised to storm Signal No. 2 as Super Typhoon Champi nears",
-   "why": "Champi, named Rosal locally, had winds of 215 km/h and gusts of 265 km/h on Wednesday morning, about 845 km east of northern Luzon, the weather agency PAGASA says. It expects no landfall, but closest approach to Batanes on Thursday or Friday.",
-   "matters": "Taiwan's weather agency expects heavy rain and waves of up to 6 metres in the north and east on Friday and Saturday.",
+   "title": "Super Typhoon Champi weakens slightly as Taiwan issues sea warning",
+   "why": "Champi, called Rosal in the Philippines, had winds of 195 km/h early on Thursday 22 October, about 495 km east of Batanes, the Philippine weather agency PAGASA says. Batanes and the Babuyan Islands remain under Signal No. 2; closest approach is Thursday afternoon to Friday morning.",
+   "matters": "Taiwan's weather agency expects the strongest effects on Friday and Saturday; some ferries and Taiwan–Okinawa flights are cancelled.",
    "sources": [
     {
+     "name": "Rappler",
+     "url": "https://www.rappler.com/philippines/weather/super-typhoon-rosal-update-pagasa-forecast-october-22-2026-5am/"
+    },
+    {
      "name": "Philstar",
-     "url": "https://www.philstar.com/headlines/weather/2026/10/21/2564785/batanes-placed-under-signal-no-2-due-rosal"
-    },
-    {
-     "name": "GMA News",
-     "url": "https://www.gmanetwork.com/news/weather/content/1006605/super-typhoon-rosal-to-hit-thursday-may-match-uwan-s-strength/story/"
-    },
-    {
-     "name": "Taipei Times",
-     "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/21/2003866354"
+     "url": "https://philstar.com/headlines/2026/10/22/2564850/rosal-declared-strongest-cyclone-2026"
     },
     {
      "name": "Focus Taiwan",
-     "url": "https://focustaiwan.tw/society/202610200007"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-10-20T02:30:00Z",
-   "title": "Angel Reese's 30 points help Atlanta Dream level WNBA Finals",
-   "why": "The Atlanta Dream beat the Golden State Valkyries 79-65 in San Francisco on Monday 19 October, levelling the best-of-seven WNBA Finals at 1-1. Angel Reese scored 30 points and took 16 rebounds. It was Atlanta's first Finals win, after losing all three of its previous Finals.",
-   "matters": "Game 3 is in Atlanta on Wednesday 21 October.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/sports/2026/10/20/angel-reese-scores-30-as-dream-stun-valkyries-to-go-level-in-wnba-finals"
+     "url": "https://focustaiwan.tw/society/202610220001"
     },
     {
-     "name": "Yahoo Sports",
-     "url": "https://sports.yahoo.com/wnba/article/angel-reese-lifts-dream-to-first-wnba-finals-win-vs-valkyries-with-historic-breakout-performance-in-game-2-we-feed-off-her-energy-051815445.html"
-    },
-    {
-     "name": "NBC Sports",
-     "url": "https://www.nbcsports.com/wnba/news/angel-reese-shines-as-atlanta-dream-battle-back-to-even-wnba-finals-vs-golden-state-valkyries"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-10-19T21:30:00Z",
-   "title": "US judge orders ex-OpenAI engineer held without bail in recording-device case",
-   "why": "A US federal judge in San Francisco on Monday ordered Abdulrahman Alfozan, a Saudi former OpenAI engineer, held until trial, citing a 'significant' flight risk. He is charged with hiding a recording device in an OpenAI meeting room. Prosecutors cite help from Saudi officials; his lawyer denies he would flee.",
-   "matters": "Prosecutors call the case a national security concern; the next hearing is on 6 November.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261019-us-judge-orders-saudi-engineer-held-in-openai-case"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/ex-openai-engineer-recording-device-saudi-royal-family/"
-    },
-    {
-     "name": "Al Jazeera (Reuters)",
-     "url": "https://www.aljazeera.com/economy/2026/10/19/ex-openai-employee-accused-of-planting-device-has-saudi-backing-prosecutor"
-    },
-    {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/future/technology/2026/10/20/abdulrahman-alfozan-openai-saudi/"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "published": "2026-10-19T20:00:00Z",
-   "title": "US approves immunotherapy that may spare some rectal cancer patients surgery",
-   "why": "The US Food and Drug Administration gave accelerated approval on 19 October to GSK's immunotherapy Jemperli (dostarlimab) for a genetic type of locally advanced rectal cancer. In a 154-patient trial, almost three-quarters needed no surgery, radiation or chemotherapy after a median follow-up of two years, the FDA says.",
-   "matters": "The subtype, called dMMR or MSI-H, is a small share of rectal cancers; the FDA says longer follow-up is still needed.",
-   "sources": [
-    {
-     "name": "US FDA",
-     "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-immunotherapy-may-allow-certain-patients-rectal-cancer-avoid-chemotherapy-radiation-and"
-    },
-    {
-     "name": "GSK",
-     "url": "https://us.gsk.com/en-us/media/press-releases/jemperli-dostarlimab-gxly-approved-in-us-as-first-and-only-immunotherapy-for-adults-with-msi-hdmmr-locally-advanced-rectal-cancer/"
-    },
-    {
-     "name": "The ASCO Post",
-     "url": "https://ascopost.com/news/october-2026/fda-approves-dostarlimab-for-msi-hdmmr-locally-advanced-rectal-cancer"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "serious": false,
-   "published": "2026-10-19T19:41:00Z",
-   "title": "Japan launches probe to bring back samples from Mars moon Phobos",
-   "why": "Japan's space agency JAXA launched its MMX probe on an H3 rocket from Tanegashima at 19:41 UTC on 19 October (04:41 Tuesday, Japan time). About 71 minutes later it was released into its planned orbit, Jiji Press reports. MMX should reach Mars in 2027 and return samples in 2031.",
-   "matters": "No mission has yet brought back material from the Mars system; it may show how Mars's two small moons formed.",
-   "sources": [
-    {
-     "name": "Jiji Press (via Nippon.com)",
-     "url": "https://www.nippon.com/en/news/yjj2026102000118/"
-    },
-    {
-     "name": "AFP (via RTÉ)",
-     "url": "https://www.rte.ie/news/world/2026/1019/1596042-japan-mars-moon/"
-    },
-    {
-     "name": "dpa (via blue News)",
-     "url": "https://www.bluewin.ch/en/lifestyle/japan-launches-mission-to-mars-moon-with-a-german-french-rover-on-board-li.3641705"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-10-20/japan-launches-mission-to-collect-mars-moon-samples/107283312"
-    },
-    {
-     "name": "DLR",
-     "url": "https://www.dlr.de/en/research-and-transfer/projects-and-missions/mmx"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-10-19T19:37:00Z",
-   "title": "Portugal federation bans Ronaldo for 30 days over squad walkout",
-   "why": "Portugal's football federation suspended captain Cristiano Ronaldo, 41, for 30 days and fined him €255 on 19 October for leaving the national team camp in Copenhagen after a dispute with coach Jorge Jesus. Reports say the ban is backdated to the start of October.",
-   "matters": "He is expected to be available for Portugal's Nations League games in November if Jesus picks him.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/sports/2026/10/19/ronaldo-banned-for-30-days-fined-285-by-portugal-over-spat-with-jesus"
-    },
-    {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/football/news/13601082/cristiano-ronaldo-portugal-captain-punished-over-walkout-following-explosive-row-with-head-coach-jorge-jesus"
-    },
-    {
-     "name": "AP (via 1News)",
-     "url": "https://www.1news.co.nz/2026/10/20/ronaldo-suspended-for-30-days-fined-for-walking-out-on-portugal-camp/"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "published": "2026-10-19T19:00:00Z",
-   "title": "Trump orders new women's health division at US National Institutes of Health",
-   "why": "US President Donald Trump signed an executive order on Monday telling health officials to set up a women's health division at the National Institutes of Health within 90 days, plus a White House task force. First Lady Melania Trump led the effort; the order names no specific funding.",
-   "matters": "Critics cited by Al Jazeera question how it will work after thousands of NIH staff were laid off and budgets cut.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/19/trump-signs-order-launching-womens-health-division-at-nih-white-house"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/trump-executive-order-on-womens-health/"
-    },
-    {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/politics/trump-administration/trump-melania-womens-health-nih-rcna604387"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-10-19T18:21:00Z",
-   "title": "US orders civilian government agencies to stop using China's DeepSeek AI",
-   "why": "The US Department of Homeland Security has ordered federal civilian agencies to remove AI tools from Chinese company DeepSeek, including other firms' products built on its models. The order, made public on 19 October, does not cover the military, AFP reports.",
-   "matters": "DHS says using the tools may send sensitive data to China; the two countries' leaders are due to meet next month.",
-   "sources": [
-    {
-     "name": "AFP (via The Star)",
-     "url": "https://www.thestar.com.my/tech/tech-news/2026/10/20/us-bans-use-of-china039s-deepseek-by-govt-agencies"
-    },
-    {
-     "name": "BBC (via Yahoo News)",
-     "url": "https://www.yahoo.com/news/politics/articles/us-bans-deepseek-ai-government-182158128.html"
-    },
-    {
-     "name": "Gizmodo",
-     "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "serious": true,
-   "published": "2026-10-19T17:50:00Z",
-   "title": "Saudi Arabia postpones its 'Davos in the Desert' investment summit to 2027",
-   "why": "The Future Investment Initiative, due in Riyadh, Saudi Arabia, from 26 to 29 October, has been moved to 2027, organisers said on Monday. AFP and Reuters link the delay to Houthi strikes on Saudi Arabia, including on Riyadh's main airport. New dates have not been set.",
-   "matters": "Expected speakers included the heads of BlackRock, Goldman Sachs and JPMorgan; two other Saudi business events were also postponed.",
-   "sources": [
-    {
-     "name": "AFP/Reuters (via Yahoo News)",
-     "url": "https://www.yahoo.com/news/world/articles/saudi-arabia-cancels-2026-davos-010531543.html"
-    },
-    {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/business/economy/2026/10/19/saudi-arabia-postpones-fii-investment-in-riyadh-after-houthi-attacks/"
-    },
-    {
-     "name": "Business Insider (via Yahoo News)",
-     "url": "https://www.yahoo.com/news/world/articles/saudi-arabia-postpones-major-investment-175038377.html"
-    },
-    {
-     "name": "Xinhua",
-     "url": "https://english.news.cn/20261020/03826e79b31f4c308b19d15caa9806bc/c.html"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "serious": false,
-   "published": "2026-10-19T17:00:00Z",
-   "title": "Germany and Nvidia agree to work on AI for industry",
-   "why": "German Chancellor Friedrich Merz and Nvidia chief Jensen Huang announced a partnership on 19 October at the first Invest in Germany summit in Berlin, aimed at AI models for factories and robots. Economy Minister Katherina Reiche says investors pledged more than €225 billion at the summit.",
-   "matters": "Germany, Europe's largest economy, hopes AI can help revive its struggling carmakers and machinery makers.",
-   "sources": [
-    {
-     "name": "Tech Xplore (AP)",
-     "url": "https://techxplore.com/news/2026-10-nvidia-ceo-urges-german-ai.html"
-    },
-    {
-     "name": "Yahoo Finance (DPA)",
-     "url": "https://finance.yahoo.com/technology/ai/articles/merz-unveils-nvidia-partnership-major-193335520.html"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/10/19/nvidia-ceo-jensen-huang-warns-germany-is-falling-behind-in-ai-race"
-    },
-    {
-     "name": "Nvidia",
-     "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/"
-    }
-   ]
-  },
-  {
-   "section": "culture",
-   "published": "2026-10-19T15:18:00Z",
-   "title": "Christiane Amanpour to leave CNN after 43 years",
-   "why": "CNN's chief international anchor, Christiane Amanpour, 68, said on 19 October that she will leave the network after 43 years. Her daily CNN and PBS programmes end in late 2026; a weekly CNN International show continues until May, and she leaves in June 2027.",
-   "matters": "It comes weeks after Paramount Skydance took over CNN's parent company; Amanpour did not mention the deal, AFP reports.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261019-christiane-amanpour-to-leave-cnn-after-43-years"
-    },
-    {
-     "name": "TheWrap",
-     "url": "https://www.thewrap.com/media-platforms/journalism/christiane-amanpour-leaving-cnn-after-43-years/"
-    },
-    {
-     "name": "ThePrint",
-     "url": "https://theprint.in/feature/christiane-amanpour-leaves-cnn-after-43-years-always-be-truthful-not-neutral/3076615/"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "serious": false,
-   "published": "2026-10-19T15:00:00Z",
-   "title": "Ramaphosa tells South Africa to prepare for losing US trade benefits",
-   "why": "South Africa's President Cyril Ramaphosa said on 19 October the country must prepare for possible exclusion from AGOA, the US scheme giving African goods duty-free access. He said the effect on jobs would be 'devastating'. Any exclusion from 1 January must be announced by 2 November.",
-   "matters": "Carmakers' groups say about 86,000 South African jobs depend directly on the deal.",
-   "sources": [
-    {
-     "name": "CNBC Africa (Reuters)",
-     "url": "https://www.cnbcafrica.com/2026/south-africa-must-prepare-for-potential-loss-of-us-trade-benefits-president-says"
-    },
-    {
-     "name": "East Coast Radio (AFP)",
-     "url": "https://www.ecr.co.za/news/news/ramaphosa-south-africa-agoa-us-trade-exclusion-warning/"
-    },
-    {
-     "name": "GBC Ghana",
-     "url": "https://www.gbcghanaonline.com/general-news/ramaphosa-warns-south-africa-to-prepare-for-possible-loss-of-us-africa-trade-deal/2026/"
-    },
-    {
-     "name": "Africanews",
-     "url": "https://www.africanews.com/2026/10/20/south-africa-ramaphosa-warns-of-devastating-impact-if-us-trade-deal-is-lost/"
+     "name": "Taipei Times",
+     "url": "https://www.taipeitimes.com/News/front/archives/2026/10/22/2003866405"
     }
    ]
   },
@@ -918,114 +923,6 @@
     {
      "name": "UPI",
      "url": "https://www.upi.com/Top_News/World-News/2026/10/19/latam-haiti-elsalvador-military-missing-gang-suppression/4981792424229/"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "published": "2026-10-19T14:00:00Z",
-   "title": "Pakistan confirms first polio case in Karachi since December 2024",
-   "why": "Pakistan's polio programme confirmed on Monday that a six-month-old boy in Karachi East has wild poliovirus, the country's seventh case this year and Karachi's first since December 2024. Five of the seven cases are in Khyber Pakhtunkhwa province and two in Sindh, which includes Karachi.",
-   "matters": "A vaccination campaign from 2 to 8 November aims to reach nearly 24 million children under five in 97 districts.",
-   "sources": [
-    {
-     "name": "Dawn",
-     "url": "https://dawn.com/news/2038299"
-    },
-    {
-     "name": "Xinhua",
-     "url": "https://english.news.cn/20261019/57184eef14c648be941d589484690232/c.html"
-    },
-    {
-     "name": "The Express Tribune",
-     "url": "https://tribune.com.pk/story/2635801/new-karachi-case-takes-nationwide-polio-tally-to-7"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-10-19T13:45:00Z",
-   "title": "Ruling on Senegal's Africa Cup of Nations appeal expected in late November",
-   "why": "The Court of Arbitration for Sport said on 19 October it will rule on Senegal's appeal at the end of November, not within days as first signalled. Senegal beat Morocco 1-0 in January's final, but African football's governing body, CAF, later awarded Morocco the title.",
-   "matters": "CAF ruled Senegal forfeited by walking off for 14 minutes in protest at a penalty; Senegal says the referee let play finish.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/sports/2026/10/19/decision-on-senegals-afcon-final-appeal-to-be-made-by-end-of-november"
-    },
-    {
-     "name": "Reuters (via TimesLIVE)",
-     "url": "https://www.timeslive.co.za/sport/soccer/2026-10-19-cas-ruling-on-senegals-afcon-final-appeal-expected-at-end-of-november/"
-    },
-    {
-     "name": "Goal",
-     "url": "https://www.goal.com/en/lists/senegal-wait-november-cas-verdict-disputed-afcon-title-awarded-morocco/bltfe909b6e7550dc0e"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-10-19T12:47:00Z",
-   "title": "Benny Gantz quits Israel's election race eight days before the vote",
-   "why": "Former army chief Benny Gantz said on Monday he will not run in Israel's 27 October election, after polls repeatedly put his Blue and White party below the 3.25% threshold needed to enter parliament. 'The responsibility is mine,' he said. Opposition leader Gadi Eisenkot called it a 'responsible' decision.",
-   "matters": "Gantz was Netanyahu's main rival in three elections; his party's name will still appear on the ballot.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race"
-    },
-    {
-     "name": "Times of Israel",
-     "url": "https://www.timesofisrael.com/blue-and-whites-benny-gantz-pulls-out-of-race-sealing-precipitous-political-fall/"
-    },
-    {
-     "name": "Jerusalem Post",
-     "url": "https://www.jpost.com/israel-election-2026/article-912167"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "serious": false,
-   "published": "2026-10-19T12:30:00Z",
-   "title": "Europe's Euclid space telescope finds its first new comet",
-   "why": "The European Space Agency says Euclid, built to map distant galaxies, has found a previously unknown comet, C/2026 S1 (Euclid), about 1.3 billion km from Earth. A University of Helsinki PhD student spotted it in September images; the Minor Planet Center confirmed it on 8 October.",
-   "matters": "It suggests survey telescopes can spot comets far from the Sun, early enough for missions such as ESA's planned Comet Interceptor.",
-   "sources": [
-    {
-     "name": "ESA",
-     "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet"
-    },
-    {
-     "name": "EFE (via Yahoo Noticias)",
-     "url": "https://es-us.noticias.yahoo.com/telescopio-agencia-espacial-europa-euclid-133342179.html"
-    },
-    {
-     "name": "Infobae",
-     "url": "https://www.infobae.com/america/agencias/2026/10/19/euclid-descubre-un-nuevo-cometa/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-10-19T12:00:00Z",
-   "title": "Exiled critic of Rwanda's President Kagame found killed in Uganda",
-   "why": "A former Rwandan army sergeant who ran a popular YouTube channel criticising President Paul Kagame was found dead on 17 October in Mpigi district, near Uganda's capital, Kampala. Ugandan police said on Monday they had opened a murder case; no one has been arrested.",
-   "matters": "Rwanda's government has not commented; Al Jazeera notes Rwandan authorities have been accused before of killing opponents abroad.",
-   "sources": [
-    {
-     "name": "Al Jazeera (AFP)",
-     "url": "https://www.aljazeera.com/news/2026/10/20/exiled-critic-of-rwandan-president-found-beheaded-in-uganda"
-    },
-    {
-     "name": "AP (via La Nación)",
-     "url": "https://www.lanacion.com.ar/usa/a-rwandan-dissident-has-been-found-beheaded-in-neighboring-uganda-nid19102026/"
-    },
-    {
-     "name": "Daily Monitor (Uganda)",
-     "url": "https://www.monitor.co.ug/uganda/news/national/uganda-police-speak-out-on-beheaded-rwandan-dissident-5637690"
     }
    ]
   },
@@ -1058,71 +955,6 @@
    ]
   },
   {
-   "section": "curious",
-   "published": "2026-10-19T11:00:00Z",
-   "title": "Baby orangutan rescued from a flat near Mumbai returns to Indonesia",
-   "why": "A young male Sumatran orangutan, found in an apartment in Thane, near Mumbai, India, in November 2024, was flown to Medan, Indonesia, on 19 October. He will go to a rescue centre in North Sumatra to learn climbing and foraging before any release, Indonesian officials say.",
-   "matters": "India waived the cost of his care; five more young orangutans found in India's Odisha state in September may follow.",
-   "sources": [
-    {
-     "name": "PTI (via ThePrint)",
-     "url": "https://theprint.in/world/baby-orangutan-rescued-in-india-repatriated-to-indonesia/3075902/"
-    },
-    {
-     "name": "Liputan6",
-     "url": "https://www.liputan6.com/news/read/8316632/dari-apartemen-di-india-rocky-si-orangutan-akhirnya-pulang-ke-indonesia"
-    },
-    {
-     "name": "detikNews",
-     "url": "https://news.detik.com/foto-news/d-8713949/orang-utan-sumatera-dipulangkan-dari-india"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "changed": "Updated: the latest daily figures put the toll at 1,204",
-   "published": "2026-10-19T10:15:00Z",
-   "title": "Bangladesh measles outbreak deaths pass 1,200, health officials say",
-   "why": "Bangladesh's health directorate says more than 1,200 people, mostly children, have died with measles or measles-like symptoms this year; its latest daily figures put the toll at 1,204, including 1,100 suspected deaths. More than 215,000 suspected cases have been recorded since mid-March.",
-   "sources": [
-    {
-     "name": "The Business Standard",
-     "url": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1204-3-more-children-die-24hrs-1578446"
-    },
-    {
-     "name": "Daily Waadaa",
-     "url": "https://www.dailywaadaa.com/health/2026/10/20/bangladesh-logs-three-more-suspected-measles-deaths"
-    },
-    {
-     "name": "bdnews24",
-     "url": "https://bdnews24.com/health/k88ee1cl0b"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-10-19T10:00:00Z",
-   "title": "Kenyan court convicts cult leader Paul Mackenzie over 191 starvation deaths",
-   "why": "A Kenyan court on Monday found pastor Paul Mackenzie and 28 others guilty of murdering 191 people, 190 of them children. Prosecutors said he told followers to starve themselves to 'meet Jesus' in Shakahola forest, on Kenya's coast. Sentencing is set for 6 November.",
-   "matters": "Authorities say more than 400 people died in the forest; Mackenzie also faces separate terrorism and manslaughter charges.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/19/kenyan-court-convicts-starvation-cult-leader-for-murder-of-191-people"
-    },
-    {
-     "name": "AP (via ABC Australia)",
-     "url": "https://www.abc.net.au/news/2026-10-20/kenyan-starvation-cult-leader-paul-mackenzie-guilty/107286796"
-    },
-    {
-     "name": "Citizen Digital (Kenya)",
-     "url": "https://citizen.digital/article/court-finds-mackenzie-28-others-guilty-over-191-shakahola-deaths-n392346"
-    }
-   ]
-  },
-  {
    "section": "world",
    "serious": true,
    "developing": true,
@@ -1147,29 +979,6 @@
    ]
   },
   {
-   "section": "climate",
-   "serious": true,
-   "changed": "Updated: death toll rises to at least five; storm easing",
-   "published": "2026-10-19T08:41:00Z",
-   "title": "Storm Adam death toll in Spain rises to at least five",
-   "why": "At least five people have died in floods from Storm Adam: three in the Valencia region, one in Catalonia and one in Andalusia, Italy's LaPresse agency reports. The Civil Guard says it has evacuated more than 2,100 people and rescued almost 500 in Valencia. The storm eased on Tuesday.",
-   "matters": "Prime Minister Pedro Sánchez was due in Oliva, the worst-hit town, on Tuesday; weather warnings remain in nine provinces.",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/10/20/at-least-five-killed-and-thousands-evacuated-as-storm-adam-batters-eastern-spain"
-    },
-    {
-     "name": "LaPresse",
-     "url": "https://uk.lapresse.it/world-en/2026/10/20/spain-death-toll-from-storm-adam-rises-to-5-sanchez-visits-affected-areas/"
-    },
-    {
-     "name": "The Olive Press",
-     "url": "https://www.theolivepress.es/spain-news/2026/10/20/pm-sanchez-to-visit-valencia-town-ravaged-by-deadly-storm-adam/"
-    }
-   ]
-  },
-  {
    "section": "world",
    "serious": true,
    "developing": true,
@@ -1177,7 +986,7 @@
    "published": "2026-10-19T04:30:00Z",
    "title": "Man charged over car attack on Australian MP Helen Haines",
    "why": "Independent MP Helen Haines, 65, was hit by a four-wheel drive outside her office in Wangaratta, Victoria, on Monday. A 43-year-old man appeared in court on Wednesday charged with intentionally causing serious injury and harming a Commonwealth official, and was remanded in custody.",
-   "matters": "Her husband says both her legs have been amputated and she is stable; police have not ruled out further charges.",
+   "matters": "Her husband says she is seriously injured but stable; police have not ruled out further charges.",
    "sources": [
     {
      "name": "ABC Australia",
@@ -1197,23 +1006,27 @@
    "section": "health",
    "serious": true,
    "developing": true,
-   "changed": "Updated: Nigeria confirms its first case; Kenya's total rises to nine",
+   "changed": "Updated: Congo's figures rose to more than 9,500 cases and 4,500 deaths",
    "published": "2026-10-18T19:30:00Z",
    "title": "Nigeria confirms first Ebola case as Kenya's total rises to nine",
-   "why": "Nigeria's health ministry said on 20 October that a woman who arrived in the capital, Abuja, from Uganda has Ebola; 44 contacts are being traced. Kenya confirmed its ninth case, all in one cluster. Congo has recorded more than 9,000 cases and 4,300 deaths, its health authorities say.",
-   "matters": "There is no licensed vaccine for this Bundibugyo strain, and Africa CDC calls it the most widespread Ebola outbreak on record.",
+   "why": "Nigeria's health ministry said on 20 October that a woman who arrived in the capital, Abuja, from Uganda has Ebola; 44 contacts are being monitored. Kenya has nine confirmed cases, all in one cluster. Congo has recorded more than 9,500 cases and 4,500 deaths, its health ministry says.",
+   "matters": "WHO says Nigeria is the fifth country to detect this Bundibugyo strain, for which there is no licensed vaccine.",
    "sources": [
+    {
+     "name": "ABC News (US)",
+     "url": "https://abcnews.com/Health/nigeria-confirms-1st-ebola-case-kenya-reports-9th/story?id=137443202"
+    },
+    {
+     "name": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/world/article-ebola-cases-reported-in-nigeria-and-kenya-as-virus-continues-to-spread/"
+    },
+    {
+     "name": "WHO Africa",
+     "url": "https://afro.who.int/countries/nigeria/news/nigeria-confirms-imported-case-ebola-bundibugyo-virus-disease"
+    },
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/africa/20261020-nigeria-records-first-ebola-case-as-outbreak-spreads-across-africa"
-    },
-    {
-     "name": "AP (via KPBS)",
-     "url": "https://www.kpbs.org/news/health/2026/10/20/nigeria-confirms-an-ebola-case-in-abuja-as-a-woman-arriving-from-uganda-tests-positive"
     }
    ]
   },
@@ -1237,37 +1050,6 @@
     {
      "name": "Gulf News",
      "url": "https://gulfnews.com/entertainment/bollywood/tiger-shroff-was-not-original-target-shooters-wanted-another-bollywood-star-1.500717388"
-    }
-   ]
-  },
-  {
-   "section": "culture",
-   "developing": true,
-   "changed": "Updated: a Bogotá court ordered the museum to preserve the removed works and remove no others, pending a full ruling",
-   "published": "2026-10-18T03:13:00Z",
-   "title": "Colombian court orders National Museum to keep works the government removed",
-   "why": "A Bogotá family court on 19 October ordered Colombia's National Museum to keep the works the Culture Ministry removed, and to take down no others, pending a full ruling. At least 30 pieces on feminism, LGBTQ rights and the 2016 peace deal had been removed.",
-   "matters": "The government says museums must not be instruments of 'political indoctrination'; riot police broke up a protest at the museum on Saturday.",
-   "sources": [
-    {
-     "name": "El Tiempo",
-     "url": "https://www.eltiempo.com/cultura/arte-y-teatro/juez-ordena-al-museo-nacional-conservar-las-obras-retiradas-por-el-gobierno-y-suspender-nuevas-intervenciones-tras-aceptar-una-tutela-3594665"
-    },
-    {
-     "name": "El Espectador",
-     "url": "https://www.elespectador.com/judicial/juez-ordena-frenar-el-retiro-de-piezas-del-museo-nacional-por-parte-del-mincultura/"
-    },
-    {
-     "name": "El Colombiano",
-     "url": "https://www.elcolombiano.com/colombia/juez-ordena-museo-nacional-conservar-obras-retiradas-frenar-intervenciones-FG42444652"
-    },
-    {
-     "name": "AFP (via myRepublica)",
-     "url": "https://myrepublica.nagariknetwork.com/news/protesters-accuse-colombia-govt-of-erasing-history-at-national-museum-68-89.html"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/museum-protesters-in-colombia-accuse-govt-of-erasing-history"
     }
    ]
   }
