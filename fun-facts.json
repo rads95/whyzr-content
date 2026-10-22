@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "facts": [
     {
       "date": "2026-09-20",
@@ -956,6 +956,32 @@
         {
           "name": "National Geographic",
           "url": "https://www.nationalgeographic.com/animals/mammals/facts/sea-otter"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "kind": "tale",
+      "emoji": "🍽️",
+      "title": "The Willow Pattern lovers",
+      "story": "On the famous blue-and-white plate, a rich mandarin’s daughter runs off with his secretary across the little bridge. Her angry father chases them, and in the end the gods turn the two lovers into the pair of birds flying at the top.",
+      "origin": "Not an ancient Chinese legend. English potters created the design in the late 1700s, mixing scenes from Chinese export porcelain, and the love story was made up later to explain the picture.",
+      "sources": [
+        {
+          "name": "Victoria and Albert Museum",
+          "url": "https://collections.vam.ac.uk/item/O77999"
+        },
+        {
+          "name": "Museum of Royal Worcester",
+          "url": "https://www.museumofroyalworcester.org/discover-learn/research/products/worcester-willow-pattern/"
+        },
+        {
+          "name": "The Magazine Antiques",
+          "url": "https://www.themagazineantiques.com/article/object-lesson-blue-plate-special/"
+        },
+        {
+          "name": "Victoria Gallery & Museum, University of Liverpool",
+          "url": "https://www.liverpool.ac.uk/victoria-gallery-and-museum/blog/2021/willow-pattern/"
         }
       ]
     }
