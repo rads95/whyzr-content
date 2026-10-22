@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T06:15:27Z",
+ "updated": "2026-10-22T07:47:17Z",
  "items": [
   {
    "section": "sport",
@@ -179,6 +179,27 @@
    ]
   },
   {
+   "section": "tech",
+   "published": "2026-10-21T17:30:00Z",
+   "title": "US judge orders Meta to pay New Mexico $25 billion over privacy",
+   "why": "A judge in Santa Fe, New Mexico, ordered Meta on 21 October to pay the state $25 billion after a jury found in September that it misled residents about data privacy, counting 43 million violations. The state had sought at least $35 billion. Meta says it will appeal.",
+   "matters": "Meta had asked for no more than $3.45 billion and calls the penalty 'a tax on speech'.",
+   "sources": [
+    {
+     "name": "ABC News (US)",
+     "url": "https://abcnews.com/Business/meta-ordered-pay-new-mexico-25-billion-violating/story?id=137454455"
+    },
+    {
+     "name": "Engadget",
+     "url": "https://www.engadget.com/2293597/new-mexico-court-order-meta-pay-25-billion-privacy-case/"
+    },
+    {
+     "name": "KOB 4",
+     "url": "https://www.kob.com/news/top-news/new-mexico-judge-orders-meta-to-pay-25-billion-over-cambridge-analytica-data-scandal/"
+    }
+   ]
+  },
+  {
    "section": "science",
    "serious": false,
    "published": "2026-10-21T15:00:00Z",
@@ -197,6 +218,31 @@
     {
      "name": "Physical Review Letters",
      "url": "https://journals.aps.org/prl/abstract/10.1103/gbkc-6nlj"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-10-21T14:00:00Z",
+   "title": "Governments take websites offline after two critical PHP security flaws",
+   "why": "PHP, the programming language behind most websites, released emergency fixes on 21 October for two flaws that can let attackers run code on servers remotely. The Netherlands, Denmark, France and Finland took some government sites offline as a precaution, Reuters reports; Canada did too.",
+   "matters": "Website owners must update PHP; its developers say there is no complete workaround, and South Korea has issued an emergency alert.",
+   "sources": [
+    {
+     "name": "PHP",
+     "url": "https://www.php.net/"
+    },
+    {
+     "name": "Reuters (via The Nation Thailand)",
+     "url": "https://www.nationthailand.com/news/world/40072600"
+    },
+    {
+     "name": "Engadget",
+     "url": "https://www.engadget.com/2293625/government-websites-in-the-eu-and-canada-taken-offline-over-php-vulnerability/"
+    },
+    {
+     "name": "SBS News (Korea)",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008810065"
     }
    ]
   },
