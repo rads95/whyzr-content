@@ -3394,5 +3394,171 @@
         ]
       }
     ]
+  },
+  {
+    "id": "032",
+    "published": "2026-10-24",
+    "title": "China’s gymnastics gold, a new Beatles home and a Musk merger idea",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Did this actually happen?",
+        "claim": "China beat the United States to win the women’s team title at the gymnastics world championships, ending a long American winning run.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this is true. At the world championships in Rotterdam, in the Netherlands, China won the women’s team final on 21 October, just 0.233 of a point ahead of the USA, with Japan third. The American women had won the previous seven world team titles, going back to 2011, so this ended their run. China’s last gymnast, Qiu Qiyuan, needed a good score on the floor exercise in the very last routine, and got just enough to clinch it.",
+        "sources": [
+          [
+            "Al Jazeera · China edge USA to women’s team gold at Gymnastics World Championships",
+            "https://www.aljazeera.com/sports/2026/10/22/china-edge-usa-to-womens-team-gold-at-gymnastics-world-championships"
+          ],
+          [
+            "NBC Sports · World Gymnastics Championships: China edges U.S. for women’s team title",
+            "https://www.nbcsports.com/olympics/news/gymnastics-world-championships-2026-womens-team-final"
+          ],
+          [
+            "Gymnastics Now · Gymnastics Worlds 2026: complete results, medalists and scores",
+            "https://gymnastics-now.com/gymnastics-worlds-2026-results/"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three terms. Find their partners.",
+        "pairs": [
+          [
+            "The Beatles Story",
+            "Liverpool’s Beatles museum, moving to a site more than four times bigger"
+          ],
+          [
+            "Apple Corps",
+            "The Beatles’ own company, which will take over running it"
+          ],
+          [
+            "Yellow Submarine",
+            "The theme of a new viewing attraction in a city-centre tower"
+          ]
+        ],
+        "why": "The pairs are: The Beatles Story – Liverpool’s Beatles museum, which is moving to a much bigger site; Apple Corps – the company the Beatles set up in 1968, which will take it over; Yellow Submarine – the theme of a new viewing attraction in the St Johns Beacon tower. It was announced on 20 October that the museum will leave its home at the Albert Dock and open in 2028 in the old St Johns Market, opposite Lime Street station. Apple Corps’ boss compared the plan to Graceland, Elvis Presley’s famous home in the USA, and Paul McCartney called it very exciting.",
+        "sources": [
+          [
+            "Euronews · New Beatles attraction ‘to rival Graceland’ coming to Liverpool in 2028",
+            "https://www.euronews.com/2026/10/21/new-beatles-attraction-to-rival-graceland-coming-to-liverpool-in-2028"
+          ],
+          [
+            "The Beatles (official site) · The Beatles: Liverpool 2028",
+            "https://www.thebeatles.com/liverpool"
+          ],
+          [
+            "Blooloop · The Beatles Story to expand with major new Liverpool attraction",
+            "https://blooloop.com/beatles-story-new-liverpool-attraction/"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "One company builds rockets, the other builds electric cars",
+          "Both are run by the same famous businessman",
+          "Each board has set up a special committee to study joining them together"
+        ],
+        "options": [
+          "Toyota and Honda agree to become one car company",
+          "Elon Musk says SpaceX and Tesla are looking at a merger",
+          "Amazon splits into two separate companies",
+          "Apple buys the video game maker Nintendo"
+        ],
+        "correct": 1,
+        "why": "It was: Elon Musk says SpaceX and Tesla are looking at a merger. Musk runs both SpaceX, which builds rockets, and Tesla, which makes electric cars. On 20 October he said both boards have set up committees of independent directors to study combining the two, and that he thinks the idea has a lot of merit. But nothing is agreed yet: a deal would need the support of half of all Tesla’s shares, which Musk himself called a high hurdle. Together the two companies are worth trillions of dollars.",
+        "sources": [
+          [
+            "Al Jazeera · Elon Musk says SpaceX and Tesla exploring largest merger in history",
+            "https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in"
+          ],
+          [
+            "Yahoo Finance · Musk backs SpaceX-Tesla merger idea as both boards form special committees",
+            "https://finance.yahoo.com/markets/stocks/article/musk-backs-spacex-tesla-merger-idea-as-both-boards-form-special-committees-113219080.html"
+          ],
+          [
+            "Investing.com · SpaceX and Tesla form special committees to evaluate potential merger, Musk says",
+            "https://www.investing.com/news/stock-market-news/spacex-and-tesla-form-special-committees-to-evaluate-potential-merger-musk-says-4961262"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "A new UN climate report: put these amounts of global warming in order, smallest first.",
+        "items": [
+          "Where the world is heading if countries only keep their current policies",
+          "The limit the world agreed to aim for in the Paris climate deal",
+          "Where the world is heading if every country keeps all its promises",
+          "The highest point in the UN’s best realistic plan, before temperatures come back down"
+        ],
+        "correctOrder": [
+          1,
+          3,
+          2,
+          0
+        ],
+        "why": "The right order is: the Paris limit (1.5°C), the peak in the UN’s best realistic plan (just under 2°C), keeping all promises (about 2.6°C), and current policies (about 2.8°C). These are amounts of warming above the temperatures before the industrial age. The UN Environment Programme’s yearly ‘Emissions Gap’ report, published on 21 October, says staying under 1.5°C without going over it first is no longer possible. Its best plan lets warming go a little higher and then bring it back down, which needs emissions to fall fast in the next few years. Promises help, but policies in place today point to even more warming.",
+        "sources": [
+          [
+            "Euronews · Emissions must fall by 18% in next 4 years to limit worst impacts of global warming",
+            "https://www.euronews.com/2026/10/21/this-is-possible-emissions-must-fall-by-18-in-next-4-years-to-limit-worst-impacts-of-globa"
+          ],
+          [
+            "TIME · Five facts you need to know from the UN’s major Emissions Gap report",
+            "https://time.com/article/2026/10/21/un-emissions-gap-report-what-to-know/"
+          ],
+          [
+            "UN Regional Information Centre · UNEP Emissions Gap Report 2026: 1.5°C overshoot inevitable",
+            "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/"
+          ],
+          [
+            "Renewable Matter · Emissions Gap Report 2026: current climate commitments are not enough",
+            "https://www.renewablematter.eu/en/emissions-gap-report-2026-current-climate-commitments-are-not-enough"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "Brazil votes tomorrow, Sunday 25 October, in a run-off for president. Who is standing against President Lula?",
+        "options": [
+          "Neymar, the footballer",
+          "Flávio Bolsonaro, son of former president Jair Bolsonaro",
+          "Javier Milei, the president of Argentina",
+          "Dilma Rousseff, a former president of Brazil"
+        ],
+        "correct": 1,
+        "why": "It is Flávio Bolsonaro, a senator and the eldest son of former president Jair Bolsonaro, who lost to Lula in 2022. In the first round on 4 October, Flávio Bolsonaro came first with about 47% of the vote and Lula, who is 80 and hoping for a fourth term, got about 45%. Because nobody passed 50%, the top two now face each other in a second vote, called a run-off. Javier Milei leads a different country, Argentina, and Neymar and Dilma Rousseff are not candidates.",
+        "sources": [
+          [
+            "Al Jazeera · Brazil’s presidential race: three key takeaways from the first round",
+            "https://www.aljazeera.com/news/2026/10/5/brazils-presidential-race-three-key-takeaways-from-the-first-round"
+          ],
+          [
+            "WUNC (NPR) · Brazil’s presidential race heads to Lula-Bolsonaro run-off as right gains ground",
+            "https://www.wunc.org/2026-10-04/brazils-presidential-race-heads-to-lula-bolsonaro-run-off-as-right-gains-ground"
+          ],
+          [
+            "Il Sole 24 Ore · Brazil: Bolsonaro wins first round with 47 per cent, Lula 45 per cent, a run-off is on",
+            "https://en.ilsole24ore.com/art/brazil-bolsonaro-wins-first-round-with-47-per-cent-lula-45-per-cent-a-run-off-is-on-2510-AJqb0FZB"
+          ],
+          [
+            "Al Jazeera · Brazil’s Bolsonaro challenges Lula to expand release of personal records",
+            "https://www.aljazeera.com/news/2026/10/22/brazils-bolsonaro-challenges-lula-to-expand-release-of-personal-records"
+          ]
+        ]
+      }
+    ]
   }
 ]
