@@ -1,24 +1,466 @@
 {
- "updated": "2026-10-22T07:47:17Z",
+ "updated": "2026-10-23T06:13:38Z",
  "items": [
   {
-   "section": "sport",
-   "published": "2026-10-22T03:00:00Z",
-   "title": "Palmeiras reach Copa Libertadores final after penalty shoot-out win",
-   "why": "Brazil's Palmeiras beat Fluminense 5-3 on penalties in São Paulo on 21 October after their semi-final finished 2-2 on aggregate; Fluminense won the second leg 1-0. Goalkeeper Carlos Miguel saved Nonato's penalty and Marlon Freitas scored the winning kick.",
-   "matters": "The final is in Montevideo, Uruguay, on 28 November against Flamengo or Estudiantes, who meet on Thursday.",
+   "section": "money",
+   "serious": false,
+   "published": "2026-10-23T00:30:00Z",
+   "title": "Asian shares fall again as the sell-off in tech stocks deepens",
+   "why": "Tokyo's Nikkei fell 1.7% and Shanghai 1.8% in early Friday trading, AFP reports, and Seoul's Kospi was down about 2.4% by late morning, Yonhap reports. It follows a fall of about 2.6% in New York's tech-heavy Nasdaq on Thursday, when Meta's shares dropped nearly 7%.",
+   "matters": "Doubts over whether heavy spending on AI will pay off are weighing on share prices around the world.",
    "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261023-asian-stocks-head-into-weekend-on-a-low-as-tech-extends-losses"
+    },
+    {
+     "name": "Yonhap (Korea Times)",
+     "url": "https://www.koreatimes.co.kr/economy/20261023/seoul-stocks-trade-sharply-lower-friday-morning-on-profit-taking"
+    },
+    {
+     "name": "ABC News (Australia)",
+     "url": "https://abc.net.au/news/2026-10-23/asx-markets-business-news-live-updates-oct-23/107291840"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "serious": false,
+   "published": "2026-10-22T23:30:00Z",
+   "title": "Japan's inflation rises above the central bank's 2% target",
+   "why": "Japan's core consumer prices, which leave out fresh food, rose 2.1% in the year to September, up from 1.7% in August, official figures showed on 23 October. It is the first time in nine months the measure has been above the Bank of Japan's 2% target, Reuters reports.",
+   "matters": "Many analysts now expect the Bank of Japan to raise interest rates again in December, Reuters says.",
+   "sources": [
+    {
+     "name": "Reuters (via New Straits Times)",
+     "url": "https://www.nst.com.my/amp/business/economy/2026/10/1561755/japans-core-inflation-exceeds-boj-target-cements-near-term-rate"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://www.investing.com/news/economic-indicators/japan-cpi-inflation-hits-9mth-high-in-sept-crosses-boj-target-4967840"
+    },
+    {
+     "name": "FXStreet",
+     "url": "https://www.fxstreet.com/news/21-japans-national-cpi-climbs-in-september-202610222331"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-10-22T23:00:00Z",
+   "title": "Venezuelans march for elections in first nationwide opposition protest in two years",
+   "why": "Thousands marched in Caracas and other cities on Thursday at the call of María Corina Machado's Vente Venezuela movement, the first nationwide opposition protest in nearly two years. They want an election date; Machado says a vote must be held by July 2027. Her movement says police detained seven people.",
+   "matters": "No election date has been set since US forces seized Nicolás Maduro in January; Delcy Rodríguez leads an interim government.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/23/venezuelans-demand-elections-in-first-national-protest-in-nearly-two-years"
+    },
+    {
+     "name": "EFE (Infobae)",
+     "url": "https://www.infobae.com/america/agencias/2026/10/22/oposicion-marcha-en-venezuela-y-apuesta-por-llevar-a-machado-a-la-presidencia-en-2027/"
+    },
+    {
+     "name": "El Diario (Venezuela)",
+     "url": "https://eldiario.com/2026/10/22/detencion-opositores-caracas"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "serious": false,
+   "published": "2026-10-22T22:30:00Z",
+   "title": "SK hynix drops plan to list its Solidigm unit in the US",
+   "why": "South Korean chipmaker SK hynix said on 23 October it had halted plans for a US share listing of Solidigm, its storage-chip arm, citing market conditions. The listing had been expected to raise $10–15 billion. Korean regulators and shareholders had opposed it, Seoul Economic Daily reports.",
+   "matters": "SK hynix is one of the world's biggest makers of the memory chips used in AI data centres.",
+   "sources": [
+    {
+     "name": "Seoul Economic Daily",
+     "url": "https://en.sedaily.com/finance/2026/10/23/sk-hynix-scraps-solidigms-us-listing-after-regulators-push"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://www.investing.com/news/stock-market-news/sk-hynix-scraps-solidigm-ipo-plans-citing-market-conditions-4967830"
+    },
+    {
+     "name": "Yonhap (Korea Times)",
+     "url": "https://www.koreatimes.co.kr/economy/20261023/seoul-stocks-trade-sharply-lower-friday-morning-on-profit-taking"
+    },
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261023-asian-stocks-head-into-weekend-on-a-low-as-tech-extends-losses"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "published": "2026-10-22T22:30:00Z",
+   "title": "Raye wins Mercury Prize for album This Music May Contain Hope",
+   "why": "London singer-songwriter Raye won the Mercury Prize on 22 October for her second album, This Music May Contain Hope, at a ceremony in Newcastle, England. The prize, for the best British or Irish album of the year, carries £25,000; rivals included Olivia Dean and Paul McCartney.",
+   "matters": "Judges called the album, which mixes jazz, soul and pop, 'the right choice' for its 'scale, structure, ambition and sheer charm'.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261022-uk-singer-songwriter-raye-wins-mercury-prize-for-second-album"
+    },
+    {
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/entertainment/2026/1022/1596521-raye-wins-mercury-music-prize/"
+    },
+    {
+     "name": "Rolling Stone UK",
+     "url": "https://www.rollingstone.co.uk/music/news/raye-wins-the-2026-mercury-prize-with-this-music-may-contain-hope-65328/"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "serious": true,
+   "published": "2026-10-22T22:01:00Z",
+   "title": "Europe's summer heat linked to over 50,000 deaths, scientists estimate",
+   "why": "Researchers at Imperial College London and the London School of Hygiene and Tropical Medicine estimate that more than 50,000 people died early from heat in 854 European cities between June and August 2026, in two papers in Nature Health. Italy had the most, about 13,300.",
+   "matters": "The authors attribute about two-thirds of the deaths to climate change, up from about 40% early this century.",
+   "sources": [
+    {
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/news/environment/2026/1023/1596522-heat-related-deaths-europe/"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/23/europe-just-had-its-deadliest-summer-which-country-was-hit-the-hardest-by-extreme-heat"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/europe/2026/10/23/europes-summer-heatwaves-caused-50000-excess-heat-deaths/"
+    },
+    {
+     "name": "Imperial College London",
+     "url": "https://www.imperial.ac.uk/grantham/publications/all-publications/heat-related-urban-mortality-attributable-to-human-induced-climate-change-in-europe-in-summer-2026.php"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-10-22T21:00:00Z",
+   "title": "Bournemouth beat 10-man AC Milan 3-0 in the Europa League",
+   "why": "English club Bournemouth beat AC Milan 3-0 at home on 22 October after Milan goalkeeper Mike Maignan was sent off in the 27th minute for shoving Tyler Adams. Justin Kluivert and Marcus Tavernier scored penalties and Amine Adli added a late free kick.",
+   "matters": "In their first European season Bournemouth have won all three games, the first English club to do so since 1973, ESPN says.",
+   "sources": [
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/football/news/13602467/bournemouth-3-0-ac-milan-penalties-and-amine-adlis-free-kick-help-cherries-to-europa-league-win-as-mike-maignan-sent-off"
+    },
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/soccer/story/_/id/50252812/bournemouth-ac-milan-europa-league-ruben-amorim-marco-rose"
+    },
+    {
+     "name": "AC Milan",
+     "url": "https://www.acmilan.com/it/match-center/2026-27-uefa-europa-league-afc-bournemouth-ac-milan-e2mq4rd04751zo1nv362agys4"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-10-22T15:30:00Z",
+   "title": "Sri Lanka chase 430 to beat England despite Harry Brook's record 202",
+   "why": "Harry Brook hit 202 off 116 balls, the fastest double century in one-day internationals, as England made 429 for four in Rawalpindi, Pakistan, on 22 October. Sri Lanka won by two wickets with one ball left, led by Pavan Rathnayake's 130.",
+   "matters": "It is the second-highest successful chase in one-day internationals; England have lost both their tri-series games so far.",
+   "sources": [
+    {
+     "name": "ESPNcricinfo",
+     "url": "https://www.espn.com/cricket/series/1550706/report/1550715/england-vs-sri-lanka-3rd-match-pakistan-odi-tri-series-2026-27"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-23/cricket-sri-lanka-chases-430-england-harry-brook-double-century/107299378"
+    },
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/cricket/news/13602294/sri-lanka-chase-down-430-to-stun-england-in-epic-odi-tri-series-clash-despite-harry-brooks-historic-double-century"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "published": "2026-10-22T15:00:00Z",
+   "title": "Magnitude 7.0 earthquake in northern Tibet kills at least 16",
+   "why": "A magnitude 7.0 earthquake struck Baqen county in Nagqu, northern Tibet, at 10:33pm local time on Thursday. Xinhua, citing local authorities, says at least 16 people died and 65 were injured; local officials say at least 339 homes collapsed.",
+   "matters": "China's state broadcaster CCTV calls it the region's strongest earthquake in five years.",
+   "sources": [
+    {
+     "name": "Xinhua",
+     "url": "https://english.news.cn/20261023/55539500db4a449badeeb5258177a38d/c.html"
+    },
+    {
+     "name": "AP (via NBC News)",
+     "url": "https://www.nbcnews.com/world/china/70-earthquake-hits-chinas-tibet-killing-16-injuring-32-rcna605100"
+    },
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/asia-pacific/20261022-many-dead-massive-earthquake-strikes-china-s-remote-tibet-region-magnitude-seven"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "developing": true,
+   "published": "2026-10-22T13:00:00Z",
+   "title": "Ecuador detains opposition leader Luisa González in campaign-finance inquiry",
+   "why": "Police in Ecuador detained Luisa González, the left-wing opposition leader who twice lost presidential races to Daniel Noboa, on Thursday. Prosecutors are investigating about $500,000 in alleged irregular funding of her 2023 campaign. She calls the accusations 'absurd'; her party calls it political persecution.",
+   "matters": "It comes five weeks before local elections from which her Citizen Revolution movement has been suspended.",
+   "sources": [
+    {
+     "name": "Al Jazeera (Reuters)",
+     "url": "https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261022-ecuador-detiene-a-la-excandidata-presidencial-del-corre%C3%ADsmo-luisa-gonz%C3%A1lez"
+    },
+    {
+     "name": "El Universo",
+     "url": "https://www.eluniverso.com/politica/expedientes/por-que-fue-detenida-luisa-gonzalez-fiscalia-sospecha-de-lavado-de-activos-en-un-entramado-que-involucraria-a-aquiles-alvarez-en-la-obtencion-de-fondos-de-origen-ilicito-para-su-campana-presidencial-de-2023-nota/"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "serious": true,
+   "developing": true,
+   "published": "2026-10-22T12:00:00Z",
+   "title": "Investigators look for link between Nigeria and Kenya Ebola cases",
+   "why": "Africa CDC says the first known Ebola patients in Nigeria and Kenya both flew from Uganda's Entebbe airport on the same day and is checking if they met. WHO's Africa director describes \"a more complex outbreak landscape\". The US CDC counts 9,704 confirmed cases and 4,687 deaths in Congo.",
+   "matters": "WHO says Nigeria's patient is improving; Kenya says all 135 contacts of its first case have been traced.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/22/who-warns-more-complex-ebola-outbreak-now-present-in-3-african-countries"
+    },
+    {
+     "name": "Reuters (via Cyprus Mail)",
+     "url": "https://cyprus-mail.com/2026/10/22/ebola-patient-in-nigeria-believed-to-have-contracted-disease-in-uganda-switzerland-says"
+    },
+    {
+     "name": "US CDC",
+     "url": "https://www.cdc.gov/ebola/situation-summary/index.html"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "serious": false,
+   "published": "2026-10-22T11:26:00Z",
+   "title": "Nearly all the world's coral reefs face collapse by 2075, IUCN says",
+   "why": "In its first global assessment of reef ecosystems, released on 22 October at the UN biodiversity summit in Armenia's capital, Yerevan, the International Union for Conservation of Nature rated 96% of shallow-water reef systems critically endangered. Heat stress from climate change is the main threat.",
+   "matters": "Reefs support about a quarter of marine species; the IUCN says most are not yet lost and can still recover.",
+   "sources": [
+    {
+     "name": "IUCN",
+     "url": "https://iucn.org/press-release/202610/virtually-all-coral-reef-ecosystems-face-high-risk-collapse-50-years-iucn-red"
+    },
+    {
+     "name": "AFP (via Arab News)",
+     "url": "https://www.arabnews.com/offbeat/nearly-all-coral-reefs-risk-collapse-in-50-years-iucn-3007777"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/22/almost-all-shallow-water-coral-reefs-now-face-extinction-risk-study-warns"
+    },
+    {
+     "name": "The Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261023/almost-all-coral-reef-ecosystems-face-risk-of-collapse-in-50-years-study-warns"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "serious": false,
+   "published": "2026-10-22T11:00:00Z",
+   "title": "Turkey cuts its main interest rate to 36% as inflation slows",
+   "why": "Turkey's central bank cut its main rate from 37% to 36% on 22 October, its first cut since January. Annual inflation fell to 29.7% in September, below 30% for the first time since 2021. The bank warned that high energy prices linked to the Iran war remain a risk.",
+   "matters": "Borrowing gets slightly cheaper for Turkish households and firms; ING expects one more cut by the end of the year.",
+   "sources": [
+    {
+     "name": "Turkish Minute",
+     "url": "https://www.turkishminute.com/2026/10/22/turkey-cuts-interest-rate-to-36-percent-in-first-reduction-in-9-months/"
+    },
+    {
+     "name": "TRT World",
+     "url": "https://www.trtworld.com/article/82dab60801ba"
+    },
+    {
+     "name": "ING",
+     "url": "https://think.ing.com/snaps/the-turkish-central-bank-resumed-rate-cuts-signaled-more-to-come"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-10-22T10:10:00Z",
+   "title": "International Criminal Court wins EU’s Sakharov human rights prize",
+   "why": "The European Parliament awarded its 2026 Sakharov Prize for Freedom of Thought to the International Criminal Court on Thursday, its president, Roberta Metsola, announced in Strasbourg, France. The prize, worth €50,000, will be presented in December.",
+   "matters": "It comes about two weeks after the Trump administration announced sanctions to cut the court off from US banks and companies.",
+   "sources": [
+    {
+     "name": "France 24 (AP/Reuters)",
+     "url": "https://www.france24.com/en/europe/20261022-international-criminal-court-wins-eu-s-sakharov-human-rights-prize"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award"
+    },
+    {
+     "name": "Reuters (ThePrint)",
+     "url": "https://theprint.in/world/international-criminal-court-wins-eus-2026-sakharov-prize/3078823/"
+    },
+    {
+     "name": "Eunews",
+     "url": "https://www.eunews.it/en/2026/10/22/the-sakharov-prize-for-freedom-of-thought-awarded-to-the-international-criminal-court/"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "published": "2026-10-22T09:52:00Z",
+   "title": "France launches literary prize for fiction co-written with AI",
+   "why": "Three French technology entrepreneurs have launched the Prix Pascal, which they call the first literary prize for unpublished French-language fiction written with artificial intelligence. Entrants must say which AI tools they used; entries close on 30 November and the winner, promised publication, is due in December.",
+   "matters": "It follows weeks of dispute over suspected AI use by finalists for other literary prizes, including France's Prix Goncourt.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/22/prix-pascal-new-french-literature-prize-launched-for-books-co-written-with-ai"
+    },
+    {
+     "name": "The Guardian (via AOL)",
+     "url": "https://www.aol.co.uk/articles/prize-launches-books-co-written-145934000.html"
+    },
+    {
+     "name": "Anadolu Agency (via TRT World)",
+     "url": "https://www.trtworld.com/article/2b506010c2ed"
+    }
+   ]
+  },
+  {
+   "section": "curious",
+   "published": "2026-10-22T07:27:00Z",
+   "title": "Bone flute found at Troy, the dig's first musical instrument, minister says",
+   "why": "A bone flute about 2,800 years old has been found at ancient Troy, in Türkiye's Çanakkale province, culture minister Mehmet Nuri Ersoy said on 22 October. He says it is the first musical instrument found in over 160 years of digging there; a 4,500-year-old idol head was also unearthed.",
+   "matters": "The dig's director links the flute to the 8th century BC, when Homer's epics are thought to have been written down.",
+   "sources": [
+    {
+     "name": "Anadolu Agency",
+     "url": "https://www.aa.com.tr/tr/kultur/troyada-160-yili-askin-kazi-tarihinde-ilk-muzik-aleti-bulundu/4096826"
+    },
+    {
+     "name": "Euronews (Turkish)",
+     "url": "https://tr.euronews.com/2026/10/22/troyada-2800-yillik-flut-ve-4500-yillik-idol-basi-bulundu"
+    },
+    {
+     "name": "Türkiye Today",
+     "url": "https://www.turkiyetoday.com/culture/2800-year-old-bone-flute-4500-year-old-idol-head-unearthed-at-ancient-troy-in-turkiye-3230806"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "serious": false,
+   "published": "2026-10-22T07:00:00Z",
+   "title": "Philippines raises interest rate more than expected as inflation hits 7.2%",
+   "why": "The Philippine central bank raised its main rate by half a point to 5.5% on 22 October, its fourth rise this year; all 27 economists in a Reuters poll had expected a quarter point. Inflation reached 7.2% in September, pushed up by fuel and transport costs.",
+   "matters": "The peso has lost nearly 10% since the Iran war began, making imports dearer, Reuters reports.",
+   "sources": [
+    {
+     "name": "Reuters (via The Edge Malaysia)",
+     "url": "https://theedgemalaysia.com/node/822838"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/business/markets/philippines-raises-key-rate-to-5.5-as-inflation-saps-growth"
+    },
+    {
+     "name": "SunStar",
+     "url": "https://www.sunstar.com.ph/amp/story/cebu/bsp-hikes-rates-by-50-basis-points"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "serious": false,
+   "published": "2026-10-22T06:00:00Z",
+   "title": "Barclays to cut 5,000 jobs as it uses more AI",
+   "why": "British bank Barclays said on 22 October it will cut about 5,000 jobs, around 5% of its staff, by the end of 2026, including 1,000 already gone. About 60% are in support roles, including software developers. Third-quarter pre-tax profit rose 12% to £2.3 billion, slightly below forecasts.",
+   "matters": "Barclays says the cuts and wider use of AI should save it more than £1.1 billion.",
+   "sources": [
+    {
+     "name": "AFP (via Yahoo Finance UK)",
+     "url": "https://uk.finance.yahoo.com/news/barclays-bank-cut-5-000-091528947.html"
+    },
+    {
+     "name": "Euronews (via Yahoo Finance UK)",
+     "url": "https://uk.finance.yahoo.com/news/barclays-cut-5-000-jobs-101425411.html"
+    },
+    {
+     "name": "City AM",
+     "url": "https://www.cityam.com/barclays-profit-misses-after-investment-bank-comes-up-short/"
+    },
+    {
+     "name": "PYMNTS",
+     "url": "https://www.pymnts.com/personnel/2026/barclays-plans-5000-job-cuts-as-ai-push-reshapes-operations/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-10-22T05:00:00Z",
+   "title": "Russian missiles and drones hit Kyiv hours after Putin agrees to talks",
+   "why": "Russia struck Kyiv and 11 other Ukrainian regions overnight into Thursday, hours after agreeing to resume peace talks. Ukrainian officials say at least four people were killed and dozens injured, including children. President Zelensky says missiles with cluster warheads targeted the capital.",
+   "matters": "Russia’s defence ministry says it downed 808 Ukrainian drones the same night, many heading for Moscow.",
+   "sources": [
+    {
+     "name": "AP (ABC News)",
+     "url": "https://abcnews.com/International/wireStory/russia-pounds-ukraines-capital-kyiv-missiles-drones-hours-137468007"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/22/overnight-attacks-resume-between-russia-and-ukraine-following-us-envoy-visit"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "changed": "Updated: Estudiantes beat Flamengo to set up a final against Palmeiras",
+   "published": "2026-10-22T03:00:00Z",
+   "title": "Palmeiras and Estudiantes to meet in the Copa Libertadores final",
+   "why": "Argentina's Estudiantes beat Flamengo 3-2 on penalties in Rio de Janeiro on 22 October after both semi-final legs ended 0-0; goalkeeper Fernando Muslera saved three kicks. They will face Brazil's Palmeiras, who knocked out Fluminense on penalties a day earlier.",
+   "matters": "The final is at the Estadio Centenario in Montevideo, Uruguay, on 28 November; Estudiantes have won the title four times.",
+   "sources": [
+    {
+     "name": "La Nación",
+     "url": "https://www.lanacion.com.ar/deportes/futbol/flamengo-vs-estudiantes-en-vivo-nid22102026/"
+    },
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/deportes/2026/10/22/estudiantes-de-la-plata-va-por-el-golpe-ante-flamengo-en-el-maracana-para-clasificarse-a-la-final-de-la-copa-libertadores-hora-tv-y-formaciones/"
+    },
+    {
+     "name": "Flamengo",
+     "url": "https://www.flamengo.com.br/noticias/futebol/flamengo-luta-ate-o-fim-mas-e-eliminado-pelo-estudiantes-nos-penaltis-na-libertadores"
+    },
     {
      "name": "AP (via WRAL)",
      "url": "https://www.wral.com/news/ap/e97a9-carlos-miguel-shines-in-shootout-as-palmeiras-reaches-the-copa-libertadores-final/"
-    },
-    {
-     "name": "AFP (via Yahoo Sports)",
-     "url": "https://sports.yahoo.com/articles/palmeiras-edge-fluminense-reach-copa-030008983.html"
-    },
-    {
-     "name": "CNN Brasil",
-     "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/palmeiras-elimina-o-fluminense-nos-penaltis-e-chega-a-final-da-libertadores/"
     }
    ]
   },
@@ -66,23 +508,47 @@
    ]
   },
   {
+   "section": "tech",
+   "serious": false,
+   "published": "2026-10-22T01:00:00Z",
+   "title": "Micron workers stage Taiwan's first chip-industry strike over AI profits",
+   "why": "A union at chipmaker Micron's plant in Taoyuan, Taiwan, held a 24-hour strike on 22 October, which Nikkei Asia calls the first in Taiwan's chip industry. Only a handful took part and production was not halted, Caixin says. The union wants 15% of operating profit paid out as quarterly bonuses.",
+   "matters": "Memory chipmakers are earning record profits from the AI boom, and workers want a bigger share.",
+   "sources": [
+    {
+     "name": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/business/tech/semiconductors/taiwan-s-first-ever-chip-workers-strike-begins-at-micron-plant"
+    },
+    {
+     "name": "AFP (via The Standard, Hong Kong)",
+     "url": "https://www.thestandard.com.hk/china/article/346173/Handful-of-Micron-workers-strike-in-Taiwan"
+    },
+    {
+     "name": "Caixin Global",
+     "url": "https://www.caixinglobal.com/2026-10-22/micron-taiwan-workers-stage-strike-seeking-bigger-share-of-ai-profits-102496116.html"
+    }
+   ]
+  },
+  {
    "section": "world",
+   "developing": true,
+   "changed": "Updated: Seoul says it would respond in proportion and will write to the UN Security Council",
    "published": "2026-10-21T22:45:00Z",
    "title": "North Korea to restart propaganda loudspeakers along the border with South Korea",
-   "why": "Kim Yo Jong, sister of leader Kim Jong Un, said on Thursday loudspeakers would be on standby along the whole border within days and 'new counter means' on alert. South Korea says it fired warning shots when North Korean troops crossed the border during fortification work.",
+   "why": "Kim Yo Jong, sister of leader Kim Jong Un, said loudspeakers will be ready along the whole border within days. Seoul says it would take a 'proportionate measure' if broadcasts resume, and says it will tell the UN Security Council a North Korean mine hurt three soldiers.",
    "matters": "South Korea's President Lee Jae Myung halted Seoul's own broadcasts last year to ease tensions; Seoul urges talks.",
    "sources": [
     {
+     "name": "Yonhap (Korea Times)",
+     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261022/seoul-mulls-proportionate-measure-over-pyongyangs-loudspeaker-threat"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-23/tensions-rise-on-korea-border/107299192"
+    },
+    {
      "name": "AP (via NBC News)",
      "url": "https://www.nbcnews.com/world/asia/north-korea-says-will-resume-propaganda-broadcasts-border-south-korea-rcna604939"
-    },
-    {
-     "name": "Yonhap (Korea Times)",
-     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261022/nk-leaders-sister-warns-of-border-countermeasures-loudspeakers-to-be-ready-within-days"
-    },
-    {
-     "name": "AsiaOne",
-     "url": "https://www.asiaone.com/asia/north-koreas-kim-yo-jong-warns-south-korea-says-border-loudspeakers-be-ready-within-days"
     },
     {
      "name": "Al Jazeera",
@@ -115,9 +581,10 @@
   {
    "section": "tech",
    "serious": false,
+   "changed": "Updated: Meta's shares fell nearly 7% on Thursday",
    "published": "2026-10-21T20:05:00Z",
-   "title": "Meta's sales jump 26% as it spends heavily on AI",
-   "why": "Meta, owner of Facebook, Instagram and WhatsApp, said on 21 October that third-quarter revenue rose 26% to $64.6 billion. Profit was cut by a $9.89 billion charge for a settlement with 52 US states over teen mental health. It expects 2026 capital spending of $135–145 billion.",
+   "title": "Meta's shares fall 7% despite a 26% jump in sales",
+   "why": "Meta, owner of Facebook, Instagram and WhatsApp, said on 21 October that third-quarter revenue rose 26% to $64.6 billion, but it expects 2026 capital spending of $135–145 billion, much of it on AI. Profit was cut by a $9.89 billion settlement charge. Its shares fell nearly 7% on Thursday.",
    "matters": "Spending on AI data centres turned Meta's free cash flow negative, at minus $2.1 billion for the quarter, Fortune reports.",
    "sources": [
     {
@@ -129,8 +596,12 @@
      "url": "https://fortune.com/2026/10/21/meta-q3-earnings-mark-zuckerberg-capex-muse/"
     },
     {
-     "name": "Investing.com",
-     "url": "https://www.investing.com/news/company-news/meta-q3-2026-slides-revenue-surges-26-as-margins-compress-sharply-93CH-4964286"
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
+    },
+    {
+     "name": "ABC News (Australia)",
+     "url": "https://abc.net.au/news/2026-10-23/asx-markets-business-news-live-updates-oct-23/107291840"
     }
    ]
   },
@@ -138,22 +609,27 @@
    "section": "world",
    "serious": true,
    "developing": true,
+   "changed": "Updated: Dammam airport toll rises to two; Aramco tells staff to leave its headquarters",
    "published": "2026-10-21T20:00:00Z",
    "title": "US orders non-emergency staff out of Saudi Arabia amid Houthi attacks",
-   "why": "The US State Department on Wednesday ordered non-emergency staff and their families to leave Saudi Arabia, citing Houthi attacks on airports and infrastructure. Saudi aviation officials said an attack on Dammam's King Fahd airport, in the east, that evening killed one person and injured eight.",
-   "matters": "Reuters reports other US Gulf missions will also send families home; the State Department calls reports of a Gulf-wide order 'inaccurate'.",
+   "why": "The US State Department on Wednesday ordered non-emergency staff and families to leave Saudi Arabia, citing Houthi attacks. Saudi aviation officials say an attack on Dammam’s King Fahd airport that evening killed two people; drone debris near the Shaybah oilfield killed two more, the energy ministry says.",
+   "matters": "Reuters and AFP report Saudi Aramco told staff to leave its Dhahran headquarters; the Houthis claim further strikes on Riyadh and Yanbu.",
    "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2"
+    },
+    {
+     "name": "Reuters (Times of Israel)",
+     "url": "https://www.timesofisrael.com/liveblog_entry/yemens-houthis-say-they-attacked-saudi-defense-ministry-aramco-facilities-and-dammam-airport"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/"
+    },
     {
      "name": "ABC Australia (AFP/Reuters)",
      "url": "https://www.abc.net.au/news/2026-10-22/us-diplomats-to-leave-saudi-arabia-amid-houthi-strikes/107295684"
-    },
-    {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/news/gulf/2026/10/22/us-pulls-diplomats-from-saudi-arabia-but-denies-wider-gulf-withdrawal/"
-    },
-    {
-     "name": "Times of Israel",
-     "url": "https://www.timesofisrael.com/liveblog-october-22-2026/"
     }
    ]
   },
@@ -223,10 +699,12 @@
   },
   {
    "section": "tech",
+   "developing": true,
+   "changed": "Updated: the flaws are now widely exploited; 32 UK government services offline",
    "published": "2026-10-21T14:00:00Z",
-   "title": "Governments take websites offline after two critical PHP security flaws",
-   "why": "PHP, the programming language behind most websites, released emergency fixes on 21 October for two flaws that can let attackers run code on servers remotely. The Netherlands, Denmark, France and Finland took some government sites offline as a precaution, Reuters reports; Canada did too.",
-   "matters": "Website owners must update PHP; its developers say there is no complete workaround, and South Korea has issued an emergency alert.",
+   "title": "Hackers exploit critical PHP flaws as governments take websites offline",
+   "why": "PHP, the language behind most websites, released emergency fixes on 21 October for two flaws that let attackers take control of servers. Amazon says they are now 'broadly exploited', and Cloudflare reports millions of attempts. In Britain, 32 government services went offline as a precaution, a minister says.",
+   "matters": "Website owners must update PHP; the UK government says the outages are precautions and do not mean systems were hacked.",
    "sources": [
     {
      "name": "PHP",
@@ -237,12 +715,16 @@
      "url": "https://www.nationthailand.com/news/world/40072600"
     },
     {
-     "name": "Engadget",
-     "url": "https://www.engadget.com/2293625/government-websites-in-the-eu-and-canada-taken-offline-over-php-vulnerability/"
+     "name": "LBC",
+     "url": "https://www.lbc.co.uk/article/74365c9975d1467496696a1be806a306-5HjdkGW_2/"
     },
     {
-     "name": "SBS News (Korea)",
-     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008810065"
+     "name": "dpa (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/world/articles/cybersecurity-flaw-forces-32-uk-123343942.html"
+    },
+    {
+     "name": "Engadget",
+     "url": "https://www.engadget.com/2293625/government-websites-in-the-eu-and-canada-taken-offline-over-php-vulnerability/"
     }
    ]
   },
@@ -375,262 +857,25 @@
    ]
   },
   {
-   "section": "climate",
-   "published": "2026-10-21T05:00:00Z",
-   "title": "UN says world heads for 2.6C warming even if pledges are met",
-   "why": "The UN Environment Programme's Emissions Gap Report, published on 21 October, says fully delivering countries' climate pledges would still mean about 2.6C of warming by 2100; current policies point to 2.8C. Global emissions were about 58.4 billion tonnes in 2025, roughly level with 2024.",
-   "matters": "UNEP says emissions must fall 18% by 2030 to keep the overshoot above 1.5C as small as possible.",
-   "sources": [
-    {
-     "name": "Euronews (with AFP)",
-     "url": "https://www.euronews.com/2026/10/21/this-is-possible-emissions-must-fall-by-18-in-next-4-years-to-limit-worst-impacts-of-globa"
-    },
-    {
-     "name": "Carbon Brief",
-     "url": "https://www.carbonbrief.org/unep-opportunity-has-been-lost-to-meet-1-5c-warming-limit-without-overshoot"
-    },
-    {
-     "name": "Down To Earth",
-     "url": "https://www.downtoearth.org.in/climate-change/emissions-gap-report-2026-point-of-no-return-for-the-15c-warming-threshold"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-10-21T02:00:00Z",
-   "title": "LeBron James's 76ers spoil Knicks' title celebration as NBA season opens",
-   "why": "The Philadelphia 76ers beat the champion New York Knicks 106-100 at Madison Square Garden on 20 October, the NBA's opening night, after the Knicks raised their first title banner in 53 years. LeBron James, in a record 24th season, had 14 points on his 76ers debut; Tyrese Maxey scored 28.",
-   "sources": [
-    {
-     "name": "ESPN",
-     "url": "https://www.espn.com/nba/story/_/id/50220591/nba-opening-day-live-updates-highlights"
-    },
-    {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/nba/news/13601764/lebron-james-philadelphia-76ers-knock-off-champion-new-york-knicks-in-sensational-road-victory-to-open-nba-season"
-    },
-    {
-     "name": "BBC Sport (via Yahoo Sports)",
-     "url": "https://sports.yahoo.com/articles/lebron-james-76ers-beat-knicks-063419082.html"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "changed": "Updated: the Kospi fell back more than 2% on Thursday after Wednesday's rebound",
-   "published": "2026-10-21T00:30:00Z",
-   "title": "Asian shares fall again as doubts over AI spending hit chipmakers",
-   "why": "After Wednesday's 3.3% rebound, Seoul's Kospi fell more than 2% on Thursday morning, with Samsung Electronics and SK hynix down over 3%. Hong Kong's Hang Seng dropped about 2.5% and Tokyo's Nikkei 1.1%. Mixed results from Tesla and Meta revived doubts over AI investment returns, AFP reports.",
-   "matters": "Korean chipmakers are a bellwether for global spending on artificial intelligence.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261022-asian-stocks-back-in-retreat-as-tech-mood-sours-again"
-    },
-    {
-     "name": "Yonhap (Korea Times)",
-     "url": "https://www.koreatimes.co.kr/economy/20261022/seoul-stocks-sharply-down-late-thursday-morning-amid-ai-concerns"
-    },
-    {
-     "name": "Investing.com",
-     "url": "https://in.investing.com/news/stock-market-news/asia-stocks-slide-as-ai-jitters-hit-korean-chipmakers-5646879"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "serious": false,
-   "published": "2026-10-20T23:01:00Z",
-   "title": "Skeleton in Roman coffin at Westminster Abbey was probably a Saxon abbot",
-   "why": "A skeleton found in a fourth-century Roman sarcophagus at Westminster Abbey in London is most likely Ælfwig, an abbot who died around 1020, the abbey's consultant archaeologist Warwick Rodwell argues in the Journal of the British Archaeological Association. Radiocarbon dating places the man's death between 987 and 1052.",
-   "matters": "The coffin's inscription names a fourth-century Briton, so it was reused centuries later; Rodwell names a second candidate, Wulfnoth.",
-   "sources": [
-    {
-     "name": "The Guardian (via AOL)",
-     "url": "https://www.aol.co.uk/articles/mystery-roman-sarcophagus-unearthed-westminster-050003000.html"
-    },
-    {
-     "name": "Discover",
-     "url": "https://www.discovermagazine.com/a-mysterious-skeleton-in-a-roman-sarcophagus-may-be-one-of-westminster-abbey-s-medieval-abbots-49834"
-    },
-    {
-     "name": "Yahoo News UK (Newsquest)",
-     "url": "https://uk.news.yahoo.com/mystery-1-000-old-skeleton-230100974.html"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "serious": false,
-   "published": "2026-10-20T21:30:00Z",
-   "title": "Musk says SpaceX and Tesla have formed committees to consider merging",
-   "why": "Elon Musk said on 20 October that SpaceX and Tesla have each set up committees of independent directors to discuss combining, calling it 'a good idea' but not certain. SpaceX, which listed in June, reported a $4.4 billion quarterly profit on revenue up 161% to $14.6 billion.",
-   "matters": "Al Jazeera says the two firms are worth about $3.5 trillion together, so a deal would be the largest merger ever.",
-   "sources": [
-    {
-     "name": "Reuters (via Lufkin Daily News)",
-     "url": "https://lufkindailynews.com/news_reuters/business/musk-says-spacex-tesla-merger-is-a-good-idea-as-companies-form-deal-committees/article_6e6ce10d-0ce3-598a-8de1-588e1ade0411.html"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in"
-    },
-    {
-     "name": "Fox Business",
-     "url": "https://www.foxbusiness.com/technology/elon-musk-says-tesla-spacex-merger-would-a-good-idea-companies-form-special-committees"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-10-20T21:00:00Z",
-   "title": "PSG beat Barcelona 4-2, ending their winning start to the season",
-   "why": "Champions League holders Paris Saint-Germain beat Barcelona 4-2 in Paris on 20 October, with late goals from Vitinha and Fabián Ruiz after Lamine Yamal had made it 2-2. It ended Barcelona's run of 11 straight wins; PSG have nine points from three league-phase games.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row"
-    },
-    {
-     "name": "ESPN",
-     "url": "https://www.espn.com/soccer/report/_/gameId/401915399"
-    },
-    {
-     "name": "Sports Mole",
-     "url": "https://www.sportsmole.co.uk/football/barcelona/champions-league/result/psg-show-barca-the-level-as-european-champions-down-yamal--co_607323.html"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-10-20T21:00:00Z",
-   "title": "Liverpool come from two goals down to beat Villarreal 4-3",
-   "why": "Liverpool beat Villarreal 4-3 in the Champions League at Anfield on 20 October after trailing 2-0 within 29 minutes. Alexis Mac Allister scored twice, with Ronald Araújo and substitute Florian Wirtz also scoring; 18-year-old Rio Ngumoha set up two goals.",
-   "sources": [
-    {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/football/liverpool-vs-villarreal/report/577635"
-    },
-    {
-     "name": "AFP (via Jamaica Observer)",
-     "url": "https://www.jamaicaobserver.com/2026/10/20/liverpool-strike-back-beat-villarreal-seven-goal-thriller/"
-    },
-    {
-     "name": "ESPN",
-     "url": "https://www.espn.com/soccer/report/_/gameId/401915397"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "serious": false,
-   "published": "2026-10-20T20:01:00Z",
-   "title": "Netflix shares fall after weak forecast and cut to advertising outlook",
-   "why": "Netflix said on 20 October its third-quarter revenue rose 12% to $12.9 billion, in line with forecasts, but it predicted lower fourth-quarter profit than analysts expected and cut its 2026 advertising revenue forecast to about $2.7 billion from $3 billion. Shares fell nearly 6% in after-hours trading.",
-   "matters": "The company recently cut about 1,000 jobs, around 6% of staff, and replaced its content chief, Reuters reports.",
-   "sources": [
-    {
-     "name": "Netflix (SEC filing)",
-     "url": "https://www.sec.gov/Archives/edgar/data/0001065280/000106528026000290/ex991_q326.htm"
-    },
-    {
-     "name": "The Star (Reuters)",
-     "url": "https://www.thestar.com.my/tech/tech-news/2026/10/21/netflix-issues-weak-fourth-quarter-forecast-as-company-seeks-to-kick-start-growth"
-    },
-    {
-     "name": "Investing.com",
-     "url": "https://www.investing.com/news/stock-market-news/why-is-netflix-stock-sliding-today-93CH-4961253"
-    }
-   ]
-  },
-  {
    "section": "world",
    "developing": true,
-   "changed": "Updated: electoral court meets Meta and both campaigns over equal treatment online",
+   "changed": "Updated: final Datafolha poll shows the two candidates level",
    "published": "2026-10-20T20:00:00Z",
-   "title": "Brazil's electoral court meets Meta and both campaigns before Sunday's run-off",
-   "why": "A judge at Brazil's Superior Electoral Court met Meta and lawyers for President Lula and Flávio Bolsonaro on Tuesday over an order to treat both candidates equally online. Lula's campaign says its posts were restricted; Meta denies favouring either side and blames technical faults. The run-off is on 25 October.",
-   "matters": "It tests how far courts can police tech platforms during an election.",
+   "title": "Final Brazil poll shows Lula and Flávio Bolsonaro tied before Sunday's run-off",
+   "why": "A Datafolha poll released on Thursday puts President Lula and Flávio Bolsonaro, son of former president Jair Bolsonaro, level on 50% of valid votes each, with a two-point margin of error. A week earlier Bolsonaro led 51% to 49%. Brazilians vote on Sunday, 25 October.",
+   "matters": "Polls underestimated Flávio Bolsonaro in the first round on 4 October, Bloomberg Línea notes, so the result is hard to call.",
    "sources": [
     {
-     "name": "Agência Brasil",
-     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-reune-meta-e-campanhas-para-tratar-de-restricoes-de-postagens"
+     "name": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-flavio-e-lula-empatam-em-50-de-votos-validos-no-2o-turno/"
     },
     {
-     "name": "O Tempo",
-     "url": "https://www.otempo.com.br/eleicoes/2026/2026/10/20/tse-cobra-meta-por-cumprimento-de-decisao-sobre-campanhas-nas-redes"
+     "name": "Exame",
+     "url": "https://exame.com/brasil/pesquisa-datafolha-flavio-bolsonaro-lula-empatam-numericamente/"
     },
     {
-     "name": "Poder360",
-     "url": "https://www.poder360.com.br/poder-eleicoes-2026/tse-faz-reuniao-com-meta-e-advogados-das-campanhas-de-lula-e-flavio/"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261020-lula-campaign-seeks-disqualify-bolsonoro-from-brazil-presidential-vote-over-meta-interference"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "published": "2026-10-20T20:00:00Z",
-   "title": "US approves first drug of its kind for chronic hepatitis B",
-   "why": "The US Food and Drug Administration approved GSK's Hibsago (bepirovirsen) on 20 October for some adults with chronic hepatitis B, given alongside existing antivirals. In two trials, 19% of patients still had the virus under control six months after stopping all treatment; none did on placebo.",
-   "matters": "GSK says more than 240 million people live with chronic hepatitis B, which causes about 1.1 million deaths a year.",
-   "sources": [
-    {
-     "name": "US FDA",
-     "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment"
-    },
-    {
-     "name": "GSK",
-     "url": "https://us.gsk.com/en-us/media/press-releases/hibsago-bepirovirsen-approved-in-the-us-for-the-treatment-of-chronic-hepatitis-b-chb/"
-    },
-    {
-     "name": "HCPLive",
-     "url": "https://www.hcplive.com/view/fda-approves-bepirovirsen-for-chronic-hepatitis-b"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-10-20T19:38:00Z",
-   "title": "US regulator approves Boeing's largest 737 Max after years of delays",
-   "why": "The US Federal Aviation Administration certified the Boeing 737 Max 10 on 20 October, almost a decade after the jet was unveiled in 2017. It seats up to 230 passengers. More than 30 customers have ordered 1,555, and Boeing expects deliveries to begin in the coming months.",
-   "matters": "It is the first airliner certified under all of a 2020 US safety law passed after two 737 Max crashes.",
-   "sources": [
-    {
-     "name": "AP (via France 24)",
-     "url": "https://www.france24.com/en/technology/20261021-boeing-s-737-max-10-finally-wins-faa-approval-after-years-of-delays"
-    },
-    {
-     "name": "Seattle Times (via Spokesman-Review)",
-     "url": "https://www.spokesman.com/stories/2026/oct/20/boeing-737-max-10-lands-long-awaited-faa-certifica/"
-    },
-    {
-     "name": "Boeing",
-     "url": "https://www.prnewswire.com/news-releases/us-faa-certifies-boeing-737-10-largest-member-of-737-max-family-302914559.html"
-    }
-   ]
-  },
-  {
-   "section": "curious",
-   "published": "2026-10-20T19:30:00Z",
-   "title": "Rare Arctic beluga whale filmed off Ireland's Donegal coast",
-   "why": "A beluga whale, normally found in Arctic and sub-Arctic waters, was filmed by drone in Donegal Bay, north-west Ireland, on 17 October. The Irish Whale and Dolphin Group says it is only the second validated beluga record in Irish waters, after one off County Antrim in 2015.",
-   "matters": "The group says the adult appears healthy, and Arctic species such as belugas and narwhals are being seen more often off Ireland.",
-   "sources": [
-    {
-     "name": "RTÉ",
-     "url": "https://www.rte.ie/news/ulster/2026/1020/1596169-beluga-whale-donegal/"
-    },
-    {
-     "name": "The Irish Times",
-     "url": "https://www.irishtimes.com/ireland/2026/10/21/nowhere-left-to-go-beluga-whale-off-ireland-amid-growing-sightings-of-arctic-species/"
-    },
-    {
-     "name": "TheJournal.ie",
-     "url": "https://www.thejournal.ie/beluga-whale-donegal-bay-7199870-Oct2026/"
+     "name": "Bloomberg Línea",
+     "url": "https://www.bloomberglinea.com.br/brasil/datafolha-mostra-flavio-e-lula-empatados-com-50-as-vesperas-do-segundo-turno/"
     }
    ]
   },
@@ -638,27 +883,27 @@
    "section": "world",
    "serious": true,
    "developing": true,
-   "changed": "Updated: Guards now say they struck four more ships and three others hit mines",
+   "changed": "Updated: Trump says Iran is making up the hits to raise oil prices; Brent near $113",
    "published": "2026-10-20T18:27:00Z",
-   "title": "Iran's Revolutionary Guards say they hit seven more ships in the Gulf",
-   "why": "Iran's Revolutionary Guards navy said on Thursday it struck four ships transferring oil in the northern Gulf, setting them on fire, and that three more hit mines west of the Strait of Hormuz. It warned the US that its regional bases could be targeted. The claims are not independently confirmed.",
-   "matters": "Before the war about a fifth of the world's oil passed through the strait.",
+   "title": "Iran says it hit seven Gulf ships; Trump calls the claims fake",
+   "why": "Iran’s Revolutionary Guards navy said on Thursday it struck four ships transferring oil in the northern Gulf and that three more hit mines west of the Strait of Hormuz. President Trump said Iran was ‘making up fake hits’ to push up oil prices. The claims are not independently confirmed.",
+   "matters": "Brent crude rose about 4% on Thursday to around $113 a barrel, its highest since May, CBS reports.",
    "sources": [
     {
      "name": "Reuters (Arab News)",
      "url": "https://www.arabnews.com/middle-east/irans-navy-says-seven-vessels-hit-warns-us-of-wider-response-3007657"
     },
     {
-     "name": "Press TV",
-     "url": "https://www.presstv.co.uk/Detail/2026/10/22/778916/IRGC-Navy-four-vessels-hit-Persian-Gulf"
-    },
-    {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive"
+     "url": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent"
     },
     {
-     "name": "Iran International",
-     "url": "https://www.iranintl.com/en/liveblog/202610187555"
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/"
+    },
+    {
+     "name": "Jerusalem Post",
+     "url": "https://www.jpost.com/middle-east/iran-news/article-912639"
     }
    ]
   },
@@ -690,113 +935,24 @@
    ]
   },
   {
-   "section": "world",
-   "published": "2026-10-20T17:00:00Z",
-   "title": "Italy sends 500 soldiers to Milan and toughens protest laws after riots",
-   "why": "Italy's cabinet approved a decree on Tuesday sending 500 extra soldiers to Milan until the end of the year, after weekend riots and looting during cost-of-living protests. It creates an offence of 'violent participation in a demonstration', punishable by up to five years in prison.",
-   "matters": "It follows similar fuel-price unrest in France, where night curfews remain in parts of Paris and Lyon.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests"
-    },
-    {
-     "name": "France 24 (AP)",
-     "url": "https://www.france24.com/en/europe/20261020-italy-announces-new-security-measures-after-milan-riots-deploying-500-soldiers"
-    },
-    {
-     "name": "ANSA",
-     "url": "https://www.ansa.it/english/news/politics/2026/10/20/meloni-says-new-crime-of-violent-participation-in-demo-introduced-4_65e6e8cc-7952-42d5-a8fe-956bb3082b28.html"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261021-live-french-pm-lecornu-to-meet-with-unions-ahead-of-new-protests"
-    }
-   ]
-  },
-  {
-   "section": "culture",
-   "serious": true,
-   "published": "2026-10-20T17:00:00Z",
-   "title": "Christina Applegate says doctors now find she does not have MS",
-   "why": "US actor Christina Applegate, 54, who announced a multiple sclerosis diagnosis in 2021, said on her podcast MeSsy on 20 October that her doctor has told her she does not have the disease. She still has severe symptoms and says she is 'back at square one'.",
-   "matters": "A Cedars-Sinai neurologist on the podcast said misdiagnosis of MS is fairly common, as there is no single test for it.",
-   "sources": [
-    {
-     "name": "AFP/AP (via ABC Australia)",
-     "url": "https://www.abc.net.au/news/2026-10-21/christina-applegate-says-she-was-misdiagnosed-with-ms/107291302"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/christina-applegate-misdiagnosis-multiple-sclerosis/"
-    },
-    {
-     "name": "TODAY (NBC)",
-     "url": "https://www.today.com/health/celebrity-health/christina-applegate-reveals-misdiagnosis-ms-podcast-rcna604549"
-    }
-   ]
-  },
-  {
    "section": "sport",
-   "published": "2026-10-20T15:51:00Z",
-   "title": "Arafat Minhas takes six wickets as Pakistan beat England by 87 runs",
-   "why": "All-rounder Arafat Minhas scored 59 and took six wickets for 40 as Pakistan beat England by 87 runs in a one-day tri-series match in Rawalpindi, Pakistan, on 20 October. Pakistan made 302 for nine; England were bowled out for 215.",
-   "sources": [
-    {
-     "name": "Dawn",
-     "url": "https://www.dawn.com/news/2038503"
-    },
-    {
-     "name": "Gulf News",
-     "url": "https://gulfnews.com/sport/arafat-minhas-takes-six-wickets-scores-maiden-half-century-as-pakistan-dominates-england-1.500717509"
-    },
-    {
-     "name": "Sky Sports",
-     "url": "https://skysports.com/cricket/live-blog/13601207/pakistan-vs-england-odi-tri-series-live-latest-cricket-score-updates-and-video-as-harry-brooks-side-begin-50-over-tour"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-10-20T14:00:00Z",
-   "title": "UN experts urge India to stop 'excessive force' against protesters",
-   "why": "About two dozen independent UN human rights experts said on Tuesday that police used baton charges on unarmed students at protests in New Delhi and elsewhere. They cite reports that more than 7,000 people were detained. Protesters want India's chief election commissioner to resign over voter-list revisions.",
-   "matters": "Critics say about 130 million names were removed from voter lists; the Election Commission says it removed ineligible voters.",
-   "sources": [
-    {
-     "name": "Al Jazeera (Reuters)",
-     "url": "https://www.aljazeera.com/news/2026/10/21/un-experts-call-on-india-to-stop-using-excessive-force-against-protesters"
-    },
-    {
-     "name": "Scroll.in",
-     "url": "https://scroll.in/latest/1096540/un-experts-flag-heavy-handed-response-of-police-against-peaceful-protests-in-india"
-    },
-    {
-     "name": "The Tribune",
-     "url": "https://www.tribuneindia.com/news/india/un-experts-want-independent-probe-into-police-action-on-protesters-in-india/"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "developing": true,
-   "changed": "Updated: Australia were bowled out for 99 and made to follow on",
+   "changed": "Updated: South Africa won by an innings and 31 runs to level the series",
    "published": "2026-10-20T12:17:00Z",
-   "title": "Australia bowled out for 99 and follow on in second Test",
-   "why": "Marco Jansen took five for 33 as Australia were bowled out for 99 on day four in Gqeberha, South Africa, on 21 October, 326 behind. Following on, they closed on 156 for four, still 170 behind, with Travis Head 87 not out. Australia lead the series 1-0.",
-   "matters": "Day five is on Thursday 22 October; South Africa need six more wickets to level the three-match series.",
+   "title": "South Africa beat Australia by an innings to level Test series",
+   "why": "South Africa won the second Test in Gqeberha by an innings and 31 runs on 22 October, bowling Australia out for 295 after making them follow on. Kagiso Rabada took four for 77 and Wiaan Mulder three for 64; Travis Head scored 121.",
+   "matters": "The three-match series is level at 1-1 before the deciding Test in Cape Town, which starts on 27 October.",
    "sources": [
     {
      "name": "Sky Sports",
-     "url": "https://www.skysports.com/cricket/news/13601859/south-africa-vs-australia-baggy-greens-skittled-for-99-after-sensational-proteas-bowling-performance-on-day-four-of-second-test"
+     "url": "https://www.skysports.com/cricket/news/13602302/south-africa-vs-australia-proteas-complete-emphatic-innings-victory-to-level-three-test-series"
     },
     {
      "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-10-22/cricket-south-africa-vs-australia-day-four-analysis/107295048"
+     "url": "https://www.abc.net.au/news/2026-10-22/test-cricket-live-updates-south-africa-vs-australia/107298268"
     },
     {
-     "name": "TimesLIVE",
-     "url": "https://www.timeslive.co.za/sport/cricket/2026-10-21-sa-enforce-follow-on-after-bowling-australia-out-for-99/"
+     "name": "Sowetan",
+     "url": "https://www.sowetan.co.za/sport/2026-10-22-proteas-claim-stunning-innings-and-31-run-victory-in-second-test/"
     }
    ]
   },
@@ -804,23 +960,31 @@
    "section": "money",
    "serious": true,
    "developing": true,
-   "changed": "Updated: Brent back above $110 after Houthi attacks in Saudi Arabia",
+   "changed": "Updated: Brent had its highest close since May and neared $114 on Friday",
    "published": "2026-10-20T11:30:00Z",
-   "title": "Oil rises above $110 a barrel after attacks in Saudi Arabia",
-   "why": "Brent crude rose about 1.5% to above $110 a barrel early on Thursday after Houthi drone attacks in Saudi Arabia, including near Aramco's Shaybah oilfield, The National and AFP report. It had settled almost flat near $108.8 on Wednesday. The US ordered non-emergency staff to leave Saudi Arabia.",
+   "title": "Oil climbs to five-month high near $114 amid Houthi attacks",
+   "why": "Brent rose 4% on Thursday to $113.17 a barrel, its highest close since 4 May, Reuters reports, and neared $114 on Friday. Saudi Aramco told staff to leave its Dhahran headquarters as Houthi attacks grew, and Iran threatened US bases over ship escorts in the Strait of Hormuz, AFP says.",
    "matters": "Oil prices feed into fuel, heating and shipping costs around the world.",
    "sources": [
     {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/business/energy/2026/10/22/oil-tops-110-as-houthi-drone-strike-near-saudi-shaybah-field-rattles-markets/"
+     "name": "Reuters (via The Nation Thailand)",
+     "url": "https://www.nationthailand.com/news/world/40072637"
     },
     {
      "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261022-asian-stocks-back-in-retreat-as-tech-mood-sours-again"
+     "url": "https://www.france24.com/en/live-news/20261023-asian-stocks-head-into-weekend-on-a-low-as-tech-extends-losses"
+    },
+    {
+     "name": "ABC News (Australia)",
+     "url": "https://abc.net.au/news/2026-10-23/asx-markets-business-news-live-updates-oct-23/107291840"
+    },
+    {
+     "name": "Türkiye Today",
+     "url": "https://www.turkiyetoday.com/business/oil-prices-jump-3-after-deadly-houthi-attack-on-saudi-shaybah-oil-field-3230819"
     },
     {
      "name": "Oilprice.com",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-Above-111-as-Houthis-Strike-Saudi-Targets.html"
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-114-as-Houthi-Attacks-Threaten-Saudi-Energy-Infrastructure.html"
     }
    ]
   },
@@ -848,76 +1012,29 @@
   },
   {
    "section": "world",
-   "serious": true,
-   "published": "2026-10-20T09:00:00Z",
-   "title": "Britain to fly RAF Typhoon jets to defend Saudi Arabia from Houthis",
-   "why": "Britain's Ministry of Defence said on Tuesday that RAF Typhoons will fly defensive missions over Saudi Arabia against Houthi drones and missiles, after a Saudi request. They will not strike Houthi targets in Yemen. Defence Secretary Wes Streeting called the Houthi attacks 'absolutely despicable'.",
-   "matters": "It deepens Britain's military role as Houthi strikes on Saudi cities, airports and oil sites continue.",
+   "lead": true,
+   "developing": true,
+   "changed": "Updated: Trump says the US ‘may do it a little bit further’; ministers meet in Istanbul",
+   "published": "2026-10-20T08:30:00Z",
+   "title": "Trump hints at further Iran strikes as ministers meet in Istanbul",
+   "why": "President Trump said on Thursday the US had ‘knocked the hell out of’ Iran and ‘may do it a little bit further’. The White House says there will be no attack before the 3 November midterms. Foreign ministers from Europe and the Middle East meet in Istanbul on Friday.",
+   "matters": "Iran says Hormuz stays shut until its terms are met, and reportedly warned it could hit Gulf airports and pipelines if attacked.",
    "sources": [
     {
-     "name": "UK Ministry of Defence",
-     "url": "https://www.gov.uk/government/news/operational-update-20-october-uk-military-support-to-the-kingdom-of-saudi-arabia"
-    },
-    {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks"
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran"
     },
     {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/news/uk/2026/10/20/uk-mission-to-defend-saudi-arabia-adds-typhoon-jets/"
+     "name": "Iran International",
+     "url": "https://www.iranintl.com/en/liveblog/202610187555"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://abcnews.com/International/live-updates/iran-live-updates/?id=137370653"
     },
     {
      "name": "CBS News",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz/"
-    }
-   ]
-  },
-  {
-   "section": "curious",
-   "published": "2026-10-20T08:31:00Z",
-   "title": "South Africa's Transnet claims world record with 7.6 km freight train",
-   "why": "State rail company Transnet says a train of 696 empty wagons, 7.6 km long, ran about 861 km from Saldanha port to the iron ore mines of the Northern Cape over the weekend of 17-18 October. The previous record, per Guinness, was BHP's 7.35 km train in Australia in 2001.",
-   "matters": "The claim has not yet been independently verified; Transnet's rail chief says the technical lessons matter more than the record.",
-   "sources": [
-    {
-     "name": "News24",
-     "url": "https://www.news24.com/business/economy/watch-transnet-smashes-world-record-with-76km-freight-train-20261020-1031"
-    },
-    {
-     "name": "Railway PRO",
-     "url": "https://www.railwaypro.com/wp/south-africa-sets-new-freight-rail-milestone-as-transnet-operates-696-wagon-train/"
-    },
-    {
-     "name": "Joburg ETC",
-     "url": "https://www.joburgetc.com/news/transnet-696-wagon-world-record-train/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "lead": true,
-   "developing": true,
-   "changed": "Updated: Trump says the US is 'not negotiating'; NYT reports plans for renewed strikes",
-   "published": "2026-10-20T08:30:00Z",
-   "title": "Trump says US is 'not negotiating' with Iran as mediation stalls",
-   "why": "President Trump told reporters on Wednesday the US is 'not negotiating' with Iran and that something will happen 'fairly soon'. The New York Times reports US and Israeli plans for renewed strikes after the 3 November midterms; the White House does not comment. Iran insists on its seven conditions.",
-   "matters": "Iran says the Strait of Hormuz, a key oil route, stays shut until its terms are met; Pakistan is mediating.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive"
-    },
-    {
-     "name": "Times of Israel",
-     "url": "https://www.timesofisrael.com/liveblog-october-22-2026/"
-    },
-    {
-     "name": "Arab Times",
-     "url": "https://www.arabtimesonline.com/news/us-is-not-negotiating-with-iran-something-will-happen-soon/"
-    },
-    {
-     "name": "Dawn",
-     "url": "https://www.dawn.com/news/2038686/cdf-munir-pezeshkian-meeting-raises-peace-hopes"
+     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/"
     }
    ]
   },
@@ -925,27 +1042,27 @@
    "section": "climate",
    "serious": true,
    "developing": true,
-   "changed": "Updated: Champi has weakened slightly; Taiwan has issued a sea warning",
+   "changed": "Updated: Champi has weakened but has shut down most of Taiwan; one death reported",
    "published": "2026-10-20T02:40:00Z",
-   "title": "Super Typhoon Champi weakens slightly as Taiwan issues sea warning",
-   "why": "Champi, called Rosal in the Philippines, had winds of 195 km/h early on Thursday 22 October, about 495 km east of Batanes, the Philippine weather agency PAGASA says. Batanes and the Babuyan Islands remain under Signal No. 2; closest approach is Thursday afternoon to Friday morning.",
-   "matters": "Taiwan's weather agency expects the strongest effects on Friday and Saturday; some ferries and Taiwan–Okinawa flights are cancelled.",
+   "title": "Typhoon Champi shuts down most of Taiwan as heavy rain begins",
+   "why": "Champi was about 320 km east-southeast of Taiwan's southern tip on Friday, 23 October, with winds of 155 km/h, Taiwan's weather agency says. Schools, markets and flights were shut. Officials say one man died after being swept away by waves in Pingtung County and 94 people were hurt.",
+   "matters": "Northern mountains could get 600–900 mm of rain by Saturday; the storm is then forecast to head towards southern Japan.",
    "sources": [
     {
-     "name": "Rappler",
-     "url": "https://www.rappler.com/philippines/weather/super-typhoon-rosal-update-pagasa-forecast-october-22-2026-5am/"
-    },
-    {
-     "name": "Philstar",
-     "url": "https://philstar.com/headlines/2026/10/22/2564850/rosal-declared-strongest-cyclone-2026"
-    },
-    {
      "name": "Focus Taiwan",
-     "url": "https://focustaiwan.tw/society/202610220001"
+     "url": "https://focustaiwan.tw/society/202610230003"
     },
     {
      "name": "Taipei Times",
-     "url": "https://www.taipeitimes.com/News/front/archives/2026/10/22/2003866405"
+     "url": "https://www.taipeitimes.com/News/front/archives/2026/10/23/2003866461"
+    },
+    {
+     "name": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/taiwan-shuts-down-ahead-of-typhoon-champi-hundreds-of-flights-cancelled/3079263/"
+    },
+    {
+     "name": "Reuters (Korea Times)",
+     "url": "https://www.koreatimes.co.kr/world/20261023/taiwan-shuts-down-ahead-of-typhoon-champi-hundreds-of-flights-canceled"
     }
    ]
   },
@@ -953,22 +1070,23 @@
    "section": "world",
    "serious": true,
    "developing": true,
+   "changed": "Updated: El Salvador says gangs are holding the four; Bukele announces a rescue operation",
    "published": "2026-10-19T15:00:00Z",
-   "title": "Four Salvadoran soldiers missing after gang ambush in Haiti",
-   "why": "Gangs attacked an armoured vehicle of the UN-backed Gang Suppression Force on Sunday in Croix-des-Bouquets, near Haiti's capital, Port-au-Prince, El Salvador's military says. Four Salvadoran air force members escaped the burning vehicle but remain unaccounted for; helicopters sent to help came under fire.",
-   "matters": "AP calls it the first major attack on the force, which has about 2,000 troops, just over a third of its target.",
+   "title": "El Salvador says Haiti gangs hold four of its air force members",
+   "why": "President Nayib Bukele said on Wednesday that gangs are holding four Salvadoran aviation technicians missing since Sunday's ambush on the UN-backed Gang Suppression Force near Haiti's capital, Port-au-Prince. He announced a military rescue operation and warned of a stronger response if they are not freed unharmed.",
+   "matters": "Haiti's government calls their release an 'absolute priority'; no group has claimed the attack.",
    "sources": [
     {
-     "name": "Reuters (via Investing.com)",
-     "url": "https://www.investing.com/news/world-news/four-salvadoran-air-force-members-missing-after-gang-ambush-in-haiti-4958010"
+     "name": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/el-salvador-says-haiti-gangs-holding-4-force-members-hostage-announces-new-rescue-mission/3078292/"
     },
     {
-     "name": "Al Jazeera (AP)",
-     "url": "https://www.aljazeera.com/news/2026/10/19/search-under-way-for-four-soldiers-missing-after-gang-attack-in-haiti"
+     "name": "AP (via La Nación)",
+     "url": "https://www.lanacion.com.ar/usa/el-salvadors-bukele-announces-military-operation-to-rescue-hostages-held-by-gangs-in-haiti-nid21102026/"
     },
     {
-     "name": "UPI",
-     "url": "https://www.upi.com/Top_News/World-News/2026/10/19/latam-haiti-elsalvador-military-missing-gang-suppression/4981792424229/"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers"
     }
    ]
   },
@@ -1021,81 +1139,6 @@
     {
      "name": "Radio Tamazuj",
      "url": "https://www.radiotamazuj.org/en/news/article/south-sudan-summons-sudan-envoy-over-abyei-market-attack"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: man charged and remanded in custody; her husband says she is stable",
-   "published": "2026-10-19T04:30:00Z",
-   "title": "Man charged over car attack on Australian MP Helen Haines",
-   "why": "Independent MP Helen Haines, 65, was hit by a four-wheel drive outside her office in Wangaratta, Victoria, on Monday. A 43-year-old man appeared in court on Wednesday charged with intentionally causing serious injury and harming a Commonwealth official, and was remanded in custody.",
-   "matters": "Her husband says she is seriously injured but stable; police have not ruled out further charges.",
-   "sources": [
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-10-21/brendan-nugent-faces-court-over-alleged-attack-on-helen-haines/107291248"
-    },
-    {
-     "name": "SBS News",
-     "url": "https://www.sbs.com.au/news/live-blog/helen-haines-brendan-nugent-court-live-updates/l2zx6dhdm"
-    },
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/asia-pacific/20261020-driver-charged-over-targeted-car-attack-on-australian-lawmaker-helen-haines"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: Congo's figures rose to more than 9,500 cases and 4,500 deaths",
-   "published": "2026-10-18T19:30:00Z",
-   "title": "Nigeria confirms first Ebola case as Kenya's total rises to nine",
-   "why": "Nigeria's health ministry said on 20 October that a woman who arrived in the capital, Abuja, from Uganda has Ebola; 44 contacts are being monitored. Kenya has nine confirmed cases, all in one cluster. Congo has recorded more than 9,500 cases and 4,500 deaths, its health ministry says.",
-   "matters": "WHO says Nigeria is the fifth country to detect this Bundibugyo strain, for which there is no licensed vaccine.",
-   "sources": [
-    {
-     "name": "ABC News (US)",
-     "url": "https://abcnews.com/Health/nigeria-confirms-1st-ebola-case-kenya-reports-9th/story?id=137443202"
-    },
-    {
-     "name": "The Globe and Mail",
-     "url": "https://www.theglobeandmail.com/world/article-ebola-cases-reported-in-nigeria-and-kenya-as-virus-continues-to-spread/"
-    },
-    {
-     "name": "WHO Africa",
-     "url": "https://afro.who.int/countries/nigeria/news/nigeria-confirms-imported-case-ebola-bundibugyo-virus-disease"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case"
-    }
-   ]
-  },
-  {
-   "section": "culture",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: police say the actor was not the gunmen's first target",
-   "published": "2026-10-18T13:30:00Z",
-   "title": "Police say Tiger Shroff was not the gunmen's original target",
-   "why": "Mumbai's Crime Branch says the men who fired at actor Tiger Shroff's car on 18 October first planned to attack another film star but found his security too tight. Three suspects arrested in Kota, Rajasthan, were brought to Mumbai on 21 October; Delhi Police arrested four more.",
-   "sources": [
-    {
-     "name": "PTI (via DT Next)",
-     "url": "https://www.dtnext.in/news/national/tiger-shroff-firing-three-key-accused-brought-to-mumbai-from-kota"
-    },
-    {
-     "name": "ANI (via Asianet Newsable)",
-     "url": "https://newsable.asianetnews.com/entertainment/tiger-shroff-not-original-target-in-firing-case-crime-branch-says-articleshow-xk5gigr"
-    },
-    {
-     "name": "Gulf News",
-     "url": "https://gulfnews.com/entertainment/bollywood/tiger-shroff-was-not-original-target-shooters-wanted-another-bollywood-star-1.500717388"
     }
    ]
   }
