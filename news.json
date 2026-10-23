@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-23T06:13:38Z",
+ "updated": "2026-10-23T08:01:38Z",
  "items": [
+  {
+   "section": "world",
+   "serious": false,
+   "published": "2026-10-23T05:10:00Z",
+   "title": "Seoul mayor Oh Se-hoon cleared on appeal, keeping his job",
+   "why": "The Seoul High Court on Friday overturned Oh Se-hoon's conviction for having a businessman pay for opinion polls before the 2021 mayoral by-election. The first trial had fined him 10 million won, enough to remove him from office. Judges said the key witness's testimony was unreliable.",
+   "matters": "A final conviction would have ended his time as Seoul's mayor and barred him from public office for five years.",
+   "sources": [
+    {
+     "name": "Korea JoongAng Daily",
+     "url": "https://www.koreajoongangdaily.com/korea/seoul-mayor-oh-sehoon-acquitted-on-appeal-in-opinion-poll-payment-case/12935525"
+    },
+    {
+     "name": "SBS News",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008812245"
+    },
+    {
+     "name": "Kyunghyang Shinmun",
+     "url": "https://www.khan.co.kr/en/article/202610231511007/"
+    }
+   ]
+  },
   {
    "section": "money",
    "serious": false,
@@ -165,6 +187,27 @@
    ]
   },
   {
+   "section": "money",
+   "published": "2026-10-22T15:45:00Z",
+   "title": "Gucci sales fall again as owner Kering's shares drop sharply",
+   "why": "France's Kering said on Thursday that Gucci's sales fell 6% on a like-for-like basis to €1.29 billion from July to September, with few shoppers in mainland China. Group sales were flat at about €3.35 billion. Kering's shares then fell about 11%.",
+   "matters": "Gucci brings in roughly half of Kering's profit, so its slide weighs on the group's turnaround plan.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261022-rekindled-gucci-desirability-fails-to-light-flame-under-kering-sales"
+    },
+    {
+     "name": "Reuters (via Euronext)",
+     "url": "https://live.euronext.com/en/financial-news/gucci-sales-slip-again-latest-blow-kering-recovery-plan"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://uk.investing.com/news/stock-market-news/why-is-kering-stock-plunging-today-93CH-4927446"
+    }
+   ]
+  },
+  {
    "section": "sport",
    "published": "2026-10-22T15:30:00Z",
    "title": "Sri Lanka chase 430 to beat England despite Harry Brook's record 202",
@@ -189,22 +232,74 @@
    "section": "world",
    "serious": true,
    "developing": true,
+   "changed": "Updated: Xinhua now reports 76 people injured",
    "published": "2026-10-22T15:00:00Z",
    "title": "Magnitude 7.0 earthquake in northern Tibet kills at least 16",
-   "why": "A magnitude 7.0 earthquake struck Baqen county in Nagqu, northern Tibet, at 10:33pm local time on Thursday. Xinhua, citing local authorities, says at least 16 people died and 65 were injured; local officials say at least 339 homes collapsed.",
+   "why": "A magnitude 7.0 earthquake struck Baqen county in Nagqu, northern Tibet, at 10:33pm local time on Thursday. Xinhua, citing local authorities, says at least 16 people died and 76 were injured; local officials say at least 339 homes collapsed.",
    "matters": "China's state broadcaster CCTV calls it the region's strongest earthquake in five years.",
    "sources": [
     {
      "name": "Xinhua",
-     "url": "https://english.news.cn/20261023/55539500db4a449badeeb5258177a38d/c.html"
+     "url": "https://english.news.cn/20261023/a4fa931970e7415ab568e0b1ee89f3cc/c.html"
     },
     {
-     "name": "AP (via NBC News)",
-     "url": "https://www.nbcnews.com/world/china/70-earthquake-hits-chinas-tibet-killing-16-injuring-32-rcna605100"
+     "name": "Global Times",
+     "url": "https://www.globaltimes.cn/page/202610/1372843.shtml"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports"
     },
     {
      "name": "France 24 (AFP)",
      "url": "https://www.france24.com/en/asia-pacific/20261022-many-dead-massive-earthquake-strikes-china-s-remote-tibet-region-magnitude-seven"
+    }
+   ]
+  },
+  {
+   "section": "science",
+   "published": "2026-10-22T15:00:00Z",
+   "title": "Study dates Van Gogh's The Starry Night to a July 1889 sky",
+   "why": "South Korean researchers say the stars in Van Gogh's painting match the Hyades cluster, Venus and a thin crescent moon seen before dawn over Saint-Rémy-de-Provence, France, around 22 July 1889, a month later than usually thought. The study is in Scientific Reports; some astronomers disagree.",
+   "matters": "It shows how astronomy, old weather records and letters can help date famous works of art.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/culture/20261022-scientists-turn-art-detectives-trace-van-gogh-starry-night-actual-night-sky-1889"
+    },
+    {
+     "name": "Scientific American",
+     "url": "https://www.scientificamerican.com/article/astronomers-unlock-a-mystery-hidden-in-van-goghs-the-starry-night/"
+    },
+    {
+     "name": "Popular Science",
+     "url": "https://www.popsci.com/science/starry-night-van-gogh-date/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-10-22T14:00:00Z",
+   "title": "Hundreds flee clashes in Ethiopia's Moyale into neighbouring Kenya",
+   "why": "Hundreds of people, mostly women and children, crossed into Kenya at the border town of Moyale after fighting between forces of Ethiopia's Oromia and Somali regions, Kenyan police and officials said on Thursday. Reports link the clashes to a dispute over a regional flag.",
+   "matters": "The Kenya Red Cross says it is giving shelter and food to 1,000 households while it counts those affected.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/22/hundreds-of-ethiopians-cross-into-kenya-to-flee-regional-fighting"
+    },
+    {
+     "name": "Arab News (Reuters)",
+     "url": "https://www.arabnews.com/world/hundreds-of-ethiopians-flee-into-kenya-after-border-town-fighting-3007766"
+    },
+    {
+     "name": "Citizen Digital",
+     "url": "https://citizen.digital/article/kenya-launches-emergency-aid-efforts-as-hundreds-flee-deadly-clashes-in-ethiopia-n392578"
+    },
+    {
+     "name": "The Kenya Times",
+     "url": "https://thekenyatimes.com/latest-kenya-times-news/ethiopia-border-clashes/"
     }
    ]
   },
@@ -254,6 +349,28 @@
    ]
   },
   {
+   "section": "health",
+   "serious": true,
+   "published": "2026-10-22T12:00:00Z",
+   "title": "Personalised mRNA vaccine cuts melanoma return risk by 42% in large trial",
+   "why": "Detailed results from a late-stage trial of 1,137 people whose melanoma had been removed by surgery show Moderna and Merck's personalised vaccine, given with the drug Keytruda, cut the risk of the cancer returning or death by 42% compared with Keytruda alone over about two years.",
+   "matters": "Vaccines made for each patient's own tumour could become a new way to stop cancers coming back.",
+   "sources": [
+    {
+     "name": "STAT",
+     "url": "https://statnews.com/2026/10/22/esmo-moderna-merck-cancer-vaccine-intismeran-data-released"
+    },
+    {
+     "name": "BioPharma Dive",
+     "url": "https://www.biopharmadive.com/news/moderna-merck-esmo-intismeran-melanoma-vaccine-results/833765/"
+    },
+    {
+     "name": "CancerNetwork",
+     "url": "https://www.cancernetwork.com/view/intismeran-plus-pembrolizumab-reduces-recurrence-risk-in-resected-melanoma"
+    }
+   ]
+  },
+  {
    "section": "climate",
    "serious": false,
    "published": "2026-10-22T11:26:00Z",
@@ -298,6 +415,69 @@
     {
      "name": "ING",
      "url": "https://think.ing.com/snaps/the-turkish-central-bank-resumed-rate-cuts-signaled-more-to-come"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-10-22T11:00:00Z",
+   "title": "Australia's Snowy 2.0 hydro scheme could now cost A$25 billion",
+   "why": "Snowy Hydro said on Thursday its pumped-hydro project in the Snowy Mountains of New South Wales now has a target cost of A$22.2 billion, with up to A$25 billion allowed for. It was first priced at A$2 billion, and full operation has slipped to late 2029.",
+   "matters": "The scheme is meant to store power for Australia's grid; ministers say abandoning it would raise electricity bills.",
+   "sources": [
+    {
+     "name": "ABC News Australia",
+     "url": "https://www.abc.net.au/news/2026-10-22/cost-of-snowy-hydro-expansion-doubles/107276162"
+    },
+    {
+     "name": "Snowy Hydro",
+     "url": "https://www.snowyhydro.com.au/news/snowy-2-0-cost-reassessment-complete/"
+    },
+    {
+     "name": "RenewEconomy",
+     "url": "https://reneweconomy.com.au/very-disappointing-snowy-confirms-pumped-hydro-costs-double-again-to-a-possible-25bn-hit-with-more-delays/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-10-22T11:00:00Z",
+   "title": "France bans protests in several cities after weekend riots and looting",
+   "why": "French authorities banned Thursday's protests in Paris, Lyon, Lille and Grenoble, and some Saturday marches, after last weekend's looting and clashes. President Emmanuel Macron blamed 'ultra-left' groups and said 'illegitimate' protests would be banned. The unrest grew out of school and cost-of-living protests.",
+   "matters": "More nationwide demonstrations are planned for Saturday, and unions have called a day of strikes on 5 November.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/22/macron-blames-seditious-ultra-left-for-unrest-as-france-bans-protests"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261021-live-french-pm-lecornu-to-meet-with-unions-ahead-of-new-protests"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/world/france/france-emmanuel-macron-illegitimate-protests-banned-cities-rcna604952"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-10-22T10:30:00Z",
+   "title": "India chase 226 to beat New Zealand in first T20 in Christchurch",
+   "why": "India beat New Zealand by four wickets with two balls to spare at Hagley Oval in Christchurch, New Zealand, chasing 226 after Glenn Phillips hit 82 not out. Sanju Samson made 67 from 33 balls, and India lead the five-match series 1-0.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/sports/2026/10/22/india-resist-new-zealand-fightback-to-win-record-setting-t20-cricket-opener"
+    },
+    {
+     "name": "Outlook India",
+     "url": "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-1st-t20i-2026-match-report"
+    },
+    {
+     "name": "ETV Bharat",
+     "url": "https://www.etvbharat.com/en/sports/india-defeat-new-zealand-by-4-wickets-in-1st-t20i-enn26102203269"
     }
    ]
   },
@@ -439,6 +619,27 @@
    ]
   },
   {
+   "section": "tech",
+   "published": "2026-10-22T03:30:00Z",
+   "title": "Australian court orders Apple to allow rival iPhone app stores",
+   "why": "Australia's Federal Court ordered Apple on Thursday to let Australian iPhone users install apps from other app stores and websites, and to let developers use other payment systems, from March 2027. The case was brought by Epic Games, maker of Fortnite. Apple says it will appeal.",
+   "matters": "The changes would affect an estimated 15 million Australian Apple users, ABC News reports.",
+   "sources": [
+    {
+     "name": "ABC News Australia",
+     "url": "https://abc.net.au/news/2026-10-23/fortnite-epic-games-back-in-apple-app-store/107302160"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/aust-court-orders-fortnite-back-into-app-store"
+    },
+    {
+     "name": "9to5Mac",
+     "url": "https://9to5mac.com/2026/10/21/apple-must-open-iphone-to-alternative-app-stores-in-australia-after-epic-games-ruling/"
+    }
+   ]
+  },
+  {
    "section": "sport",
    "changed": "Updated: Estudiantes beat Flamengo to set up a final against Palmeiras",
    "published": "2026-10-22T03:00:00Z",
@@ -482,6 +683,27 @@
     {
      "name": "ClutchPoints (via Yahoo Sports)",
      "url": "https://sports.yahoo.com/articles/angel-reese-dream-power-past-033509618.html"
+    }
+   ]
+  },
+  {
+   "section": "curious",
+   "published": "2026-10-22T01:16:00Z",
+   "title": "Shark trapped in South Korean canal slips back in after third rescue",
+   "why": "A 3-metre endangered dusky shark nicknamed Bukangi, stuck in a canal in the port city of Busan for a month, was guided out on 21 October but swam back in under a net that night. Officials are planning a new attempt; the shark has drawn over 1.6 million visitors.",
+   "matters": "Officials worry that falling water temperatures and a lack of feeding put the shark's health at risk.",
+   "sources": [
+    {
+     "name": "AP (via NBC News)",
+     "url": "https://www.nbcnews.com/world/asia/south-korea-busan-seeks-new-ways-free-huge-gray-shark-slips-back-canal-rcna604947"
+    },
+    {
+     "name": "Yonhap (via Korea Times)",
+     "url": "https://www.koreatimes.co.kr/southkorea/environment-animals/20261022/busan-shark-returns-to-canal-after-brief-exit"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-22/south-korea-busan-dusky-shark-bukangi-trapped-canal/107298980"
     }
    ]
   },
@@ -655,6 +877,48 @@
    ]
   },
   {
+   "section": "world",
+   "published": "2026-10-21T18:00:00Z",
+   "title": "UAE nominates diplomat Lana Nusseibeh to be next UN secretary-general",
+   "why": "The United Arab Emirates has nominated Lana Nusseibeh, its former UN ambassador, to succeed António Guterres, whose term ends on 31 December. No candidate has yet won Security Council backing, and a straw poll set for Friday was postponed, France 24 reports.",
+   "matters": "If chosen, she would be the first woman to lead the United Nations.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261022-emirati-diplomat-could-become-next-un-chief-despite-human-rights-concerns-uae-sudan-un-secretary-general-lana-nusseibeh"
+    },
+    {
+     "name": "Semafor",
+     "url": "https://www.semafor.com/article/10/22/2026/uae-nominates-lana-nusseibeh-to-become-next-un-secretary-general"
+    },
+    {
+     "name": "The New Arab",
+     "url": "https://www.newarab.com/news/who-lana-nusseibeh-uae-nominee-un-general-secretary"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "published": "2026-10-21T17:44:00Z",
+   "title": "Quebec publisher drops novelist Thélyson Orélien over AI use in prize-winning book",
+   "why": "Publisher Boréal has cut ties with Haitian-born Quebec author Thélyson Orélien, saying an outside analysis found traces of AI in files of his debut novel, which won the Prix du roman Fnac and was withdrawn from the Goncourt list. Orélien denies using AI.",
+   "matters": "Publishers and literary prizes are still working out how to handle books that may have been written with AI.",
+   "sources": [
+    {
+     "name": "Reuters (via MarketScreener)",
+     "url": "https://www.marketscreener.com/news/canadian-publisher-says-thelyson-orelien-used-ai-to-write-award-winning-book-ends-relationship-ce785cd9dd89f126"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/culture/20261021-canadian-publisher-drops-author-orelien-after-confirming-he-used-ai-in-debut-novel"
+    },
+    {
+     "name": "The Canadian Press (via Yahoo News Canada)",
+     "url": "https://ca.news.yahoo.com/ai-allegations-led-quebec-author-183507880.html"
+    }
+   ]
+  },
+  {
    "section": "tech",
    "published": "2026-10-21T17:30:00Z",
    "title": "US judge orders Meta to pay New Mexico $25 billion over privacy",
@@ -792,76 +1056,11 @@
    ]
   },
   {
-   "section": "money",
-   "serious": false,
-   "published": "2026-10-21T07:10:00Z",
-   "title": "Indonesia holds main interest rate, lifts deposit rate to support rupiah",
-   "why": "Bank Indonesia kept its main rate at 5.75% on 21 October but raised its deposit facility rate to 5% and will cut banks' reserve requirements, freeing about 190 trillion rupiah ($10.6 billion). The rupiah, down more than 7% this year, is near 18,000 per dollar.",
-   "matters": "It follows MSCI's warning it may downgrade Indonesia's stock market, which set off the country's steepest share fall in decades.",
-   "sources": [
-    {
-     "name": "Reuters (via Kontan)",
-     "url": "https://english.kontan.co.id/news/bank-indonesia-keeps-benchmark-steady-cuts-required-reserves-after-stock-market-rout"
-    },
-    {
-     "name": "Bloomberg (via The Edge Malaysia)",
-     "url": "https://theedgemalaysia.com/node/822674"
-    },
-    {
-     "name": "FXStreet",
-     "url": "https://www.fxstreet.com/news/indonesian-rupiah-declines-as-bi-decides-to-keep-benchmark-rate-unchanged-202610210716"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-10-21T06:00:00Z",
-   "title": "Mexico holds ex-prosecutor on treason charge over US agents in drug raid",
-   "why": "A federal judge has ordered César Jáuregui, former attorney general of Mexico's northern Chihuahua state, held in pre-trial detention. Prosecutors accuse him of letting US agents, reported to be CIA officers, join an April drug-lab raid without federal approval. His defence calls the case political.",
-   "matters": "Mexico rarely brings treason charges; the case tests limits on US security operations inside Mexico.",
-   "sources": [
-    {
-     "name": "Al Jazeera (Reuters)",
-     "url": "https://www.aljazeera.com/news/2026/10/21/mexico-charges-prosecutor-with-treason-over-us-involvement-in-drug-raid"
-    },
-    {
-     "name": "El Financiero",
-     "url": "https://www.elfinanciero.com.mx/estados/2026/10/21/cesar-jauregui-seguira-en-el-altiplano-juez-dicta-prision-preventiva-por-traicion-a-la-patria/"
-    },
-    {
-     "name": "Mexico News Daily",
-     "url": "https://mexiconewsdaily.com/politics/former-chihuahua-ag-arrested-treason-conspiracy/"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "serious": false,
-   "published": "2026-10-21T06:00:00Z",
-   "title": "UK inflation rises to 3.5%, its highest in almost a year",
-   "why": "Prices in the UK rose 3.5% in the year to September, up from 3.1% in August and above the 3.4% most economists expected, the Office for National Statistics said on 21 October. Petrol and diesel drove the rise; diesel is at its highest since July 2022.",
-   "matters": "Motor fuel prices are up nearly 30% on a year ago, the ONS says, raising costs for households and businesses.",
-   "sources": [
-    {
-     "name": "ONS",
-     "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/september2026"
-    },
-    {
-     "name": "LBC",
-     "url": "https://www.lbc.co.uk/article/uk-inflation-september-fuel-surge-5HjdkC6_2/"
-    },
-    {
-     "name": "Investing.com",
-     "url": "https://uk.investing.com/news/economic-indicators/uk-inflation-rises-to-35-in-september-highest-since-october-2025-4921420"
-    }
-   ]
-  },
-  {
    "section": "world",
    "developing": true,
-   "changed": "Updated: final Datafolha poll shows the two candidates level",
+   "changed": "Updated: latest Datafolha poll shows the two candidates level",
    "published": "2026-10-20T20:00:00Z",
-   "title": "Final Brazil poll shows Lula and Flávio Bolsonaro tied before Sunday's run-off",
+   "title": "Latest Brazil poll shows Lula and Flávio Bolsonaro tied before Sunday's run-off",
    "why": "A Datafolha poll released on Thursday puts President Lula and Flávio Bolsonaro, son of former president Jair Bolsonaro, level on 50% of valid votes each, with a two-point margin of error. A week earlier Bolsonaro led 51% to 49%. Brazilians vote on Sunday, 25 October.",
    "matters": "Polls underestimated Flávio Bolsonaro in the first round on 4 October, Bloomberg Línea notes, so the result is hard to call.",
    "sources": [
@@ -935,28 +1134,6 @@
    ]
   },
   {
-   "section": "sport",
-   "changed": "Updated: South Africa won by an innings and 31 runs to level the series",
-   "published": "2026-10-20T12:17:00Z",
-   "title": "South Africa beat Australia by an innings to level Test series",
-   "why": "South Africa won the second Test in Gqeberha by an innings and 31 runs on 22 October, bowling Australia out for 295 after making them follow on. Kagiso Rabada took four for 77 and Wiaan Mulder three for 64; Travis Head scored 121.",
-   "matters": "The three-match series is level at 1-1 before the deciding Test in Cape Town, which starts on 27 October.",
-   "sources": [
-    {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/cricket/news/13602302/south-africa-vs-australia-proteas-complete-emphatic-innings-victory-to-level-three-test-series"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-10-22/test-cricket-live-updates-south-africa-vs-australia/107298268"
-    },
-    {
-     "name": "Sowetan",
-     "url": "https://www.sowetan.co.za/sport/2026-10-22-proteas-claim-stunning-innings-and-31-run-victory-in-second-test/"
-    }
-   ]
-  },
-  {
    "section": "money",
    "serious": true,
    "developing": true,
@@ -985,28 +1162,6 @@
     {
      "name": "Oilprice.com",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-114-as-Houthi-Attacks-Threaten-Saudi-Energy-Infrastructure.html"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "developing": true,
-   "published": "2026-10-20T11:15:00Z",
-   "title": "Rubio says US and India are 'very close' to a trade deal",
-   "why": "US Secretary of State Marco Rubio met India's Foreign Minister S Jaishankar in Mumbai on Tuesday, AP reports. Rubio said a deal is 'about as close as you can be' without signing. Talks have stalled for months over US tariffs and India's purchases of Russian oil.",
-   "matters": "US tariffs on Indian goods reached 50% in 2025 before a February framework cut them to 18%.",
-   "sources": [
-    {
-     "name": "AP",
-     "url": "https://abcnews.com/International/wireStory/rubio-jaishankar-hold-talks-mumbai-us-india-aim-137406921"
-    },
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261020-rubio-lands-in-india-for-trade-diplomacy"
-    },
-    {
-     "name": "The Tribune (ANI)",
-     "url": "https://www.tribuneindia.com/news/bilateral-talks/us-secretary-of-state-rubio-arrives-in-mumbai-for-talks-with-jaishankar-amid-push-for-india-us-trade-deal"
     }
    ]
   },
@@ -1087,58 +1242,6 @@
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: toll rises to at least 73",
-   "published": "2026-10-19T11:00:00Z",
-   "title": "Yemen officials say Houthi missiles killed at least 73 at army camp",
-   "why": "Houthi ballistic missiles hit a government training camp near Ataq, in Shabwa province, southern Yemen, on Monday. A senior government official told AP at least 73 recruits were killed; the governor says more than 200 were wounded and some are missing. The Houthis said they targeted 'Saudi enemy' forces.",
-   "matters": "AP calls it the deadliest strike since fighting in Yemen escalated in July.",
-   "sources": [
-    {
-     "name": "AP",
-     "url": "https://www.inquirer.com/news/nation-world/houthi-attack-yemen-training-camp-20261020.html"
-    },
-    {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/news/mena/2026/10/19/at-least-18-killed-in-houthi-attack-on-yemeni-government-military-camp-in-shabwa-sources-say/"
-    },
-    {
-     "name": "Asharq Al-Awsat",
-     "url": "https://english.aawsat.com/arab-world/5331202-53-killed-more-200-wounded-houthi-missile-strike-security-camp-shabwa"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: drone strike on Abyei market; local officials say at least 153 killed",
-   "published": "2026-10-19T09:00:00Z",
-   "title": "Officials say drone strike on Abyei market killed at least 153",
-   "why": "A drone hit Amiet market and a nearby fuel depot in Abyei, an area claimed by both Sudan and South Sudan, on Monday. Abyei's information minister says at least 153 people died and later put the toll above 220. He and South Sudan's government blame Sudan's army.",
-   "matters": "A Sudanese army officer told AP the army targeted fuel bound for the paramilitary RSF and does not target civilians.",
-   "sources": [
-    {
-     "name": "AP",
-     "url": "https://www.wsls.com/news/world/2026/10/20/drone-strike-on-a-market-in-disputed-african-region-of-abyei-kills-at-least-153/"
-    },
-    {
-     "name": "Eye Radio (South Sudan)",
-     "url": "https://eyeradio.org/sudanese-military-source-acknowledges-abyei-market-strike-claims-site-supplied-fuel-to-rsf/"
-    },
-    {
-     "name": "Radio Tamazuj",
-     "url": "https://www.radiotamazuj.org/en/news/article/south-sudan-summons-sudan-envoy-over-abyei-market-attack"
     }
    ]
   }
