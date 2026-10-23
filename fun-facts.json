@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "facts": [
     {
       "date": "2026-09-20",
@@ -982,6 +982,28 @@
         {
           "name": "Victoria Gallery & Museum, University of Liverpool",
           "url": "https://www.liverpool.ac.uk/victoria-gallery-and-museum/blog/2021/willow-pattern/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "kind": "fact",
+      "category": "Everyday",
+      "emoji": "🧅",
+      "title": "Why onions make you cry",
+      "text": "Slicing an onion bursts open its cells, letting enzymes react with the onion’s sulfur compounds. That reaction makes an irritating gas that drifts up into your eyes. Your eyes sense the invader, and your tear glands flood them to wash it away.",
+      "sources": [
+        {
+          "name": "The Conversation (Duane Mellor, Aston University)",
+          "url": "https://theconversation.com/why-onions-make-us-cry-and-why-some-dont-84486"
+        },
+        {
+          "name": "Discover Magazine",
+          "url": "https://www.discovermagazine.com/why-do-onions-make-us-cry-3138"
+        },
+        {
+          "name": "Mental Floss",
+          "url": "https://www.mentalfloss.com/science/chemistry/why-do-onions-make-you-cry"
         }
       ]
     }
