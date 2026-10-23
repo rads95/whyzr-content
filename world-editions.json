@@ -3560,5 +3560,185 @@
         ]
       }
     ]
+  },
+  {
+    "id": "033",
+    "published": "2026-10-25",
+    "title": "A Mercury Prize for RAYE, Alberta stays put and PSG’s late show",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Did this actually happen?",
+        "claim": "Turkey’s central bank cut its main interest rate this week, after price rises in the country slowed to under 30% a year for the first time in nearly five years.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this is true. On 22 October Turkey’s central bank lowered its main interest rate from 37% to 36%, its first cut since January. It did so because inflation, which measures how fast prices are rising, fell to about 29.7% a year in September, the lowest since late 2021. Lower interest rates make borrowing cheaper, and central banks usually only cut them when prices are rising more slowly.",
+        "sources": [
+          [
+            "Hürriyet Daily News · Türkiye’s Central Bank cuts policy rate by 100bps to 36 percent",
+            "https://www.hurriyetdailynews.com/turkiyes-central-bank-cuts-policy-rate-by-100bps-to-36-percent-228479"
+          ],
+          [
+            "Asharq Al-Awsat · Turkey cuts key interest rate to 36%, first cut in months",
+            "https://english.aawsat.com/business/5332393-turkey-cuts-key-interest-rate-36-first-cut-months"
+          ],
+          [
+            "Investing.com · Turkey central bank cuts interest rate by 100 basis points to 36%",
+            "https://za.investing.com/news/stock-market-news/turkey-central-bank-cuts-interest-rate-by-100-basis-points-to-36-93CH-4519132"
+          ],
+          [
+            "Türkiye Today · Turkish central bank cuts rate to 36% in first move since Iran war",
+            "https://www.turkiyetoday.com/business/turkish-central-bank-cuts-rate-to-36-in-first-move-since-iran-war-3230825"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three terms. Find their partners.",
+        "pairs": [
+          [
+            "Vitinha",
+            "Scored PSG’s late shot from outside the box to make it 3–2"
+          ],
+          [
+            "Lamine Yamal",
+            "Barcelona’s star forward, who had just made it 2–2"
+          ],
+          [
+            "Parc des Princes",
+            "PSG’s home stadium in Paris, where the match was played"
+          ]
+        ],
+        "why": "The pairs are: Vitinha – PSG’s late goal to make it 3–2; Lamine Yamal – Barcelona’s star, who had just equalised at 2–2; Parc des Princes – PSG’s home ground, where the game was played. On 20 October, Paris Saint-Germain, the Champions League holders, beat Barcelona 4–2 in a thrilling match. Barcelona drew level twice, but Vitinha scored in the 81st minute and Fabián Ruiz added a fourth near the end. It was Barcelona’s first defeat of the season, ending a run of 11 wins in a row.",
+        "sources": [
+          [
+            "Al Jazeera · PSG score late to sink Barcelona 4-2 in Champions League blockbuster",
+            "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row"
+          ],
+          [
+            "Taipei Times (AFP) · PSG beat Barcelona 4-2",
+            "https://www.taipeitimes.com/News/sport/archives/2026/10/22/2003866408"
+          ],
+          [
+            "The Irish News · Paris St Germain edge out Barcelona in Champions League thriller",
+            "https://www.irishnews.com/sport/soccer/paris-st-germain-edge-out-barcelona-in-champions-league-thriller-I7LDAJSU75ISLH4NYPQIUMHYS4/"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "A singer from south London who won a record six Brit Awards in 2024",
+          "Her second album is called This Music May Contain Hope",
+          "She beat Paul McCartney and Olivia Dean at a ceremony in Newcastle"
+        ],
+        "options": [
+          "RAYE wins the Mercury Prize for the best British or Irish album",
+          "Paul McCartney announces his last ever world tour",
+          "Newcastle is chosen to host the Eurovision Song Contest",
+          "Adele releases a surprise new album"
+        ],
+        "correct": 0,
+        "why": "It was: RAYE wins the Mercury Prize. The Mercury Prize goes each year to the best album by a British or Irish artist, and comes with £25,000. On 22 October, at the Utilita Arena in Newcastle, RAYE won it for her second album, This Music May Contain Hope, beating 11 other nominees, including the favourite Olivia Dean and Paul McCartney. In her speech she called music “medicine”.",
+        "sources": [
+          [
+            "France 24 (AFP) · UK singer-songwriter Raye wins Mercury Prize for second album",
+            "https://www.france24.com/en/live-news/20261022-uk-singer-songwriter-raye-wins-mercury-prize-for-second-album"
+          ],
+          [
+            "Euronews · ‘Music is medicine’: RAYE wins Mercury Prize 2026 for her second album",
+            "https://www.euronews.com/2026/10/23/music-is-medicine-raye-wins-mercury-prize-2026-for-her-second-album-this-music-may-contain"
+          ],
+          [
+            "NME · Raye wins the Mercury Prize 2026",
+            "https://www.nme.com/news/music/mercury-prize-2026-winner-announced-raye-speech-performance-watch-3973848"
+          ],
+          [
+            "Rolling Stone UK · RAYE wins the 2026 Mercury Prize with ‘This Music May Contain Hope’",
+            "https://www.rollingstone.co.uk/music/news/raye-wins-the-2026-mercury-prize-with-this-music-may-contain-hope-65328/"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "Worrying news for coral reefs. Put these shares in order, smallest first.",
+        "items": [
+          "Shallow-water coral reef systems now rated ‘critically endangered’ by the IUCN",
+          "Reef-building coral species found to be at higher risk of dying out",
+          "The world’s reefs hit by harmful bleaching in the last record heatwave"
+        ],
+        "correctOrder": [
+          1,
+          2,
+          0
+        ],
+        "why": "The right order is: coral species at higher risk (nearly 44%, a bit under half), reefs hit by bleaching (84%) and reef systems rated critically endangered (96%, almost all). On 22 October the IUCN, the world’s main nature-protection body, published its first global check on coral reef ecosystems and put 96% of them in its highest-risk category, warning they could collapse within about 50 years as seas warm. The 44% figure comes from a separate IUCN study a week earlier, and the 84% from a survey of the record bleaching that turns corals white when water gets too hot. Scientists stress that many reefs are not yet lost and can still be saved.",
+        "sources": [
+          [
+            "Al Jazeera (AFP/AP) · Almost all shallow-water coral reefs now face extinction risk, study warns",
+            "https://www.aljazeera.com/news/2026/10/22/almost-all-shallow-water-coral-reefs-now-face-extinction-risk-study-warns"
+          ],
+          [
+            "NBC Boston (AP) · Almost all coral reef ecosystems face risk of collapse in 50 years",
+            "https://www.nbcboston.com/news/national-international/coral-reef-ecosystems-risk-collapse-50-years-study-warns/4035588/"
+          ],
+          [
+            "The Korea Times (AP) · Almost all coral reef ecosystems face risk of collapse in 50 years, study warns",
+            "https://www.koreatimes.co.kr/world/20261023/almost-all-coral-reef-ecosystems-face-risk-of-collapse-in-50-years-study-warns"
+          ],
+          [
+            "Prothom Alo (AFP) · Nearly all coral reefs risk collapse in 50 years: IUCN",
+            "https://en.prothomalo.com/environment/qcc1i251mf"
+          ],
+          [
+            "IUCN · Nearly half of reef-building coral species face elevated relative risk of extinction",
+            "https://iucn.org/index.php/press-release/202610/nearly-half-reef-building-coral-species-face-elevated-relative-risk-extinction"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "On 19 October, voters in Alberta, a Canadian province, were asked whether to start the process towards a vote on leaving Canada. What did they decide?",
+        "options": [
+          "About three in four voted to stay in Canada",
+          "A narrow majority voted to start leaving",
+          "The vote was called off at the last minute",
+          "Alberta declared independence straight away"
+        ],
+        "correct": 0,
+        "why": "About three in four voted to stay in Canada. Early results gave around 76% for staying and 24% for starting the legal process that could have led to a later, binding vote on separation. The ballot did not ask directly about independence, so even a ‘yes’ would not have taken Alberta out of Canada on its own. Prime Minister Mark Carney said Albertans had made “a clear choice”, while campaigners for separation said they would carry on.",
+        "sources": [
+          [
+            "Al Jazeera · Alberta voters reject separation from Canada, early results show",
+            "https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show"
+          ],
+          [
+            "Al Jazeera · Alberta rejects separation referendum: What’s next for Canadian province?",
+            "https://www.aljazeera.com/news/2026/10/20/alberta-rejects-separation-referendum-whats-next-for-canadian-province"
+          ],
+          [
+            "The Week (India) · Decisive rejection: 76% of Alberta voters choose unity over independence",
+            "https://www.theweek.in/news/world/2026/10/20/decisive-rejection-76percent-of-alberta-voters-choose-unity-over-independence.amp.html"
+          ],
+          [
+            "Outlook India · Alberta rejects separation from Canada, Mark Carney welcomes ‘clear choice’",
+            "https://www.outlookindia.com/international/alberta-rejects-separation-from-canada-mark-carney-welcomes-clear-choice"
+          ],
+          [
+            "Wealth Professional (Canada) · Albertans reject separation referendum, with 76.4% voting to stay in Canada",
+            "https://www.wealthprofessional.ca/news/industry-news/albertans-reject-separation-referendum-with-764-voting-to-stay-in-canada/393816"
+          ]
+        ]
+      }
+    ]
   }
 ]
