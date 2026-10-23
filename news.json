@@ -1,6 +1,97 @@
 {
- "updated": "2026-10-23T08:01:38Z",
+ "updated": "2026-10-23T14:04:35Z",
  "items": [
+  {
+   "section": "sport",
+   "published": "2026-10-23T11:38:00Z",
+   "title": "Kenya's marathon champion Peres Jepchirchir provisionally suspended over EPO test",
+   "why": "The Athletics Integrity Unit has provisionally suspended Kenya's Peres Jepchirchir, the Olympic and world marathon champion. It says a sample taken in Kenya before her Sydney Marathon win in August tested positive for the banned blood booster EPO. A hearing will decide her case.",
+   "sources": [
+    {
+     "name": "NBC Sports",
+     "url": "https://www.nbcsports.com/olympics/news/peres-jepchirchir-suspended-marathon"
+    },
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261023-world-marathon-champion-peres-jepchirchir-suspended-for-doping-aiu"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/sports/2026/10/23/kenyas-marathon-champion-peres-jepchirchir-provisionally-banned-by-aiu"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "published": "2026-10-23T08:47:00Z",
+   "title": "Israel closes Hebron and readies West Bank lockdown after soldiers killed",
+   "why": "Two Palestinian gunmen attacked a checkpoint near Hebron in the occupied West Bank on Friday, killing two Israeli soldiers and wounding three, the Israeli army says; soldiers killed both gunmen. Prime Minister Netanyahu ordered Hebron closed and told the army to prepare a full West Bank lockdown.",
+   "matters": "Netanyahu warned of a large military operation; Israelis vote in a national election on Tuesday, 27 October.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261023-pm-warns-of-major-west-bank-military-operation-after-attack-kills-israeli-soldiers"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/world/middle-east/israel-orders-west-bank-lockdown-hebron-shooting-attack-rcna605176"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "published": "2026-10-23T08:30:00Z",
+   "title": "Gunman kills one and wounds four near Paris; terror inquiry opened",
+   "why": "A man fired from a car at people in Trappes and nearby La Verrière, west of Paris, on Friday morning, killing one person and wounding four, including a child, police sources say. He was arrested in Coignières. Anti-terrorism prosecutors are investigating and examining a possible racist motive.",
+   "matters": "Interior Minister Laurent Nuñez called it a terrorist attack; it comes a day before planned nationwide protests.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack"
+    },
+    {
+     "name": "The Local France",
+     "url": "https://www.thelocal.fr/20261023/gunman-kills-one-and-wounds-four-in-town-outside-paris"
+    },
+    {
+     "name": "TRT World",
+     "url": "https://www.trtworld.com/article/911cd66c32d8"
+    },
+    {
+     "name": "Türkiye Today",
+     "url": "https://www.turkiyetoday.com/region/france-probes-terror-link-in-trappes-shooting-that-kills-1-wounds-4-3230879"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-10-23T08:12:00Z",
+   "title": "India's Jio Platforms share sale draws a record 10 million applications",
+   "why": "Bidding closed on Friday for the first share sale by Jio Platforms, Mukesh Ambani's telecoms and digital firm. It is raising about $3.2bn, India's largest share sale in rupee terms. Exchange data showed more than 10 million applications, which Indian media report is a world first.",
+   "matters": "The shares are due to start trading on 28 October, valuing the company at about $108bn.",
+   "sources": [
+    {
+     "name": "Reuters (via Investing.com)",
+     "url": "https://www.investing.com/news/stock-market-news/ambanis-32-billion-jio-indian-ipo-lures-investors-as-bids-surge-on-final-day-4968087"
+    },
+    {
+     "name": "The Tribune (ANI)",
+     "url": "https://www.tribuneindia.com/news/business/jio-platforms-ipo-sets-global-record-with-over-1-crore-applications-subscribed-7-83-times"
+    },
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/markets/ipo-corner/story/jio-platforms-ipo-creates-global-record-with-1-crore-applications-subscription-hits-7-65x-563249-2026-10-23"
+    }
+   ]
+  },
   {
    "section": "world",
    "serious": false,
@@ -20,6 +111,49 @@
     {
      "name": "Kyunghyang Shinmun",
      "url": "https://www.khan.co.kr/en/article/202610231511007/"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "serious": true,
+   "published": "2026-10-23T04:58:00Z",
+   "title": "Japanese novelist Ryu Murakami dies at 74",
+   "why": "The Japanese writer Ryu Murakami has died at home aged 74, Japanese news agencies reported on Friday. His family held a private funeral. His 1976 debut, 'Almost Transparent Blue', won Japan's top literary award, the Akutagawa Prize.",
+   "matters": "His novels, including 'Coin Locker Babies', reached readers worldwide in translation.",
+   "sources": [
+    {
+     "name": "Kyodo (via Nikkei Asia)",
+     "url": "https://asia.nikkei.com/life-arts/obituaries/japanese-author-ryu-murakami-known-for-almost-transparent-blue-dies"
+    },
+    {
+     "name": "Jiji Press (via Nippon.com)",
+     "url": "https://www.nippon.com/en/news/yjj2026102300567/"
+    },
+    {
+     "name": "AFP (via Korea Times)",
+     "url": "https://www.koreatimes.co.kr/amp/world/20261023/japanese-novelist-ryu-murakami-dies-aged-74"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-10-23T03:54:00Z",
+   "title": "Asian football backs Infantino for a fourth term as FIFA president",
+   "why": "The Asian Football Confederation endorsed Gianni Infantino's bid for a fourth term as FIFA president at its congress in Tokyo on Friday. Two months ago the confederation had accused him of a 'fundamental breach of trust'. The election is in March 2027.",
+   "matters": "Backing from 47 Asian football associations makes a challenge harder; UEFA says it will look for a rival candidate.",
+   "sources": [
+    {
+     "name": "AP (via ESPN)",
+     "url": "https://www.espn.com/soccer/story/_/id/50255102/asian-football-confederation-backs-gianni-infantino-term-fifa"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/sports/2026/10/23/asian-football-endorses-infantino-re-election-as-fifa-president"
+    },
+    {
+     "name": "Bernama",
+     "url": "https://www.bernama.com/en/world/news.php?id=2624575"
     }
    ]
   },
@@ -187,6 +321,48 @@
    ]
   },
   {
+   "section": "culture",
+   "serious": true,
+   "published": "2026-10-22T20:11:00Z",
+   "title": "US actor Tom Skerritt, of 'Alien' and 'Top Gun', dies at 93",
+   "why": "The American actor Tom Skerritt has died aged 93 of natural causes, his family said on Thursday. He played Captain Dallas in 'Alien' and the instructor 'Viper' in 'Top Gun', and won an Emmy in 1993 for the TV drama 'Picket Fences'.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/culture/20261022-emmy-winning-us-actor-tom-skerritt-top-gun-and-picket-fences-dies-93"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/tom-skerritt-dies-age-93-alien-top-gun-picket-fences/"
+    },
+    {
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/entertainment/2026/1022/1596513-tom-skerritt-alien-and-top-gun-star-dies-aged-93/"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "published": "2026-10-22T19:23:00Z",
+   "title": "Monet's 'Iris' sells for €50m, a record for an auction in France",
+   "why": "Claude Monet's late painting 'Iris', never before shown in public, sold for €50m including fees at Sotheby's in Paris on Thursday, the highest price for an artwork at auction in France. Sotheby's says the buyer is a private collector in Asia. The estimate was €22m–30m.",
+   "matters": "The sale falls 100 years after Monet's death in 1926.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261022-monet-s-iris-fetches-50-mn-euros-at-paris-auction"
+    },
+    {
+     "name": "Il Sole 24 Ore",
+     "url": "https://en.ilsole24ore.com/art/iris-monet-sold-for-50-million-euros-at-a-record-breaking-auction-in-paris-AJtGYurB"
+    },
+    {
+     "name": "ThePrint",
+     "url": "https://theprint.in/feature/claude-monets-iris-fetches-50-million-euros-becomes-frances-most-expensive-auctioned-artwork/3079493/"
+    }
+   ]
+  },
+  {
    "section": "money",
    "published": "2026-10-22T15:45:00Z",
    "title": "Gucci sales fall again as owner Kering's shares drop sharply",
@@ -280,6 +456,70 @@
   {
    "section": "world",
    "serious": true,
+   "published": "2026-10-22T15:00:00Z",
+   "title": "Man killed by crowd in Durban amid South Africa anti-migrant protests",
+   "why": "Police say a crowd of about 50 people beat a foreign national to death on Thursday in central Durban, South Africa, on the sidelines of a march. His nationality has not been released and a murder case is open. Durban has seen months of protests against migrants.",
+   "matters": "Soldiers were sent to Durban this month after rioting; Nigeria, Mozambique and Malawi say citizens have died in such attacks.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/22/foreign-national-beaten-to-death-by-a-mob-in-south-africa"
+    },
+    {
+     "name": "AFP (via The Standard, Kenya)",
+     "url": "https://www.standardmedia.co.ke/amp/africa/article/2001560662/foreign-national-beaten-to-death-by-mob-in-south-africa"
+    },
+    {
+     "name": "Pulse Nigeria",
+     "url": "https://www.pulse.ng/story/foreign-national-beaten-to-death-durban-mob-attack-2026102310534889010"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "published": "2026-10-22T14:30:00Z",
+   "title": "Malaria vaccine for children to cost about 40% less from 2027",
+   "why": "UNICEF and the vaccine alliance Gavi have agreed to cut the price of the RTS,S malaria vaccine to €5.50 a dose. India's Bharat Biotech is taking over production from GSK. The lower price is due by early 2027 if a new factory gets WHO approval.",
+   "matters": "The groups say the saving could pay for the full four-dose course for up to a million more children.",
+   "sources": [
+    {
+     "name": "Reuters (via TimesLIVE)",
+     "url": "https://www.timeslive.co.za/news/sci-tech/2026-10-22-unicef-and-gavi-agree-to-cut-mosquirix-malaria-vaccine-price-by-40/"
+    },
+    {
+     "name": "ETV Bharat",
+     "url": "https://www.etvbharat.com/en/health/bharat-biotech-unicef-gavi-deal-cuts-price-of-malaria-vaccine-enn26102303852"
+    },
+    {
+     "name": "The Federal",
+     "url": "https://thefederal.com/category/health/bharat-biotech-gavi-unicef-deal-to-cut-malaria-vaccine-price-by-forty-per-cent-260456"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "published": "2026-10-22T14:05:00Z",
+   "title": "Young giant manta rays stay near Costa Rica's coast while adults roam",
+   "why": "Researchers tracked giant manta rays off Costa Rica from 2018 to 2025 with acoustic and satellite tags. Young rays stayed in coastal waters, probably to avoid predators, while adults swam hundreds of kilometres, some as far as Guatemala. The study is in Frontiers in Fish Science.",
+   "matters": "Adults lose protection when they leave coastal reserves, so researchers want neighbouring countries to protect migration routes together.",
+   "sources": [
+    {
+     "name": "Reuters (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/science/articles/young-giant-manta-rays-stay-140516841.html"
+    },
+    {
+     "name": "Popular Science",
+     "url": "https://www.popsci.com/environment/baby-manta-rays-shallows/"
+    },
+    {
+     "name": "Earth.com",
+     "url": "https://www.earth.com/animals/giant-manta-rays-travel-thousands-of-miles-but-keep-returning-to-familiar-reefs/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
    "published": "2026-10-22T14:00:00Z",
    "title": "Hundreds flee clashes in Ethiopia's Moyale into neighbouring Kenya",
    "why": "Hundreds of people, mostly women and children, crossed into Kenya at the border town of Moyale after fighting between forces of Ethiopia's Oromia and Somali regions, Kenyan police and officials said on Thursday. Reports link the clashes to a dispute over a regional flag.",
@@ -331,9 +571,17 @@
    "developing": true,
    "published": "2026-10-22T12:00:00Z",
    "title": "Investigators look for link between Nigeria and Kenya Ebola cases",
-   "why": "Africa CDC says the first known Ebola patients in Nigeria and Kenya both flew from Uganda's Entebbe airport on the same day and is checking if they met. WHO's Africa director describes \"a more complex outbreak landscape\". The US CDC counts 9,704 confirmed cases and 4,687 deaths in Congo.",
-   "matters": "WHO says Nigeria's patient is improving; Kenya says all 135 contacts of its first case have been traced.",
+   "why": "Nigeria's health minister says its only Ebola patient is recovering and the case is contained; 46 contacts are barred from flying for 21 days. Kenya still has nine cases in one cluster. Africa CDC is checking whether the first patients in both countries met at Uganda's Entebbe airport.",
+   "matters": "WHO's Africa director describes \"a more complex outbreak landscape\" now that three countries have cases.",
    "sources": [
+    {
+     "name": "Africanews",
+     "url": "https://www.africanews.com/2026/10/23/nigerias-health-minister-says-first-ebola-case-remains-isolated/"
+    },
+    {
+     "name": "Premium Times",
+     "url": "https://www.premiumtimesng.com/business/business-news/919110-ebola-keyamo-orders-46-contacts-of-infected-woman-placed-on-21-day-no-fly-list.html"
+    },
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/10/22/who-warns-more-complex-ebola-outbreak-now-present-in-3-african-countries"
@@ -341,12 +589,9 @@
     {
      "name": "Reuters (via Cyprus Mail)",
      "url": "https://cyprus-mail.com/2026/10/22/ebola-patient-in-nigeria-believed-to-have-contracted-disease-in-uganda-switzerland-says"
-    },
-    {
-     "name": "US CDC",
-     "url": "https://www.cdc.gov/ebola/situation-summary/index.html"
     }
-   ]
+   ],
+   "changed": "Updated: Nigeria says its patient is recovering and 46 contacts are barred from flying; no new cases"
   },
   {
    "section": "health",
@@ -444,22 +689,24 @@
    "serious": true,
    "published": "2026-10-22T11:00:00Z",
    "title": "France bans protests in several cities after weekend riots and looting",
-   "why": "French authorities banned Thursday's protests in Paris, Lyon, Lille and Grenoble, and some Saturday marches, after last weekend's looting and clashes. President Emmanuel Macron blamed 'ultra-left' groups and said 'illegitimate' protests would be banned. The unrest grew out of school and cost-of-living protests.",
-   "matters": "More nationwide demonstrations are planned for Saturday, and unions have called a day of strikes on 5 November.",
+   "why": "French authorities have banned protests in several cities, including Lyon and Marseille on Saturday, after last weekend's looting and clashes. President Macron met student representatives on Friday. The interior minister says about 70,000 security personnel will be deployed for Saturday's marches.",
+   "matters": "More than 2,700 people have been arrested since last Saturday, France's justice ministry says.",
    "sources": [
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/22/macron-blames-seditious-ultra-left-for-unrest-as-france-bans-protests"
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261023-macron-meets-with-student-representatives-and-law-enforcement-ahead-of-new-protests"
     },
     {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261021-live-french-pm-lecornu-to-meet-with-unions-ahead-of-new-protests"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/23/france-tightens-security-in-anticipation-of-weekend-protests"
     },
     {
      "name": "NBC News",
      "url": "https://www.nbcnews.com/world/france/france-emmanuel-macron-illegitimate-protests-banned-cities-rcna604952"
     }
-   ]
+   ],
+   "developing": true,
+   "changed": "Updated: Macron meets student groups; about 70,000 police and gendarmes to be deployed on Saturday"
   },
   {
    "section": "sport",
@@ -524,6 +771,49 @@
     {
      "name": "Anadolu Agency (via TRT World)",
      "url": "https://www.trtworld.com/article/2b506010c2ed"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "serious": true,
+   "published": "2026-10-22T09:30:00Z",
+   "title": "France reports first known human case of livestock virus Shamonda",
+   "why": "French authorities say a severely immunocompromised patient treated in Lyon, who died in early October, had Shamonda virus. It is usually spread among cattle by biting midges and was not known to infect people. Officials think a midge bite in eastern France caused the infection.",
+   "matters": "French health officials say there is no known risk to the general public.",
+   "sources": [
+    {
+     "name": "Reuters (via Al Jazeera)",
+     "url": "https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk"
+    },
+    {
+     "name": "AP (via PBS NewsHour)",
+     "url": "https://www.pbs.org/newshour/world/france-reports-first-human-case-of-livestock-virus-shamonda-in-patient-who-later-died"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/22/france-confirms-first-human-case-of-shamonda-virus-previously-found-only-in-animals"
+    }
+   ]
+  },
+  {
+   "section": "curious",
+   "published": "2026-10-22T08:24:00Z",
+   "title": "Scientists send smells such as coffee and orange over the internet",
+   "why": "Researchers at Ohio State University and China's Zhejiang Laboratory built 'Scentronic': an AI electronic nose recognises a smell and sends the data to a wearable device that recreates it from stored scented liquids. In tests, 14 volunteers named the five scents correctly about 73% of the time.",
+   "matters": "It might one day let shoppers smell perfume or food online, though for now it copies only five smells.",
+   "sources": [
+    {
+     "name": "WION",
+     "url": "https://www.wionews.com/science/scientists-make-digital-nose-that-can-sniff-and-send-scents-over-the-internet-1792656772505"
+    },
+    {
+     "name": "Digital Trends",
+     "url": "https://www.digitaltrends.com/cool-tech/scientists-send-smells-over-internet-scentronic/"
+    },
+    {
+     "name": "Tech Xplore",
+     "url": "https://techxplore.com/news/2026-10-scientists-aromas-internet.html"
     }
    ]
   },
@@ -754,27 +1044,27 @@
   {
    "section": "world",
    "developing": true,
-   "changed": "Updated: Seoul says it would respond in proportion and will write to the UN Security Council",
+   "changed": "Updated: South Korea proposes military talks to the North on the border line and hotlines",
    "published": "2026-10-21T22:45:00Z",
    "title": "North Korea to restart propaganda loudspeakers along the border with South Korea",
-   "why": "Kim Yo Jong, sister of leader Kim Jong Un, said loudspeakers will be ready along the whole border within days. Seoul says it would take a 'proportionate measure' if broadcasts resume, and says it will tell the UN Security Council a North Korean mine hurt three soldiers.",
-   "matters": "South Korea's President Lee Jae Myung halted Seoul's own broadcasts last year to ease tensions; Seoul urges talks.",
+   "why": "Kim Yo Jong, sister of Kim Jong Un, says loudspeakers will be ready along the border within days. On Friday South Korea proposed military talks to agree the exact border line, restore military hotlines and prevent clashes. Seoul blames a North Korean mine for injuring three soldiers.",
+   "matters": "North Korea did not answer a similar offer last year; Kim Yo Jong has dismissed Seoul's calls for dialogue.",
    "sources": [
     {
-     "name": "Yonhap (Korea Times)",
-     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261022/seoul-mulls-proportionate-measure-over-pyongyangs-loudspeaker-threat"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/23/south-korea-invites-north-for-military-talks-over-border"
+    },
+    {
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/southkorea/defense/20261023/s-korea-proposes-military-talks-with-n-korea-over-border-conflict-issue"
+    },
+    {
+     "name": "AFP (via Kuwait Times)",
+     "url": "https://kuwaittimes.com/article/52199/world/south-korea-proposes-border-talks-with-north-after-dmz-blast/"
     },
     {
      "name": "ABC Australia",
      "url": "https://www.abc.net.au/news/2026-10-23/tensions-rise-on-korea-border/107299192"
-    },
-    {
-     "name": "AP (via NBC News)",
-     "url": "https://www.nbcnews.com/world/asia/north-korea-says-will-resume-propaganda-broadcasts-border-south-korea-rcna604939"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue"
     }
    ]
   },
@@ -858,23 +1148,28 @@
   {
    "section": "sport",
    "published": "2026-10-21T18:40:00Z",
-   "title": "Como beat Manchester United 4-1 in their first Champions League season",
-   "why": "Italian club Como, coached by Cesc Fàbregas, beat Manchester United 4-1 in the Champions League at home in Como on 21 October. Nico Paz scored twice, with Tasos Douvikas and Jacobo Ramón also scoring; Joshua Zirkzee replied in stoppage time.",
-   "matters": "United manager Michael Carrick apologised for an 'unacceptable' display; Como now have six points, United three.",
+   "title": "Typhoon Champi kills one in Taiwan and shuts schools and offices",
+   "why": "Taiwan's emergency centre says one man died after waves swept him off a beach on Liuqiu island in Pingtung County, and at least 94 people were hurt. Schools, offices and the stock market closed on Friday, about 1,300 people were evacuated and nearly 1,000 flights were cancelled.",
+   "matters": "The storm is forecast to brush north-eastern Taiwan, then head towards China's east coast and southern Japan.",
    "sources": [
     {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/football/news/13600997/como-4-1-man-utd-michael-carricks-side-ripped-apart-in-italy-during-champions-league-hammering"
+     "name": "Focus Taiwan",
+     "url": "https://focustaiwan.tw/society/202610230005"
     },
     {
-     "name": "ESPN",
-     "url": "https://www.espn.com/soccer/story/_/id/50240080/man-united-como-uefa-champions-league-2026"
+     "name": "Taipei Times",
+     "url": "https://www.taipeitimes.com/News/front/archives/2026/10/23/2003866495"
     },
     {
-     "name": "beIN Sports",
-     "url": "https://www.beinsports.com/en-mena/football/uefa-champions-league/articles-video/manchester-united-thrashed-by-como-in-champions-league-horror-show-2026-10-21"
+     "name": "Reuters (via NBC News)",
+     "url": "https://www.nbcnews.com/world/asia/taiwan-shuts-ahead-typhoon-champi-nearly-1000-flights-canceled-rcna605166"
+    },
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/asia-pacific/20261023-taiwan-shuts-down-schools-and-businesses-as-typhoon-champi-approaches"
     }
-   ]
+   ],
+   "changed": "Updated: about 1,300 evacuated and nearly 1,000 flights cancelled"
   },
   {
    "section": "world",
@@ -994,69 +1289,6 @@
   },
   {
    "section": "world",
-   "published": "2026-10-21T12:30:00Z",
-   "title": "Qatar, Türkiye, Pakistan and Indonesia sign 'Badr' defence industry pact",
-   "why": "Defence ministers and officials of the four countries signed the 'Badr' memorandum in Qatar's capital, Doha, on Wednesday, Türkiye's defence ministry said. It covers joint weapons production, training, and research and development. It does not include a mutual defence pledge.",
-   "matters": "Al Jazeera sees it as part of a wider push for new security ties in the region during the war with Iran.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties"
-    },
-    {
-     "name": "Reuters (Arab News)",
-     "url": "https://www.arabnews.com/middle-east/turkiye-qatar-pakistan-indonesia-sign-defense-cooperation-accord-ankara-says-3007521"
-    },
-    {
-     "name": "Türkiye Today",
-     "url": "https://www.turkiyetoday.com/nation/turkiye-qatar-pakistan-and-indonesia-sign-badr-military-cooperation-pact-3230765"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "published": "2026-10-21T10:30:00Z",
-   "title": "UN warns El Niño could be the strongest on record",
-   "why": "The World Meteorological Organization says tropical Pacific temperatures may reach 3.8C above average between November and January; its chief says record El Niños have reached about 3C. In Geneva on 21 October, UN aid chief Tom Fletcher released over $50 million for 11 countries, including Chad, Ethiopia and Somalia.",
-   "matters": "Fletcher says about 50 million people could face increased hunger as heat, drought and floods hit.",
-   "sources": [
-    {
-     "name": "UN Geneva",
-     "url": "https://www.unognewsroom.org/story/en/3305/joint-press-conference-ocha-wmo-el-nino-is-set-to-hit-fragile-communities-hard"
-    },
-    {
-     "name": "Reuters (via CNBC Africa)",
-     "url": "https://www.cnbcafrica.com/2026/el-nino-wrecking-ball-could-cause-record-pacific-temperature-rise-un-says"
-    },
-    {
-     "name": "Euronews (with AFP)",
-     "url": "https://www.euronews.com/2026/10/21/un-warns-elnino-could-be-strongest-on-record"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "published": "2026-10-21T09:00:00Z",
-   "title": "WHO launches global indicators to track heat risks for mothers and children",
-   "why": "The World Health Organization, with the WMO, UNICEF and the UN Population Fund, published on 21 October the first global set of indicators for how extreme heat affects pregnant women, newborns and children. It links heat exposure to 26% higher odds of preterm birth.",
-   "matters": "WHO says about 1.5 billion children face heatwaves that are more frequent, longer or more severe.",
-   "sources": [
-    {
-     "name": "WHO",
-     "url": "https://www.who.int/news/item/21-10-2026-new-global-framework-launched-to-track-increasing-health-risks-of-extreme-heat-for-pregnant-women--newborns-and-children"
-    },
-    {
-     "name": "KBC",
-     "url": "https://www.kbc.co.ke/who-warns-of-rising-heat-risks-for-mothers-children/"
-    },
-    {
-     "name": "Greater Kashmir",
-     "url": "https://www.greaterkashmir.com/health/who-launches-framework-to-track-heat-risks-for-pregnant-women-and-children-12716716"
-    }
-   ]
-  },
-  {
-   "section": "world",
    "developing": true,
    "changed": "Updated: latest Datafolha poll shows the two candidates level",
    "published": "2026-10-20T20:00:00Z",
@@ -1137,31 +1369,27 @@
    "section": "money",
    "serious": true,
    "developing": true,
-   "changed": "Updated: Brent had its highest close since May and neared $114 on Friday",
+   "changed": "Updated: Brent rose above $114 on Friday",
    "published": "2026-10-20T11:30:00Z",
-   "title": "Oil climbs to five-month high near $114 amid Houthi attacks",
-   "why": "Brent rose 4% on Thursday to $113.17 a barrel, its highest close since 4 May, Reuters reports, and neared $114 on Friday. Saudi Aramco told staff to leave its Dhahran headquarters as Houthi attacks grew, and Iran threatened US bases over ship escorts in the Strait of Hormuz, AFP says.",
+   "title": "Oil rises above $114, its highest level since May",
+   "why": "Brent crude rose 4% on Thursday to close at $113.17 a barrel, its highest close since 4 May, and traded above $114 on Friday. Traders point to Houthi attacks on Saudi Arabia, risks to Gulf shipping and an outage at a Libyan oilfield.",
    "matters": "Oil prices feed into fuel, heating and shipping costs around the world.",
    "sources": [
     {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending"
+    },
+    {
+     "name": "Reuters (via ProfileNews)",
+     "url": "https://www.profilenews.com/en/oil-prices-today-2/"
+    },
+    {
+     "name": "Fortune",
+     "url": "https://fortune.com/article/price-of-oil-10-23-2026/"
+    },
+    {
      "name": "Reuters (via The Nation Thailand)",
      "url": "https://www.nationthailand.com/news/world/40072637"
-    },
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261023-asian-stocks-head-into-weekend-on-a-low-as-tech-extends-losses"
-    },
-    {
-     "name": "ABC News (Australia)",
-     "url": "https://abc.net.au/news/2026-10-23/asx-markets-business-news-live-updates-oct-23/107291840"
-    },
-    {
-     "name": "Türkiye Today",
-     "url": "https://www.turkiyetoday.com/business/oil-prices-jump-3-after-deadly-houthi-attack-on-saudi-shaybah-oil-field-3230819"
-    },
-    {
-     "name": "Oilprice.com",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-114-as-Houthi-Attacks-Threaten-Saudi-Energy-Infrastructure.html"
     }
    ]
   },
@@ -1169,10 +1397,10 @@
    "section": "world",
    "lead": true,
    "developing": true,
-   "changed": "Updated: Trump says the US ‘may do it a little bit further’; ministers meet in Istanbul",
+   "changed": "Updated: NYT reports US and Israeli plans for strikes after the midterms; ministers meet in Istanbul",
    "published": "2026-10-20T08:30:00Z",
    "title": "Trump hints at further Iran strikes as ministers meet in Istanbul",
-   "why": "President Trump said on Thursday the US had ‘knocked the hell out of’ Iran and ‘may do it a little bit further’. The White House says there will be no attack before the 3 November midterms. Foreign ministers from Europe and the Middle East meet in Istanbul on Friday.",
+   "why": "The New York Times reports US and Israeli plans for a short, intense campaign against Iran after the 3 November midterms; Trump has not approved it. He says the US 'may do it a little bit further'. European and Middle Eastern ministers met in Istanbul on Friday.",
    "matters": "Iran says Hormuz stays shut until its terms are met, and reportedly warned it could hit Gulf airports and pipelines if attacked.",
    "sources": [
     {
@@ -1180,12 +1408,16 @@
      "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran"
     },
     {
-     "name": "Iran International",
-     "url": "https://www.iranintl.com/en/liveblog/202610187555"
+     "name": "Haaretz",
+     "url": "https://www.haaretz.com/israel-news/israel-security/2026-10-22/ty-article/u-s-and-israel-have-drawn-up-plans-for-iran-strikes-after-midterms-nyt-reports/000001a1-6122-da49-abe9-6ffa052f0000"
     },
     {
-     "name": "ABC News",
-     "url": "https://abcnews.com/International/live-updates/iran-live-updates/?id=137370653"
+     "name": "TIME",
+     "url": "https://time.com/article/2026/10/22/us-israel-iran-war-strikes-midterms/"
+    },
+    {
+     "name": "AFP (via Kuwait Times)",
+     "url": "https://kuwaittimes.com/article/52189/world/european-mideast-ministers-meet-in-istanbul-on-hormuz-regional-crises/"
     },
     {
      "name": "CBS News",
