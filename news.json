@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-26T09:55:32Z",
+ "updated": "2026-10-26T13:53:00Z",
  "items": [
+  {
+   "section": "tech",
+   "published": "2026-10-26T13:00:00Z",
+   "title": "Anthropic files to sell shares on Nasdaq under the ticker ANT",
+   "why": "Anthropic, the maker of the Claude AI models, publicly filed for a stock market listing in the US on Monday. Its filing shows revenue of $16.3 billion in the first half of 2026 and a net loss of $80.7 billion, mostly from a non-cash charge. No valuation was given.",
+   "matters": "It could be one of the largest share sales ever; reports say the listing is aimed for mid-November.",
+   "sources": [
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/anthropic-ipo-plans-ai-safety/"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://www.investing.com/news/stock-market-news/anthropic-files-for-nasdaq-ipo-as-revenue-jumps-to-163-billion-4972842"
+    },
+    {
+     "name": "Capital Brief",
+     "url": "https://www.capitalbrief.com/briefing/anthropic-files-for-nasdaq-ipo-under-ticker-ant-e3419159-7771-4779-b826-6df76c6afe10/"
+    }
+   ]
+  },
   {
    "section": "money",
    "published": "2026-10-26T09:11:00Z",
@@ -23,13 +44,58 @@
    ]
   },
   {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "published": "2026-10-26T09:00:00Z",
+   "title": "Saudi-led coalition says it struck Houthi missile sites in Yemen",
+   "why": "The coalition backing Yemen's government says it destroyed five missile-storage tunnels, four ballistic missile launchers and a depot in Houthi-held areas on Monday. The Houthis say they fired a missile at Riyadh's airport; Saudi air defences say they intercepted a missile aimed at the city.",
+   "matters": "Fighting between Saudi Arabia and the Houthis has escalated since a 2022 truce collapsed last month.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz"
+    },
+    {
+     "name": "The Business Standard (UNB)",
+     "url": "https://www.tbsnews.net/worldbiz/middle-east/saudi-led-coalition-says-it-destroys-houthi-missile-facilities-1583496"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "serious": true,
+   "published": "2026-10-26T08:00:00Z",
+   "title": "Nurse killed while responding to Ebola alert in DR Congo",
+   "why": "Attackers killed a nurse and badly injured another responder in Bafwasende, in DR Congo's Tshopo province, on Saturday. Health officials say the attackers accused them of spreading Ebola, which officials call a rumour. The WHO and UN condemned the attack.",
+   "matters": "Attacks on health workers are slowing the response to Congo's deadliest Ebola outbreak, officials say.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case"
+    },
+    {
+     "name": "UN News (via allAfrica)",
+     "url": "https://allafrica.com/stories/202610260403.html"
+    },
+    {
+     "name": "EFE (via Infobae)",
+     "url": "https://infobae.com/america/agencias/2026/10/26/matan-a-un-enfermero-y-hieren-a-otro-trabajador-en-rdc-al-acusarlos-de-propagar-el-ebola"
+    }
+   ]
+  },
+  {
    "section": "climate",
    "serious": true,
    "developing": true,
    "published": "2026-10-26T07:00:00Z",
-   "title": "Cyclone Arnab heads for India's east coast; landfall expected Wednesday",
-   "why": "Cyclone Arnab formed over the Bay of Bengal on 26 October and is expected to strengthen and cross Andhra Pradesh's coast between Bapatla and Visakhapatnam on 28 October, India's weather office says, with gusts up to 140 km/h. Andhra Pradesh officials say 570,000 people are vulnerable.",
-   "matters": "Evacuations, school closures and a fishing ban are being put in place in Andhra Pradesh and neighbouring Odisha ahead of heavy rain.",
+   "title": "Cyclone Arnab strengthens; red alert issued for India's east coast",
+   "why": "Cyclone Arnab is expected to become a very severe cyclonic storm and cross Andhra Pradesh's coast between Bapatla and Visakhapatnam on the morning of 28 October, India's weather office says, with gusts up to 140 km/h. It has issued a red alert for coastal Andhra Pradesh and southern Odisha.",
+   "matters": "Andhra Pradesh officials say 570,000 people are vulnerable; evacuations and a fishing ban are under way.",
    "sources": [
     {
      "name": "Reuters (via Dawn)",
@@ -46,8 +112,17 @@
     {
      "name": "India.com",
      "url": "https://www.india.com/news/india/cyclone-arnab-live-deep-depression-intensifies-into-cyclonic-storm-heavy-rain-lashes-parts-of-tamil-nadu-8539304/"
+    },
+    {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/india/story/cyclone-arnab-imd-issues-red-alert-as-andhra-pradesh-odisha-brace-for-landfall-check-rainfall-forecast-563587-2026-10-26"
+    },
+    {
+     "name": "Free Press Journal (PTI)",
+     "url": "https://www.freepressjournal.in/india/cyclone-arnab-to-hit-andhra-coast-as-very-severe-storm-centre-directs-states-to-ensure-zero-casualties"
     }
-   ]
+   ],
+   "changed": "Updated: the weather office now expects a very severe storm and has issued a red alert"
   },
   {
    "section": "money",
@@ -71,6 +146,28 @@
     {
      "name": "FXStreet",
      "url": "https://fxstreet.com/news/equities-global-stocks-under-pressure-ahead-of-tech-earnings-deutsche-bank-202610260834"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-10-26T06:00:00Z",
+   "title": "Jordan arrests three suspects over deadly attack on Karak church",
+   "why": "Jordanian security forces arrested three men on Monday after a three-hour gunfight in a village in Karak, south of Amman, police say. They are suspected of Friday's attack on a funeral at a Greek Orthodox church, in which Jordan's health ministry says eight people were killed; some reports say nine.",
+   "matters": "King Abdullah has called it terrorism and ordered a review of how security forces respond to such attacks.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-in-deadly-church-attack"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/mena/2026/10/26/jordan-arrests-three-over-deadly-karak-church-attack/"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://abcnews.com/International/jordan-arrests-3-church-shooting-suspects-after-fierce/story?id=137565277"
     }
    ]
   },
@@ -101,8 +198,8 @@
    "serious": true,
    "developing": true,
    "published": "2026-10-26T04:45:00Z",
-   "title": "Saudi, Turkish and Pakistani officials hold security talks in Iran",
-   "why": "Saudi Arabia's defence minister, Pakistan's army chief and Turkey's intelligence chief meet Iran's security council in Tehran on Monday, Iranian and Saudi officials say. On Sunday President Trump said he was choosing between a deal and action to 'finish them off', but ruled out strikes that day.",
+   "title": "Saudi, Turkish and Pakistani officials meet Iran's military chief in Tehran",
+   "why": "Saudi Arabia's defence minister, Pakistan's army chief and Turkey's intelligence chief met Iran's top military official in Tehran on Monday, reports say. On Sunday President Trump said he was choosing between a deal and action to 'finish them off', but ruled out strikes that day.",
    "matters": "The three countries signed a mutual defence pact in August; Saudi officials say the visit aims to calm the crisis.",
    "sources": [
     {
@@ -116,8 +213,13 @@
     {
      "name": "CBS News",
      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/"
+    },
+    {
+     "name": "The Business Standard (UNB)",
+     "url": "https://www.tbsnews.net/worldbiz/middle-east/saudi-led-coalition-says-it-destroys-houthi-missile-facilities-1583496"
     }
-   ]
+   ],
+   "changed": "Updated: the meeting has now taken place"
   },
   {
    "section": "money",
@@ -233,6 +335,28 @@
     {
      "name": "investingLive",
      "url": "https://investinglive.com/stocks/musk-says-spacex-closed-40-billion-gpu-debt-deal-predicts-neocloud-shakeout/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "published": "2026-10-25T18:00:00Z",
+   "title": "Residents say 50 killed in gunmen's attack on Nigerian village",
+   "why": "Armed men on motorcycles attacked Binnari village in Nigeria's Taraba State on Friday. Police first confirmed 10 deaths; residents say 50 bodies have now been found, many in a river where people drowned while fleeing. Amnesty International says the toll may be as high as 52.",
+   "sources": [
+    {
+     "name": "Africanews (AFP/AP)",
+     "url": "https://www.africanews.com/2026/10/26/nigeria-50-killed-in-bandit-attack-on-taraba-village/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say"
+    },
+    {
+     "name": "Blueprint",
+     "url": "https://blueprint.ng/taraba-attack-more-bodies-recovered-from-river-as-death-toll-hits-50/"
     }
    ]
   },
@@ -376,7 +500,7 @@
    "developing": true,
    "published": "2026-10-25T10:00:00Z",
    "title": "Offshore drilling rig sinks off Gabon with 115 people on board",
-   "why": "Borr Drilling's Prospector 5 rig sank off Mayumba, Gabon, on Saturday evening while being prepared for drilling. Gabon's petroleum ministry says 110 people are safe and five missing; Reuters, citing a petroleum workers' union official, reports one dead and four missing. The navy is searching.",
+   "why": "Borr Drilling's Prospector 5 rig sank off Mayumba, Gabon, on Saturday evening. The company and Gabon's government say 110 people are safe and five missing; Reuters, citing unnamed sources, reports one dead and four missing. Borr says a leg punched through the seabed, making the rig unstable.",
    "matters": "Gabon has ordered a technical investigation; the ministry says no pollution has been seen so far.",
    "sources": [
     {
@@ -390,8 +514,13 @@
     {
      "name": "Gabonreview",
      "url": "https://www.gabonreview.com/prospector-5-110-rescapes-cinq-disparus-et-un-naufrage-a-elucider/"
+    },
+    {
+     "name": "Offshore Engineer",
+     "url": "https://www.oedigital.com/news/543886-borr-drilling-rig-sinks-off-gabon-110-rescued-as-search-for-five-missing-continues"
     }
-   ]
+   ],
+   "changed": "Updated: Borr Drilling gives a first explanation for the sinking"
   },
   {
    "section": "sport",
@@ -433,6 +562,28 @@
     {
      "name": "The Federal",
      "url": "https://thefederal.com/category/news/artist-jogen-chowdhury-dies-at-87-after-battle-with-rare-blood-cancer-260673"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-10-25T04:45:00Z",
+   "title": "Bus and lorry collide on Kenyan highway, killing at least 24",
+   "why": "A church bus and a lorry collided head-on on the Nairobi–Mombasa highway near Mtito Andei, Kenya, on Sunday morning. At least 24 people died and 24 were injured, Makueni county officials say. Officials suspect improper overtaking.",
+   "matters": "President Ruto has ordered inspections of all public service vehicles; it is the highway's second deadly crash in three weeks.",
+   "sources": [
+    {
+     "name": "Africanews (AP)",
+     "url": "https://www.africanews.com/2026/10/26/national-emergency-24-dead-in-kenya-bus-crash-near-site-of-previous-fatal-accident/"
+    },
+    {
+     "name": "Citizen Digital",
+     "url": "https://citizen.digital/article/20-killed-several-injured-in-bus-lorry-collision-along-nairobi-mombasa-highway-n392701"
+    },
+    {
+     "name": "K24 Digital",
+     "url": "https://k24.digital/lifestyle/travel-and-leisure/mtito-andei-accident-what-we-know-so-far-about-the-tragic-crash-that-killed-24-people"
     }
    ]
   },
@@ -507,52 +658,6 @@
   },
   {
    "section": "world",
-   "published": "2026-10-24T08:00:00Z",
-   "title": "Kim Jong Un visits China, crossing newly opened border bridge",
-   "why": "North Korea's leader spent Saturday in the Chinese border city of Dandong, reached via the newly opened New Yalu River Bridge. China's fourth-ranking official, Wang Huning, hosted him and passed on Xi Jinping's greetings, Xinhua reports. It was Kim's first known China visit since September 2025.",
-   "matters": "The 3km bridge is expected to boost trade with China, North Korea's main economic backer.",
-   "sources": [
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-10-25/kim-jong-un-crosses-new-bridge-into-china/107305932"
-    },
-    {
-     "name": "Al Jazeera (AFP/Reuters)",
-     "url": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says"
-    },
-    {
-     "name": "Korea Times (Yonhap)",
-     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261025/nk-leader-vows-to-advance-ties-with-china-during-surprise-dandong-visit"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-10-24T06:00:00Z",
-   "title": "SoftBank plans $50 billion AI investment in Malaysia, prime minister says",
-   "why": "Malaysia's prime minister, Anwar Ibrahim, said on Saturday that a major global investor plans to put $50 billion into AI, new technology and data centres in Kuching, Sarawak, and Peninsular Malaysia. Bloomberg and Nikkei Asia report the investor is SoftBank founder Masayoshi Son.",
-   "matters": "Southeast Asia is becoming a major hub for the data centres that power AI services.",
-   "sources": [
-    {
-     "name": "Bernama",
-     "url": "https://www.bernamabiz.com/news.php?id=2625154"
-    },
-    {
-     "name": "The Star (Malaysia)",
-     "url": "https://www.thestar.com.my/news/nation/2026/10/24/anwar-says-039global-investor039-has-chosen-malaysia-for-us50bil-tech-sector-investment"
-    },
-    {
-     "name": "Nikkei Asia",
-     "url": "https://asia.nikkei.com/business/softbank/softbank-plans-50bn-ai-investment-in-malaysia-pm-says"
-    },
-    {
-     "name": "Bloomberg (via Taipei Times)",
-     "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/26/2003866599"
-    }
-   ]
-  },
-  {
-   "section": "world",
    "serious": true,
    "developing": true,
    "changed": "Updated: thousands displaced in Hebron operation; crossings closed for election day",
@@ -599,29 +704,6 @@
     {
      "name": "Business Today",
      "url": "https://www.businesstoday.in/markets/ipo-corner/story/jio-platforms-ipo-creates-global-record-with-1-crore-applications-subscription-hits-7-65x-563249-2026-10-23"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "developing": true,
-   "changed": "Updated: Machado has returned to Venezuela",
-   "published": "2026-10-22T23:00:00Z",
-   "title": "Opposition leader María Corina Machado returns to Venezuela after 10 months away",
-   "why": "Nobel peace laureate María Corina Machado reappeared at a church in Barquisimeto on Sunday, then drove in a convoy to Caracas, where crowds greeted her. Her party says authorities had blocked at least seven earlier attempts to return. Days earlier, thousands marched nationwide demanding an election date.",
-   "matters": "US Secretary of State Marco Rubio credits US-backed talks; interim president Delcy Rodríguez has set no election date.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/"
     }
    ]
   }
