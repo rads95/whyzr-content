@@ -3740,5 +3740,521 @@
         ]
       }
     ]
+  },
+  {
+    "id": "035",
+    "published": "2026-10-27",
+    "title": "A fourth term for Lula, Kane’s golden ball and a record Monet",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Did this actually happen?",
+        "claim": "A painting of irises by Claude Monet sold for €50 million in Paris this week, the highest price ever paid for an artwork at auction in France.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this is true. On 22 October Monet’s large painting Iris sold at Sotheby’s in Paris for €50 million including fees (about $56 million), far above its estimate of €22–30 million. That makes it the most expensive artwork ever sold at auction in France. The painting came from a private family collection and had never been shown in public before.",
+        "sources": [
+          [
+            "France 24 (AFP) · Monet’s ‘Iris’ fetches 50 mn euros at Paris auction",
+            "https://www.france24.com/en/live-news/20261022-monet-s-iris-fetches-50-mn-euros-at-paris-auction"
+          ],
+          [
+            "The Art Newspaper · Monet’s monumental ‘Iris’ makes €50m in Paris",
+            "https://www.theartnewspaper.com/2026/10/23/monets-monumental-iris-makes-56m-in-paris"
+          ],
+          [
+            "Artlyst · Monet’s Iris Painting Achieves Record €50 Million Sale at Sotheby’s Paris",
+            "https://artlyst.com/monets-iris-painting-achieves-record-e50-million-sale-at-sothebys-paris/"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three terms. Find their partners.",
+        "pairs": [
+          [
+            "Harry Kane",
+            "Won the men’s Ballon d’Or, the first Englishman to do so in 25 years"
+          ],
+          [
+            "Alexia Putellas",
+            "Won the women’s Ballon d’Or for the third time"
+          ],
+          [
+            "London",
+            "Hosted the ceremony for the first time, 70 years after England’s Stanley Matthews won the first award"
+          ]
+        ],
+        "why": "The pairs are: Harry Kane – the men’s winner; Alexia Putellas – the women’s winner, for a third time; London – the host city. The Ballon d’Or is football’s best-known award for the player of the year. On 26 October Kane, the England striker who plays for Bayern Munich, won it after scoring 73 goals for club and country, ahead of Kylian Mbappé and Lamine Yamal; the last English winner was Michael Owen in 2001. Spain’s Putellas won the women’s prize again, and the ceremony moved to London to mark 70 years since Stanley Matthews won the very first Ballon d’Or in 1956.",
+        "sources": [
+          [
+            "ESPN · Harry Kane wins 2026 Ballon d’Or ahead of Kylian Mbappé, Lamine Yamal; first Englishman in 25 years",
+            "https://www.espn.com/soccer/story/_/id/50236983/harry-kane-2026-ballon-dor-kylian-mbappe-lamine-yamal"
+          ],
+          [
+            "Sky Sports · Harry Kane wins 2026 Ballon d’Or: Bayern Munich striker becomes first English winner of award in 25 years",
+            "https://www.skysports.com/football/news/13601934/harry-kane-wins-2026-ballon-dor-bayern-munich-striker-becomes-first-english-winner-of-award-in-25-years"
+          ],
+          [
+            "France 24 · Harry Kane ends England’s 25-year Ballon d’Or drought, Putellas wins third crown",
+            "https://www.france24.com/en/sport/20261026-harry-kane-ballon-dor-2026-alexia-putellas"
+          ],
+          [
+            "ESPN · Ballon d’Or 2026 results: Full rankings, all award winners",
+            "https://www.espn.com/soccer/story/_/id/50289067/ballon-dor-2026-results-full-rankings-all-award-winners"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "An 80-year-old leader who first became president in 2003",
+          "He came second in the first round on 4 October, then won the run-off",
+          "His rival, Flávio Bolsonaro, asked for the result to be annulled"
+        ],
+        "options": [
+          "Lula wins a fourth term as Brazil’s president",
+          "Argentina elects a new president",
+          "Brazil’s Supreme Court cancels the election",
+          "Lula retires and hands power to his deputy"
+        ],
+        "correct": 0,
+        "why": "It was: Lula wins a fourth term as Brazil’s president. In the run-off on 25 October, Luiz Inácio Lula da Silva won about 52% of the vote to about 48% for Senator Flávio Bolsonaro, a margin of roughly 4.4 million votes. Lula had trailed in the first round, and no candidate had come from second place to win since Brazil returned to democracy in the 1980s. Bolsonaro did not accept defeat and said he would ask for the result to be annulled.",
+        "sources": [
+          [
+            "Reuters (via Yahoo) · Brazil’s Lula wins historic fourth term, Flavio Bolsonaro refuses to concede",
+            "https://www.yahoo.com/news/world/articles/brazil-heads-polls-runoff-between-070736480.html"
+          ],
+          [
+            "France 24 · Brazil’s Lula beats odds and seals re-election, rival Bolsonaro demands annulment",
+            "https://www.france24.com/en/americas/20261026-brazil-s-president-lula-da-silva-beats-flavio-bolsonaro-to-win-re-election"
+          ],
+          [
+            "PBS NewsHour (AP) · Lula beats Bolsonaro in Brazil runoff, securing fourth presidential term",
+            "https://www.pbs.org/newshour/world/brazil-votes-in-a-tense-lula-vs-bolsonaro-runoff-with-u-s-influence-over-latin-america-at-stake"
+          ],
+          [
+            "Al Jazeera · Brazil election results 2026: Key takeaways from Lula’s historic win",
+            "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win"
+          ],
+          [
+            "Euronews · Lula wins Brazil election after cutting Amazon deforestation to record low",
+            "https://www.euronews.com/2026/10/26/lula-wins-brazil-election-after-cutting-amazon-deforestation-to-record-low"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "NASA’s new plan to get back to the Moon: put these in order, earliest first.",
+        "items": [
+          "Artemis IV: astronauts try to land near the Moon’s south pole",
+          "NASA announces its faster Moon plan at Kennedy Space Center",
+          "Artemis III: four astronauts test docking with Moon landers in orbit around Earth"
+        ],
+        "correctOrder": [
+          1,
+          2,
+          0
+        ],
+        "why": "The right order is: NASA announces the plan (23 October 2026), then the Artemis III test flight in Earth orbit (2027), then the Artemis IV landing attempt (2028). At a briefing led by NASA boss Jared Isaacman, the agency said Artemis III will no longer go to the Moon; instead its crew will practise linking up with the commercial landers built by SpaceX and Blue Origin while staying close to Earth. The first landing is now planned for Artemis IV, aimed at the area around the Moon’s south pole, if the hardware is ready in time.",
+        "sources": [
+          [
+            "NASA · NASA Shares Artemis Acceleration Plans for Moon Missions",
+            "https://www.nasa.gov/blogs/missions/2026/10/23/nasa-shares-artemis-acceleration-plans-for-moon-missions/"
+          ],
+          [
+            "CBS News · NASA says Artemis program adjustments improve shot at 2028 moon landing",
+            "https://cbsnews.com/news/nasa-artemis-2028-moon-landing-program-adjustments"
+          ],
+          [
+            "SpacePolicyOnline · NASA is Full Steam Ahead on Artemis III, IV and V",
+            "https://spacepolicyonline.com/news/nasa-is-full-steam-ahead-on-artemis-iii-iv-and-v/"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "On 20 October the United States approved a new kind of medicine for long-term hepatitis B, a liver infection. Why is it seen as a big step?",
+        "options": [
+          "In trials about one in five patients cleared the virus, so some may be able to stop treatment",
+          "It is the first vaccine that prevents hepatitis B",
+          "It is a pill that only needs to be taken once in a lifetime",
+          "It replaces the need for liver transplants"
+        ],
+        "correct": 0,
+        "why": "It is because about one in five patients in trials cleared the virus, so some may be able to stop treatment. People with long-term hepatitis B usually need antiviral pills for many years, because the pills keep the virus down but rarely get rid of it. The new injection from the British drugmaker GSK, called Hibsago (bepirovirsen), is given alongside those pills, and the US medicines regulator called it a first-of-its-kind treatment. It is a treatment for people who already have the infection, not a vaccine, and it is already approved in Japan.",
+        "sources": [
+          [
+            "US FDA · FDA Approves First-of-Its-Kind Chronic Hepatitis B Treatment",
+            "https://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment"
+          ],
+          [
+            "Reuters (via KSL) · US FDA approves GSK’s hepatitis B drug, offering patients chance to stop long-term treatment",
+            "https://www.ksl.com/article/51638828/us-fda-approves-gsks-hepatitis-b-drug-offering-patients-chance-to-stop-long-term-treatment"
+          ],
+          [
+            "BioPharma Dive · GSK, Ionis win US approval for first-of-its-kind hepatitis B drug",
+            "https://www.biopharmadive.com/news/gsk-ionis-fda-approve-hibsago-chronic-hepatitis-b-bepirovirsen/833541/"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "036",
+    "published": "2026-10-28",
+    "title": "Van Gogh’s real starry night, Messi meets a princess and Sydney’s never-sleeping airport",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Did this actually happen?",
+        "claim": "Astronomers say Vincent van Gogh’s famous painting The Starry Night shows a real pre-dawn sky over the south of France, with the Moon, Venus and a cluster of stars where they really were.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this is true. In a study published on 22 October, a team from Kyung Hee University in Seoul, South Korea, matched the painting to the sky over Saint-Rémy-de-Provence around 22 July 1889. They say the crescent Moon, the planet Venus and a star cluster called the Hyades sit where they really appeared that morning. That would also mean van Gogh painted it about a month later than the June 1889 date long accepted; the painting hangs at the Museum of Modern Art in New York.",
+        "sources": [
+          [
+            "KSAT (AP) · New study traces van Gogh’s famed ‘Starry Night’ to an actual night sky from 1889",
+            "https://www.ksat.com/tech/2026/10/22/new-study-traces-van-goghs-famed-starry-night-to-an-actual-night-sky-from-1889/"
+          ],
+          [
+            "KEYT (CNN) · Astronomers say van Gogh’s ‘The Starry Night’ may have been inspired by real celestial arrangement",
+            "https://keyt.com/?p=1495545"
+          ],
+          [
+            "ThePrint · Van Gogh’s Starry Night is a real night sky from 1889, finds new Korean study",
+            "https://theprint.in/feature/van-goghs-starry-night-real-night-sky-1889-new-korean-study/3079626/"
+          ],
+          [
+            "IFLScience · Forensic Astronomy May Have Solved A Mystery About Van Gogh’s ‘The Starry Night’",
+            "https://www.iflscience.com/forensic-astronomy-may-have-solved-a-mystery-about-van-goghs-the-starry-night-85004"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three terms. Find their partners.",
+        "pairs": [
+          [
+            "Lionel Messi",
+            "Received the Princess of Asturias Award for Sports"
+          ],
+          [
+            "Princess Leonor",
+            "Heir to the Spanish throne, who handed over the award"
+          ],
+          [
+            "Oviedo",
+            "Spanish city where the ceremony took place"
+          ]
+        ],
+        "why": "The pairs are: Lionel Messi – the winner of the sports award; Princess Leonor – the heir to the Spanish throne who presented it; Oviedo – the city in northern Spain where it happened. The Princess of Asturias Awards are among Spain’s top honours, given each year in fields such as sport, the arts and literature. On 23 October Messi received the sports prize, worth €50,000, with King Felipe VI and Queen Letizia also present. The jury praised both his football career and his charity work for children.",
+        "sources": [
+          [
+            "France 24 (AFP) · Messi receives top Spanish award from heir to throne",
+            "https://www.france24.com/en/live-news/20261023-messi-receives-top-spanish-award-from-heir-to-throne"
+          ],
+          [
+            "Hola! · Lionel Messi and Antonela Roccuzzo meet Princess Leonor at the Princess of Asturias Awards",
+            "https://www.hola.com/us/celebrities/20261023931035/lionel-messi-antonela-roccuzzo-princess-leonor-princess-asturias-awards-oviedo/"
+          ],
+          [
+            "Euronews · Messi sparks euphoria in Oviedo before Princesa de Asturias award",
+            "https://euronews.com/2026/10/23/messi-sparks-euphoria-in-oviedo-before-princesa-de-asturias-award"
+          ],
+          [
+            "ESPN · Lionel Messi greets fans in Spain before Princess of Asturias award",
+            "https://www.espn.com/soccer/story/_/id/50248614/lionel-messi-princess-asturias-award-father-happy"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "A Hollywood star of Top Gun and the Mission: Impossible films",
+          "An award from the American Film Institute for a whole career",
+          "The year before, the same honour went to Eddie Murphy"
+        ],
+        "options": [
+          "Tom Cruise will receive the AFI Life Achievement Award",
+          "Tom Cruise announces he is retiring from acting",
+          "Eddie Murphy and Tom Cruise make a film together",
+          "A new Mission: Impossible film is announced"
+        ],
+        "correct": 0,
+        "why": "It was: Tom Cruise will receive the AFI Life Achievement Award. The American Film Institute announced on 21 October that Cruise, 64, will get its 52nd Life Achievement Award, one of Hollywood’s top honours for a whole career. It will be presented at a gala in Los Angeles next April. The previous person to receive it was the actor and comedian Eddie Murphy.",
+        "sources": [
+          [
+            "AFI · Tom Cruise to Receive 52nd AFI Life Achievement Award",
+            "https://www.afi.com/press/tom-cruise-to-receive-52nd-afi-life-achievement-award/"
+          ],
+          [
+            "TheWrap · Tom Cruise to Receive 2027 AFI Life Achievement Award",
+            "https://www.thewrap.com/industry-news/awards/tom-cruise-afi-lifetime-achievement-award/"
+          ],
+          [
+            "Bluewin (Keystone-SDA) · Tom Cruise is being honored for his lifetime achievements",
+            "https://www.bluewin.ch/en/people/tom-cruise-is-being-honored-for-his-lifetime-achievements-li.3644187"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "Audi’s first factory in the United States: put these in order, earliest first.",
+        "items": [
+          "The first cars roll off the production line",
+          "Audi announces the factory in the US state of Georgia",
+          "Building work on the factory begins"
+        ],
+        "correctOrder": [
+          1,
+          2,
+          0
+        ],
+        "why": "The right order is: the factory is announced (24 October 2026), building work begins (2027), then cars are made there (early 2030s). Audi, the German car brand owned by Volkswagen, has until now shipped the cars it sells in the US from Europe or Mexico. Its new plant near Macon, Georgia, is planned to build up to about 200,000 large SUVs a year and create about 4,500 jobs. Making cars inside the US means Audi avoids paying US import taxes, called tariffs, on them.",
+        "sources": [
+          [
+            "KSAT (AP) · Trump announces at a Georgia campaign rally that Audi will build a new auto factory in the state",
+            "https://www.ksat.com/news/politics/2026/10/25/trump-announces-at-a-georgia-campaign-rally-that-audi-will-build-a-new-auto-factory-in-the-state/"
+          ],
+          [
+            "Euronews · Audi’s first US production plant: carmaker strikes deal with Trump",
+            "https://www.euronews.com/2026/10/25/audis-first-us-production-plant-carmaker-strikes-deal-with-trump"
+          ],
+          [
+            "WRDW · Audi to build $4B first US plant in Georgia",
+            "https://www.wrdw.com/2026/10/25/audi-build-4b-first-us-plant-georgia/"
+          ],
+          [
+            "Just Auto (via Yahoo Finance) · Audi plans first US factory in Georgia with $4bn investment",
+            "https://finance.yahoo.com/news/audi-plans-first-us-factory-122947572.html"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "Sydney’s second airport, Western Sydney International, opened to passengers on 25 October. What can it do that the city’s main airport cannot?",
+        "options": [
+          "Run flights 24 hours a day, with no night-time ban",
+          "Land planes without any runway lights",
+          "Fly passengers straight to Antarctica",
+          "Operate with no staff at all"
+        ],
+        "correct": 0,
+        "why": "It can run flights 24 hours a day. Sydney’s main airport, Kingsford Smith, has a curfew that stops most flights between 11pm and 6am, but the new airport has no such ban. It opened on 25 October with a Jetstar flight to the Gold Coast, and the first international flight, from Auckland in New Zealand, arrived the next day. The airport is named after Nancy-Bird Walton, a pioneering Australian woman pilot.",
+        "sources": [
+          [
+            "ABC News (Australia) · Western Sydney International Airport opens to passengers, with its first commercial flights",
+            "https://www.abc.net.au/news/2026-10-25/western-sydney-international-airport-open-day-sunday-october-25/107293784"
+          ],
+          [
+            "Euronews · First international flight arrives at the new Western Sydney airport",
+            "https://www.euronews.com/2026/10/26/first-international-flight-arrives-at-the-new-western-sydney-airport"
+          ],
+          [
+            "France 24 (AFP) · First international flight takes off from new Sydney airport",
+            "https://www.france24.com/en/live-news/20261026-first-international-flight-takes-off-from-new-sydney-airport"
+          ],
+          [
+            "SBS News · ‘Historic day for Western Sydney’ as new airport takes flight",
+            "https://www.sbs.com.au/news/article/western-sydney-international-airport-first-commercial-fight-takes-off/pkedth2ck"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "037",
+    "published": "2026-10-29",
+    "title": "Students win in Serbia, a king-sized fungus and Antonelli on the brink",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Did this actually happen?",
+        "claim": "Scientists in China have named a giant new fungus ‘D. rex’, after the dinosaur T. rex. Its fruiting bodies can grow to about half a metre tall.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this is true. Researchers at the Kunming Institute of Botany described Dianjunus rex, nicknamed D. rex, found in forests in Yunnan province in south-west China. Its upright fruiting bodies, the parts that grow above ground like a mushroom, can reach about 50 cm and weigh up to 2.2 kg, making it the largest known species in its big group of fungi. ‘Rex’ means ‘king’ in Latin, and its family line goes back to around the time the dinosaurs died out.",
+        "sources": [
+          [
+            "KEYT (CNN) · Meet D. rex, the newly crowned giant fungus ‘king’ that measures almost 2 feet tall",
+            "https://keyt.com/?p=1495364"
+          ],
+          [
+            "Popular Science · When ‘T. rex’ died, a new giant fungus named ‘D-rex’ took over",
+            "https://www.popsci.com/science/new-giant-fungus-d-rex/"
+          ],
+          [
+            "Discover Wildlife (BBC Wildlife) · Experts discover ancient, ‘extreme’ species in Chinese forest – and name it ‘D-rex’",
+            "https://www.discoverwildlife.com/plant-facts/fungi/dianjunus-rex-fungi-china"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three terms. Find their partners.",
+        "pairs": [
+          [
+            "Kimi Antonelli",
+            "Won the US Grand Prix and is one step from the Formula 1 title"
+          ],
+          [
+            "Mexico City",
+            "Hosts the next race, on 1 November, where the title could be decided"
+          ],
+          [
+            "Sebastian Vettel",
+            "Holds the record as F1’s youngest champion, aged 23 in 2010"
+          ]
+        ],
+        "why": "The pairs are: Kimi Antonelli – the US Grand Prix winner; Mexico City – the next race, where he can clinch the title; Sebastian Vettel – the current record-holder as youngest champion. On 25 October Antonelli, a 20-year-old Italian who drives for Mercedes, won in Austin, Texas, ahead of Charles Leclerc and Max Verstappen, his ninth win this season. He now leads by more than 120 points, so finishing in the top nine in Mexico City on 1 November would make him champion. That would also make him the youngest Formula 1 champion ever, beating Vettel, who was 23 when he won in 2010.",
+        "sources": [
+          [
+            "The Star (Reuters) · Motor racing-Antonelli wins US Grand Prix but must wait for title",
+            "https://www.thestar.com.my/sport/motorsport/2026/10/26/motor-racing-antonelli-wins-us-grand-prix-but-must-wait-for-title"
+          ],
+          [
+            "Formula1.com · Antonelli surges to dominant victory ahead of Leclerc and Verstappen",
+            "https://www.formula1.com/en/latest/article/antonelli-surges-to-dominant-victory-in-united-states-grand-prix-ahead-of-leclerc-and-verstappen.6kmBQv9FNTW7LzkDj8S34j"
+          ],
+          [
+            "NBC News · Kimi Antonelli wins U.S. Grand Prix in Texas, putting him on the brink of F1 championship",
+            "https://www.nbcnews.com/sports/formula-1/kimi-antonelli-wins-us-grand-prix-texas-putting-brink-f1-championship-rcna603583"
+          ],
+          [
+            "Sky Sports · Kimi Antonelli F1 title permutations at Mexico City GP on Sunday",
+            "https://www.skysports.com/f1/news/13603683/kimi-antonelli-f1-title-permutations-how-mercedes-driver-can-win-2026-formula-1-drivers-championship-at-mexico-city-gp-on-sunday"
+          ],
+          [
+            "PlanetF1 · Sebastian Vettel makes feelings clear as Antonelli eyes 16-year F1 record",
+            "https://www.planetf1.com/news/kimi-antonelli-sebastian-vettel-youngest-f1-champion-record"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "The man who created Super Mario and The Legend of Zelda",
+          "One of Japan’s highest honours, presented by the Emperor",
+          "Nobody from the video game world had received it before"
+        ],
+        "options": [
+          "Shigeru Miyamoto is awarded Japan’s Order of Culture",
+          "Nintendo opens a Super Mario museum in Tokyo",
+          "Japan’s Emperor plays a video game on television",
+          "A new Zelda film tops the box office"
+        ],
+        "correct": 0,
+        "why": "It was: Shigeru Miyamoto is awarded Japan’s Order of Culture. On 23 October Japan’s government named the Nintendo game designer, who created Mario, Donkey Kong and Zelda, as one of eight people to receive the Order of Culture this year. He is the first person from the video game industry to get it. The Emperor will present the awards at the Imperial Palace in Tokyo on 3 November.",
+        "sources": [
+          [
+            "Nippon.com (Jiji Press) · Mario Creator Miyamoto, 7 Others to Receive Japan’s Culture Medal",
+            "https://www.nippon.com/en/news/yjj2026102300273/"
+          ],
+          [
+            "Inven Global · ‘God of Games’ Shigeru Miyamoto to Receive Japan’s Order of Culture",
+            "https://www.invenglobal.com/articles/27607/god-of-games-shigeru-miyamoto-to-receive-japans-order-of-culture"
+          ],
+          [
+            "Dexerto · Nintendo’s Shigeru Miyamoto makes gaming history with Japanese government honor",
+            "https://www.dexerto.com/gaming/nintendos-shigeru-miyamoto-makes-gaming-history-with-japanese-government-honor-3421197/"
+          ],
+          [
+            "My Nintendo News · Shigeru Miyamoto first in gaming industry to receive Japan’s Order of Culture award",
+            "https://mynintendonews.com/2026/10/23/shigeru-miyamoto-first-in-gaming-industry-to-receive-japans-order-of-culture-award/"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "Serbia’s election on 25 October: put these numbers of seats in order, smallest first.",
+        "items": [
+          "Seats expected for the Student List",
+          "Seats expected for Aleksandar Vučić’s party, the SNS",
+          "Seats needed for a majority in the 250-seat parliament"
+        ],
+        "correctOrder": [
+          1,
+          2,
+          0
+        ],
+        "why": "The right order is: Vučić’s SNS (about 105 seats), then the majority line (126), then the Student List (about 135–140). On election night Aleksandar Vučić, who had stepped down as president in September to run for prime minister, said his own count showed the student-led list had won about 2.2 million votes to his party’s 1.7 million, and he accepted defeat. Because the Student List is expected to pass 126 of the 250 seats, it should be able to form a government without needing partners. Final official results were still to come.",
+        "sources": [
+          [
+            "Euronews · Student List wins Serbian election in political earthquake as Vučić concedes defeat",
+            "https://www.euronews.com/2026/10/25/vucic-concedes-defeat-in-pivotal-serbian-elections-says-student-movement-has-won"
+          ],
+          [
+            "CBS News (AP) · Aleksandar Vucic concedes election defeat in major political shift",
+            "https://www.cbsnews.com/news/serbia-election-aleksandar-vucic-concedes-defeat/"
+          ],
+          [
+            "Al Jazeera · Serbia after Vucic: Who will be PM and when will a government be formed?",
+            "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed"
+          ],
+          [
+            "N1 · Srdanovic: Student List will secure dominant majority",
+            "https://n1info.rs/english/news/srdanovic-student-list-will-secure-dominant-majority-we-are-ready-to-defend-election-results/"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "Shares in Nigeria’s giant Dangote oil refinery went on sale to the public this month, with sign-ups closing on 27 October. What makes this share sale stand out?",
+        "options": [
+          "It is Africa’s biggest ever share sale, pitched at ordinary people too",
+          "It is the first company ever listed on a stock market in Africa",
+          "The shares can only be bought with gold",
+          "The refinery is being sold to the Nigerian government"
+        ],
+        "correct": 0,
+        "why": "It stands out as Africa’s biggest ever share sale, aimed at ordinary people as well as big investors. When a company first sells its shares to the public, it is called an IPO (initial public offering). The refinery, owned by the Nigerian billionaire Aliko Dangote, billed it as a ‘people’s IPO’, with each share costing 525 naira (about 40 US cents), and it aims to raise about $1.6 billion. Sign-ups closed on 27 October, and the company said there would be no further extension.",
+        "sources": [
+          [
+            "CNBC Africa (Reuters) · Billionaire Dangote launches oil refinery ‘people’s IPO’, Africa’s biggest",
+            "https://www.cnbcafrica.com/2026/nigerian-billionaire-dangote-launches-oil-refinery-ipo-africas-biggest-share-sale"
+          ],
+          [
+            "Semafor · Dangote refinery: Share sale extends to Egypt",
+            "https://www.semafor.com/article/10/16/2026/dangote-eyes-opening-share-ipo-sales-to-egypt"
+          ],
+          [
+            "Nairametrics · Dangote refinery IPO expected to become Africa’s biggest-ever share sale",
+            "https://nairametrics.com/?p=548238"
+          ],
+          [
+            "ThisDay · Investors Rush for Dangote Refinery Shares as Offer Closes on 27 October",
+            "https://www.thisdaylive.com/2026/10/26/investors-rush-for-dangote-refinery-shares-as-offer-closes-on-27-october/"
+          ]
+        ]
+      }
+    ]
   }
 ]
