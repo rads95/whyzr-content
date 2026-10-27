@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T08:06:34Z",
+ "updated": "2026-10-27T08:07:21Z",
  "items": [
   {
    "section": "science",
@@ -246,6 +246,49 @@
     {
      "name": "Capital Brief",
      "url": "https://www.capitalbrief.com/briefing/anthropic-files-for-nasdaq-ipo-under-ticker-ant-e3419159-7771-4779-b826-6df76c6afe10/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-10-26T12:00:00Z",
+   "title": "UN inquiry says Israel kept committing genocide in Gaza after ceasefire",
+   "why": "The UN's Independent International Commission of Inquiry said on Monday that Israel has continued genocidal acts in Gaza since the October 2025 ceasefire, and has committed crimes against humanity, including extermination, in the occupied West Bank. Israel's foreign ministry called the report a propaganda document.",
+   "matters": "The commission will present its findings to the UN General Assembly; it says more than 34,000 West Bank Palestinians remain displaced.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/26/israel-committing-crimes-against-humanity-in-occupied-west-bank-un"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-27/un-commission-finds-israel-continued-gaza-genocide-after-truce/107313402"
+    },
+    {
+     "name": "Arab News",
+     "url": "https://www.arabnews.com/middle-east/un-inquiry-accuses-israel-of-extermination-in-west-bank-and-continuing-gaza-genocide-despite-ceasefire-3008357"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-10-26T12:00:00Z",
+   "title": "Romania says Russian-run network set fire near state arms factory",
+   "why": "Romania's intelligence service and prosecutors said on Monday that a network coordinated from Russia was behind a fire on 14 September in Brașov, beside a factory of state arms maker Romarm. They say two Belarusians and a Ukrainian were involved; two are held in Germany.",
+   "matters": "Romania calls it part of a wider sabotage campaign in Europe; Russia has denied similar accusations before.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory"
+    },
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russian-sabotage-network-behind-romanian-arson-attack-officials-say/"
+    },
+    {
+     "name": "Reuters (via Investing.com)",
+     "url": "https://ca.investing.com/news/stock-market-news/romania-says-uncovered-russian-sabotage-network-93CH-4903669"
     }
    ]
   },
