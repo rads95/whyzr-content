@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23",
+  "updated": "2026-10-27",
   "facts": [
     {
       "date": "2026-09-20",
@@ -1004,6 +1004,102 @@
         {
           "name": "Mental Floss",
           "url": "https://www.mentalfloss.com/science/chemistry/why-do-onions-make-you-cry"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "kind": "fact",
+      "category": "Records",
+      "emoji": "🌲",
+      "title": "The world’s tallest tree is secret",
+      "text": "The tallest known living tree is Hyperion, a coast redwood in California’s Redwood National Park, about 116 m (380 ft) tall. It was only found in 2006, and its exact spot is kept secret to protect it from crowds.",
+      "sources": [
+        {
+          "name": "Guinness World Records",
+          "url": "https://www.guinnessworldrecords.com/world-records/tallest-tree-living"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/id/wbna15066332"
+        },
+        {
+          "name": "FOX 13 (Scripps News)",
+          "url": "https://www.fox13now.com/news/national/visiting-worlds-tallest-tree-could-result-in-fine-jail-time"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "kind": "folklore",
+      "emoji": "🥕",
+      "title": "Carrots help you see in the dark",
+      "myth": "Eat lots of carrots and you’ll get super night vision, like Britain’s wartime pilots.",
+      "truth": "Carrots’ vitamin A keeps eyes healthy and fixes night blindness in people who lack it, but extra carrots won’t sharpen normal eyes. The idea spread in WWII Britain, when the government promoted carrots for seeing in the blackout.",
+      "sources": [
+        {
+          "name": "Scientific American",
+          "url": "https://www.scientificamerican.com/article/fact-or-fiction-carrots-improve-your-vision/"
+        },
+        {
+          "name": "American Academy of Ophthalmology",
+          "url": "https://www.aao.org/eye-health/tips-prevention/common-eye-vision-myths-facts"
+        },
+        {
+          "name": "KQED (NPR)",
+          "url": "https://www.kqed.org/bayareabites/117933/do-carrots-really-help-your-vision"
+        },
+        {
+          "name": "Today I Found Out",
+          "url": "https://www.todayifoundout.com/index.php/2021/06/how-wwii-made-everybody-think-carrots-were-good-for-eyes-and-why-it-didnt-really-have-to-do-with-tricking-the-germans/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "kind": "fact",
+      "category": "Weird but true",
+      "emoji": "🌙",
+      "title": "The Moon is drifting away",
+      "text": "Every year the Moon moves about 3.8 cm further from Earth. We know because Apollo astronauts left mirrors on the Moon, and scientists still bounce lasers off them to time the trip. Earth’s tides are slowly nudging it outwards.",
+      "sources": [
+        {
+          "name": "NASA Goddard Space Flight Center",
+          "url": "https://eclipse.gsfc.nasa.gov/help/ApolloLaser.html"
+        },
+        {
+          "name": "Guinness World Records",
+          "url": "https://www.guinnessworldrecords.com/world-records/longest-laser-ranging-experiment"
+        },
+        {
+          "name": "BBC Sky at Night Magazine",
+          "url": "https://www.skyatnightmagazine.com/space-science/tide-marks-moon-orbited-closer-earth"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "kind": "fact",
+      "category": "Animals",
+      "emoji": "🐦",
+      "title": "Crows never forget a face",
+      "text": "University of Washington scientists caught wild crows while wearing a caveman mask. For years afterwards, crows scolded anyone in that mask, even birds that were never caught, which seem to have learned it from others. Neutral masks got far less fuss.",
+      "sources": [
+        {
+          "name": "Proceedings of the Royal Society B (University of Washington crow study)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3234554/"
+        },
+        {
+          "name": "National Wildlife Federation",
+          "url": "https://nwf.org/Magazines/National-Wildlife/2013/DecJan/Animals/Crows-Recognizing-Faces"
+        },
+        {
+          "name": "NBC News / Live Science",
+          "url": "https://www.nbcnews.com/id/43570666/ns/technology_and_science-science/t/hitchcockian-crows-gossip-about-mean-humans/"
+        },
+        {
+          "name": "Discover Magazine",
+          "url": "https://www.discovermagazine.com/angry-crows-recognize-humanseven-dick-cheney-28152"
         }
       ]
     }
