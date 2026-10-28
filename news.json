@@ -1,6 +1,71 @@
 {
- "updated": "2026-10-27T08:07:21Z",
+ "updated": "2026-10-28T06:10:00Z",
  "items": [
+  {
+   "section": "sport",
+   "published": "2026-10-27T11:26:00Z",
+   "title": "Abhishek Sharma's 35-ball hundred seals India's T20 series win in New Zealand",
+   "why": "Abhishek Sharma hit 113 off 38 balls as India chased 199 in 13.2 overs to beat New Zealand by six wickets in Wellington on 27 October. The win gives India an unbeatable 3-0 lead in the five-match series.",
+   "matters": "India's 118 runs in the first six overs was a record for men's T20 internationals, BBC Sport says.",
+   "sources": [
+    {
+     "name": "AFP (via Al Jazeera)",
+     "url": "https://www.aljazeera.com/sports/2026/10/27/abhishek-sharma-hits-ton-as-india-beat-new-zealand-by-6-wickets-in-3rd-t20"
+    },
+    {
+     "name": "BBC Sport (via Yahoo Sports)",
+     "url": "https://sports.yahoo.com/articles/abhishek-hits-35-ball-ton-112621337.html"
+    },
+    {
+     "name": "Free Press Journal",
+     "url": "https://www.freepressjournal.in/sports/abhishek-sharmas-35-ball-century-demolishes-new-zealand-as-india-rewrite-t20i-records"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "developing": true,
+   "published": "2026-10-27T09:50:00Z",
+   "title": "Finnish and Norwegian leaders hold rare phone call with Putin",
+   "why": "Finland's President Alexander Stubb and Norway's Prime Minister Jonas Gahr Støre spoke with Vladimir Putin from Helsinki on Tuesday for about an hour and a half, they say. Their offices said the aim was to pass on messages before US-mediated Ukraine–Russia talks in Abu Dhabi in early November.",
+   "matters": "Most Western European leaders have avoided direct contact with Putin since Russia's full-scale invasion of Ukraine in 2022.",
+   "sources": [
+    {
+     "name": "Yle",
+     "url": "https://yle.fi/a/74-20253565"
+    },
+    {
+     "name": "NRK",
+     "url": "https://www.nrk.no/nyheter/1.18066105"
+    },
+    {
+     "name": "Al Jazeera (Reuters)",
+     "url": "https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "serious": false,
+   "published": "2026-10-27T09:00:00Z",
+   "title": "Greenhouse gases reached record levels in 2025, UN weather agency says",
+   "why": "Carbon dioxide in the atmosphere averaged a record 426.8 parts per million in 2025, 53% above pre-industrial levels, the World Meteorological Organization said on 27 October. Methane and nitrous oxide also hit records. The rise was smaller than 2024's jump but above the decade's average.",
+   "matters": "The figures will feed into the COP31 climate talks in Antalya, Turkey, from 9 to 20 November.",
+   "sources": [
+    {
+     "name": "WMO",
+     "url": "https://wmo.int/resources/publication-series/greenhouse-gas-bulletin/no-22"
+    },
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/10/1168677"
+    },
+    {
+     "name": "dpa (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/science/articles/un-body-atmospheric-co2-reached-133345234.html"
+    }
+   ]
+  },
   {
    "section": "science",
    "serious": false,
@@ -24,31 +89,54 @@
    ]
   },
   {
-   "section": "world",
-   "developing": true,
-   "published": "2026-10-27T05:00:00Z",
-   "title": "Israelis vote in first general election since the 7 October attack",
-   "why": "Polls opened at 7am on Tuesday for about 7.3 million eligible voters choosing Israel's 120-seat Knesset. Final surveys showed Prime Minister Benjamin Netanyahu's bloc and an opposition bloc led by former army chief Gadi Eisenkot's Yashar party both short of a 61-seat majority. Polls close at 10pm.",
-   "matters": "It is widely seen as a referendum on Netanyahu; full results and coalition talks could take days or weeks.",
+   "section": "tech",
+   "published": "2026-10-27T06:59:00Z",
+   "title": "South Korean chip shares jump after Anthropic's stock market filing",
+   "why": "South Korea's Kospi share index closed 3.09% higher at 5,638 on Tuesday, its first gain in four sessions. Samsung Electronics rose 4.23% and SK hynix 5.18%, after Anthropic's filing for a US listing revived hopes for demand for AI memory chips.",
+   "matters": "Trading in program buy orders in Seoul was paused for five minutes as prices rose quickly, the Herald Business reports.",
    "sources": [
     {
+     "name": "The Herald Business",
+     "url": "https://biz.heraldcorp.com/article/10916587"
+    },
+    {
+     "name": "SBS",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008817492"
+    },
+    {
+     "name": "MoneyToday",
+     "url": "https://www.mt.co.kr/en/stock/2026/10/27/2026102715521372601"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "developing": true,
+   "changed": "Updated: exit polls show neither bloc with a majority",
+   "published": "2026-10-27T05:00:00Z",
+   "title": "Israeli exit polls show no clear majority after record turnout",
+   "why": "Exit polls from Israel’s Channel 12, Kan and Channel 13 give neither Benjamin Netanyahu’s bloc nor Gadi Eisenkot’s opposition the 61 seats needed, with revised figures putting them level or close. Likud is projected to be the largest party. Turnout was over 74% by 8pm, the elections committee says.",
+   "matters": "Arab-led parties, projected at a record 17 to 18 seats, may decide who governs; official results could take days.",
+   "sources": [
+    {
+     "name": "AP (via PBS)",
+     "url": "https://www.pbs.org/newshour/world/no-clear-winner-in-israeli-election-exit-polls-indicate-as-netanyahus-fate-hangs-in-the-balance"
+    },
+    {
+     "name": "Ynet",
+     "url": "https://www.ynetnews.com/article/skd97fc2gl"
+    },
+    {
      "name": "Times of Israel",
-     "url": "https://www.timesofisrael.com/liveblog-october-27-2026/"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261027-israel-election-2026-netanyahu-october-7"
-    },
-    {
-     "name": "i24NEWS",
-     "url": "https://www.i24news.tv/en/news/israel-election-s-2026/artc-israelis-head-to-the-polls-casting-their-votes-in-the-country-s-first-election-since-2022-live-blog"
+     "url": "https://www.timesofisrael.com/liveblog_entry/channel-12-exit-poll-shows-no-clear-victor-netanyahus-likud-is-largest-party-but-his-opponents-have-bigger-bloc/"
     },
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls"
     }
    ],
-   "lead": true
+   "lead": true,
+   "serious": false
   },
   {
    "section": "money",
@@ -92,6 +180,27 @@
    ]
   },
   {
+   "section": "money",
+   "published": "2026-10-27T01:30:00Z",
+   "title": "China's factory profits rise 14.4% in September, led by electronics",
+   "why": "Profits at China's larger industrial firms rose 14.4% in September from a year earlier, up from 4.2% in August, official figures released on Tuesday show. Profits for January to September rose 15.5%, and electronics makers roughly doubled their earnings, helped by demand for AI.",
+   "matters": "Higher oil and metal prices also lifted profits, Bloomberg reports, while firms selling to Chinese shoppers still struggle with weak demand.",
+   "sources": [
+    {
+     "name": "Bloomberg (via BusinessMirror)",
+     "url": "https://businessmirror.com.ph/2026/10/27/chinas-industrial-profits-surge-most-in-3-months-on-oil/"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://www.investing.com/news/economic-indicators/china-industrial-profits-rise-144-in-september-on-ai-demand-4974109"
+    },
+    {
+     "name": "Xinhua",
+     "url": "https://english.news.cn/20261027/48ce9a7086514cd985313eb8a68d8e72/c.html"
+    }
+   ]
+  },
+  {
    "section": "world",
    "developing": true,
    "published": "2026-10-27T01:00:00Z",
@@ -110,6 +219,27 @@
     {
      "name": "Kyiv Independent",
      "url": "https://kyivindependent.com/breaking-russia-ukraine-agree-to-oleshky-ceasefire-mediated-by-melania-trump-white-house-says/"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-10-26T23:00:00Z",
+   "title": "South Korea's economy grows 1% in three months on chip exports",
+   "why": "South Korea's economy grew 1.0% in July to September compared with the previous three months, the Bank of Korea said on Tuesday, well above its forecast of 0.3%. Exports rose 2.3% and investment in equipment 4.1%, mostly for making semiconductors; household spending fell 0.2%.",
+   "matters": "Analysts warn growth depends heavily on chips, leaving South Korea exposed if global spending on AI slows.",
+   "sources": [
+    {
+     "name": "Yonhap (via UPI)",
+     "url": "https://www.upi.com/Top_News/World-News/2026/10/27/korea-South-Korea-Q3-GDP-1-percent-growth/4101793085583/"
+    },
+    {
+     "name": "Euronews (with AFP)",
+     "url": "https://www.euronews.com/2026/10/27/ai-chip-boom-tripled-south-koreas-economic-growth-in-the-third-quarter"
+    },
+    {
+     "name": "The Korea Times",
+     "url": "https://www.koreatimes.co.kr/economy/20261027/koreas-economy-grows-1-in-q3-on-chip-exports-beating-forecasts"
     }
    ]
   },
@@ -209,22 +339,23 @@
   {
    "section": "money",
    "developing": true,
+   "changed": "Updated: the real recovers some ground on Tuesday as the finance minister promises fiscal measures",
    "published": "2026-10-26T13:00:00Z",
-   "title": "Brazil's shares and currency fall sharply after Lula wins re-election",
-   "why": "Brazil's main stock index, the Bovespa, fell about 14% on Monday, its biggest one-day drop since 1998, Reuters and AP report, and trading in São Paulo was halted for 30 minutes. The real lost between 8% and 12% against the dollar after President Lula da Silva won Sunday's run-off.",
-   "matters": "Investors had bet on a win for Flávio Bolsonaro and now worry about government spending and debt, analysts say.",
+   "title": "Brazil's currency recovers slightly after its sharp fall over Lula's win",
+   "why": "Brazil's real gained between about 1% and 2% against the dollar on Tuesday, Reuters, InfoMoney and CNN Brasil report, after losing more than 8% on Monday. The Bovespa share index, which fell 13.9% on Monday after President Lula da Silva's re-election, moved little.",
+   "matters": "Finance Minister Dario Durigan says Monday's fall reflected market positions, not fundamentals, and that fiscal measures are ready.",
    "sources": [
     {
-     "name": "Reuters (via The Globe and Mail)",
-     "url": "https://www.theglobeandmail.com/investing/article-trading-on-brazils-stock-exchange-halted-after-15-tumble-following/"
+     "name": "Reuters (via Investing.com)",
+     "url": "https://www.investing.com/news/economy-news/brazils-markets-recover-some-ground-after-selloff-minister-vows-fiscal-discipline-4976164"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory"
+     "name": "InfoMoney",
+     "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-27102026/"
     },
     {
-     "name": "AP (via WRAL)",
-     "url": "https://www.wral.com/news/ap/088e6-us-futures-and-asian-stocks-advance-following-a-rally-on-wall-street/"
+     "name": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-27-outubro-2026/"
     }
    ]
   },
@@ -294,22 +425,23 @@
   },
   {
    "section": "tech",
+   "changed": "Updated: Nvidia commits $3 billion to Meta's share sale and widens their AI partnership",
    "published": "2026-10-26T11:30:00Z",
-   "title": "Meta sells about $35 billion of shares to pay for AI",
-   "why": "Meta, owner of Facebook and Instagram, launched share sales worth about $35 billion on Monday to pay for data centres and AI chips, and plans up to $60 billion more from 2027. Chipmakers Nvidia, AMD and Broadcom have said they may buy up to $5 billion of the shares.",
-   "matters": "Meta expects to spend $135bn to $145bn this year, mostly on data centres and chips, The Next Web reports.",
+   "title": "Nvidia to put $3 billion into Meta's share sale for AI",
+   "why": "Nvidia said on Tuesday it will invest $3 billion in Meta's new share sale and work with Meta on its Muse AI models and agent. Meta, owner of Facebook and Instagram, launched about $35 billion of share sales on Monday and plans up to $60 billion more from 2027.",
+   "matters": "Meta will use more Nvidia chips and networking in its data centres; Reuters reports Meta's total fundraising target is now $97.5 billion.",
    "sources": [
     {
-     "name": "Reuters (via BNN Bloomberg)",
-     "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/26/meta-launches-us35b-stock-offering-to-fund-ai-expansion/"
+     "name": "Investing.com",
+     "url": "https://www.investing.com/news/stock-market-news/nvidia-to-invest-3-bln-in-meta-share-offering-as-part-of-bigger-ai-partnership-4974236"
     },
     {
-     "name": "AP (via WRAL)",
-     "url": "https://www.wral.com/news/ap/088e6-us-futures-and-asian-stocks-advance-following-a-rally-on-wall-street/"
+     "name": "TechSpot",
+     "url": "https://www.techspot.com/news/114352-meta-gets-3-billion-nvidia-companies-team-up.html"
     },
     {
-     "name": "The Next Web",
-     "url": "https://thenextweb.com/news/meta-35bn-stock-offering-ai"
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/article/nvidia-to-invest-3-billion-in-meta-expand-partnership-on-muse-125249944.html"
     }
    ]
   },
@@ -360,27 +492,27 @@
    "section": "climate",
    "serious": true,
    "developing": true,
-   "changed": "Updated: now a very severe storm; about 50,000 people in shelters, officials say",
+   "changed": "Updated: stronger wind forecast; evacuations rise in Andhra Pradesh and Odisha, officials say",
    "published": "2026-10-26T07:00:00Z",
-   "title": "Cyclone Arnab nears India's east coast as thousands are evacuated",
-   "why": "Very severe Cyclone Arnab is expected to cross Andhra Pradesh's coast near Yanam on the morning of 28 October, with gusts up to 140 km/h, India's weather office says. State officials say about 50,000 people were in shelters by Monday night, of 400,000 who may need to move.",
-   "matters": "Red alerts cover coastal districts; schools are shut, trains cancelled and coastal roads closed ahead of landfall.",
+   "title": "Cyclone Arnab nears India's east coast as tens of thousands evacuate",
+   "why": "Very severe Cyclone Arnab is expected to cross Andhra Pradesh's coast near Yanam around midday on 28 October, with gusts up to 150 km/h, India's weather office says. Officials say about 89,000 people in Andhra Pradesh and 48,000 in Odisha have been moved to shelters.",
+   "matters": "Forecasters warn of a storm surge of up to 1.5 metres near Kakinada and Yanam; trains and flights are cancelled.",
    "sources": [
-    {
-     "name": "Reuters (via bdnews24)",
-     "url": "https://bdnews24.com/neighbours/qcuuonv436"
-    },
-    {
-     "name": "The Week",
-     "url": "https://www.theweek.in/news/india/2026/10/27/cyclone-arnab-flash-flood-alerts-coastal-andhra-as-extremely-heavy-rains-winds-upto-125-kmph.html"
-    },
-    {
-     "name": "Open Magazine",
-     "url": "https://openthemagazine.com/india/cyclone-arnab-intensifies-heads-for-andhra-coast-16-districts-on-alert"
-    },
     {
      "name": "ETV Bharat",
      "url": "https://www.etvbharat.com/en/bharat/live-blog--cyclone-arnab-live-updates-very-severe-storm-closes-in-on-andhra-pradesh-coast-landfall-expected-october-28-enn26102701123"
+    },
+    {
+     "name": "Gulf News (AP/IANS)",
+     "url": "https://gulfnews.com/world/asia/india/cyclone-arnab-bears-down-on-india-136000-evacuated-as-andhra-odisha-on-alert-1.500725700"
+    },
+    {
+     "name": "Scroll",
+     "url": "https://scroll.in/latest/1096686/cyclone-arnab-over-89000-evacuated-ndrf-teams-deployed-ahead-of-andhra-landfall"
+    },
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261027-india-braces-for-cyclone-arnab-with-evacuations"
     }
    ]
   },
@@ -409,28 +541,6 @@
    ]
   },
   {
-   "section": "culture",
-   "serious": true,
-   "published": "2026-10-26T05:00:00Z",
-   "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies at 46",
-   "why": "The Canadian-born voice actor Eric Bauza died suddenly on Sunday 25 October, his manager said. He was the modern voice of Looney Tunes characters including Bugs Bunny, Daffy Duck, Porky Pig and Tweety, and won three Children's and Family Emmy awards.",
-   "matters": "His voices reached children around the world through Looney Tunes cartoons, films and games.",
-   "sources": [
-    {
-     "name": "CBS News Los Angeles",
-     "url": "https://www.cbsnews.com/losangeles/news/eric-bauza-death-at-46-bugs-bunny-daffy-duck-looney-tunes/"
-    },
-    {
-     "name": "ABC7 Los Angeles",
-     "url": "https://abc7.com/story/eric-bauza-voiced-bugs-bunny-daffy-duck-dozens-cartoon-characters-dies-46/19979906/"
-    },
-    {
-     "name": "GMA News",
-     "url": "https://www.gmanetwork.com/news/showbiz/content/1007185/fil-canadian-eric-bauza-who-voiced-bugs-bunny-dies-at-46/story"
-    }
-   ]
-  },
-  {
    "section": "world",
    "developing": true,
    "changed": "Updated: talks end with agreement to keep talking; Iran says the US is 'not serious'",
@@ -450,32 +560,6 @@
     {
      "name": "The Star (Bernama-Anadolu)",
      "url": "https://thestar.com.my/aseanplus/aseanplus-news/2026/10/26/iran-says-us-039not-serious039-about-talks-rejects-claims-over-nuclear-programme-as-oil-prices-take-a-tumble"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "serious": true,
-   "published": "2026-10-26T00:45:00Z",
-   "title": "Oil eases from six-month high as Qatar mediates with Iran",
-   "why": "Brent crude fell about 1–2% on Monday to around $115 a barrel, after Qatari mediators visited Tehran on Sunday to try to ease tensions with the US, Reuters reports. Brent had risen more than 6% last week, its highest weekly close since 2022.",
-   "matters": "Houthi attacks on Saudi Arabia keep supply worries alive, Reuters reports, so fuel and shipping costs stay high.",
-   "sources": [
-    {
-     "name": "Reuters (via AOL)",
-     "url": "https://www.aol.com/articles/asian-shares-cautious-start-brent-004633000.html"
-    },
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261026-stocks-sink-as-traders-brace-for-tech-earnings-central-bank-decisions"
-    },
-    {
-     "name": "IBTimes Australia",
-     "url": "https://www.ibtimes.com.au/japan-nikkei-falls-chip-stocks-oil-prices-1877397"
-    },
-    {
-     "name": "Investing.com",
-     "url": "https://www.investing.com/news/economy-news/catalystfilled-trading-week-ahead-oil-prices-ease--whats-moving-markets-4971654"
     }
    ]
   },
@@ -525,53 +609,6 @@
    ]
   },
   {
-   "section": "sport",
-   "published": "2026-10-25T20:40:00Z",
-   "title": "Kimi Antonelli wins US Grand Prix and nears first Formula 1 title",
-   "why": "Italy's Kimi Antonelli of Mercedes won the United States Grand Prix in Austin, Texas, on 25 October, his ninth win of the season. Ferrari's Charles Leclerc was second and Red Bull's Max Verstappen third. Antonelli now leads by 123 points with 125 left to win.",
-   "matters": "A top-nine finish at the Mexico City Grand Prix on 1 November would give him the drivers' title, Sky Sports says.",
-   "sources": [
-    {
-     "name": "Formula 1",
-     "url": "https://www.formula1.com/en/latest/article/antonelli-surges-to-dominant-victory-in-united-states-grand-prix-ahead-of-leclerc-and-verstappen.6kmBQv9FNTW7LzkDj8S34j"
-    },
-    {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/f1/news/13603603/united-states-gp-kimi-antonelli-wins-austin-race-to-move-to-brink-of-f1-world-title-after-dominant-drive"
-    },
-    {
-     "name": "ESPN",
-     "url": "https://www.espn.com/f1/story/_/id/50259831/united-states-grand-prix-austin-2026-live-updates-results-analysis-commentary"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "changed": "Updated: SpaceX's filing shows an Apollo-run fund will buy the chips and lease them to it",
-   "published": "2026-10-25T20:05:00Z",
-   "title": "SpaceX signs $40 billion deal to lease AI chips from Apollo-run fund",
-   "why": "SpaceX said in a filing on Monday that a fund managed by Apollo Global Management will buy about $40 billion of Nvidia AI chips and servers and lease them to it for about five years from 2027. Elon Musk had called it a $40 billion debt deal on Sunday.",
-   "matters": "Musk warned that lenders are shunning 'neocloud' firms that only rent out AI computing power, predicting many will fail.",
-   "sources": [
-    {
-     "name": "Reuters (via Investing.com)",
-     "url": "https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248"
-    },
-    {
-     "name": "TechCrunch",
-     "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
-    },
-    {
-     "name": "CoinDesk",
-     "url": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout"
-    },
-    {
-     "name": "AP (via WRAL)",
-     "url": "https://www.wral.com/news/ap/088e6-us-futures-and-asian-stocks-advance-following-a-rally-on-wall-street/"
-    }
-   ]
-  },
-  {
    "section": "world",
    "serious": true,
    "developing": true,
@@ -602,95 +639,50 @@
    "section": "health",
    "serious": true,
    "developing": true,
-   "changed": "Updated: latest DR Congo count from ECDC; Kenya releases first contacts from quarantine",
+   "changed": "Updated: confirmed cases pass 10,000, Congo's health ministry says",
    "published": "2026-10-25T17:38:00Z",
-   "title": "Uganda orders Ebola quarantine as Congo's case count nears 10,000",
-   "why": "Uganda says citizens returning from DR Congo must quarantine for 21 days at their own cost. Europe's disease agency, ECDC, counts 9,964 confirmed cases and 4,851 deaths in DR Congo by 25 October. Kenya, with nine cases, has released its first contacts from quarantine.",
-   "matters": "Kenya's and Nigeria's first patients both passed through Uganda's Entebbe airport, Africa CDC says.",
+   "title": "DR Congo's Ebola cases pass 10,000 as outbreak keeps spreading",
+   "why": "DR Congo's health ministry says confirmed Ebola cases have reached 10,060, with 4,887 deaths, across 66 health zones in eight provinces. About 80% of new cases come from outside known contact chains, AP reports. Uganda now requires citizens returning from Congo to quarantine for 21 days.",
+   "matters": "It is the second-largest Ebola outbreak on record, and no vaccine or treatment is approved for this Bundibugyo strain.",
    "sources": [
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/25/uganda-orders-21-day-ebola-quarantine-for-citizens-returning-from-dr-congo"
+     "url": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak"
     },
     {
-     "name": "Reuters (via TimesLIVE)",
-     "url": "https://www.timeslive.co.za/news/africa/2026-10-25-uganda-imposes-21-day-quarantine-on-congo-travellers/"
+     "name": "AP (via Korea Times)",
+     "url": "https://www.koreatimes.co.kr/world/20261027/congos-ebola-outbreak-tops-10000-cases-as-authorities-race-to-slow-the-spread-in-african-countries"
+    },
+    {
+     "name": "Reuters (via Asharq Al-Awsat)",
+     "url": "https://english.aawsat.com/world/5334105-congos-ebola-infections-surpass-10000"
     },
     {
      "name": "Daily Monitor",
      "url": "https://www.monitor.co.ug/uganda/news/national/uganda-imposes-mandatory-21-day-drc-quarantine-as-regional-ebola-threat-expands-5645034"
-    },
-    {
-     "name": "ECDC",
-     "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda"
-    },
-    {
-     "name": "CIDRAP",
-     "url": "https://www.cidrap.umn.edu/ebola/kenya-reports-2nd-ebola-death-nigeria-races-understand-transmission-index-patient"
     }
    ]
   },
   {
    "section": "sport",
-   "published": "2026-10-25T17:10:00Z",
-   "title": "Mbappé scores twice as Real Madrid beat leaders Barcelona 2-1",
-   "why": "Kylian Mbappé scored in the 41st and 87th minutes as Real Madrid won 2-1 at Barcelona's Camp Nou on 25 October, after Raphinha had equalised. It ended Barcelona's run of nine straight league wins and was their first defeat of the Spanish season.",
-   "matters": "Barcelona still top La Liga on 27 points, ahead of Atlético Madrid on 25 and Real Madrid on 24.",
-   "sources": [
-    {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/football/news/13603624/barcelona-1-2-real-madrid-kylian-mbappe-scores-late-winner-in-el-clasico-to-beat-laliga-leaders"
-    },
-    {
-     "name": "ESPN",
-     "url": "https://www.espn.com/soccer/report/_/gameId/401882832"
-    },
-    {
-     "name": "AFP (via theScore)",
-     "url": "https://www.thescore.com/news/3635014/mbappes-brace-fires-real-madrid-to-clasico-win-over-barcelona"
-    }
-   ]
-  },
-  {
-   "section": "sport",
+   "developing": true,
+   "changed": "Updated: Sri Lanka beat Pakistan to reach the final and knock England out",
    "published": "2026-10-25T16:00:00Z",
-   "title": "Shadab Khan's century and record last-wicket stand lift Pakistan past England",
-   "why": "Pakistan were 154 for nine chasing 242 in Lahore on 25 October when Shadab Khan and Haris Rauf added an unbeaten 89, the highest tenth-wicket stand in a winning one-day chase. Shadab made 113 not out as Pakistan won by one wicket.",
-   "matters": "Pakistan reach the tri-series final on 31 October; England must beat Sri Lanka on 29 October to stay in contention.",
+   "title": "Pakistan to meet Sri Lanka in tri-series final as England go out",
+   "why": "Pakistan, who beat England by one wicket on 25 October thanks to Shadab Khan's unbeaten 113, will play Sri Lanka in the final on 31 October. Sri Lanka bowled Pakistan out for 110 in Lahore on 27 October and won by eight wickets, ending England's hopes.",
+   "matters": "Dilshan Madushanka took a career-best five for 34; England have lost all three of their matches in the series.",
    "sources": [
     {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/cricket/news/13603562/pakistan-vs-england-shadab-khan-makes-maiden-odi-century-in-89-run-last-wicket-stand-to-secure-victory-despite-ben-duckett-ton"
+     "name": "BBC Sport (via Yahoo Sports)",
+     "url": "https://sports.yahoo.com/articles/england-tri-series-sri-lanka-130116259.html"
     },
     {
-     "name": "The Cricket News (via Yahoo Sports)",
-     "url": "https://sports.yahoo.com/articles/pak-vs-eng-4th-odi-063500203.html"
+     "name": "AFP (via Arab News Pakistan)",
+     "url": "https://www.arabnews.pk/pakistan/sri-lanka-thump-pakistan-to-eliminate-england-from-tri-series-final-race-3005395"
     },
     {
-     "name": "ANI (via The Tribune)",
-     "url": "https://www.tribuneindia.com/news/sports/shadab-khans-unbeaten-113-powers-pakistan-to-thrilling-one-wicket-win-over-england"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "serious": true,
-   "published": "2026-10-25T12:00:00Z",
-   "title": "Storms Boelo and Austen leave over 150,000 European homes without power",
-   "why": "Two storms crossed north-western Europe within 24 hours over the weekend. Scottish police say a man died when a tree fell on him in Dumfries and Galloway on Sunday. More than 150,000 homes in the UK, France and Germany were without power on Sunday, AFP reports.",
-   "matters": "Flood warnings remain in parts of Scotland and England, and travel by rail, ferry and air was disrupted.",
-   "sources": [
-    {
-     "name": "Al Jazeera (AFP/AP)",
-     "url": "https://www.aljazeera.com/news/2026/10/26/two-storms-slam-northern-europe-cut-power-to-150000-homes"
-    },
-    {
-     "name": "STV News",
-     "url": "https://news.stv.tv/scotland/man-killed-by-falling-tree-as-storm-boelo-continues-to-cause-disruption"
-    },
-    {
-     "name": "Anadolu Agency",
-     "url": "https://aa.com.tr/en/europe/storm-austen-leaves-over-160-000-households-without-power-in-france/4098076"
+     "name": "WION",
+     "url": "https://www.wionews.com/sports/sl-vs-pak-lahore-odi-madushanka-five-wicket-haul-sri-lanka-reach-tri-series-final-england-out-1793107033535"
     }
    ]
   },
@@ -698,23 +690,23 @@
    "section": "health",
    "serious": true,
    "developing": true,
-   "changed": "Updated: death toll now 389, with 126,166 admitted to hospital this year",
+   "changed": "Updated: 11 deaths in a day, the year's highest; toll reaches 400",
    "published": "2026-10-25T11:20:00Z",
-   "title": "Bangladesh's dengue death toll this year rises to 389",
-   "why": "Bangladesh's health directorate reported five more dengue deaths and 2,218 hospital admissions in the 24 hours to 8am on 26 October, a day after a record 2,249. This year's toll is 389 deaths, 144 of them in October, with 126,166 people admitted to hospital.",
+   "title": "Bangladesh's dengue death toll this year reaches 400",
+   "why": "Bangladesh's health directorate reported 11 dengue deaths in the 24 hours to 8am on 27 October, the highest daily toll this year, and 2,071 hospital admissions. This year's toll is 400 deaths, 155 of them in October, with 128,237 people admitted to hospital.",
    "matters": "Dengue usually peaks in Bangladesh's June–September monsoon, but this year cases are still rising in late October.",
    "sources": [
     {
      "name": "The Business Standard",
-     "url": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-reaches-389-5-more-die-24-hours-1583516"
+     "url": "https://www.tbsnews.net/bangladesh/dengue-toll-hits-400-years-highest-11-deaths-day-recorded-1584521"
     },
     {
      "name": "bdnews24",
-     "url": "https://bdnews24.com/health/rlyheckrth"
+     "url": "https://bdnews24.com/health/m25zw74u6a"
     },
     {
-     "name": "BSS (via Daily Waadaa)",
-     "url": "https://www.dailywaadaa.com/health/2026/10/26/5-die-of-dengue-2218-hospitalised-in-24-hrs"
+     "name": "Bangladesh Post",
+     "url": "https://bangladeshpost.net/posts/dengue-deaths-reach-400-in-bangladesh-11-die-in-a-day-174901"
     }
    ]
   },
@@ -738,61 +730,6 @@
     {
      "name": "Atlanta Journal-Constitution",
      "url": "https://www.ajc.com/sports/2026/10/atlanta-dream-wnba-finals-live-updates/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: UN rights chief warns of 'ethnic cleansing' concerns as displacement rises",
-   "published": "2026-10-23T08:47:00Z",
-   "title": "UN rights chief says Israel's Hebron operation must end",
-   "why": "Israel's operation in Hebron, begun after two soldiers were killed at a nearby checkpoint on Friday, has displaced 3,189 people, the city's municipality says. UN rights chief Volker Türk said on Monday threats to empty neighbourhoods 'raise serious concerns of ethnic cleansing'.",
-   "matters": "Defence Minister Israel Katz has said residents cannot return until the army finishes; West Bank crossings are shut for Israel's election.",
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261026-un-cites-ethnic-cleansing-concerns-around-israel-palestinian-displacement-operation-hebron"
-    },
-    {
-     "name": "UN News",
-     "url": "https://news.un.org/en/story/2026/10/1168672"
-    },
-    {
-     "name": "Arab News (AFP)",
-     "url": "https://www.arabnews.com/middle-east/hebron-says-3000-displaced-in-israeli-operation-after-gun-attack-3008345"
-    },
-    {
-     "name": "Times of Israel",
-     "url": "https://www.timesofisrael.com/liveblog-october-25-2026/"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "developing": true,
-   "changed": "Updated: shares allotted; trading starts on Wednesday",
-   "published": "2026-10-23T08:12:00Z",
-   "title": "India's Jio Platforms to start trading on Wednesday after record share sale",
-   "why": "Jio Platforms, Mukesh Ambani's telecoms and digital firm, finished allotting shares on Tuesday after its $3.2bn (₹30,213 crore) share sale. Investors bid for more than 22 times the shares on offer, and Indian exchanges recorded more than 10 million applications, a record.",
-   "matters": "Shares start trading on India's NSE and BSE exchanges on 28 October, valuing the company at about $108bn.",
-   "sources": [
-    {
-     "name": "Reuters (via Investing.com)",
-     "url": "https://www.investing.com/news/stock-market-news/ambanis-32-billion-jio-indian-ipo-lures-investors-as-bids-surge-on-final-day-4968087"
-    },
-    {
-     "name": "Business Today",
-     "url": "https://www.businesstoday.in/markets/ipo-corner/story/jio-platforms-ipo-allotment-out-should-you-hold-or-book-profit-on-listing-what-gmp-hints-at-563869-2026-10-27"
-    },
-    {
-     "name": "Upstox News",
-     "url": "https://upstox.com/news/market-news/ipo/jio-platforms-ipo-allotment-steps-to-check-status-online-via-pan-on-k-fin-tech-bse-nse-demat-credit-and-listing-date-time/article-202350/"
-    },
-    {
-     "name": "The Tribune (ANI)",
-     "url": "https://www.tribuneindia.com/news/business/jio-platforms-ipo-sets-global-record-with-over-1-crore-applications-subscribed-7-83-times"
     }
    ]
   }
