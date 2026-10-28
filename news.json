@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T06:42:44Z",
+ "updated": "2026-10-28T07:47:40Z",
  "items": [
   {
    "section": "climate",
@@ -20,6 +20,27 @@
     {
      "name": "AFP (via Korea Herald)",
      "url": "https://www.koreaherald.com/article/10917565"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-10-27T23:45:00Z",
+   "title": "SK Hynix’s quarterly revenue passes 100 trillion won for the first time",
+   "why": "South Korean memory-chip maker SK Hynix reported third-quarter revenue of 104.6 trillion won, up 328% on a year earlier, and operating profit of 83.3 trillion won. It plans to return about 100 trillion won to shareholders this year.",
+   "matters": "The company says demand for AI memory chips will outstrip supply until 2030.",
+   "sources": [
+    {
+     "name": "SK hynix (company statement)",
+     "url": "https://www.prnewswire.com/news-releases/sk-hynix-announces-3q26-financial-results-302921407.html"
+    },
+    {
+     "name": "Kyunghyang Shinmun",
+     "url": "https://www.khan.co.kr/en/article/202610280943037/"
+    },
+    {
+     "name": "Seoul Economic Daily",
+     "url": "https://en.sedaily.com/finance/2026/10/28/sk-hynix-posts-first-100-trillion-won-quarter-adds-60"
     }
    ]
   },
@@ -198,17 +219,39 @@
   },
   {
    "section": "world",
+   "serious": true,
+   "published": "2026-10-27T06:50:00Z",
+   "title": "Fire sweeps through Seoul’s last shantytown, displacing over 100 people",
+   "why": "A fire that began on Tuesday afternoon in Guryong Village, beside Seoul’s wealthy Gangnam district in South Korea, took about 13 hours to put out. Officials say 107 residents from 77 households were displaced and one woman was slightly hurt.",
+   "matters": "Strong winds and a shortage of water hampered firefighters; police and fire officials are investigating the cause.",
+   "sources": [
+    {
+     "name": "Korea JoongAng Daily",
+     "url": "https://www.koreajoongangdaily.com/korea/fire-in-gangnams-last-shantytown-extinguished-after-nearly-13-hours/12941797"
+    },
+    {
+     "name": "Seoul Economic Daily",
+     "url": "https://en.sedaily.com/society/2026/10/28/fire-at-seouls-last-shantytown-extinguished-after-13-hours"
+    },
+    {
+     "name": "Kyunghyang Shinmun",
+     "url": "https://www.khan.co.kr/en/article/202610280546007/"
+    }
+   ]
+  },
+  {
+   "section": "world",
    "lead": true,
    "developing": true,
-   "changed": "Updated: polls have closed and partial results show a deadlock",
+   "changed": "Updated: two-thirds of ballots counted, still no majority",
    "published": "2026-10-27T05:00:00Z",
    "title": "Israel's election ends in deadlock, with neither bloc reaching a majority",
-   "why": "With more than half of ballots counted, partial results give Prime Minister Benjamin Netanyahu's bloc about 55 of the Knesset's 120 seats and Gadi Eisenkot's opposition 49; 61 are needed. Arab parties are projected to win a record 16 to 19 seats. Turnout was about 78%, the highest since 1999.",
+   "why": "With about two-thirds of ballots counted, the Times of Israel reports Prime Minister Benjamin Netanyahu’s bloc on 56 of the Knesset’s 120 seats, Gadi Eisenkot’s opposition on 48 and Arab parties on 16; 61 are needed. Turnout was about 78%.",
    "matters": "Both leaders say they will form a government; the final count is expected by Friday and coalition talks could take weeks.",
    "sources": [
     {
      "name": "Times of Israel",
-     "url": "https://www.timesofisrael.com/liveblog-october-28-2026/"
+     "url": "https://www.timesofisrael.com/liveblog_entry/with-nearly-42-of-ballots-counted-pms-bloc-leads-opposition-57-47-arab-parties-hold-remaining-seats/"
     },
     {
      "name": "Al Jazeera",
