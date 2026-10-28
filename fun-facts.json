@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "facts": [
     {
       "date": "2026-09-20",
@@ -1100,6 +1100,36 @@
         {
           "name": "Discover Magazine",
           "url": "https://www.discovermagazine.com/angry-crows-recognize-humanseven-dick-cheney-28152"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "kind": "tale",
+      "emoji": "🎃",
+      "title": "Stingy Jack and his lantern",
+      "story": "Stingy Jack, an Irish trickster, fooled the Devil not once but twice. When he died, heaven would not take him and hell would not have him either. The Devil tossed him a glowing ember, which Jack put inside a hollowed-out turnip, and he has wandered the dark with it ever since.",
+      "origin": "It is an Irish folk tale. In Ireland and other Celtic lands people carved lanterns from turnips, and sometimes potatoes or beets, for 31 October; Ireland’s national museum keeps a Donegal “ghost turnip” of the kind made around 1900. Irish immigrants in North America switched to pumpkins, which are native there and far easier to carve.",
+      "sources": [
+        {
+          "name": "National Museum of Ireland: Ghost turnip",
+          "url": "https://source.museum.ie/en-IE/Collections-Research/Collection/Top-things-to-see-in-the-Irish-Folklife-Collection/Artefact/Ghost-turnip/b202e8ea-0728-4b3d-b0f1-82660fe45ce9"
+        },
+        {
+          "name": "National Geographic",
+          "url": "https://www.nationalgeographic.com/history/article/the-twisted-transatlantic-tale-of-american-jack-o-lanterns"
+        },
+        {
+          "name": "Smithsonian Magazine",
+          "url": "https://www.smithsonianmag.com/smart-news/when-people-carved-turnips-instead-of-pumpkins-for-halloween-180978922/"
+        },
+        {
+          "name": "HISTORY",
+          "url": "https://www.history.com/articles/history-of-the-jack-o-lantern-irish-origins"
+        },
+        {
+          "name": "Clemson University Home & Garden Information Center",
+          "url": "https://hgic.clemson.edu/the-origins-of-the-jack-olantern/"
         }
       ]
     }
