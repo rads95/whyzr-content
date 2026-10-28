@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-28T06:10:00Z",
+ "updated": "2026-10-28T06:42:44Z",
  "items": [
+  {
+   "section": "climate",
+   "serious": true,
+   "published": "2026-10-28T01:52:00Z",
+   "title": "Lancet report links nearly 3 million deaths to climate-driven heat",
+   "why": "The tenth Lancet Countdown report, by 146 researchers from 30 countries, says heat was linked to more than 540,000 deaths a year from 2016 to 2023, about 68% of them due to climate change. An estimated 710,000 heat deaths in 2023 set a record.",
+   "matters": "The authors call for climate change to be declared a global health emergency ahead of next month's COP31 summit in Türkiye.",
+   "sources": [
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-28/lancet-study-counts-three-million-climate-change-related-deaths/107315006"
+    },
+    {
+     "name": "ABC News (US)",
+     "url": "https://abcnews.com/US/climate-change-global-health-emergency-harms-accelerating-lancet/story?id=137598966"
+    },
+    {
+     "name": "AFP (via Korea Herald)",
+     "url": "https://www.koreaherald.com/article/10917565"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-10-27T22:15:00Z",
+   "title": "Fourth-tier Fleetwood knock Arsenal out of the League Cup on penalties",
+   "why": "Fleetwood Town, 18th in England's League Two, drew 1-1 with Premier League champions Arsenal at their Highbury Stadium on Tuesday, then won the shoot-out 5-3. Arsenal's 16-year-old Max Dowman was sent off late in the game.",
+   "matters": "Fleetwood reach the quarter-finals; several outlets rank it among the biggest upsets in the competition’s history.",
+   "sources": [
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/football/news/13604003/fleetwood-1-1-arsenal-5-3-pens-premier-league-champions-dumped-out-of-carabao-cup-by-league-two-side"
+    },
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/soccer/story/_/id/50301787/arsenal-fleetwood-town-carabao-cup-4th-round-dowman-drone"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/sports/2026/10/28/arsenal-fleetwood-town-league-cup-penalties-guimaraes-dowman"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "developing": true,
+   "changed": "Updated: Flávio Bolsonaro has reportedly left Brazil for the US",
+   "published": "2026-10-27T16:00:00Z",
+   "title": "Flávio Bolsonaro reported to have left Brazil for the US",
+   "why": "Brazil's defeated presidential candidate reportedly left despite a Supreme Court order to hand over his passports in a money-laundering inquiry, which he denies. Police say he did not use a regular border crossing. A senior US State Department official said visas would be issued to him and his family.",
+   "matters": "President Lula called the departure shameful; Bolsonaro's party had already accepted Lula's re-election win.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261027-defeated-brazilian-candidate-flavio-bolsonaro-passports-cancelled-whereabouts-unknown"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-28/fl%C3%A1vio-bolsonaro-escape-timeline-from-brazil-to-us-explained/107317880"
+    }
+   ]
+  },
   {
    "section": "sport",
    "published": "2026-10-27T11:26:00Z",
@@ -89,6 +155,27 @@
    ]
   },
   {
+   "section": "sport",
+   "published": "2026-10-27T07:40:00Z",
+   "title": "Mbappé apologises after Chinese brands drop him over Mao joke",
+   "why": "Real Madrid forward Kylian Mbappé called his comment \"ill-judged\" after a video showed him describing Mao Zedong as a Chinese dictator while discussing a meme. Drinks maker Dongpeng, dairy firm Mengniu and cheese maker Milkground ended their deals with him.",
+   "matters": "China Media Group suspended broadcasts of his La Liga matches, France 24 reports; La Liga also apologised.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/sport/20261027-kylian-mbappe-china-mao-zedong-sponsorship-deal"
+    },
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/soccer/story/_/id/50295111/real-madrid-kylian-mbappe-chinese-brands-dictator-comment"
+    },
+    {
+     "name": "Africanews",
+     "url": "https://www.africanews.com/2026/10/27/mbappe-apologises-for-mao-zedong-comment-after-chinese-sponsors-drop-him/"
+    }
+   ]
+  },
+  {
    "section": "tech",
    "published": "2026-10-27T06:59:00Z",
    "title": "South Korean chip shares jump after Anthropic's stock market filing",
@@ -111,32 +198,31 @@
   },
   {
    "section": "world",
+   "lead": true,
    "developing": true,
-   "changed": "Updated: exit polls show neither bloc with a majority",
+   "changed": "Updated: polls have closed and partial results show a deadlock",
    "published": "2026-10-27T05:00:00Z",
-   "title": "Israeli exit polls show no clear majority after record turnout",
-   "why": "Exit polls from Israel’s Channel 12, Kan and Channel 13 give neither Benjamin Netanyahu’s bloc nor Gadi Eisenkot’s opposition the 61 seats needed, with revised figures putting them level or close. Likud is projected to be the largest party. Turnout was over 74% by 8pm, the elections committee says.",
-   "matters": "Arab-led parties, projected at a record 17 to 18 seats, may decide who governs; official results could take days.",
+   "title": "Israel's election ends in deadlock, with neither bloc reaching a majority",
+   "why": "With more than half of ballots counted, partial results give Prime Minister Benjamin Netanyahu's bloc about 55 of the Knesset's 120 seats and Gadi Eisenkot's opposition 49; 61 are needed. Arab parties are projected to win a record 16 to 19 seats. Turnout was about 78%, the highest since 1999.",
+   "matters": "Both leaders say they will form a government; the final count is expected by Friday and coalition talks could take weeks.",
    "sources": [
     {
-     "name": "AP (via PBS)",
-     "url": "https://www.pbs.org/newshour/world/no-clear-winner-in-israeli-election-exit-polls-indicate-as-netanyahus-fate-hangs-in-the-balance"
-    },
-    {
-     "name": "Ynet",
-     "url": "https://www.ynetnews.com/article/skd97fc2gl"
-    },
-    {
      "name": "Times of Israel",
-     "url": "https://www.timesofisrael.com/liveblog_entry/channel-12-exit-poll-shows-no-clear-victor-netanyahus-likud-is-largest-party-but-his-opponents-have-bigger-bloc/"
+     "url": "https://www.timesofisrael.com/liveblog-october-28-2026/"
     },
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls"
+     "url": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/middle-east/20261027-israel-election-record-turnout-netanyahu-eisenkot-deadlock"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-28/israel-elections-netanyahu-eisenkot-deadlock/107317018"
     }
-   ],
-   "lead": true,
-   "serious": false
+   ]
   },
   {
    "section": "money",
@@ -492,27 +578,27 @@
    "section": "climate",
    "serious": true,
    "developing": true,
-   "changed": "Updated: stronger wind forecast; evacuations rise in Andhra Pradesh and Odisha, officials say",
+   "changed": "Updated: the cyclone made landfall early on 28 October and is weakening",
    "published": "2026-10-26T07:00:00Z",
-   "title": "Cyclone Arnab nears India's east coast as tens of thousands evacuate",
-   "why": "Very severe Cyclone Arnab is expected to cross Andhra Pradesh's coast near Yanam around midday on 28 October, with gusts up to 150 km/h, India's weather office says. Officials say about 89,000 people in Andhra Pradesh and 48,000 in Odisha have been moved to shelters.",
-   "matters": "Forecasters warn of a storm surge of up to 1.5 metres near Kakinada and Yanam; trains and flights are cancelled.",
+   "title": "Cyclone Arnab makes landfall in India's Andhra Pradesh, then weakens",
+   "why": "Cyclone Arnab crossed the coast near Yanam, about 20 km from Narsapur, early on Wednesday with gusts of up to 150 km/h, India's weather office says. It has weakened to a severe cyclonic storm. Officials quoted by the PTI news agency say two people died after touching live wires.",
+   "matters": "Odisha says about 100,000 people were moved to safety; heavy rain is forecast inland in Odisha and Jharkhand.",
    "sources": [
     {
      "name": "ETV Bharat",
-     "url": "https://www.etvbharat.com/en/bharat/live-blog--cyclone-arnab-live-updates-very-severe-storm-closes-in-on-andhra-pradesh-coast-landfall-expected-october-28-enn26102701123"
+     "url": "https://www.etvbharat.com/en/bharat/live-blog--cyclone-arnab-live-updates-landfall-in-andhra-pradesh-rain-odisha-jharkhand-chhattisgarh-enn26102800499"
+    },
+    {
+     "name": "Sambad English",
+     "url": "https://sambadenglish.com/national-international-news/india/cyclone-arnab-crosses-coast-with-max-wind-speed-of-150-kmph-weakens-12759872"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/27/india-evacuates-tens-of-thousands-as-very-severe-cyclone-arnab-nears"
     },
     {
      "name": "Gulf News (AP/IANS)",
      "url": "https://gulfnews.com/world/asia/india/cyclone-arnab-bears-down-on-india-136000-evacuated-as-andhra-odisha-on-alert-1.500725700"
-    },
-    {
-     "name": "Scroll",
-     "url": "https://scroll.in/latest/1096686/cyclone-arnab-over-89000-evacuated-ndrf-teams-deployed-ahead-of-andhra-landfall"
-    },
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261027-india-braces-for-cyclone-arnab-with-evacuations"
     }
    ]
   },
@@ -560,29 +646,6 @@
     {
      "name": "The Star (Bernama-Anadolu)",
      "url": "https://thestar.com.my/aseanplus/aseanplus-news/2026/10/26/iran-says-us-039not-serious039-about-talks-rejects-claims-over-nuclear-programme-as-oil-prices-take-a-tumble"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "developing": true,
-   "changed": "Updated: Bolsonaro's party accepts the result",
-   "published": "2026-10-26T00:20:00Z",
-   "title": "Bolsonaro's party accepts Lula's re-election in Brazil",
-   "why": "Brazil's Liberal Party said on Monday it recognised the result of Sunday's run-off, which Lula won with 51.8% of valid votes to Flávio Bolsonaro's 48.2%. Bolsonaro, who called the result 'unacceptable', now says he will ask the courts to revoke Lula's ticket over alleged abuse of power.",
-   "matters": "President Trump said the vote 'looked like another rigged election'; Brazil's vice-president called his remarks 'unfounded'.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was"
-    },
-    {
-     "name": "InfoMoney",
-     "url": "https://www.infomoney.com.br/politica/partido-de-flavio-bolsonaro-reconhece-vitoria-eleitoral-de-lula/"
-    },
-    {
-     "name": "Reuters (Newcastle Herald)",
-     "url": "https://newcastleherald.com.au/story/9380434/bolsonaros-party-accepts-lula-win-in-brazils-election"
     }
    ]
   },
