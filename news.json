@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-28T07:47:40Z",
+ "updated": "2026-10-28T13:52:24Z",
  "items": [
+  {
+   "section": "world",
+   "lead": true,
+   "serious": true,
+   "developing": true,
+   "published": "2026-10-28T08:00:00Z",
+   "title": "At least 64 killed as two high-speed trains collide in central Spain",
+   "why": "Officials say a Renfe high-speed train ran into a stationary Iryo train near Urda, in Toledo province, on Wednesday morning, derailing carriages. The regional government of Castilla-La Mancha says at least 64 people died and about 80 were injured. The cause is not yet known.",
+   "matters": "It is Spain's second deadly high-speed crash this year; trains between Madrid and Andalusia are suspended.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261028-two-high-speed-trains-collide-in-southern-spain-rail-operator-says"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-28/deadly-high-speed-train-collision-spain/107320916"
+    },
+    {
+     "name": "CBS News (AP)",
+     "url": "https://www.cbsnews.com/news/spain-train-crash-toledo-urda/"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-10-28T04:00:00Z",
+   "title": "Rays win in 12th inning to stay alive in the World Series",
+   "why": "The Tampa Bay Rays beat the Milwaukee Brewers 4-3 in Game 4 in Florida on Tuesday night, with pinch hitter Ben Williamson's bases-loaded single winning it in the 12th. Milwaukee still lead the best-of-seven series 3-1; Game 5 is on Wednesday.",
+   "sources": [
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/mlb/story/_/id/50304403/rays-steal-game-4-extras-stay-alive-world-series"
+    },
+    {
+     "name": "CBS Sports",
+     "url": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/"
+    },
+    {
+     "name": "Yahoo Sports",
+     "url": "https://sports.yahoo.com/mlb/live/brewers-rays-box-score-live-updates-world-series-game-4-lineups-starting-pitchers-news-highlights-where-to-watch-223000629.html"
+    }
+   ]
+  },
   {
    "section": "climate",
    "serious": true,
@@ -28,7 +72,7 @@
    "published": "2026-10-27T23:45:00Z",
    "title": "SK Hynix’s quarterly revenue passes 100 trillion won for the first time",
    "why": "South Korean memory-chip maker SK Hynix reported third-quarter revenue of 104.6 trillion won, up 328% on a year earlier, and operating profit of 83.3 trillion won. It plans to return about 100 trillion won to shareholders this year.",
-   "matters": "The company says demand for AI memory chips will outstrip supply until 2030.",
+   "matters": "Seoul's Kospi index jumped 6.63% to 6,012 on Wednesday as SK Hynix shares rose almost 11% and Samsung's 9%.",
    "sources": [
     {
      "name": "SK hynix (company statement)",
@@ -41,8 +85,13 @@
     {
      "name": "Seoul Economic Daily",
      "url": "https://en.sedaily.com/finance/2026/10/28/sk-hynix-posts-first-100-trillion-won-quarter-adds-60"
+    },
+    {
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/economy/20261028/sk-hynix-eases-ai-peak-fears-pushing-kospi-above-6000"
     }
-   ]
+   ],
+   "changed": "Updated: Seoul's Kospi index jumped 6.6% on the results"
   },
   {
    "section": "sport",
@@ -154,6 +203,28 @@
    ]
   },
   {
+   "section": "world",
+   "serious": true,
+   "published": "2026-10-27T08:00:00Z",
+   "title": "Drone strike on market in Sudan's Nyala kills dozens",
+   "why": "A drone strike hit a market in Nyala, in South Darfur, on Monday evening. Doctors Without Borders says the hospital it supports received 36 bodies and over 150 wounded; the rights group Emergency Lawyers says more than 100 died and blames the army, which has not commented.",
+   "matters": "Nyala is the main base of the paramilitary RSF, at war with Sudan's army since April 2023.",
+   "sources": [
+    {
+     "name": "Al Jazeera (AFP)",
+     "url": "https://www.aljazeera.com/news/2026/10/27/drone-strike-kills-at-least-21-and-injures-40-in-sudans-nyala"
+    },
+    {
+     "name": "NBC News (AP)",
+     "url": "https://www.nbcnews.com/world/africa/100-people-killed-sudanese-army-drone-attack-market-says-sudanese-righ-rcna606044"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/mena/2026/10/27/saf-drone-strike-on-sudanese-busy-market-kills-dozens-says-msf/"
+    }
+   ]
+  },
+  {
    "section": "science",
    "serious": false,
    "published": "2026-10-27T07:50:00Z",
@@ -241,17 +312,20 @@
   },
   {
    "section": "world",
-   "lead": true,
    "developing": true,
-   "changed": "Updated: two-thirds of ballots counted, still no majority",
+   "changed": "Updated: with about 86% of votes counted, Netanyahu's bloc is on 53 seats",
    "published": "2026-10-27T05:00:00Z",
    "title": "Israel's election ends in deadlock, with neither bloc reaching a majority",
-   "why": "With about two-thirds of ballots counted, the Times of Israel reports Prime Minister Benjamin Netanyahu’s bloc on 56 of the Knesset’s 120 seats, Gadi Eisenkot’s opposition on 48 and Arab parties on 16; 61 are needed. Turnout was about 78%.",
-   "matters": "Both leaders say they will form a government; the final count is expected by Friday and coalition talks could take weeks.",
+   "why": "With about 86% of votes counted, Prime Minister Benjamin Netanyahu's bloc has 53 of the Knesset's 120 seats, Gadi Eisenkot's opposition bloc 48 and Arab parties 19, Ynet and the Jerusalem Post report; 61 are needed. Likud is the largest party with 26.",
+   "matters": "Over half a million soldiers' and other special ballots are counted on Thursday; coalition talks could take weeks.",
    "sources": [
     {
-     "name": "Times of Israel",
-     "url": "https://www.timesofisrael.com/liveblog_entry/with-nearly-42-of-ballots-counted-pms-bloc-leads-opposition-57-47-arab-parties-hold-remaining-seats/"
+     "name": "Ynet",
+     "url": "https://www.ynetnews.com/article/hjnatbkaml"
+    },
+    {
+     "name": "Jerusalem Post",
+     "url": "https://www.jpost.com/israel-election-2026/article-913122"
     },
     {
      "name": "Al Jazeera",
@@ -441,179 +515,6 @@
     {
      "name": "Kotaku",
      "url": "https://kotaku.com/walter-koenig-star-of-star-trek-and-babylon-5-dies-aged-90-2000749786"
-    }
-   ]
-  },
-  {
-   "section": "culture",
-   "serious": true,
-   "published": "2026-10-26T14:00:00Z",
-   "title": "Chris Brown given suspended sentence over London nightclub attack",
-   "why": "The American singer Chris Brown was given an eight-month prison sentence, suspended for a year, at Southwark Crown Court in London on 26 October. He had pleaded guilty to affray after hitting a man twice with a bottle at a Mayfair club in 2023.",
-   "sources": [
-    {
-     "name": "AP (via ABC Australia)",
-     "url": "https://www.abc.net.au/news/2026-10-27/chris-brown-sentenced-london-nightclub-brawl/107311850"
-    },
-    {
-     "name": "RTÉ",
-     "url": "https://www.rte.ie/entertainment/2026/1026/1596862-chris-brown-given-suspended-sentence-in-london-for-affray/"
-    },
-    {
-     "name": "UPI",
-     "url": "https://www.upi.com/Top_News/World-News/2026/10/26/chris-brown-sentenced-london-nightclub-attack/9291793022589/"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "developing": true,
-   "changed": "Updated: the real recovers some ground on Tuesday as the finance minister promises fiscal measures",
-   "published": "2026-10-26T13:00:00Z",
-   "title": "Brazil's currency recovers slightly after its sharp fall over Lula's win",
-   "why": "Brazil's real gained between about 1% and 2% against the dollar on Tuesday, Reuters, InfoMoney and CNN Brasil report, after losing more than 8% on Monday. The Bovespa share index, which fell 13.9% on Monday after President Lula da Silva's re-election, moved little.",
-   "matters": "Finance Minister Dario Durigan says Monday's fall reflected market positions, not fundamentals, and that fiscal measures are ready.",
-   "sources": [
-    {
-     "name": "Reuters (via Investing.com)",
-     "url": "https://www.investing.com/news/economy-news/brazils-markets-recover-some-ground-after-selloff-minister-vows-fiscal-discipline-4976164"
-    },
-    {
-     "name": "InfoMoney",
-     "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-27102026/"
-    },
-    {
-     "name": "CNN Brasil",
-     "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-27-outubro-2026/"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-10-26T13:00:00Z",
-   "title": "Anthropic files to sell shares on Nasdaq under the ticker ANT",
-   "why": "Anthropic, the maker of the Claude AI models, publicly filed for a stock market listing in the US on Monday. Its filing shows revenue of $16.3 billion in the first half of 2026 and a net loss of $80.7 billion, mostly from a non-cash charge. No valuation was given.",
-   "matters": "It could be one of the largest share sales ever; reports say the listing is aimed for mid-November.",
-   "sources": [
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/anthropic-ipo-plans-ai-safety/"
-    },
-    {
-     "name": "Investing.com",
-     "url": "https://www.investing.com/news/stock-market-news/anthropic-files-for-nasdaq-ipo-as-revenue-jumps-to-163-billion-4972842"
-    },
-    {
-     "name": "Capital Brief",
-     "url": "https://www.capitalbrief.com/briefing/anthropic-files-for-nasdaq-ipo-under-ticker-ant-e3419159-7771-4779-b826-6df76c6afe10/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-10-26T12:00:00Z",
-   "title": "UN inquiry says Israel kept committing genocide in Gaza after ceasefire",
-   "why": "The UN's Independent International Commission of Inquiry said on Monday that Israel has continued genocidal acts in Gaza since the October 2025 ceasefire, and has committed crimes against humanity, including extermination, in the occupied West Bank. Israel's foreign ministry called the report a propaganda document.",
-   "matters": "The commission will present its findings to the UN General Assembly; it says more than 34,000 West Bank Palestinians remain displaced.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/26/israel-committing-crimes-against-humanity-in-occupied-west-bank-un"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-10-27/un-commission-finds-israel-continued-gaza-genocide-after-truce/107313402"
-    },
-    {
-     "name": "Arab News",
-     "url": "https://www.arabnews.com/middle-east/un-inquiry-accuses-israel-of-extermination-in-west-bank-and-continuing-gaza-genocide-despite-ceasefire-3008357"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-10-26T12:00:00Z",
-   "title": "Romania says Russian-run network set fire near state arms factory",
-   "why": "Romania's intelligence service and prosecutors said on Monday that a network coordinated from Russia was behind a fire on 14 September in Brașov, beside a factory of state arms maker Romarm. They say two Belarusians and a Ukrainian were involved; two are held in Germany.",
-   "matters": "Romania calls it part of a wider sabotage campaign in Europe; Russia has denied similar accusations before.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory"
-    },
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russian-sabotage-network-behind-romanian-arson-attack-officials-say/"
-    },
-    {
-     "name": "Reuters (via Investing.com)",
-     "url": "https://ca.investing.com/news/stock-market-news/romania-says-uncovered-russian-sabotage-network-93CH-4903669"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "changed": "Updated: Nvidia commits $3 billion to Meta's share sale and widens their AI partnership",
-   "published": "2026-10-26T11:30:00Z",
-   "title": "Nvidia to put $3 billion into Meta's share sale for AI",
-   "why": "Nvidia said on Tuesday it will invest $3 billion in Meta's new share sale and work with Meta on its Muse AI models and agent. Meta, owner of Facebook and Instagram, launched about $35 billion of share sales on Monday and plans up to $60 billion more from 2027.",
-   "matters": "Meta will use more Nvidia chips and networking in its data centres; Reuters reports Meta's total fundraising target is now $97.5 billion.",
-   "sources": [
-    {
-     "name": "Investing.com",
-     "url": "https://www.investing.com/news/stock-market-news/nvidia-to-invest-3-bln-in-meta-share-offering-as-part-of-bigger-ai-partnership-4974236"
-    },
-    {
-     "name": "TechSpot",
-     "url": "https://www.techspot.com/news/114352-meta-gets-3-billion-nvidia-companies-team-up.html"
-    },
-    {
-     "name": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/markets/article/nvidia-to-invest-3-billion-in-meta-expand-partnership-on-muse-125249944.html"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-10-26T09:11:00Z",
-   "title": "Egypt's pound falls to a record low of 56 to the dollar",
-   "why": "The Egyptian pound fell to a record 56 per US dollar on Monday, LSEG data cited by Reuters show, having first passed 55 on 22 October. Analysts quoted by Enterprise blame foreign investors selling Egyptian debt, costly energy and wheat imports, and regional conflict.",
-   "matters": "A weaker pound makes imported food and fuel dearer in Egypt; the central bank decides on interest rates on Thursday.",
-   "sources": [
-    {
-     "name": "Reuters (via Devdiscourse)",
-     "url": "https://www.devdiscourse.com/article/international/3997250-egypts-currency-hits-record-low-of-56-pounds-to-us-dollar-lseg-data-shows"
-    },
-    {
-     "name": "Enterprise (Egypt)",
-     "url": "https://enterpriseam.com/egypt/issues/cbe-expected-to-hold-rates-thursday-as-the-egp-slides-past-55/"
-    },
-    {
-     "name": "Egypt Independent",
-     "url": "https://www.egyptindependent.com/cbe-governor-explains-reasons-for-egyptian-pounds-historic-drop-against-us-dollar/"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "published": "2026-10-26T08:00:00Z",
-   "title": "Nurse killed while responding to Ebola alert in DR Congo",
-   "why": "Attackers killed a nurse and badly injured another responder in Bafwasende, in DR Congo's Tshopo province, on Saturday. Health officials say the attackers accused them of spreading Ebola, which officials call a rumour. The WHO and UN condemned the attack.",
-   "matters": "Attacks on health workers are slowing the response to Congo's deadliest Ebola outbreak, officials say.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case"
-    },
-    {
-     "name": "UN News (via allAfrica)",
-     "url": "https://allafrica.com/stories/202610260403.html"
-    },
-    {
-     "name": "EFE (via Infobae)",
-     "url": "https://infobae.com/america/agencias/2026/10/26/matan-a-un-enfermero-y-hieren-a-otro-trabajador-en-rdc-al-acusarlos-de-propagar-el-ebola"
     }
    ]
   },
