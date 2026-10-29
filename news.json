@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-29T03:16:49Z",
+ "updated": "2026-10-29T08:01:52Z",
  "items": [
+  {
+   "section": "world",
+   "published": "2026-10-29T05:30:00Z",
+   "title": "UN says Afghanistan's opium harvest grew fivefold despite the Taliban ban",
+   "why": "The UN Office on Drugs and Crime says land under opium poppy in Afghanistan rose by 330% this year to over 43,000 hectares, and estimated output rose from about 300 to almost 1,500 tonnes. Taliban authorities say they destroyed 22,000 hectares.",
+   "matters": "It is still far below the 232,000 hectares grown before the 2022 ban; the UN says farmers lack alternatives.",
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/10/1168697"
+    },
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261029-afghanistan-opium-poppy-cultivation-surges-despite-taliban-govt-ban-un"
+    },
+    {
+     "name": "Bluewin (Keystone-SDA)",
+     "url": "https://www.bluewin.ch/en/news/un-opium-production-in-afghanistan-is-rising-sharply-li.3653099"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "developing": true,
+   "published": "2026-10-29T03:30:00Z",
+   "title": "North Korea fires about ten ballistic missiles towards the sea",
+   "why": "North Korea fired around ten short-range ballistic missiles from near Wonsan, on its east coast, at about 12:30 local time on Thursday, South Korea's military says. They flew about 250 km into the sea; Japan says they landed outside its exclusive economic zone.",
+   "matters": "It comes a week after Seoul offered military talks over a border landmine blast that wounded three South Korean soldiers.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/asia-pacific/20261029-north-korea-launches-around-a-dozen-ballistic-missiles-amid-rising-tensions-with-south-korea"
+    },
+    {
+     "name": "NBC News (Reuters)",
+     "url": "https://www.nbcnews.com/world/asia/north-korea-fires-10-ballistic-missiles-sea-east-coast-seoul-says-rcna606273"
+    },
+    {
+     "name": "Korea Times (Yonhap)",
+     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261029/n-korea-fires-nearly-dozen-ballistic-missiles-after-s-koreas-dialogue-offer"
+    }
+   ]
+  },
   {
    "section": "sport",
    "published": "2026-10-29T03:20:00Z",
@@ -41,6 +84,27 @@
     {
      "name": "Korea Times",
      "url": "https://www.koreatimes.co.kr/business/companies/20261029/samsung-electronics-q3-dividend-jumps-12-fold-totals-to-225-bil"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-10-28T20:30:00Z",
+   "title": "Alphabet shares fall about 10% after profit and advertising miss forecasts",
+   "why": "Google's parent Alphabet made a net profit of $26.2 billion in July–September, down 25% on a year earlier and below forecasts, partly due to an $8.7 billion loss linked to its SpaceX stake. Revenue rose 25% to $127.6 billion; cloud revenue more than doubled.",
+   "matters": "Investors are questioning whether AI spending, forecast at up to $205 billion this year, will pay off.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261028-shares-in-google-owner-alphabet-sink-on-profit-miss-ad-slowdown"
+    },
+    {
+     "name": "Euronews (AP)",
+     "url": "https://www.euronews.com/2026/10/29/shares-and-us-futures-mixed-after-google-parent-alphabets-earnings-disappoint"
+    },
+    {
+     "name": "Alphabet (results statement)",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000080/googexhibit991q32026.htm"
     }
    ]
   },
@@ -87,6 +151,49 @@
    ]
   },
   {
+   "section": "health",
+   "published": "2026-10-28T15:00:00Z",
+   "title": "Anorexia and bulimia cases have risen 71% worldwide since 1990",
+   "why": "About 18.1 million people had anorexia or bulimia in 2023, a Global Burden of Disease study in JAMA Psychiatry estimates. Much of the rise reflects population growth; rates rose about 21%. Australia had the highest rate and the fastest increases were in East, South and South-East Asia.",
+   "matters": "Around 41% of cases are in people aged 10 to 24, and the researchers forecast nearly 22 million cases by 2050.",
+   "sources": [
+    {
+     "name": "JAMA Psychiatry",
+     "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2855672"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/health/2026-10-29/anorexia-bulimia-cases-rising-90s-australia/107315546"
+    },
+    {
+     "name": "IHME",
+     "url": "https://www.healthdata.org/research-analysis/library/global-burden-anorexia-nervosa-and-bulimia-nervosa-1990-2023-forecasts"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "developing": true,
+   "published": "2026-10-28T14:00:00Z",
+   "title": "EU drops 'associate member' label for Canada ahead of Montreal summit",
+   "why": "The EU has removed the idea of Canada becoming an 'associate member' from the draft statement for its two-day summit with Canada in Montreal, which starts on Thursday. Diplomats say Germany led objections because the term has no legal status; the text now says 'ever closer association'.",
+   "matters": "Both sides want closer trade and defence ties as they face US tariffs; formal talks are expected to take another year.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/eu-removes-mention-of-associate-membership-from-canada-declaration"
+    },
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/europe/20261029-canada-and-eu-drop-associate-membership-plan-in-bid-to-deepen-ties"
+    },
+    {
+     "name": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/politics/article-canada-eu-summit-associate-member-status-october-28/"
+    }
+   ]
+  },
+  {
    "section": "money",
    "published": "2026-10-28T13:45:00Z",
    "title": "Bank of Canada raises interest rates for the first time since 2023",
@@ -104,6 +211,27 @@
     {
      "name": "CTV News",
      "url": "https://www.ctvnews.ca/business/inflation/article/bank-of-canada-raises-interest-rate-as-inflation-projected-to-worsen/"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-10-28T13:35:00Z",
+   "title": "European gas price passes €100 for the first time since 2022",
+   "why": "Europe's benchmark Dutch TTF gas price briefly reached €100 per megawatt-hour on Wednesday, the first time since December 2022 and about three times its level before the Iran war. EU storage is about 75% full, below the usual target for early November.",
+   "matters": "Most of the rise is expected to reach household bills in 2027; the EU's energy commissioner warned of 'another energy crisis'.",
+   "sources": [
+    {
+     "name": "RTÉ (Reuters)",
+     "url": "https://www.rte.ie/news/business/2026/1028/1597116-european-gas-price/"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/business/20261028-eu-natural-gas-prices-top-%E2%82%AC100-for-first-time-since-2022"
+    },
+    {
+     "name": "Euronews (via Yahoo Finance)",
+     "url": "https://ca.finance.yahoo.com/news/european-gas-price-crosses-100-153315695.html"
     }
    ]
   },
@@ -159,8 +287,8 @@
    "developing": true,
    "published": "2026-10-28T08:00:00Z",
    "title": "At least 68 killed as two high-speed trains collide in central Spain",
-   "why": "A Renfe high-speed train hit a stationary Iryo train near Urda, in Toledo province, on Wednesday morning. Castilla-La Mancha's regional government says at least 68 people died. Transport Minister Óscar Puente says a safety system had failed and calls a control-centre order to let the train resume 'inexplicable'.",
-   "matters": "Spain is holding three days of national mourning; trains between Madrid and Andalusia are suspended.",
+   "why": "A Renfe high-speed train hit a stationary Iryo train near Urda, in Toledo province, on Wednesday morning, killing at least 68 people, regional officials say. Transport Minister Óscar Puente says a control centre wrongly let the Renfe train resume; Iryo says it never received an order to move.",
+   "matters": "Spain began three days of national mourning on Thursday; recorded driver–controller calls will be central to the investigation.",
    "sources": [
     {
      "name": "CBS News (AP)",
@@ -171,32 +299,40 @@
      "url": "https://www.aljazeera.com/news/2026/10/28/injuries-reported-after-two-trains-collide-in-spain"
     },
     {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/10/28/inexplicable-order-by-control-centre-investigated-after-spain-train-crash"
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-29/spain-train-collision-rail-safety-traffic-control/107322634"
     },
     {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261028-two-high-speed-trains-collide-in-southern-spain-rail-operator-says"
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/europe/20261029-desolation-despair-spain-begins-three-days-of-mourning-after-deadly-train-crash"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/28/inexplicable-order-by-control-centre-investigated-after-spain-train-crash"
     }
    ],
-   "changed": "Updated: the death toll rose to at least 68; a control-centre order is being investigated"
+   "changed": "Updated: mourning has begun, and Iryo disputes part of the minister's account"
   },
   {
    "section": "world",
    "developing": true,
-   "changed": "Updated: Iran says it is reviewing ideas with mediators; Reuters reports a new Qatari draft, which an Iranian official denies",
+   "changed": "Updated: Trump confirms a Vance letter to Iran but says it was about medical supplies",
    "published": "2026-10-28T06:20:00Z",
    "title": "Iran says it is still talking to mediators about reopening Hormuz",
-   "why": "Iran's Foreign Minister Abbas Araghchi says Tehran is in close contact with mediators on its 'seven-day plan', a ceasefire followed by a phased reopening of the Strait of Hormuz. Reuters reported that Qatar handed Iran a new draft deal; a senior Iranian official denied a new proposal was made.",
-   "matters": "Saudi, Turkish and Pakistani officials held talks in Tehran on Monday; President Trump has rejected the seven-day plan, CBS reports.",
+   "why": "Iran's Foreign Minister Abbas Araghchi says Tehran is in close contact with mediators on its 'seven-day plan' to reopen the Strait of Hormuz. President Trump says he approved a letter from Vice-President JD Vance to Iran's security chief about medical supplies, but denies it was an offer of talks.",
+   "matters": "The Wall Street Journal first reported the letter; Trump has hinted at new strikes on Iran after next week's US midterm elections.",
    "sources": [
-    {
-     "name": "CBS News (Reuters)",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/"
-    },
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks"
+    },
+    {
+     "name": "SBS News (Korea)",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008821562"
+    },
+    {
+     "name": "CBS News (Reuters)",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/"
     },
     {
      "name": "France 24",
@@ -344,7 +480,6 @@
   },
   {
    "section": "world",
-   "developing": true,
    "published": "2026-10-27T09:50:00Z",
    "title": "Finnish and Norwegian leaders hold rare phone call with Putin",
    "why": "Finland's President Alexander Stubb and Norway's Prime Minister Jonas Gahr Støre spoke with Vladimir Putin from Helsinki on Tuesday for about an hour and a half, they say. Their offices said the aim was to pass on messages before US-mediated Ukraine–Russia talks in Abu Dhabi in early November.",
@@ -431,70 +566,6 @@
    ]
   },
   {
-   "section": "sport",
-   "published": "2026-10-27T07:40:00Z",
-   "title": "Mbappé apologises after Chinese brands drop him over Mao joke",
-   "why": "Real Madrid forward Kylian Mbappé called his comment \"ill-judged\" after a video showed him describing Mao Zedong as a Chinese dictator while discussing a meme. Drinks maker Dongpeng, dairy firm Mengniu and cheese maker Milkground ended their deals with him.",
-   "matters": "China Media Group suspended broadcasts of his La Liga matches, France 24 reports; La Liga also apologised.",
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/sport/20261027-kylian-mbappe-china-mao-zedong-sponsorship-deal"
-    },
-    {
-     "name": "ESPN",
-     "url": "https://www.espn.com/soccer/story/_/id/50295111/real-madrid-kylian-mbappe-chinese-brands-dictator-comment"
-    },
-    {
-     "name": "Africanews",
-     "url": "https://www.africanews.com/2026/10/27/mbappe-apologises-for-mao-zedong-comment-after-chinese-sponsors-drop-him/"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-10-27T06:59:00Z",
-   "title": "South Korean chip shares jump after Anthropic's stock market filing",
-   "why": "South Korea's Kospi share index closed 3.09% higher at 5,638 on Tuesday, its first gain in four sessions. Samsung Electronics rose 4.23% and SK hynix 5.18%, after Anthropic's filing for a US listing revived hopes for demand for AI memory chips.",
-   "matters": "Trading in program buy orders in Seoul was paused for five minutes as prices rose quickly, the Herald Business reports.",
-   "sources": [
-    {
-     "name": "The Herald Business",
-     "url": "https://biz.heraldcorp.com/article/10916587"
-    },
-    {
-     "name": "SBS",
-     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008817492"
-    },
-    {
-     "name": "MoneyToday",
-     "url": "https://www.mt.co.kr/en/stock/2026/10/27/2026102715521372601"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-10-27T06:50:00Z",
-   "title": "Fire sweeps through Seoul’s last shantytown, displacing over 100 people",
-   "why": "A fire that began on Tuesday afternoon in Guryong Village, beside Seoul’s wealthy Gangnam district in South Korea, took about 13 hours to put out. Officials say 107 residents from 77 households were displaced and one woman was slightly hurt.",
-   "matters": "Strong winds and a shortage of water hampered firefighters; police and fire officials are investigating the cause.",
-   "sources": [
-    {
-     "name": "Korea JoongAng Daily",
-     "url": "https://www.koreajoongangdaily.com/korea/fire-in-gangnams-last-shantytown-extinguished-after-nearly-13-hours/12941797"
-    },
-    {
-     "name": "Seoul Economic Daily",
-     "url": "https://en.sedaily.com/society/2026/10/28/fire-at-seouls-last-shantytown-extinguished-after-13-hours"
-    },
-    {
-     "name": "Kyunghyang Shinmun",
-     "url": "https://www.khan.co.kr/en/article/202610280546007/"
-    }
-   ]
-  },
-  {
    "section": "world",
    "developing": true,
    "changed": "Updated: with nearly 90% counted the deadlock holds; final results are due on 4 November",
@@ -518,27 +589,6 @@
     {
      "name": "Jerusalem Post",
      "url": "https://www.jpost.com/israel-election-2026/article-913122"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-10-27T04:00:00Z",
-   "title": "HSBC profit rises 32% but its shares fall in Hong Kong",
-   "why": "HSBC reported pre-tax profit of $9.6bn for July to September on Tuesday, up 32% on a year earlier, and announced another share buyback of up to $1bn. Revenue from its wealth business was flat, Reuters reports, and the bank's shares fell between 5% and 7% in Hong Kong.",
-   "matters": "Profit was slightly below what analysts expected, and slowing growth in wealth management worried investors, Reuters and TT report.",
-   "sources": [
-    {
-     "name": "Reuters (via AOL)",
-     "url": "https://www.aol.com/articles/hsbcs-third-quarter-profit-jumps-040404000.html"
-    },
-    {
-     "name": "HSBC (company statement)",
-     "url": "https://www.hsbc.com/news-and-views/news/media-releases/2026/hsbc-holdings-plc-3q-2026-earnings-release"
-    },
-    {
-     "name": "TT News Agency (via Sweden Herald)",
-     "url": "https://swedenherald.com/article/hsbc-shares-plunge-nearly-7-after-thirdquarter-profit-misses-forecasts"
     }
    ]
   },
@@ -568,12 +618,16 @@
    "section": "climate",
    "serious": true,
    "developing": true,
-   "changed": "Updated: the cyclone made landfall early on 28 October and is weakening",
+   "changed": "Updated: at least three deaths confirmed; Nepal suspends trekking permits",
    "published": "2026-10-26T07:00:00Z",
    "title": "Cyclone Arnab makes landfall in India's Andhra Pradesh, then weakens",
-   "why": "Cyclone Arnab crossed the coast near Yanam, about 20 km from Narsapur, early on Wednesday with gusts of up to 150 km/h, India's weather office says. It has weakened to a severe cyclonic storm. Officials quoted by the PTI news agency say two people died after touching live wires.",
-   "matters": "Odisha says about 100,000 people were moved to safety; heavy rain is forecast inland in Odisha and Jharkhand.",
+   "why": "Cyclone Arnab crossed the coast near Yanam early on Wednesday with gusts of up to 150 km/h, India's weather office says, and has weakened inland. India's disaster response force says at least three people died. About 180,000 people had been evacuated in Andhra Pradesh and Odisha.",
+   "matters": "Andhra Pradesh says at least 180 houses were destroyed; Nepal has suspended trekking permits for three days.",
    "sources": [
+    {
+     "name": "Al Jazeera (Reuters)",
+     "url": "https://www.aljazeera.com/news/2026/10/28/cyclone-arnab-makes-landfall-in-indias-andhra-pradesh"
+    },
     {
      "name": "ETV Bharat",
      "url": "https://www.etvbharat.com/en/bharat/live-blog--cyclone-arnab-live-updates-landfall-in-andhra-pradesh-rain-odisha-jharkhand-chhattisgarh-enn26102800499"
@@ -583,36 +637,8 @@
      "url": "https://sambadenglish.com/national-international-news/india/cyclone-arnab-crosses-coast-with-max-wind-speed-of-150-kmph-weakens-12759872"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/27/india-evacuates-tens-of-thousands-as-very-severe-cyclone-arnab-nears"
-    },
-    {
      "name": "Gulf News (AP/IANS)",
      "url": "https://gulfnews.com/world/asia/india/cyclone-arnab-bears-down-on-india-136000-evacuated-as-andhra-odisha-on-alert-1.500725700"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: Jordan strikes Syria; Syria says civilians were killed",
-   "published": "2026-10-26T06:00:00Z",
-   "title": "Jordan strikes southern Syria after deadly Karak church attack",
-   "why": "Jordan's military says its jets hit armed groups' hideouts in southern Syria on Monday, after Friday's attack on a funeral at a church in Karak killed nine people. Syria's civil defence says seven civilians died, including three children, and Damascus says it was not consulted.",
-   "matters": "Jordan arrested three suspects in the church attack on Monday; Syria has closed its main border crossing with Jordan.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting"
-    },
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/middle-east/20261026-jordan-arrests-three-following-deadly-terror-attack-on-church"
-    },
-    {
-     "name": "AsiaOne",
-     "url": "https://www.asiaone.com/asia/jordan-says-it-attacked-militants-syria-tied-church-assault-syria-says-civilians-killed"
     }
    ]
   },
@@ -635,33 +661,6 @@
     {
      "name": "RTÉ (Reuters)",
      "url": "https://www.rte.ie/news/2026/1025/1596799-serbia-parliamentary-elections/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: police now say at least 58 died",
-   "published": "2026-10-25T18:00:00Z",
-   "title": "Police say 58 killed in gunmen's attack on Nigerian village",
-   "why": "Armed men attacked Binnari village in Nigeria's Taraba State during its market day on Friday. Taraba police say at least 58 people died, including 15 who drowned when a canoe capsized as they fled. Police had first confirmed 10 deaths.",
-   "sources": [
-    {
-     "name": "Leadership",
-     "url": "https://leadership.ng/taraba-attack-death-toll-hits-58-as-residents-lament-neglect/"
-    },
-    {
-     "name": "Legit.ng",
-     "url": "https://www.legit.ng/nigeria/1738044-how-gunmen-attacked-taraba-community-4-hours-market-day/"
-    },
-    {
-     "name": "Xinhua (NAMPA)",
-     "url": "https://www.nampa.org/text/23049194"
-    },
-    {
-     "name": "Africanews (AFP/AP)",
-     "url": "https://www.africanews.com/2026/10/26/nigeria-50-killed-in-bandit-attack-on-taraba-village/"
     }
    ]
   },
