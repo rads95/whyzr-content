@@ -1,6 +1,114 @@
 {
- "updated": "2026-10-29T08:01:52Z",
+ "updated": "2026-10-29T13:53:07Z",
  "items": [
+  {
+   "section": "money",
+   "published": "2026-10-29T10:30:00Z",
+   "title": "Christine Lagarde to leave the European Central Bank early, in February",
+   "why": "The ECB says its president, Christine Lagarde, will step down on 7 February 2027, about nine months before her term ends; no reason was given. Later on Thursday the bank held its deposit rate at 2.5%, with eurozone inflation at 3.8%, Euronews reports.",
+   "matters": "Eurozone leaders must now choose who will steer interest rates for 21 countries while inflation is well above target.",
+   "sources": [
+    {
+     "name": "European Central Bank",
+     "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/29/ecb-holds-rates-at-25-as-lagarde-announces-early-exit-with-inflation-near-double-the-targe"
+    },
+    {
+     "name": "Yahoo Finance (dpa)",
+     "url": "https://finance.yahoo.com/economy/policy/articles/ecb-president-christine-lagarde-step-103326109.html"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-10-29T10:30:00Z",
+   "title": "South Africa picks Durban for its 2036 or 2040 Olympic bid",
+   "why": "South Africa's Olympic committee named Durban, on the east coast, as its main candidate city for the 2036 or 2040 Summer Games on Thursday, with cabinet backing. Rivals include Munich, Ahmedabad, Istanbul, Budapest, Qatar and South Korea's Jeonbuk region.",
+   "matters": "Africa has never hosted the Olympics; the IOC plans to choose the 2036 host in 2029.",
+   "sources": [
+    {
+     "name": "Al Jazeera (AP)",
+     "url": "https://www.aljazeera.com/sports/2026/10/29/olympic-games-south-africa-bid-to-make-durban-host-city-for-2036-or-2040"
+    },
+    {
+     "name": "CNBC Africa (Reuters)",
+     "url": "https://www.cnbcafrica.com/2026/south-africa-unveils-durban-as-bid-city-for-2036-or-2040-olympics"
+    },
+    {
+     "name": "Yahoo Sports (dpa)",
+     "url": "https://sports.yahoo.com/articles/south-africas-durban-joins-race-113335123.html"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "published": "2026-10-29T09:00:00Z",
+   "title": "Russian drone strike on Dnipro railway station kills at least 13",
+   "why": "A Russian drone hit a platform at the main railway station in Dnipro, central Ukraine, at about 11am on Thursday as a train to Zaporizhzhia prepared to leave. Regional governor Oleksandr Ganzha says at least 13 people were killed and at least five injured.",
+   "matters": "President Zelensky called the attack horrific and urged allies not to ease sanctions on Russia.",
+   "sources": [
+    {
+     "name": "Euronews (AFP)",
+     "url": "https://www.euronews.com/2026/10/29/at-least-13-killed-several-injured-in-russian-drone-strike-on-ukrainian-railway-station"
+    },
+    {
+     "name": "TRT World (Anadolu)",
+     "url": "https://www.trtworld.com/article/d070200d8ec4"
+    },
+    {
+     "name": "The Week",
+     "url": "https://theweek.in/news/world/2026/10/29/at-least-13-killed-after-russian-jet-powered-drone-attack-on-ukrainian-railway-station.html"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-10-29T08:00:00Z",
+   "title": "Hong Kong's leader apologises as fire inquiry blames weak oversight",
+   "why": "An independent inquiry into last November's Wang Fuk Court fire, which killed 168 people, says it was most likely started by a cigarette and found failings at four government bodies. Chief Executive John Lee apologised, and Housing Secretary Winnie Ho has resigned.",
+   "matters": "Officials at four agencies now face a three-month review for possible neglect of duty.",
+   "sources": [
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-29/hong-kong-wang-fuk-court-fire-disaster-report/107325160"
+    },
+    {
+     "name": "AP (via AOL)",
+     "url": "https://www.aol.com/articles/hong-kongs-housing-minister-resigns-065554000.html"
+    },
+    {
+     "name": "The Manila Times (AFP)",
+     "url": "https://manilatimes.net/2026/10/29/world/asia-oceania/hong-kong-leader-apologizes-for-deadly-fire/2457462"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "published": "2026-10-29T07:00:00Z",
+   "title": "Hello Kitty maker Sanrio drops Japanese spy drama tie-in after Chinese backlash",
+   "why": "Sanrio's Chinese arm has cancelled merchandise showing Hello Kitty and other characters dressed as spies from the TBS drama Vivant, and apologised. Chinese state media had criticised the show, which depicts Chinese agents torturing Japanese spies. TBS says the series is fiction.",
+   "matters": "It shows how strained China–Japan relations are spilling over into entertainment and brands.",
+   "sources": [
+    {
+     "name": "NBC News (Reuters)",
+     "url": "https://www.nbcnews.com/world/asia/hello-kitty-maker-sanrio-cuts-ties-tv-spy-show-china-backlash-rcna606285"
+    },
+    {
+     "name": "BBC (via Yahoo)",
+     "url": "https://www.yahoo.com/news/world/articles/hello-kitty-maker-ends-collab-031623201.html"
+    },
+    {
+     "name": "Malay Mail",
+     "url": "https://www.malaymail.com/news/showbiz/2026/10/29/hello-kitty-just-got-dragged-into-a-china-japan-diplomatic-storm-over-a-spy-drama-collab/241116"
+    }
+   ]
+  },
   {
    "section": "world",
    "published": "2026-10-29T05:30:00Z",
@@ -316,27 +424,23 @@
   {
    "section": "world",
    "developing": true,
-   "changed": "Updated: Trump confirms a Vance letter to Iran but says it was about medical supplies",
+   "changed": "Updated: Iran's Guards say three tankers hit mines; a UK agency reports a ship on fire",
    "published": "2026-10-28T06:20:00Z",
-   "title": "Iran says it is still talking to mediators about reopening Hormuz",
-   "why": "Iran's Foreign Minister Abbas Araghchi says Tehran is in close contact with mediators on its 'seven-day plan' to reopen the Strait of Hormuz. President Trump says he approved a letter from Vice-President JD Vance to Iran's security chief about medical supplies, but denies it was an offer of talks.",
-   "matters": "The Wall Street Journal first reported the letter; Trump has hinted at new strikes on Iran after next week's US midterm elections.",
+   "title": "Iran's Guards say three tankers hit mines in the Strait of Hormuz",
+   "why": "Iran's Revolutionary Guards say three tankers caught fire on Thursday after hitting mines on a southern route through the Strait of Hormuz that Iran has not authorised. Britain's UKMTO agency reported a ship on fire north of Khasab, Oman, without giving a cause. Neither claim has been independently confirmed.",
+   "matters": "The US says it has cleared mines from key routes; Iran says mediators are still discussing its plan to reopen the strait.",
    "sources": [
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks"
     },
     {
-     "name": "SBS News (Korea)",
-     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008821562"
-    },
-    {
-     "name": "CBS News (Reuters)",
+     "name": "CBS News",
      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/"
     },
     {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261026-iran-talks-mecca-pact-nations-war"
+     "name": "APA",
+     "url": "https://en.apa.az/asia/irgc-three-tankers-hit-mines-in-strait-of-hormuz-over-past-24-hours-532933"
     }
    ]
   },
@@ -454,114 +558,6 @@
     {
      "name": "CBS News",
      "url": "https://www.cbsnews.com/news/brazil-flavio-bolsonaro-u-s-visa-presidential-election-loss/"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-10-27T11:26:00Z",
-   "title": "Abhishek Sharma's 35-ball hundred seals India's T20 series win in New Zealand",
-   "why": "Abhishek Sharma hit 113 off 38 balls as India chased 199 in 13.2 overs to beat New Zealand by six wickets in Wellington on 27 October. The win gives India an unbeatable 3-0 lead in the five-match series.",
-   "matters": "India's 118 runs in the first six overs was a record for men's T20 internationals, BBC Sport says.",
-   "sources": [
-    {
-     "name": "AFP (via Al Jazeera)",
-     "url": "https://www.aljazeera.com/sports/2026/10/27/abhishek-sharma-hits-ton-as-india-beat-new-zealand-by-6-wickets-in-3rd-t20"
-    },
-    {
-     "name": "BBC Sport (via Yahoo Sports)",
-     "url": "https://sports.yahoo.com/articles/abhishek-hits-35-ball-ton-112621337.html"
-    },
-    {
-     "name": "Free Press Journal",
-     "url": "https://www.freepressjournal.in/sports/abhishek-sharmas-35-ball-century-demolishes-new-zealand-as-india-rewrite-t20i-records"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-10-27T09:50:00Z",
-   "title": "Finnish and Norwegian leaders hold rare phone call with Putin",
-   "why": "Finland's President Alexander Stubb and Norway's Prime Minister Jonas Gahr Støre spoke with Vladimir Putin from Helsinki on Tuesday for about an hour and a half, they say. Their offices said the aim was to pass on messages before US-mediated Ukraine–Russia talks in Abu Dhabi in early November.",
-   "matters": "Most Western European leaders have avoided direct contact with Putin since Russia's full-scale invasion of Ukraine in 2022.",
-   "sources": [
-    {
-     "name": "Yle",
-     "url": "https://yle.fi/a/74-20253565"
-    },
-    {
-     "name": "NRK",
-     "url": "https://www.nrk.no/nyheter/1.18066105"
-    },
-    {
-     "name": "Al Jazeera (Reuters)",
-     "url": "https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "serious": false,
-   "published": "2026-10-27T09:00:00Z",
-   "title": "Greenhouse gases reached record levels in 2025, UN weather agency says",
-   "why": "Carbon dioxide in the atmosphere averaged a record 426.8 parts per million in 2025, 53% above pre-industrial levels, the World Meteorological Organization said on 27 October. Methane and nitrous oxide also hit records. The rise was smaller than 2024's jump but above the decade's average.",
-   "matters": "The figures will feed into the COP31 climate talks in Antalya, Turkey, from 9 to 20 November.",
-   "sources": [
-    {
-     "name": "WMO",
-     "url": "https://wmo.int/resources/publication-series/greenhouse-gas-bulletin/no-22"
-    },
-    {
-     "name": "UN News",
-     "url": "https://news.un.org/en/story/2026/10/1168677"
-    },
-    {
-     "name": "dpa (via Yahoo News)",
-     "url": "https://www.yahoo.com/news/science/articles/un-body-atmospheric-co2-reached-133345234.html"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-10-27T08:00:00Z",
-   "title": "Drone strike on market in Sudan's Nyala kills dozens",
-   "why": "A drone strike hit a market in Nyala, in South Darfur, on Monday evening. Doctors Without Borders says the hospital it supports received 36 bodies and over 150 wounded; the rights group Emergency Lawyers says more than 100 died and blames the army, which has not commented.",
-   "matters": "Nyala is the main base of the paramilitary RSF, at war with Sudan's army since April 2023.",
-   "sources": [
-    {
-     "name": "Al Jazeera (AFP)",
-     "url": "https://www.aljazeera.com/news/2026/10/27/drone-strike-kills-at-least-21-and-injures-40-in-sudans-nyala"
-    },
-    {
-     "name": "NBC News (AP)",
-     "url": "https://www.nbcnews.com/world/africa/100-people-killed-sudanese-army-drone-attack-market-says-sudanese-righ-rcna606044"
-    },
-    {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/news/mena/2026/10/27/saf-drone-strike-on-sudanese-busy-market-kills-dozens-says-msf/"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "serious": false,
-   "published": "2026-10-27T07:50:00Z",
-   "title": "Australian jumping spiders show two sleep stages, including REM-like sleep",
-   "why": "Researchers at Germany's University of Bonn filmed the fringed jumping spider, found in northern Australia, at night and found a quiet sleep stage and a REM-like stage with eye movements and twitching. After disturbed nights the spiders spent nearly 80% more time in REM-like sleep. The study is in PNAS.",
-   "matters": "An Australian expert called it the most complete behavioural case for sleep in any arachnid, though brain activity was not measured.",
-   "sources": [
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/science/2026-10-27/jumping-spider-rem-sleep/107309370"
-    },
-    {
-     "name": "ScienceAlert",
-     "url": "https://www.sciencealert.com/spiders-can-rack-up-rem-like-sleep-debt-and-may-even-dream-just-like-humans"
-    },
-    {
-     "name": "University of Bonn (EurekAlert)",
-     "url": "https://www.eurekalert.org/news-releases/1148974"
     }
    ]
   },
@@ -712,30 +708,6 @@
     {
      "name": "WION",
      "url": "https://www.wionews.com/sports/sl-vs-pak-lahore-odi-madushanka-five-wicket-haul-sri-lanka-reach-tri-series-final-england-out-1793107033535"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: 11 deaths in a day, the year's highest; toll reaches 400",
-   "published": "2026-10-25T11:20:00Z",
-   "title": "Bangladesh's dengue death toll this year reaches 400",
-   "why": "Bangladesh's health directorate reported 11 dengue deaths in the 24 hours to 8am on 27 October, the highest daily toll this year, and 2,071 hospital admissions. This year's toll is 400 deaths, 155 of them in October, with 128,237 people admitted to hospital.",
-   "matters": "Dengue usually peaks in Bangladesh's June–September monsoon, but this year cases are still rising in late October.",
-   "sources": [
-    {
-     "name": "The Business Standard",
-     "url": "https://www.tbsnews.net/bangladesh/dengue-toll-hits-400-years-highest-11-deaths-day-recorded-1584521"
-    },
-    {
-     "name": "bdnews24",
-     "url": "https://bdnews24.com/health/m25zw74u6a"
-    },
-    {
-     "name": "Bangladesh Post",
-     "url": "https://bangladeshpost.net/posts/dengue-deaths-reach-400-in-bangladesh-11-die-in-a-day-174901"
     }
    ]
   }
