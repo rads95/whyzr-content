@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "facts": [
     {
       "date": "2026-09-20",
@@ -1130,6 +1130,28 @@
         {
           "name": "Clemson University Home & Garden Information Center",
           "url": "https://hgic.clemson.edu/the-origins-of-the-jack-olantern/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "kind": "fact",
+      "category": "Everyday",
+      "emoji": "👌",
+      "title": "OK started as a joke",
+      "text": "On 23 March 1839, a Boston newspaper printed “O.K.” as short for “oll korrect”, a deliberate misspelling of “all correct”. Young wits of the day loved jokey misspelt abbreviations. OK went nationwide during the 1840 US election, and it has stuck around ever since.",
+      "sources": [
+        {
+          "name": "HISTORY.com",
+          "url": "https://www.history.com/this-day-in-history/march-23/ok-enters-national-vernacular"
+        },
+        {
+          "name": "Boston Magazine",
+          "url": "https://www.bostonmagazine.com/?p=2255622"
+        },
+        {
+          "name": "Farmers’ Almanac",
+          "url": "https://www.farmersalmanac.com/the-truth-about-o-k-from-the-1999-farmers-almanac"
         }
       ]
     }
