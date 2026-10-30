@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-30T07:49:52Z",
+ "updated": "2026-10-30T13:50:44Z",
  "items": [
+  {
+   "section": "world",
+   "published": "2026-10-30T09:30:00Z",
+   "title": "Russia's independent newspaper Novaya Gazeta announces it will close",
+   "why": "Novaya Gazeta, one of Russia's last independent newspapers, said on Friday it will shut down on 9 November after more than 30 years. Editor Sergei Sokolov blamed pressure from the authorities and security services; the paper is being evicted from its Moscow office.",
+   "matters": "Its former editor Dmitry Muratov shared the 2021 Nobel Peace Prize; six of its journalists have been killed over the years.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/europe/20261030-russia-s-bastion-of-free-press-novaya-gazeta-shuts-down-after-years-of-kremlin-pressure"
+    },
+    {
+     "name": "The Moscow Times",
+     "url": "https://www.themoscowtimes.com/2026/10/30/russias-oldest-independent-newspaper-novaya-gazeta-announces-closure-a94130"
+    },
+    {
+     "name": "RFE/RL",
+     "url": "https://www.rferl.org/a/russia-newspaper-media-novaya-gazeta-press/33887221.html"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-10-30T03:00:00Z",
+   "title": "Bank of Japan says underlying inflation has reached its 2% goal",
+   "why": "The Bank of Japan kept its main interest rate at 1.25% on Friday and said underlying inflation is now at a level consistent with its 2% target, which it set in 2013. Governor Kazuo Ueda said the goal has not yet been met in a sustainable, stable way.",
+   "matters": "Japan spent decades fighting falling prices; markets now expect another rate rise in December, raising borrowing costs.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/30/bank-of-japan-says-inflation-hit-2-target-after-13-years"
+    },
+    {
+     "name": "Nippon.com (Jiji)",
+     "url": "https://www.nippon.com/en/articles/-/56659"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-says-2-inflation-target-achieved-holds-rates-steady"
+    }
+   ]
+  },
   {
    "section": "tech",
    "published": "2026-10-30T01:00:00Z",
@@ -508,48 +550,6 @@
    ]
   },
   {
-   "section": "money",
-   "published": "2026-10-28T13:45:00Z",
-   "title": "Bank of Canada raises interest rates for the first time since 2023",
-   "why": "Canada's central bank raised its key rate by a quarter point to 2.5% on Wednesday, its first rise since July 2023. Governor Tiff Macklem said it was needed so that high energy prices do not spread through the economy. Inflation was 3.2% in September, Al Jazeera reports.",
-   "matters": "Higher rates mean dearer mortgages and loans; the bank says it may need to raise them again.",
-   "sources": [
-    {
-     "name": "Bank of Canada",
-     "url": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/10/28/bank-of-canada-raises-interest-rates-for-the-first-time-in-three-years"
-    },
-    {
-     "name": "CTV News",
-     "url": "https://www.ctvnews.ca/business/inflation/article/bank-of-canada-raises-interest-rate-as-inflation-projected-to-worsen/"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-10-28T13:35:00Z",
-   "title": "European gas price passes €100 for the first time since 2022",
-   "why": "Europe's benchmark Dutch TTF gas price briefly reached €100 per megawatt-hour on Wednesday, the first time since December 2022 and about three times its level before the Iran war. EU storage is about 75% full, below the usual target for early November.",
-   "matters": "Most of the rise is expected to reach household bills in 2027; the EU's energy commissioner warned of 'another energy crisis'.",
-   "sources": [
-    {
-     "name": "RTÉ (Reuters)",
-     "url": "https://www.rte.ie/news/business/2026/1028/1597116-european-gas-price/"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/business/20261028-eu-natural-gas-prices-top-%E2%82%AC100-for-first-time-since-2022"
-    },
-    {
-     "name": "Euronews (via Yahoo Finance)",
-     "url": "https://ca.finance.yahoo.com/news/european-gas-price-crosses-100-153315695.html"
-    }
-   ]
-  },
-  {
    "section": "world",
    "serious": true,
    "developing": true,
@@ -634,19 +634,19 @@
   {
    "section": "world",
    "developing": true,
-   "changed": "Updated: Iran now says four tankers were hit; a UK agency reports two incidents",
+   "changed": "Updated: security sources say limpet mines disabled a tanker; Oman rescued 25 crew",
    "published": "2026-10-28T06:20:00Z",
    "title": "Iran says four tankers hit mines in the Strait of Hormuz",
-   "why": "Iran's Revolutionary Guards say three tankers caught fire after hitting mines on a Hormuz route Iran has not authorised; Iran's military says a fourth was hit further east. Britain's UKMTO agency reports one ship on fire and another tanker attacked, without giving a cause.",
-   "matters": "The US says the main shipping lanes are clear of mines; none of Iran's claims has been independently confirmed.",
+   "why": "Iran says four tankers hit mines on a Hormuz route it has not authorised. Maritime security sources told Reuters a small boat fixed limpet mines to the Panama-flagged tanker Louise 1, starting an engine-room fire; its crew are safe.",
+   "matters": "Oman's navy says it rescued 25 crew from a targeted vessel; the US says the main lanes are clear of mines.",
    "sources": [
     {
-     "name": "SBS News (AFP)",
-     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008822813"
+     "name": "gCaptain (Reuters)",
+     "url": "https://gcaptain.com/tanker-in-strait-of-hormuz-hit-by-limpet-mines-security-sources-say/"
     },
     {
-     "name": "Yahoo News (CBS)",
-     "url": "https://www.yahoo.com/news/world/articles/qatari-mediators-hand-iran-proposal-102053733.html"
+     "name": "Arab News (AFP)",
+     "url": "https://www.arabnews.com/middle-east/iran-claims-four-tankers-hit-mines-in-hormuz-as-dhow-crew-rescued-3008795"
     },
     {
      "name": "Al Jazeera",
@@ -655,10 +655,6 @@
     {
      "name": "CBS News",
      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/"
-    },
-    {
-     "name": "APA",
-     "url": "https://en.apa.az/asia/irgc-three-tankers-hit-mines-in-strait-of-hormuz-over-past-24-hours-532933"
     }
    ]
   },
@@ -724,32 +720,32 @@
    "section": "world",
    "developing": true,
    "published": "2026-10-27T01:00:00Z",
-   "title": "Aid convoy heads for Russian-held Oleshky as local ceasefire holds",
-   "why": "Ukraine's and Russia's human rights commissioners say routes into the Russian-occupied town of Oleshky, in Ukraine's Kherson region, have been cleared of mines. An aid convoy set off overnight, Russian media report, and residents who want to leave can do so until 2pm local time on Friday.",
-   "matters": "Fewer than 2,000 people remain in a town of 24,000 before the war; the ceasefire is due to last until 1 November.",
+   "title": "Evacuation and aid deliveries begin in Russian-held Oleshky",
+   "why": "An aid convoy reached the Russian-occupied town of Oleshky, in Ukraine's Kherson region, on Friday, and residents began leaving under a local ceasefire, Ukrainian officials say. Twenty-five buses with about 750 seats were ready; officials have given no confirmed figure for how many left.",
+   "matters": "About 2,000 people remain from 24,000 before the war; evacuees are expected to travel through Russia and Belarus to reach Ukraine.",
    "sources": [
-    {
-     "name": "RFE/RL",
-     "url": "https://www.rferl.org/a/ukraine-russia-oleshky-evacuation-melania-trump/33887157.html"
-    },
     {
      "name": "France 24",
      "url": "https://www.france24.com/en/europe/20261030-live-russia-strikes-energy-facilities-kyiv-aid-convoy-heads-besieged-town-oleshky-ukraine"
     },
     {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/30/ukraine-holds-its-breath-as-humanitarian-operation-begins-in-russian-occupied-oleshky"
+    },
+    {
+     "name": "AAP",
+     "url": "https://aapnews.aap.com.au/news/evacuation-begins-as-aid-enters-stricken-ukrainian-city"
+    },
+    {
+     "name": "RFE/RL",
+     "url": "https://www.rferl.org/a/ukraine-russia-oleshky-evacuation-melania-trump/33887157.html"
+    },
+    {
      "name": "Kyiv Independent",
      "url": "https://kyivindependent.com/route-demining-completed-in-russian-occupied-oleshky-as-humanitarian-convoy-prepares-to-enter-ukraines-ombudsman-says/"
-    },
-    {
-     "name": "Al Jazeera (AP)",
-     "url": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect"
-    },
-    {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/world/ukraine/ceasefire-brokered-melania-trump-comes-effect-russian-occupied-town-br-rcna605667"
     }
    ],
-   "changed": "Updated: mines are cleared and an aid convoy is on its way"
+   "changed": "Updated: the aid convoy arrived and residents began leaving"
   }
  ]
 }
