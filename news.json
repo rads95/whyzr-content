@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T06:33:06Z",
+ "updated": "2026-10-30T07:49:52Z",
  "items": [
   {
    "section": "tech",
@@ -153,6 +153,27 @@
    ]
   },
   {
+   "section": "climate",
+   "published": "2026-10-29T13:25:00Z",
+   "title": "Finnish police open criminal inquiry into forest clearing for Google data centre",
+   "why": "Police in Oulu, northern Finland, are investigating suspected environmental damage at a Google data centre site in Muhos, where Google's Finnish subsidiary cleared about 330 hectares of forest before required environmental assessments were done. Regulators had already halted work there and at a second site in Kajaani.",
+   "matters": "Google apologised and says it believed it acted lawfully; police expect the inquiry to run into 2027.",
+   "sources": [
+    {
+     "name": "Yle",
+     "url": "https://yle.fi/a/74-20254086"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-30/google-data-centre-land-clearance-ai-finland-criminal-probe/107327336"
+    },
+    {
+     "name": "The Star (AFP)",
+     "url": "https://www.thestar.com.my/tech/tech-news/2026/10/30/finnish-police-launches-probe-over-google-data-centre-site"
+    }
+   ]
+  },
+  {
    "section": "money",
    "published": "2026-10-29T10:30:00Z",
    "title": "Christine Lagarde to leave the European Central Bank early, in February",
@@ -220,10 +241,22 @@
    "serious": true,
    "developing": true,
    "published": "2026-10-29T09:00:00Z",
-   "title": "Russian drone strike on Dnipro railway station kills at least 13",
-   "why": "A Russian drone hit a platform at the main railway station in Dnipro, central Ukraine, at about 11am on Thursday as a train to Zaporizhzhia prepared to leave. Regional governor Oleksandr Ganzha says at least 13 people were killed and at least five injured.",
+   "title": "Russian drone strike on Dnipro railway station kills at least 14",
+   "why": "A Russian drone hit a platform at the main railway station in Dnipro, central Ukraine, at about 11am on Thursday as a train prepared to leave. Regional governor Oleksandr Ganzha says at least 14 people were killed and 14 injured, six of them seriously.",
    "matters": "President Zelensky called the attack horrific and urged allies not to ease sanctions on Russia.",
    "sources": [
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-30/russian-drone-strike-kills-at-least-14-at-rail-platform/107325816"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261030-live-russia-strikes-energy-facilities-kyiv-aid-convoy-heads-besieged-town-oleshky-ukraine"
+    },
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/breaking-russia-strikes-train-at-dnipro-station-with-jet-powered-drone-at-least-13-dead/"
+    },
     {
      "name": "Euronews (AFP)",
      "url": "https://www.euronews.com/2026/10/29/at-least-13-killed-several-injured-in-russian-drone-strike-on-ukrainian-railway-station"
@@ -236,7 +269,8 @@
      "name": "The Week",
      "url": "https://theweek.in/news/world/2026/10/29/at-least-13-killed-after-russian-jet-powered-drone-attack-on-ukrainian-railway-station.html"
     }
-   ]
+   ],
+   "changed": "Updated: the death toll rose to 14, the regional governor says"
   },
   {
    "section": "world",
@@ -600,15 +634,23 @@
   {
    "section": "world",
    "developing": true,
-   "changed": "Updated: Iran's Guards say three tankers hit mines; a UK agency reports a ship on fire",
+   "changed": "Updated: Iran now says four tankers were hit; a UK agency reports two incidents",
    "published": "2026-10-28T06:20:00Z",
-   "title": "Iran's Guards say three tankers hit mines in the Strait of Hormuz",
-   "why": "Iran's Revolutionary Guards say three tankers caught fire on Thursday after hitting mines on a southern route through the Strait of Hormuz that Iran has not authorised. Britain's UKMTO agency reported a ship on fire north of Khasab, Oman, without giving a cause. Neither claim has been independently confirmed.",
-   "matters": "The US says it has cleared mines from key routes; Iran says mediators are still discussing its plan to reopen the strait.",
+   "title": "Iran says four tankers hit mines in the Strait of Hormuz",
+   "why": "Iran's Revolutionary Guards say three tankers caught fire after hitting mines on a Hormuz route Iran has not authorised; Iran's military says a fourth was hit further east. Britain's UKMTO agency reports one ship on fire and another tanker attacked, without giving a cause.",
+   "matters": "The US says the main shipping lanes are clear of mines; none of Iran's claims has been independently confirmed.",
    "sources": [
     {
+     "name": "SBS News (AFP)",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008822813"
+    },
+    {
+     "name": "Yahoo News (CBS)",
+     "url": "https://www.yahoo.com/news/world/articles/qatari-mediators-hand-iran-proposal-102053733.html"
+    },
+    {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks"
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz"
     },
     {
      "name": "CBS News",
@@ -682,10 +724,22 @@
    "section": "world",
    "developing": true,
    "published": "2026-10-27T01:00:00Z",
-   "title": "Local ceasefire begins in Russian-held Oleshky so aid can reach civilians",
-   "why": "A ceasefire around the Russian-occupied town of Oleshky, in Ukraine's Kherson region, began early on Tuesday, both sides' militaries say. The White House says Melania Trump brokered it so aid can arrive and civilians can leave; Ukrainian officials estimate about 2,000 people remain.",
-   "matters": "Neither side has said how long it will last; the Kremlin says it could be a model for similar arrangements.",
+   "title": "Aid convoy heads for Russian-held Oleshky as local ceasefire holds",
+   "why": "Ukraine's and Russia's human rights commissioners say routes into the Russian-occupied town of Oleshky, in Ukraine's Kherson region, have been cleared of mines. An aid convoy set off overnight, Russian media report, and residents who want to leave can do so until 2pm local time on Friday.",
+   "matters": "Fewer than 2,000 people remain in a town of 24,000 before the war; the ceasefire is due to last until 1 November.",
    "sources": [
+    {
+     "name": "RFE/RL",
+     "url": "https://www.rferl.org/a/ukraine-russia-oleshky-evacuation-melania-trump/33887157.html"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261030-live-russia-strikes-energy-facilities-kyiv-aid-convoy-heads-besieged-town-oleshky-ukraine"
+    },
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/route-demining-completed-in-russian-occupied-oleshky-as-humanitarian-convoy-prepares-to-enter-ukraines-ombudsman-says/"
+    },
     {
      "name": "Al Jazeera (AP)",
      "url": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect"
@@ -693,12 +747,9 @@
     {
      "name": "NBC News",
      "url": "https://www.nbcnews.com/world/ukraine/ceasefire-brokered-melania-trump-comes-effect-russian-occupied-town-br-rcna605667"
-    },
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/breaking-russia-ukraine-agree-to-oleshky-ceasefire-mediated-by-melania-trump-white-house-says/"
     }
-   ]
+   ],
+   "changed": "Updated: mines are cleared and an aid convoy is on its way"
   }
  ]
 }
