@@ -1,6 +1,157 @@
 {
- "updated": "2026-10-29T13:53:07Z",
+ "updated": "2026-10-30T06:33:06Z",
  "items": [
+  {
+   "section": "tech",
+   "published": "2026-10-30T01:00:00Z",
+   "title": "Binance hit by record crypto hack estimated at $6.3 billion",
+   "why": "Binance, the world's largest crypto exchange, says a hack on Thursday night had an estimated impact of about $6.3 billion, of which around $3 billion has been frozen. It says an engineer's laptop was compromised, has paused deposits and withdrawals, and promises to cover all losses.",
+   "matters": "Blockchain firm TRM Labs blames a North Korea-linked group; the previous record theft, from Bybit in 2025, was $1.5 billion.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261030-crypto-platform-binance-confirms-major-hack-more-than-2-5bn-frozen"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-30/largest-cryptocurrency-hack-billions-stolen-binance/107327732"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/30/crypto-platform-binance-confirms-major-hack-with-more-than-25bn-frozen"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-10-29T23:13:00Z",
+   "title": "Australian mushroom murderer Erin Patterson loses appeal, gets life without parole",
+   "why": "Victoria's Court of Appeal rejected Erin Patterson's appeal against her convictions for murdering three relatives and attempting to murder a fourth with poisonous mushrooms in 2023. It also removed the 33-year minimum term set in 2025, so she will stay in prison for life.",
+   "matters": "AAP says she is only the second woman in Australia given life without parole; she can seek a High Court appeal.",
+   "sources": [
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-30/erin-patterson-loses-mushroom-murder-convictions-appeal/107326714"
+    },
+    {
+     "name": "SBS News",
+     "url": "https://www.sbs.com.au/news/article/erin-patterson-appeal-judgement-decision/ohwsyazkl"
+    },
+    {
+     "name": "Illawarra Mercury (AAP)",
+     "url": "https://www.illawarramercury.com.au/story/9382699/mushroom-killer-loses-parole-chance-after-failed-appeal/"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-10-29T21:30:00Z",
+   "title": "Atlanta Dream beat Golden State Valkyries to force WNBA Finals Game 7",
+   "why": "The Atlanta Dream beat the Golden State Valkyries 80-69 at home on Thursday to level the WNBA Finals at 3-3. Allisha Gray scored 23 points and Rhyne Howard 21; Gabby Williams led Golden State with 26.",
+   "matters": "The deciding Game 7 is in San Francisco on Saturday, 31 October.",
+   "sources": [
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/sports/wnba/atlanta-dream-golden-state-valkyries-wnba-finals-game-6-result-rcna606438"
+    },
+    {
+     "name": "WNBA",
+     "url": "https://www.wnba.com/news/2026-finals-valkyries-dream-game-6-recap"
+    },
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/wnba/story/_/id/50176202/2026-wnba-finals-valkyries-dream-schedule-scores-news"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "serious": true,
+   "published": "2026-10-29T20:08:00Z",
+   "title": "Patrick Stewart, Star Trek's Captain Picard, dies at 86",
+   "why": "Sir Patrick Stewart, the British actor who played Captain Jean-Luc Picard in Star Trek and Professor Charles Xavier in the X-Men films, died at his home in Los Angeles on Wednesday, his spokesperson says. He had Alzheimer's disease and Lewy body dementia.",
+   "matters": "He spent 14 years with the Royal Shakespeare Company before Star Trek made him famous worldwide; he was knighted in 2010.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/29/patrick-stewart-star-of-star-trek-and-x-men-dies-aged-86"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-30/sir-patrick-stewart-dies-aged-86-tributes-obit/107326708"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-10-29T20:00:00Z",
+   "title": "Alexander Zverev clinches tennis world No. 1 for the first time",
+   "why": "Germany's Alexander Zverev beat Tallon Griekspoor 6-4, 7-5 at the Vienna Open on Thursday, guaranteeing he will top the ATP rankings published on 2 November. He replaces Italy's Jannik Sinner, who ended his season early with a knee injury.",
+   "matters": "He will be the 30th man to reach No. 1, and the first German since Boris Becker in 1991.",
+   "sources": [
+    {
+     "name": "ATP Tour",
+     "url": "https://www.atptour.com/en/news/zverev-griekspoor-vienna-2026-thursday"
+    },
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261029-zverev-on-top-of-the-world-after-securing-no-1-ranking"
+    },
+    {
+     "name": "SBS (Korea)",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008823111"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-10-29T16:30:00Z",
+   "title": "Four Italians killed in EU peacekeeping helicopter crash in Bosnia",
+   "why": "An Italian Chinook helicopter serving with the EU's peacekeeping force in Bosnia and Herzegovina crashed during a training flight near Brčko, in the north, on Thursday. Italy's defence ministry says four Italians died, two soldiers and two Red Cross military volunteers, and 11 people were injured.",
+   "matters": "Italy's defence minister says none of the injured are in critical condition; the EU force, EUFOR, is investigating the cause.",
+   "sources": [
+    {
+     "name": "Al Jazeera (AFP/Reuters)",
+     "url": "https://www.aljazeera.com/news/2026/10/30/eu-force-helicopter-crash-kills-four-in-bosnia"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/29/italian-military-helicopter-on-eu-peacekeeping-mission-crashes-in-bosnia"
+    },
+    {
+     "name": "ANSA",
+     "url": "https://www.ansa.it/nuova_europa/en/news/sections/politics/2026/10/29/crosetto-expresses-great-sorrow-none-of-the-injured-in-bosnia-in-critical-condition_15aacd9b-e5bc-4aad-869b-1ac4e70fafaa.html"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "serious": true,
+   "published": "2026-10-29T15:00:00Z",
+   "title": "Flash floods kill at least five in northern and eastern Syria",
+   "why": "Heavy rain since Wednesday has caused flash floods across northern and eastern Syria. Syria's emergencies ministry says at least five people died, four of them children who drowned in Raqqa and Deir ez-Zor provinces, and five more are missing. A bridge collapse has cut the Raqqa–Aleppo road.",
+   "matters": "Rescuers have evacuated at least 375 families from three displacement camps in Raqqa province, state media report.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/30/flash-floods-kills-five-in-syria"
+    },
+    {
+     "name": "Asharq Al-Awsat",
+     "url": "https://english.aawsat.com/arab-world/5335449-flash-floods-kill-five-syria"
+    },
+    {
+     "name": "The New Arab",
+     "url": "https://www.newarab.com/news/syria-flash-floods-kill-four-collapse-bridges-roads"
+    }
+   ]
+  },
   {
    "section": "money",
    "published": "2026-10-29T10:30:00Z",
@@ -40,6 +191,27 @@
     {
      "name": "Yahoo Sports (dpa)",
      "url": "https://sports.yahoo.com/articles/south-africas-durban-joins-race-113335123.html"
+    }
+   ]
+  },
+  {
+   "section": "curious",
+   "published": "2026-10-29T10:00:00Z",
+   "title": "Pompeii cupboard sealed by Vesuvius reveals cosmetics, coins and a charm necklace",
+   "why": "Archaeologists at Pompeii, near Naples in Italy, have recovered the contents of a cupboard buried by the eruption of Vesuvius in AD 79: make-up tools, an incense burner, a bronze lamp, 38 bronze coins in a woven basket and a necklace of tiny amulets.",
+   "matters": "Such charm necklaces were usually given to children; the park's director says the owner's identity cannot be known for certain.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/29/in-pompeii-a-womans-wardrobe-resurfaces-with-beauty-items-and-jewels"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/pompeii-discovery-ancient-artifacts-daily-life/"
+    },
+    {
+     "name": "Finestre sull'Arte",
+     "url": "https://www.finestresullarte.info/en/archaeology/pompeii-a-woman-s-wardrobe-lost-in-the-eruption-of-79-a-d-resurfaces-here-s-what-it-contained"
     }
    ]
   },
@@ -394,10 +566,22 @@
    "serious": true,
    "developing": true,
    "published": "2026-10-28T08:00:00Z",
-   "title": "At least 68 killed as two high-speed trains collide in central Spain",
-   "why": "A Renfe high-speed train hit a stationary Iryo train near Urda, in Toledo province, on Wednesday morning, killing at least 68 people, regional officials say. Transport Minister Óscar Puente says a control centre wrongly let the Renfe train resume; Iryo says it never received an order to move.",
-   "matters": "Spain began three days of national mourning on Thursday; recorded driver–controller calls will be central to the investigation.",
+   "title": "At least 69 killed as two high-speed trains collide in central Spain",
+   "why": "A Renfe high-speed train hit a stationary Iryo train near Urda, in Toledo province, on Wednesday morning, killing at least 69 people, Spain's transport ministry says. Transport Minister Óscar Puente says a control centre wrongly let the Renfe train resume after a signalling fault.",
+   "matters": "A court in Toledo province has taken over the investigation and ordered the trains' black boxes to be seized, Euronews reports.",
    "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/29/spain-train-crash-what-happened-in-the-17-minutes-before-the-collision"
+    },
+    {
+     "name": "TIME",
+     "url": "https://time.com/article/2026/10/29/spain-high-speed-train-crash-cause-inexplicable-human-error-transport/"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-10-30/brk-spain-train-updated/107325814"
+    },
     {
      "name": "CBS News (AP)",
      "url": "https://www.cbsnews.com/news/spain-train-crash-toledo-urda/"
@@ -407,19 +591,11 @@
      "url": "https://www.aljazeera.com/news/2026/10/28/injuries-reported-after-two-trains-collide-in-spain"
     },
     {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-10-29/spain-train-collision-rail-safety-traffic-control/107322634"
-    },
-    {
      "name": "France 24 (AFP)",
      "url": "https://www.france24.com/en/europe/20261029-desolation-despair-spain-begins-three-days-of-mourning-after-deadly-train-crash"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/10/28/inexplicable-order-by-control-centre-investigated-after-spain-train-crash"
     }
    ],
-   "changed": "Updated: mourning has begun, and Iryo disputes part of the minister's account"
+   "changed": "Updated: the death toll rose to 69, Spain's transport ministry says"
   },
   {
    "section": "world",
@@ -441,96 +617,6 @@
     {
      "name": "APA",
      "url": "https://en.apa.az/asia/irgc-three-tankers-hit-mines-in-strait-of-hormuz-over-past-24-hours-532933"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-10-28T06:00:00Z",
-   "title": "South Korea fines Google and Apple over app store payment rules",
-   "why": "South Korea's media regulator, the KMCC, fined Google 42.9 billion won and Apple 20.8 billion won (about $47.6 million together) on Wednesday. It says they pushed developers to use their own payment systems and delayed app reviews without clear reasons. Both must allow links to outside payment sites.",
-   "matters": "It is the first penalty under Korea's 2021 law against forcing app makers to use one payment system. Apple says it disagrees.",
-   "sources": [
-    {
-     "name": "Korea Times",
-     "url": "https://www.koreatimes.co.kr/business/companies/20261028/korea-fines-google-apple-combined-476-mil-over-in-app-payment-practices"
-    },
-    {
-     "name": "Korea JoongAng Daily",
-     "url": "https://www.koreajoongangdaily.com/business/korea-fines-google-and-apple-476-million-over-inapp-payments/12943573"
-    },
-    {
-     "name": "ABC News (AP)",
-     "url": "https://abcnews.com/Technology/wireStory/south-korea-fines-google-apple-unfair-app-market-137633227"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "serious": true,
-   "published": "2026-10-28T01:52:00Z",
-   "title": "Lancet report links nearly 3 million deaths to climate-driven heat",
-   "why": "The tenth Lancet Countdown report, by 146 researchers from 30 countries, says heat was linked to more than 540,000 deaths a year from 2016 to 2023, about 68% of them due to climate change. An estimated 710,000 heat deaths in 2023 set a record.",
-   "matters": "The authors call for climate change to be declared a global health emergency ahead of next month's COP31 summit in Türkiye.",
-   "sources": [
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-10-28/lancet-study-counts-three-million-climate-change-related-deaths/107315006"
-    },
-    {
-     "name": "ABC News (US)",
-     "url": "https://abcnews.com/US/climate-change-global-health-emergency-harms-accelerating-lancet/story?id=137598966"
-    },
-    {
-     "name": "AFP (via Korea Herald)",
-     "url": "https://www.koreaherald.com/article/10917565"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-10-27T23:45:00Z",
-   "title": "SK Hynix’s quarterly revenue passes 100 trillion won for the first time",
-   "why": "South Korean memory-chip maker SK Hynix reported third-quarter revenue of 104.6 trillion won, up 328% on a year earlier, and operating profit of 83.3 trillion won. It plans to return about 100 trillion won to shareholders this year.",
-   "matters": "Seoul's Kospi index jumped 6.63% to 6,012 on Wednesday as SK Hynix shares rose almost 11% and Samsung's 9%.",
-   "sources": [
-    {
-     "name": "SK hynix (company statement)",
-     "url": "https://www.prnewswire.com/news-releases/sk-hynix-announces-3q26-financial-results-302921407.html"
-    },
-    {
-     "name": "Kyunghyang Shinmun",
-     "url": "https://www.khan.co.kr/en/article/202610280943037/"
-    },
-    {
-     "name": "Seoul Economic Daily",
-     "url": "https://en.sedaily.com/finance/2026/10/28/sk-hynix-posts-first-100-trillion-won-quarter-adds-60"
-    },
-    {
-     "name": "Korea Times",
-     "url": "https://www.koreatimes.co.kr/economy/20261028/sk-hynix-eases-ai-peak-fears-pushing-kospi-above-6000"
-    }
-   ],
-   "changed": "Updated: Seoul's Kospi index jumped 6.6% on the results"
-  },
-  {
-   "section": "sport",
-   "published": "2026-10-27T22:15:00Z",
-   "title": "Fourth-tier Fleetwood knock Arsenal out of the League Cup on penalties",
-   "why": "Fleetwood Town, 18th in England's League Two, drew 1-1 with Premier League champions Arsenal at their Highbury Stadium on Tuesday, then won the shoot-out 5-3. Arsenal's 16-year-old Max Dowman was sent off late in the game.",
-   "matters": "Fleetwood reach the quarter-finals; several outlets rank it among the biggest upsets in the competition’s history.",
-   "sources": [
-    {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/football/news/13604003/fleetwood-1-1-arsenal-5-3-pens-premier-league-champions-dumped-out-of-carabao-cup-by-league-two-side"
-    },
-    {
-     "name": "ESPN",
-     "url": "https://www.espn.com/soccer/story/_/id/50301787/arsenal-fleetwood-town-carabao-cup-4th-round-dowman-drone"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/sports/2026/10/28/arsenal-fleetwood-town-league-cup-penalties-guimaraes-dowman"
     }
    ]
   },
@@ -564,15 +650,19 @@
   {
    "section": "world",
    "developing": true,
-   "changed": "Updated: with nearly 90% counted the deadlock holds; final results are due on 4 November",
+   "changed": "Updated: the count is complete and the deadlock holds",
    "published": "2026-10-27T05:00:00Z",
    "title": "Israel's election ends in deadlock, with neither bloc reaching a majority",
-   "why": "With nearly 90% of votes counted, Prime Minister Benjamin Netanyahu's bloc is on course for 53 of the Knesset's 120 seats and Gadi Eisenkot's opposition bloc for 48, Al Jazeera reports; 61 are needed. Over 500,000 special ballots are still being counted.",
-   "matters": "Official results are due on 4 November; President Herzog then has a week to choose who tries to form a government.",
+   "why": "With the count complete, Prime Minister Benjamin Netanyahu's bloc has 53 of the Knesset's 120 seats and Gadi Eisenkot's opposition bloc 48, official results show; 61 are needed. Arab-led parties won 19 seats. Netanyahu's Likud is the largest single party, with 27.",
+   "matters": "The elections committee is due to certify the results by 4 November; coalition talks could take weeks, and another election is possible.",
    "sources": [
     {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/middle-east/20261030-netanyahu-bloc-in-lead-without-majority-in-israel-election-say-official-results"
+    },
+    {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted"
+     "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete"
     },
     {
      "name": "ABC Australia",
@@ -607,107 +697,6 @@
     {
      "name": "Kyiv Independent",
      "url": "https://kyivindependent.com/breaking-russia-ukraine-agree-to-oleshky-ceasefire-mediated-by-melania-trump-white-house-says/"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: at least three deaths confirmed; Nepal suspends trekking permits",
-   "published": "2026-10-26T07:00:00Z",
-   "title": "Cyclone Arnab makes landfall in India's Andhra Pradesh, then weakens",
-   "why": "Cyclone Arnab crossed the coast near Yanam early on Wednesday with gusts of up to 150 km/h, India's weather office says, and has weakened inland. India's disaster response force says at least three people died. About 180,000 people had been evacuated in Andhra Pradesh and Odisha.",
-   "matters": "Andhra Pradesh says at least 180 houses were destroyed; Nepal has suspended trekking permits for three days.",
-   "sources": [
-    {
-     "name": "Al Jazeera (Reuters)",
-     "url": "https://www.aljazeera.com/news/2026/10/28/cyclone-arnab-makes-landfall-in-indias-andhra-pradesh"
-    },
-    {
-     "name": "ETV Bharat",
-     "url": "https://www.etvbharat.com/en/bharat/live-blog--cyclone-arnab-live-updates-landfall-in-andhra-pradesh-rain-odisha-jharkhand-chhattisgarh-enn26102800499"
-    },
-    {
-     "name": "Sambad English",
-     "url": "https://sambadenglish.com/national-international-news/india/cyclone-arnab-crosses-coast-with-max-wind-speed-of-150-kmph-weakens-12759872"
-    },
-    {
-     "name": "Gulf News (AP/IANS)",
-     "url": "https://gulfnews.com/world/asia/india/cyclone-arnab-bears-down-on-india-136000-evacuated-as-andhra-odisha-on-alert-1.500725700"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "developing": true,
-   "published": "2026-10-25T21:20:00Z",
-   "title": "Serbia's Vučić concedes election defeat to student-led movement",
-   "why": "Aleksandar Vučić conceded on Sunday night that his Serbian Progressive Party had lost the snap parliamentary election to the Student List, which grew out of two years of anti-corruption protests. Vučić said early results gave the students 135 to 140 of 250 seats. Turnout was close to 70%.",
-   "matters": "Final official results are still to come, election officials say.",
-   "sources": [
-    {
-     "name": "France 24 (AFP/AP)",
-     "url": "https://www.france24.com/en/europe/20261025-serbia-s-vucic-concedes-defeat-in-historic-snap-election-with-record-turnout"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader"
-    },
-    {
-     "name": "RTÉ (Reuters)",
-     "url": "https://www.rte.ie/news/2026/1025/1596799-serbia-parliamentary-elections/"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: confirmed cases pass 10,000, Congo's health ministry says",
-   "published": "2026-10-25T17:38:00Z",
-   "title": "DR Congo's Ebola cases pass 10,000 as outbreak keeps spreading",
-   "why": "DR Congo's health ministry says confirmed Ebola cases have reached 10,060, with 4,887 deaths, across 66 health zones in eight provinces. About 80% of new cases come from outside known contact chains, AP reports. Uganda now requires citizens returning from Congo to quarantine for 21 days.",
-   "matters": "It is the second-largest Ebola outbreak on record, and no vaccine or treatment is approved for this Bundibugyo strain.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak"
-    },
-    {
-     "name": "AP (via Korea Times)",
-     "url": "https://www.koreatimes.co.kr/world/20261027/congos-ebola-outbreak-tops-10000-cases-as-authorities-race-to-slow-the-spread-in-african-countries"
-    },
-    {
-     "name": "Reuters (via Asharq Al-Awsat)",
-     "url": "https://english.aawsat.com/world/5334105-congos-ebola-infections-surpass-10000"
-    },
-    {
-     "name": "Daily Monitor",
-     "url": "https://www.monitor.co.ug/uganda/news/national/uganda-imposes-mandatory-21-day-drc-quarantine-as-regional-ebola-threat-expands-5645034"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "developing": true,
-   "changed": "Updated: Sri Lanka beat Pakistan to reach the final and knock England out",
-   "published": "2026-10-25T16:00:00Z",
-   "title": "Pakistan to meet Sri Lanka in tri-series final as England go out",
-   "why": "Pakistan, who beat England by one wicket on 25 October thanks to Shadab Khan's unbeaten 113, will play Sri Lanka in the final on 31 October. Sri Lanka bowled Pakistan out for 110 in Lahore on 27 October and won by eight wickets, ending England's hopes.",
-   "matters": "Dilshan Madushanka took a career-best five for 34; England have lost all three of their matches in the series.",
-   "sources": [
-    {
-     "name": "BBC Sport (via Yahoo Sports)",
-     "url": "https://sports.yahoo.com/articles/england-tri-series-sri-lanka-130116259.html"
-    },
-    {
-     "name": "AFP (via Arab News Pakistan)",
-     "url": "https://www.arabnews.pk/pakistan/sri-lanka-thump-pakistan-to-eliminate-england-from-tri-series-final-race-3005395"
-    },
-    {
-     "name": "WION",
-     "url": "https://www.wionews.com/sports/sl-vs-pak-lahore-odi-madushanka-five-wicket-haul-sri-lanka-reach-tri-series-final-england-out-1793107033535"
     }
    ]
   }
