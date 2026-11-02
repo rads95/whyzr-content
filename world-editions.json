@@ -4256,5 +4256,165 @@
         ]
       }
     ]
+  },
+  {
+    "id": "041",
+    "published": "2026-11-02",
+    "title": "A giant Catrina, a new world beyond Pluto and a Swedish surprise in New York",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Did this actually happen?",
+        "claim": "For the Day of the Dead, Mexico City has put up the world’s tallest Catrina – the elegant skeleton lady of the festival – in its main square. She stands about 33 metres high, roughly as tall as an 11-storey building.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this is true. On 29 October Mexico City unveiled a Catrina about 33.4 metres tall in the Zócalo, its huge main square. Guinness World Records recognised it as the tallest Catrina ever, beating a 28-metre one built in Puerto Vallarta in 2023. The Catrina, a smartly dressed female skeleton, comes from a drawing by the Mexican artist José Guadalupe Posada and is a famous symbol of the Day of the Dead, celebrated on 1 and 2 November.",
+        "sources": [
+          [
+            "Euronews · Mexico: world’s tallest Catrina unveiled for Día de Muertos in Mexico City",
+            "https://www.euronews.com/2026/10/30/mexico-worlds-tallest-catrina-unveiled-for-dia-de-muertos-in-mexico-city"
+          ],
+          [
+            "Popular Science · World’s tallest Day of the Dead sculpture erected in Mexico City",
+            "https://www.popsci.com/technology/worlds-largest-day-of-the-dead-sculpture-mexico/"
+          ],
+          [
+            "Mexico News Daily · Mexico City unveils world’s tallest Catrina for Day of the Dead",
+            "https://mexiconewsdaily.com/culture/mexico-city-tallest-catrina-record-day-of-the-dead"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three terms. Find their partners.",
+        "pairs": [
+          [
+            "Sweden",
+            "Andreas Almgren, who won the men’s New York City Marathon in his first ever marathon"
+          ],
+          [
+            "Kenya",
+            "Sheila Chepkirui, who won the women’s race in New York for the second time"
+          ],
+          [
+            "Italy",
+            "Yemaneberhan Crippa, who came second in the men’s race, 13 seconds behind"
+          ]
+        ],
+        "why": "The pairs are: Sweden – Andreas Almgren; Kenya – Sheila Chepkirui; Italy – Yemaneberhan Crippa. At the New York City Marathon on 1 November, Sweden’s Almgren won the men’s race in just over 2 hours 6 minutes on his marathon debut, finishing 13 seconds ahead of Italy’s Crippa. Kenya’s Chepkirui won the women’s race, just as she did in 2024.",
+        "sources": [
+          [
+            "ABC7 New York · 2026 TCS New York City Marathon: Andreas Almgren wins men’s race, Sheila Chepkirui wins women’s race",
+            "https://abc7ny.com/post/nyc-marathon-record-field-expected-50th-anniversary-run/20004692/"
+          ],
+          [
+            "Canadian Running · Andreas Almgren delivers historic debut at New York City Marathon",
+            "https://runningmagazine.ca/sections/runs-races/andreas-almgren-wins-new-york-city-marathon-in-debut/"
+          ],
+          [
+            "Time News · Andreas Almgren Wins New York City Marathon on Debut",
+            "https://time.news/andreas-almgren-wins-new-york-city-marathon-on-debut/"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "Spotted in pictures from the new Vera C. Rubin Observatory in Chile",
+          "About 46 times farther from the Sun than Earth is – even beyond Pluto",
+          "If confirmed, it would be only the sixth of its kind officially recognised"
+        ],
+        "options": [
+          "Pluto is made a full planet again",
+          "A new moon is found circling Mars",
+          "Astronomers find a possible new dwarf planet",
+          "A comet is heading towards Neptune"
+        ],
+        "correct": 2,
+        "why": "It was: astronomers find a possible new dwarf planet. A distant object called 2026 ED138 was picked out in images from the Rubin Observatory, a powerful new telescope on a mountain in Chile, and announced in late October. It is thought to be between 600 and 1,500 km wide, and it had stayed hidden because it sits in front of the crowded star fields of the Milky Way. Only five dwarf planets are officially recognised – Pluto, Ceres, Eris, Haumea and Makemake – so if more observations confirm its size, ED138 would be the sixth.",
+        "sources": [
+          [
+            "Scripps News (CNN) · Astronomers make startling discovery of a possible dwarf planet beyond Pluto",
+            "https://www.scrippsnews.com/science-and-tech/space/astronomers-make-startling-discovery-of-a-possible-dwarf-planet-beyond-pluto"
+          ],
+          [
+            "BBC Sky at Night Magazine · Scientists have found an enormous new dwarf planet beyond Pluto",
+            "https://www.skyatnightmagazine.com/news/2026-ed138-discovery"
+          ],
+          [
+            "ZME Science · Astronomers have found a possible new dwarf planet beyond Pluto",
+            "https://www.zmescience.com/space/new-dwarf-planet-solar-system/"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "Bulgaria’s new president: put these events in order, earliest first.",
+        "items": [
+          "First round of the presidential election, with no outright winner",
+          "Iliana Iotova wins the run-off vote",
+          "Iliana Iotova becomes acting president after Rumen Radev steps down"
+        ],
+        "correctOrder": [
+          2,
+          0,
+          1
+        ],
+        "why": "The right order is: Iotova becomes acting president (January), then the first round (25 October), then her run-off win (1 November). Iotova, a long-time ally of Rumen Radev, took over in January when he stepped down to run in a parliamentary election. In the first round nobody won more than half the votes, so she faced former caretaker prime minister Andrey Gyurov in a run-off. She won with about 58% of the vote, Gyurov accepted the result, and she became the first woman elected president of Bulgaria.",
+        "sources": [
+          [
+            "Al Jazeera · Initial results indicate victory for Iotova in Bulgarian presidential vote",
+            "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show"
+          ],
+          [
+            "RTÉ · Bulgaria’s incumbent president Iotova wins runoff vote",
+            "https://www.rte.ie/news/2026/1102/1597575-bulgaria-runoff/"
+          ],
+          [
+            "Georgia Today · Bulgaria’s Iliana Iotova wins presidential runoff to become country’s first elected female president",
+            "https://georgiatoday.ge/bulgarias-iliana-iotova-wins-presidential-runoff-to-become-countrys-first-elected-female-president"
+          ],
+          [
+            "Novinite · Bulgaria Elects First Woman President as Yotova Defeats Gyurov in Runoff",
+            "https://www.novinite.com/articles/241385/Bulgaria+Elects+First+Woman+President+as+Yotova+Defeats+Gyurov+in+Runoff"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "Greenland opened a new international airport in the town of Ilulissat on 29 October. What is the main idea behind it?",
+        "options": [
+          "To move Greenland’s capital away from Nuuk",
+          "To bring in more tourists by flying them straight in from abroad",
+          "To ship ice from Greenland’s glaciers around the world",
+          "To replace all of Greenland’s ferries and boats"
+        ],
+        "correct": 1,
+        "why": "The main idea is to bring in more tourists with direct international flights. Ilulissat’s new 2,200-metre runway is long enough for big passenger jets, so visitors can now fly straight there from places like Copenhagen to see the famous icebergs of nearby Disko Bay. It follows another new international airport in the capital, Nuuk, which opened in late 2024.",
+        "sources": [
+          [
+            "Click On Detroit (AP) · Greenland opens new international airport to lure tourists as it eyes future independence",
+            "https://www.clickondetroit.com/news/world/2026/10/30/greenland-opens-new-international-airport-to-lure-tourists-as-it-eyes-future-independence/"
+          ],
+          [
+            "Euronews · ‘Historic milestone’ for Greenland as new international airport opens in Ilulissat",
+            "https://www.euronews.com/2026/10/30/historic-milestone-for-greenland-as-new-international-airport-opens-in-ilulissat"
+          ],
+          [
+            "The Star (Xinhua) · New int’l airport opens in Greenland’s Ilulissat",
+            "https://www.thestar.com.my/news/world/2026/10/30/new-int039l-airport-opens-in-greenland039s-ilulissat"
+          ]
+        ]
+      }
+    ]
   }
 ]
