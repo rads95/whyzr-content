@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-11-02",
   "facts": [
     {
       "date": "2026-09-20",
@@ -1152,6 +1152,110 @@
         {
           "name": "Farmers’ Almanac",
           "url": "https://www.farmersalmanac.com/the-truth-about-o-k-from-the-1999-farmers-almanac"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "kind": "fact",
+      "category": "Food",
+      "emoji": "🥜",
+      "title": "Peanuts aren’t really nuts",
+      "text": "Peanuts are legumes, cousins of peas, beans and lentils. And they grow in a very odd way: after the flower is pollinated, a stalk called a peg bends down and pushes into the soil, where the pod grows underground. That’s why they’re also called groundnuts.",
+      "sources": [
+        {
+          "name": "The Old Farmer’s Almanac",
+          "url": "https://www.almanac.com/plant/peanuts"
+        },
+        {
+          "name": "Frontiers in Plant Science (Kumar et al., 2019)",
+          "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2019.01289/full"
+        },
+        {
+          "name": "Tasting Table",
+          "url": "https://www.tastingtable.com/1563012/are-peanuts-beans-explained/"
+        },
+        {
+          "name": "Chowhound",
+          "url": "https://www.chowhound.com/1940112/why-peanuts-are-not-nuts/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "kind": "folklore",
+      "emoji": "🤞",
+      "title": "Cracking your knuckles",
+      "myth": "Keep cracking your knuckles and you’ll end up with arthritis.",
+      "truth": "Doctors find no clear link. The pop is just gas bubbles in the fluid inside the joint, and one doctor even cracked the knuckles of only one hand for decades and found no arthritis in either.",
+      "sources": [
+        {
+          "name": "Tufts Medicine",
+          "url": "https://www.tuftsmedicine.org/about-us/news/medical-myths-cracking-your-knuckles-causes-arthritis"
+        },
+        {
+          "name": "Scripps Health",
+          "url": "https://www.scripps.org/news_items/8111-cracking-your-knuckles-myths-and-facts"
+        },
+        {
+          "name": "The Naked Scientists (University of Cambridge)",
+          "url": "https://www.thenakedscientists.com/node/177653"
+        },
+        {
+          "name": "The Tech (MIT)",
+          "url": "https://thetech.com/2009/10/02/ignobels-v129-n41"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "fact",
+      "category": "Records",
+      "emoji": "💧",
+      "title": "The world’s tallest waterfall",
+      "text": "Venezuela’s Angel Falls drops 979 metres (3,212 ft) off a flat-topped mountain, Auyán-tepui. It’s named after American pilot Jimmie Angel, who flew past it in 1933 while hunting for gold. Its local name is Kerepakupai Merú.",
+      "sources": [
+        {
+          "name": "Guinness World Records",
+          "url": "https://www.guinnessworldrecords.com/world-records/highest-waterfall"
+        },
+        {
+          "name": "WorldAtlas",
+          "url": "https://www.worldatlas.com/which-is-the-tallest-waterfall-in-the-world.html"
+        },
+        {
+          "name": "Google Arts & Culture (ePublishing Partners / AirPano)",
+          "url": "https://artsandculture.google.com/story/angel-falls/MAURAq-3L8_TCA?hl=en"
+        },
+        {
+          "name": "¡HOLA! USA",
+          "url": "https://www.hola.com/us/lifestyle/20241113729870/angel-falls-worlds-highest-waterfall/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "kind": "fact",
+      "category": "Weird but true",
+      "emoji": "🌊",
+      "title": "The sea with no shore",
+      "text": "The Sargasso Sea, in the middle of the North Atlantic, is the only sea with no land boundary at all. Instead, four ocean currents form its edges, so its borders shift. It’s named after sargassum, the golden seaweed that floats on its surface.",
+      "sources": [
+        {
+          "name": "NOAA Ocean Service",
+          "url": "https://oceanservice.noaa.gov/facts/sargassosea.html"
+        },
+        {
+          "name": "Mission Blue",
+          "url": "https://missionblue.org/2021/03/saving-the-sargasso-sea-the-golden-floating-rainforest-of-the-atlantic/"
+        },
+        {
+          "name": "Geography Realm",
+          "url": "https://www.geographyrealm.com/the-only-sea-in-the-world-without-a-coast/"
+        },
+        {
+          "name": "Earth.com",
+          "url": "https://www.earth.com/news/only-sea-on-earth-that-has-no-shore-because-it-never-touches-land-sargasso"
         }
       ]
     }
