@@ -4416,5 +4416,181 @@
         ]
       }
     ]
+  },
+  {
+    "id": "042",
+    "published": "2026-11-03",
+    "title": "Antonelli makes F1 history, a fruit-loving ‘hell chicken’ and Lagarde’s early exit",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Did this actually happen?",
+        "claim": "Christine Lagarde, head of the European Central Bank, has announced that she will stay in the job beyond 2027 and serve a second full term.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 1,
+        "why": "No, that is made up. The opposite happened: on 29 October Lagarde said she will step down early, on 7 February 2027, about nine months before her eight-year term was due to end in October 2027. The European Central Bank, based in Frankfurt in Germany, sets interest rates for the countries that use the euro. Talk of an early exit had been building for months, and European leaders will now pick her successor.",
+        "sources": [
+          [
+            "The Star (Reuters) · ECB President Lagarde resigns effective Feb 7",
+            "https://www.thestar.com.my/news/world/2026/10/29/ecb-president-lagarde-resigns-effective-feb-7"
+          ],
+          [
+            "Hürriyet Daily News · Lagarde to step down as ECB chief in February",
+            "https://www.hurriyetdailynews.com/lagarde-to-step-down-as-ecb-chief-in-february-228780"
+          ],
+          [
+            "blue News (Keystone-SDA) · ECB President Christine Lagarde steps down early",
+            "https://www.bluewin.ch/en/news/ecb-president-christine-lagarde-steps-down-early-li.3653427"
+          ],
+          [
+            "The Senior (AAP) · ECB president Lagarde quits after months of speculation",
+            "https://www.thesenior.com.au/story/9382681/ecb-president-lagarde-quits-after-months-of-speculation/"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three terms. Find their partners.",
+        "pairs": [
+          [
+            "Kimi Antonelli",
+            "Became Formula 1’s youngest ever world champion, aged 20"
+          ],
+          [
+            "Max Verstappen",
+            "Won the Mexico City Grand Prix on 1 November"
+          ],
+          [
+            "Sebastian Vettel",
+            "Lost his record as the youngest champion, set at 23 in 2010"
+          ]
+        ],
+        "why": "The pairs are: Kimi Antonelli – the new youngest world champion; Max Verstappen – the winner of the race in Mexico City; Sebastian Vettel – the driver whose youngest-champion record was broken. Antonelli, a 20-year-old Italian who drives for Mercedes, only needed to finish ninth or better in Mexico City on 1 November, and he came third behind Verstappen and Lewis Hamilton. That sealed the title with races still to go and beat Vettel’s record from 2010, when he was 23. Antonelli is also the first Italian champion since Alberto Ascari in 1953.",
+        "sources": [
+          [
+            "Al Jazeera · Kimi Antonelli becomes Formula One’s youngest world champion in Mexico City",
+            "https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city"
+          ],
+          [
+            "Formula1.com · Antonelli crowned youngest ever F1 champion as Verstappen wins eventful Mexico City Grand Prix",
+            "https://www.formula1.com/en/latest/article/antonelli-crowned-youngest-ever-f1-champion-as-verstappen-wins-eventful-mexico-city-grand-prix.xpMMeef0KmRURs9IDs3LH"
+          ],
+          [
+            "ESPN · Kimi Antonelli makes F1 history as youngest world champion with maiden title",
+            "https://www.espn.com/f1/story/_/id/50250037/kimi-antonelli-youngest-f1-world-champion-2026-mexico-city-grand-prix"
+          ],
+          [
+            "Ynet News · Kimi Antonelli, 20, becomes youngest F1 world champion ever",
+            "https://www.ynetnews.com/sport/article/bjsceih6zx"
+          ],
+          [
+            "Grande Prêmio · Antonelli makes history in Mexico as Verstappen wins dramatic race",
+            "https://grandepremio.com/en/f1/antonelli-becomes-youngest-f1-world-champion-as-verstappen-wins-chaotic-2026-mexican-gp/"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "Nearly 200 countries meet in Yerevan, the capital of Armenia",
+          "Goals set for 2030 to halt the loss of wild plants and animals",
+          "A review finds the world is behind on almost all of its targets"
+        ],
+        "options": [
+          "Armenia hosts the Olympic Games for the first time",
+          "Countries agree to stop all fishing in the oceans",
+          "A new world trade deal is signed in Armenia",
+          "UN talks on protecting nature end with a new plan to speed things up"
+        ],
+        "correct": 3,
+        "why": "It was: UN talks on protecting nature end with a new plan to speed things up. The meeting, called COP17, was about biodiversity, which means the variety of plants and animals on Earth. Nearly 200 countries met in Yerevan from 19 October, and the talks ran over time, finishing on 31 October. A review showed countries are well behind on their shared nature goals for 2030, so they adopted a plan called the ‘Yerevan Pathway’ to step up action.",
+        "sources": [
+          [
+            "Carbon Brief · COP17: Key outcomes agreed at the UN biodiversity conference in Yerevan",
+            "https://www.carbonbrief.org/cop17-key-outcomes-agreed-at-the-un-biodiversity-conference-in-yerevan"
+          ],
+          [
+            "Kuwait Times (AFP) · Nearly 200 nations kick off biodiversity summit in Yerevan",
+            "https://kuwaittimes.com/article/51923/business/nearly-200-nations-kick-off-biodiversity-summit-in-yerevan/"
+          ],
+          [
+            "Macau Business (AFP) · Nations seek reset at UN talks as nature goals off track",
+            "https://macaubusiness.com/nations-seek-reset-at-un-talks-as-nature-goals-off-track/"
+          ],
+          [
+            "Time News · COP17 delegates adopt Yerevan Pathway at biodiversity summit",
+            "https://time.news/cop17-delegates-adopt-yerevan-pathway-at-biodiversity-summit/"
+          ],
+          [
+            "Whalesbook · COP17 biodiversity summit ends with Yerevan Pathway",
+            "https://www.whalesbook.com/news/English/other/COP17-Biodiversity-Summit-Ends-With-Yerevan-Pathway-Key-Impacts/6ae6e1704fc30694db561568"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "Scientists have described a toothless, turkey-sized dinosaur nicknamed the ‘hell chicken’ that seems to have eaten fruit. Put these in order, earliest first.",
+        "items": [
+          "Scientists describe it as the first known fruit-eating dinosaur",
+          "Flowering plants, which make fruit, first appear on Earth",
+          "The ‘hell chicken’ lives alongside T. rex in what is now Montana"
+        ],
+        "correctOrder": [
+          1,
+          2,
+          0
+        ],
+        "why": "The right order is: flowering plants appear first, then the ‘hell chicken’ lives, then scientists describe it. Flowering plants arose around 130 to 140 million years ago and spread during the age of dinosaurs, so there was fruit to eat. The ‘hell chicken’, Infernogallus jamesi, lived about 66 million years ago in the Hell Creek area of the US, alongside T. rex and Triceratops; its name mixes the Latin for ‘hell’ and ‘chicken’. In late October 2026 researchers said its beak and sliding jaw were built for mashing soft fruit, making it the first known dinosaur that specialised in eating fruit.",
+        "sources": [
+          [
+            "CP24 (Reuters) · Strange beaked ‘hell chicken’ is the first fruit-eating dinosaur",
+            "https://cp24.com/news/world/2026/10/30/strange-beaked-hell-chicken-is-the-first-fruit-eating-dinosaur"
+          ],
+          [
+            "Popular Science · ‘Hell chicken’ dinosaur likely dined on fruit, not meat",
+            "https://www.popsci.com/science/hell-chicken-dinosaur/"
+          ],
+          [
+            "Newswise (Stony Brook University) · Dinosaur discovery reveals a specialized fruit eater",
+            "https://www.newswise.com/articles/dinosaur-discovery-reveals-a-specialized-fruit-eater"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "On 29 October DoorDash agreed to buy Instacart for about $17 billion. What do these two companies mainly do?",
+        "options": [
+          "Make electric cars and the batteries for them",
+          "Deliver takeaway food and groceries that people order on an app",
+          "Run budget airlines across North America",
+          "Build smartphones and tablets"
+        ],
+        "correct": 1,
+        "why": "They deliver takeaway food and groceries that people order on an app. DoorDash is best known for bringing restaurant meals to people’s doors, while Instacart specialises in delivering groceries. Buying Instacart for about $17 billion makes DoorDash much bigger in grocery delivery, which is why reports called it a big shake-up of the industry. The deal still needs approval from shareholders and regulators before it goes ahead.",
+        "sources": [
+          [
+            "WAFB (AP) · DoorDash to buy Instacart for $17 billion in big consolidation for grocery delivery",
+            "https://www.wafb.com/2026/10/29/doordash-buy-instacart-17-billion-big-consolidation-grocery-delivery/"
+          ],
+          [
+            "Forbes Australia · DoorDash will acquire Instacart in $17 billion deal",
+            "https://www.forbes.com.au/?p=212306"
+          ],
+          [
+            "RetailBoss · DoorDash agrees to buy Instacart in $17 billion deal",
+            "https://retailboss.co/doordash-agrees-to-buy-instacart-in-17-billion-deal/"
+          ]
+        ]
+      }
+    ]
   }
 ]
