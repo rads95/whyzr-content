@@ -4592,5 +4592,173 @@
         ]
       }
     ]
+  },
+  {
+    "id": "043",
+    "published": "2026-11-04",
+    "title": "Milwaukee’s first crown, a record-long train and a new EU parcel fee",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Did this actually happen?",
+        "claim": "On 30 October, Japan’s central bank said that underlying inflation in Japan has finally reached its 2% target.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this is true. On 30 October the Bank of Japan said underlying inflation, the longer-term trend in prices once short-lived ups and downs are left out, is now generally in line with its 2% goal. That is big news in Japan, which spent decades struggling with deflation, a long spell of falling prices that holds back the economy. The bank kept its main interest rate unchanged at 1.25%.",
+        "sources": [
+          [
+            "Euronews (with AP and AFP) · Bank of Japan says inflation hit 2% target after 13 years",
+            "https://www.euronews.com/2026/10/30/bank-of-japan-says-inflation-hit-2-target-after-13-years"
+          ],
+          [
+            "Kuwait Times (AFP) · Bank of Japan says inflation hit 2% target after 13 years, holds rates",
+            "https://kuwaittimes.com/article/52671/business/bank-of-japan-says-inflation-hit-2-target-after-13-years-holds-rates/"
+          ],
+          [
+            "SBS News · Bank of Japan holds rate, says underlying inflation consistent with 2% target",
+            "https://news.sbs.co.kr/english/article.do?news_id=N1008823116"
+          ],
+          [
+            "Dimsum Daily · Bank of Japan holds rates at 1.25%",
+            "https://www.dimsumdaily.hk/?p=648767"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three terms. Find their partners.",
+        "pairs": [
+          [
+            "Milwaukee Brewers",
+            "Won baseball’s World Series for the first time in their history"
+          ],
+          [
+            "Tampa Bay Rays",
+            "Lost the final series, winning just one of the five games"
+          ],
+          [
+            "Tropicana Field",
+            "The Rays’ home ground in Florida, where the title was clinched"
+          ]
+        ],
+        "why": "The pairs are: Milwaukee Brewers – first World Series title; Tampa Bay Rays – lost the series four games to one; Tropicana Field – where it was won. On 28 October the Brewers beat the Rays 4–1 in Game 5 at Tropicana Field in St Petersburg, Florida, to win the best-of-seven final. Both teams were chasing their first ever title, and the Rays’ only win came in a long 12-inning Game 4. The World Series is the end-of-season final of Major League Baseball in North America.",
+        "sources": [
+          [
+            "Hawaii News Now (AP) · Brewers beat Rays in Game 5 to win first World Series title in franchise history",
+            "https://www.hawaiinewsnow.com/2026/10/29/milwaukee-brewers-win-first-world-series-title-beating-tampa-bay-rays-4-1-game-5/"
+          ],
+          [
+            "theScore · Brewers win 1st World Series in franchise history",
+            "https://thescore.com/mlb/news/3630845"
+          ],
+          [
+            "Sports Illustrated · Brewers win first title after taking down Rays in Game 5",
+            "https://www.si.com/mlb/brewers/2026-world-series-brewers-win-first-title-after-taking-down-rays-in-game-5"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "696 wagons, every one of them empty",
+          "About 7.6 kilometres long, on a railway built to carry iron ore",
+          "It beat a record set in Australia in 2001"
+        ],
+        "options": [
+          "Japan unveils the world’s fastest bullet train",
+          "Australia opens the world’s longest railway tunnel",
+          "South Africa says it has run the longest freight train ever",
+          "India launches the world’s longest passenger train"
+        ],
+        "correct": 2,
+        "why": "It was: South Africa says it has run the longest freight train ever. The state rail company Transnet ran a 7.6 km train with 696 empty wagons on an 860 km trip from Saldanha Bay on the west coast to an iron ore mine inland, finishing in mid-October. Locomotives spread along the train powered it together. Transnet says this beats a train of about 7.2 km that ran to a port in Western Australia in 2001, although for now the new record is Transnet’s own claim.",
+        "sources": [
+          [
+            "AJC (AP) · This freight train claims to be the longest ever. Here’s how long",
+            "https://www.ajc.com/news/2026/10/this-freight-train-claims-to-be-the-longest-ever-heres-how-long/"
+          ],
+          [
+            "BNN Bloomberg (CTV News) · South Africa’s public rail operator breaks record for world’s longest freight train",
+            "https://www.bnnbloomberg.ca/business/company-news/2026/10/22/south-africas-public-rail-operator-breaks-record-for-worlds-longest-freight-train/"
+          ],
+          [
+            "Euronews · South Africa tests 7.6-kilometre freight train in bid to break world record",
+            "https://www.euronews.com/2026/10/28/south-africa-tests-76-kilometre-freight-train-in-bid-to-break-world-record"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "The EU is charging more on cheap parcels from abroad. Put these steps in order, earliest first.",
+        "items": [
+          "A new €2 handling fee starts on parcels from outside the EU",
+          "The temporary €3 duty on cheap parcels is due to end",
+          "The EU starts charging a €3 customs duty on parcels worth under €150"
+        ],
+        "correctOrder": [
+          2,
+          0,
+          1
+        ],
+        "why": "The right order is: the €3 duty (July 2026), then the €2 handling fee (1 November 2026), then the planned end of the temporary €3 duty (2028). The EU brought in these charges because of a flood of cheap parcels from online shops such as Temu and Shein, which are costly for customs officers to check. The new €2 fee comes on top of the duty and is meant to cover the cost of those checks. The platforms or sellers pay it, though they can pass it on to shoppers through higher prices.",
+        "sources": [
+          [
+            "Euronews · EU to impose €2 fee on all packages entering the bloc as of 1 November",
+            "https://www.euronews.com/2026/10/30/eu-to-impose-2-fee-on-all-packages-entering-the-bloc-as-of-1-november"
+          ],
+          [
+            "Brussels Times · EU to introduce handling fee on small parcels coming into the bloc",
+            "https://www.brusselstimes.com/eu-affairs/2378811/eu-to-introduce-handling-fee-on-small-parcels-coming-into-the-bloc"
+          ],
+          [
+            "FashionUnited · New EU package fee: online retailers face levy on non-EU imports",
+            "https://fashionunited.uk/news/business/new-eu-package-fee-online-retailers-face-levy-on-non-eu-imports/2026102691035"
+          ],
+          [
+            "Bluewin (Keystone-SDA) · EU introduces new handling fee for cheap online goods",
+            "https://www.bluewin.ch/en/news/switzerland/eu-introduces-new-handling-fee-for-cheap-online-goods-3163353.html"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "New Zealand holds a general election on 7 November, with Prime Minister Christopher Luxon of the National Party facing Labour’s Chris Hipkins. Because of the way New Zealand votes, what usually happens after an election?",
+        "options": [
+          "The party with the most votes always governs alone",
+          "The King of the UK chooses the prime minister himself",
+          "The election is repeated until one party wins half the votes",
+          "Parties team up to form a coalition government"
+        ],
+        "correct": 3,
+        "why": "Parties usually team up to form a coalition government. Since 1996 New Zealand has used a proportional voting system called MMP, where parties win seats roughly in line with their share of the vote, so one party rarely wins a majority on its own. Luxon’s National Party currently governs with two smaller partners, ACT and NZ First, while Hipkins’s Labour leads the opposition alongside the Greens and Te Pāti Māori. Cost of living and the economy have been the main issues in the campaign.",
+        "sources": [
+          [
+            "The Star (Reuters) · New Zealand PM Luxon calls November 7 poll, promises economic prosperity",
+            "https://www.thestar.com.my/news/world/2026/01/21/new-zealand-pm-luxon-calls-november-7-poll-promises-economic-prosperity"
+          ],
+          [
+            "Canberra Times (AAP) · Guide to the 2026 New Zealand election",
+            "https://www.canberratimes.com.au/story/9380264/guide-to-the-2026-new-zealand-election/"
+          ],
+          [
+            "RNZ · Christopher Luxon announces election date for 7 November",
+            "https://www.rnz.co.nz/news/political/584623/christopher-luxon-announces-election-date-for-7-november"
+          ],
+          [
+            "Maitland Mercury (AAP) · Guide to the 2026 New Zealand election",
+            "https://www.maitlandmercury.com.au/story/9157864/guide-to-the-2026-new-zealand-election"
+          ]
+        ]
+      }
+    ]
   }
 ]
