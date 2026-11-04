@@ -1,26 +1,48 @@
 {
- "updated": "2026-11-04T07:57:50Z",
+ "updated": "2026-11-04T13:52:45Z",
  "items": [
   {
    "section": "money",
-   "published": "2026-11-04T05:47:00Z",
-   "title": "Asian tech shares fall as Democrats win the US midterm elections",
-   "why": "Japan's Nikkei index fell by up to about 4% on Wednesday, led by chip and AI companies such as SoftBank, as Democrats won the US midterm elections. Traders fear tighter rules on data centres and AI, CNBC and AFP report, and the US dollar weakened.",
-   "matters": "Building data centres has driven chip makers' profits from Japan to South Korea and Taiwan, so any slowdown reaches far beyond America.",
+   "published": "2026-11-04T10:00:00Z",
+   "title": "Eurozone inflation rises to 4%, its highest in three years",
+   "why": "Prices in the countries using the euro rose 4.0% in the year to October, up from 3.8% in September, Eurostat's first estimate shows. Energy prices were up 20.8%. Lithuania had the highest rate, 6.1%, and Malta the lowest, 2.3%.",
+   "matters": "Markets now expect the European Central Bank to raise interest rates again in December, making borrowing dearer.",
    "sources": [
     {
-     "name": "Euronews (AFP)",
-     "url": "https://www.euronews.com/2026/11/04/asian-stocks-and-dollar-fall-as-democrats-gain-ground-in-us-midterms"
+     "name": "Eurostat",
+     "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/04/eurozone-inflation-hits-4-which-countries-saw-prices-jump-the-most"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-04T05:47:00Z",
+   "title": "Shares rise in Europe and US after Democrats win Congress",
+   "why": "European shares and US stock futures rose on Wednesday after Democrats won both houses of Congress, AP and CNBC report, as investors expect gridlock and fewer sudden policy changes. Japan's Nikkei closed 1.4% lower on AI-chip worries. Gold rose almost 3% and the dollar weakened.",
+   "matters": "Clean-energy shares rose and defence shares fell, as investors weighed how a Democratic Congress could change US spending.",
+   "sources": [
+    {
+     "name": "BNN Bloomberg (AP)",
+     "url": "https://www.bnnbloomberg.ca/markets/2026/11/04/world-shares-are-mostly-higher-as-democrats-gain-majorities-in-both-the-us-house-and-senate/"
     },
     {
      "name": "CNBC",
      "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
     },
     {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-04/asx-markets-business-live-news-nov-4/107343406"
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/04/us-midterms-what-trumps-defeat-means-for-europe-and-global-markets"
     }
-   ]
+   ],
+   "changed": "Updated: European shares and US futures rose after the early fall in Asia."
   },
   {
    "section": "world",
@@ -46,12 +68,39 @@
   },
   {
    "section": "world",
+   "serious": true,
+   "developing": true,
+   "published": "2026-11-04T04:00:00Z",
+   "title": "Iran says four oil tankers destroyed by mines near Strait of Hormuz",
+   "why": "Iran's Revolutionary Guards say four oil tankers hit naval mines on Wednesday while using a route Iran has banned, south of the Strait of Hormuz, and were still burning; two other ships were halted. The claim has not been independently confirmed.",
+   "matters": "Iran's supreme leader warned of a much wider war if attacks resume; Trump says he has no immediate plans for new strikes.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/middle-east/20261104-four-oil-tankers-destroyed-in-hormuz-after-hitting-mines-tehran-says"
+    },
+    {
+     "name": "Times of Israel (Reuters)",
+     "url": "https://www.timesofisrael.com/liveblog_entry/irans-irgc-says-four-tankers-ablaze-after-hitting-mines-near-strait-of-hormuz/"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack"
+    }
+   ]
+  },
+  {
+   "section": "world",
    "lead": true,
    "developing": true,
    "published": "2026-11-04T03:15:00Z",
-   "title": "Democrats win control of US House and Senate, networks project",
-   "why": "Democrats will control the House of Representatives and the Senate after Tuesday's midterm elections, according to projections by AP, CBS News and NBC News. They took at least seven Republican-held Senate seats, including Texas and Maine, where Susan Collins lost. Some races are still being counted.",
-   "matters": "From January, Democrats can block President Trump's legislation and open investigations; Trump says he will accept the results.",
+   "title": "Democrats win control of US House and Senate",
+   "why": "Democrats will control both the House of Representatives and the Senate after Tuesday's midterm elections, AP projects, winning at least 54 Senate seats. They took at least seven Republican-held Senate seats, including Texas, Maine and Kansas. Races in Alaska and Mississippi are still being counted.",
+   "matters": "Trump says he is 'absolutely willing' to accept the results; from January, Democrats can block his bills and open investigations.",
    "sources": [
     {
      "name": "CBS News",
@@ -72,8 +121,13 @@
     {
      "name": "France 24 (AFP)",
      "url": "https://www.france24.com/en/live-news/20261104-democrats-win-us-house-in-growing-midterms-wave-against-trump"
+    },
+    {
+     "name": "RTÉ (AFP, Reuters)",
+     "url": "https://www.rte.ie/news/us/2026/1104/1597894-us-midterms-wrap/"
     }
-   ]
+   ],
+   "changed": "Updated: Democrats reach at least 54 Senate seats; Trump says he accepts the results."
   },
   {
    "section": "sport",
@@ -118,6 +172,28 @@
    ]
   },
   {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-03T21:12:00Z",
+   "title": "Spain's transport minister resigns after train crash that killed 69",
+   "why": "Óscar Puente resigned on Tuesday, six days after a high-speed train hit a stationary train near Urda, south of Madrid, on 28 October. Spanish authorities give a provisional toll of 69 dead. Puente said a minister could not stay after two such serious crashes in a year.",
+   "matters": "Investigators are examining why controllers let the train continue after a safety system failed, Euronews and Al Jazeera report.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/03/spains-transport-minister-oscar-puente-resigns-over-urda-train-crash-that-killed-69"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/4/spanish-transport-minister-resigns-after-train-crash-killed-69-people"
+    },
+    {
+     "name": "ABC Australia (AP)",
+     "url": "https://www.abc.net.au/news/2026-11-04/spanish-minister-resigns-after-deadly-train-collision/107344438"
+    }
+   ]
+  },
+  {
    "section": "culture",
    "published": "2026-11-03T18:15:00Z",
    "title": "Catalan writer Cristina Fernández Cubas wins the Cervantes Prize",
@@ -139,12 +215,76 @@
    ]
   },
   {
+   "section": "world",
+   "published": "2026-11-03T15:41:00Z",
+   "title": "False bomb threats disrupt flights across Europe",
+   "why": "At least seven flights to Poland, Italy, Spain and Bulgaria were searched or diverted on Tuesday after bomb threats, and a cruise ship bound for Israel was evacuated off the Greek island of Syros. No explosives were found and all the planes landed safely.",
+   "matters": "No one has claimed responsibility, and officials have not said who was behind the threats.",
+   "sources": [
+    {
+     "name": "France 24 (AFP, AP)",
+     "url": "https://www.france24.com/en/europe/20261103-bomb-threats-disrupt-europe-flights"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found"
+    },
+    {
+     "name": "ABC Australia (Reuters)",
+     "url": "https://www.abc.net.au/news/2026-11-03/warsaw-airport-closed-after-unplanned-landing-of-london-plane/107343338"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-03T14:18:00Z",
+   "title": "Trump says US military aid to Israel will end this year",
+   "why": "President Trump said on Tuesday that about $4 billion a year in US military funding for Israel will stop at the end of 2026, saying he and Prime Minister Netanyahu agreed it months ago. Netanyahu's office declined to comment. The current aid agreement runs until 2028.",
+   "matters": "Israeli opposition figure Yair Golan says ending the aid would seriously harm Israel's security.",
+   "sources": [
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/politics/2026-election/trump-says-us-will-stop-4b-military-aid-israel-end-2026-rcna607210"
+    },
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/middle-east/20261103-trump-says-us-will-halt-4-billion-in-aid-to-israel-after-end-of-this-year"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-04/us-midterms-daily-news-briefing/107340542"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "developing": true,
+   "published": "2026-11-03T14:00:00Z",
+   "title": "Indonesian president's chief of staff arrested over alleged phone tapping",
+   "why": "Indonesian police have detained Listyo Sigit Prabowo, President Prabowo Subianto's chief of staff and a former national police chief, and two police generals on suspicion of illegally tapping the phones of the president, ministers and others. The president dismissed him on Wednesday.",
+   "matters": "A presidential spokesman says it may amount to treason; officials say the motive is not yet known.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/4/indonesian-presidents-chief-of-staff-dismissed-over-alleged"
+    },
+    {
+     "name": "ABC Australia (AP)",
+     "url": "https://www.abc.net.au/news/2026-11-04/indonesian-police-detained-over-alleged-wiretapping-of-president/107344464"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/politics/indonesia-chief-of-staff-sacked-for-allegedly-wiretapping-president-prabowo"
+    }
+   ]
+  },
+  {
    "section": "sport",
    "developing": true,
    "published": "2026-11-03T12:40:00Z",
    "title": "European teams say they will not play Russia at ice hockey worlds",
-   "why": "Norway, Sweden, Denmark and Latvia say they will refuse to play Russia at the 2027 men's world championship in Germany, joining Finland; AP reports the Czech federation has joined too. It follows a sports court ruling on 30 October that Russia must be readmitted.",
-   "matters": "Russia has been banned from international ice hockey since invading Ukraine in 2022; the IIHF has not said how it will respond.",
+   "why": "Finland, Norway, Sweden, Denmark, Latvia and the Czech Republic say they will not play Russia at the 2027 men's world championship, after a sports court ruled on 30 October that Russia must be readmitted. Germany, the host, says it is considering withdrawing.",
+   "matters": "Russia has been banned since invading Ukraine in 2022; the IIHF disagrees with the ruling but says it will comply.",
    "sources": [
     {
      "name": "ESPN (AP)",
@@ -157,8 +297,13 @@
     {
      "name": "The Moscow Times",
      "url": "https://www.themoscowtimes.com/2026/11/03/norway-denmark-sweden-latvia-and-czech-republic-to-boycott-russia-at-2027-ice-hockey-world-championship-a94171"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/04/hockey-nations-refuse-to-play-russia-as-germany-weighs-pulling-out-as-host"
     }
-   ]
+   ],
+   "changed": "Updated: host Germany says it is considering pulling out."
   },
   {
    "section": "culture",
@@ -413,8 +558,8 @@
    "serious": true,
    "developing": true,
    "published": "2026-11-02T21:53:00Z",
-   "title": "Ukraine says Russian strike on Zaporizhzhia aid point killed at least 33",
-   "why": "Guided bombs hit a school used as an aid point in the village of Komyshuvakha, in south-eastern Ukraine, on Monday as residents gathered for aid, Ukrainian officials say. President Zelensky says at least 33 people were killed. Russia's defence ministry says it targeted Ukrainian military units.",
+   "title": "Ukraine says Russian strike on Zaporizhzhia aid point killed at least 37",
+   "why": "Guided bombs hit a school used as an aid point in the village of Komyshuvakha, in south-eastern Ukraine, on Monday as residents gathered for aid, Ukrainian officials say. They now put the dead at 37, with 59 missing. Russia's defence ministry says it targeted Ukrainian military units.",
    "matters": "The US says Russian and Ukrainian delegations will meet for new talks in Abu Dhabi on 10 and 11 November.",
    "sources": [
     {
@@ -423,13 +568,14 @@
     },
     {
      "name": "RTÉ",
-     "url": "https://www.rte.ie/news/ukraine/2026/1102/1597579-ukraine-russia/"
+     "url": "https://www.rte.ie/news/ukraine/2026/1104/1597955-ukraine-russia/"
     },
     {
      "name": "ABC Australia",
      "url": "https://www.abc.net.au/news/2026-11-04/russian-strike-on-school-kills-dozens-n-ukraine/107343894"
     }
-   ]
+   ],
+   "changed": "Updated: officials raised the death toll to 37, with 59 people missing."
   },
   {
    "section": "tech",
@@ -540,12 +686,16 @@
   {
    "section": "tech",
    "developing": true,
-   "changed": "Updated: the attacks reached about ten European countries, and Italy held emergency talks with its intelligence chiefs.",
+   "changed": "Updated: Germany, Romania and the UK reported attacks, bringing the total to at least 11 countries.",
    "published": "2026-11-02T08:00:00Z",
-   "title": "Cyberattacks on supermarket fridges spread to about ten European countries",
-   "why": "Hackers remotely switched off or heated fridges and freezers on Monday at supermarkets in Belgium, Ireland, Italy, Sweden, Finland, Portugal and other European countries, Euronews and CNBC report. No group has claimed responsibility; the EU's food commissioner called it a deliberate attempt to disrupt food supply.",
+   "title": "Cyberattacks on supermarket fridges spread to at least 11 European countries",
+   "why": "Hackers remotely switched off or heated fridges and freezers at supermarkets in Belgium, Ireland, Italy, Sweden, Germany, Romania and other European countries this week, Al Jazeera and Euronews report. No group has claimed responsibility; the European Commission says the attacks are 'not isolated incidents'.",
    "matters": "It follows a similar attack on refrigeration systems at hundreds of French supermarkets in October that forced stores to throw away food.",
    "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks"
+    },
     {
      "name": "Euronews",
      "url": "https://www.euronews.com/2026/11/03/italy-holds-emergency-talks-as-supermarket-fridge-attacks-spread-across-europe"
@@ -590,23 +740,27 @@
   {
    "section": "world",
    "developing": true,
-   "changed": "Updated: the opposition unites behind Eisenkot; Herzog's consultations start today.",
+   "changed": "Updated: the election result was certified and Herzog's consultations began.",
    "published": "2026-11-01T19:57:00Z",
-   "title": "Israeli opposition backs Eisenkot as Herzog begins coalition consultations",
-   "why": "Opposition leaders Naftali Bennett, Yair Lapid, Yair Golan and Avigdor Liberman agreed on Tuesday to recommend Gadi Eisenkot for prime minister. President Isaac Herzog begins consultations on Wednesday and has until 11 November to choose. Netanyahu, whose bloc won 53 of 120 seats, says voters chose him.",
-   "matters": "Neither bloc has the 61 seats needed; Arab-led parties hold a record 19, making them potential kingmakers, France 24 reports.",
+   "title": "Israel certifies election result as Herzog begins coalition talks",
+   "why": "Israel's election committee certified the 27 October results on Wednesday, saying it found no evidence of fraud, after Netanyahu and his allies alleged, without evidence, that the vote was stolen. President Isaac Herzog is holding two days of consultations before choosing who will try to form a government.",
+   "matters": "Netanyahu's bloc won 53 of 120 seats and Gadi Eisenkot's 48; Arab-led parties hold a record 19.",
    "sources": [
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu"
+     "url": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims"
+    },
+    {
+     "name": "ABC Australia (AP)",
+     "url": "https://www.abc.net.au/news/2026-11-04/israeli-election-commission-fraud-investigation/107347454"
+    },
+    {
+     "name": "RTÉ (AFP)",
+     "url": "https://www.rte.ie/news/world/2026/1104/1597892-israel-election/"
     },
     {
      "name": "Times of Israel",
      "url": "https://timesofisrael.com/opposition-chiefs-meet-agree-to-launch-coalition-talks-but-path-remains-unclear"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261103-israeli-opposition-unites-behind-eisenkot-netanyahu-voters-chose-him-pm"
     }
    ]
   },
@@ -657,53 +811,6 @@
     {
      "name": "El Deber",
      "url": "https://eldeber.com.bo/pais/nino-reportan-114-000-familias-afectadas-sequia_1793532922"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "developing": true,
-   "changed": "Updated: US strikes on Qeshm Island; Iran calls the US reply 'not convincing'.",
-   "published": "2026-10-31T13:00:00Z",
-   "title": "Iran calls US reply 'not convincing' after US strikes on Qeshm Island",
-   "why": "US forces struck an anti-aircraft site on Iran's Qeshm Island, near the Strait of Hormuz, early Tuesday; US officials call it a defensive strike after Iranian fire on a US aircraft. Iran's security chief Mohsen Rezaei says Washington's reply to Iran's plan to reopen the strait is 'not convincing'.",
-   "matters": "Qatar says both sides remain committed to talks; Iran's chief negotiator says US voters said 'no to war' in the midterms.",
-   "sources": [
-    {
-     "name": "Al Jazeera (Reuters)",
-     "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/"
-    },
-    {
-     "name": "Times of Israel",
-     "url": "https://timesofisrael.com/liveblog-november-4-2026"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: Africa CDC now counts 5,376 deaths; confirmed cases pass 10,500",
-   "published": "2026-10-31T10:00:00Z",
-   "title": "Ebola outbreak deaths pass 5,300, Africa CDC says",
-   "why": "Africa CDC says the Bundibugyo-strain outbreak declared in May has killed 5,376 people, almost all in the Democratic Republic of Congo. Congo's health ministry had confirmed 10,532 cases and 5,126 deaths by 1 November. There is no approved vaccine or treatment for this strain.",
-   "matters": "Uganda, Kenya and Nigeria have also reported cases, and a vaccine trial has begun in Congo.",
-   "sources": [
-    {
-     "name": "Al Jazeera (AFP, Reuters)",
-     "url": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo"
-    },
-    {
-     "name": "ECDC",
-     "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-EIP-00026"
-    },
-    {
-     "name": "US CDC",
-     "url": "https://www.cdc.gov/ebola/situation-summary/index.html"
     }
    ]
   }
