@@ -1,107 +1,143 @@
 {
- "updated": "2026-11-04T07:45:56Z",
+ "updated": "2026-11-04T07:57:13Z",
  "items": [
   {
-   "section": "money",
-   "published": "2026-11-04T05:47:00Z",
-   "title": "Asian tech shares fall as Democrats win the US midterm elections",
-   "why": "Japan's Nikkei index fell by up to about 4% on Wednesday, led by chip and AI companies such as SoftBank, as Democrats won the US midterm elections. Traders fear tighter rules on data centres and AI, CNBC and AFP report, and the US dollar weakened.",
-   "matters": "Building data centres has driven chip makers' profits from Japan to South Korea and Taiwan, so any slowdown reaches far beyond America.",
-   "sources": [
-    {
-     "name": "Euronews (AFP)",
-     "url": "https://www.euronews.com/2026/11/04/asian-stocks-and-dollar-fall-as-democrats-gain-ground-in-us-midterms"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-04/asx-markets-business-live-news-nov-4/107343406"
-    }
-   ]
-  },
-  {
    "section": "world",
-   "developing": true,
    "published": "2026-11-04T05:00:00Z",
-   "title": "South Africans vote in local elections seen as test for ANC",
-   "why": "Polls opened at 07:00 local time on Wednesday across South Africa for municipal elections, with a record 29.2 million people registered, the electoral commission says. Voters choose councils for 257 municipalities, including eight big metros. Final results are expected on Sunday.",
-   "matters": "The ANC lost its national majority in 2024, and polls suggest its support could fall below 40%, leaving more cities to coalitions.",
+   "title": "South Africans vote in municipal elections seen as test for ANC",
+   "why": "Polls opened at 7am on Wednesday across South Africa for elections to 257 councils, including Johannesburg, Cape Town and Durban. A record 29.2 million people are registered, the electoral commission says, and 1.4 million special votes were cast on Monday and Tuesday. Final results are expected on Sunday.",
+   "matters": "Polls suggest the ANC, which lost its national majority in 2024, could fall below 40%, Al Jazeera reports.",
    "sources": [
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc"
     },
     {
-     "name": "News24",
-     "url": "https://www.news24.com/politics/south-africa-votes-turnout-set-to-shape-the-future-of-municipalities-20261103-1209"
+     "name": "SABC News",
+     "url": "https://www.sabcnews.com/sabcnews/smooth-start-in-local-government-elections-iec/"
     },
     {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261030-basic-services-fading-loyalties-loom-over-south-africa-s-vote"
+     "name": "TimesLIVE",
+     "url": "https://www.timeslive.co.za/politics/2026-11-03-iec-concludes-special-voting-as-14-million-south-africans-cast-ballots-ahead-of-election-day/"
     }
    ]
   },
   {
    "section": "world",
-   "lead": true,
    "developing": true,
    "published": "2026-11-04T03:15:00Z",
-   "title": "Democrats win control of US House and Senate, networks project",
-   "why": "Democrats will control the House of Representatives and the Senate after Tuesday's midterm elections, according to projections by AP, CBS News and NBC News. They took at least seven Republican-held Senate seats, including Texas and Maine, where Susan Collins lost. Some races are still being counted.",
-   "matters": "From January, Democrats can block President Trump's legislation and open investigations; Trump says he will accept the results.",
+   "title": "Democrats win control of both houses of US Congress in midterms",
+   "why": "Democrats won control of the US Senate and House in Tuesday's midterm elections, AP and US networks project, flipping at least seven Republican Senate seats, including Texas, Ohio and Maine. Senate races in Alaska and Nebraska and many House seats, including in California, are still being counted.",
+   "matters": "President Trump has threatened to veto Democratic bills. Democrats also flipped governorships in Texas, Georgia, Ohio and Iowa.",
    "sources": [
+    {
+     "name": "PBS NewsHour (AP)",
+     "url": "https://www.pbs.org/newshour/politics/democrats-take-control-of-the-senate-after-winning-key-midterm-races"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/politics/2026-election/republicans-fight-hold-senate-democrats-rcna605762"
+    },
     {
      "name": "CBS News",
      "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
     },
     {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261104-democrats-win-us-house-in-growing-midterms-wave-against-trump"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/04/live-updates-on-the-2026-midterm-elections-in-the-us"
+    },
+    {
+     "name": "Time",
+     "url": "https://time.com/article/2026/11/03/midterm-elections-2026-key-races-live-results-polls-latest-news-updates/"
+    }
+   ],
+   "lead": true
+  },
+  {
+   "section": "money",
+   "developing": true,
+   "published": "2026-11-04T03:00:00Z",
+   "title": "Asian tech shares fall as Democrats win control of US Congress",
+   "why": "Japan's Nikkei closed 1.4% lower on Wednesday after falling more than 4% during the day, with chip and AI firms such as SoftBank, Advantest and Kioxia hit hardest, AFP and CNBC report. US stock futures and the dollar also fell.",
+   "matters": "JPMorgan analysts warned of an AI sell-off if investors expect tighter rules on data centres and tech under a Democratic Congress.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261104-stocks-and-dollar-drop-as-democrats-enjoy-big-early-wins"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/business/markets/japan-south-korea-stocks-fall-over-4-as-democrats-lead-in-us-midterms"
+    },
+    {
      "name": "NBC News",
-     "url": "https://www.nbcnews.com/politics/2026-elections/house-results"
+     "url": "https://www.nbcnews.com/business/markets/stock-futures-blue-tsunami-ai-boom-rcna607351"
     },
     {
      "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html"
+     "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
     },
     {
-     "name": "Al Jazeera (AP)",
-     "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections"
-    },
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261104-democrats-win-us-house-in-growing-midterms-wave-against-trump"
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/04/us-midterms-what-trumps-defeat-means-for-europe-and-global-markets"
     }
    ]
   },
   {
    "section": "sport",
    "published": "2026-11-03T22:00:00Z",
-   "title": "PSG beat Villarreal 6-0 as Barcelona and Bayern win in Champions League",
-   "why": "Paris Saint-Germain won 6-0 away at Villarreal on 3 November, scoring four goals in the first 17 minutes, a competition record according to Opta. Barcelona beat Aston Villa 3-0, Bayern Munich won 2-0 at Atletico Madrid, and Manchester United came from two goals down to beat Roma 3-2.",
-   "matters": "PSG lead the league phase with 12 points after four matches; the remaining matchday 4 games are played on Wednesday.",
+   "title": "PSG beat Villarreal 6-0; Manchester United come back to beat Roma",
+   "why": "In Tuesday's Champions League games, Paris Saint-Germain won 6-0 at Villarreal in Spain, scoring four in 17 minutes, which UEFA called the fastest four in the competition. Manchester United came from 2-0 down to beat Roma 3-2, Barcelona beat Aston Villa 3-0 and Bayern Munich won 2-0 at Atlético Madrid.",
    "sources": [
     {
-     "name": "Cyprus Mail (Reuters)",
-     "url": "https://cyprus-mail.com/2026/11/04/psg-hit-villarreal-for-six-as-bayern-win-and-man-united-fight-back"
+     "name": "AP (via WSLS)",
+     "url": "https://www.wsls.com/sports/2026/11/03/champions-league-man-united-hosts-roma-barcelona-against-aston-villa-atletico-madrid-vs-bayern/"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/sports/2026/11/3/raphinha-lamal-fire-barcelona-to-3-0-champions-league-win-over-aston-villa"
+     "name": "CBS Sports",
+     "url": "https://www.cbssports.com/soccer/news/champions-league-score-updates-results-barcelona-psg-aston-villa/live/"
     },
     {
      "name": "RTÉ",
      "url": "https://www.rte.ie/sport/soccer/2026/1103/1597737-champions-lge-round-up-bayern-tame-atleti-psg-run-riot/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/sports/2026/11/3/raphinha-lamal-fire-barcelona-to-3-0-champions-league-win-over-aston-villa"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-11-03T21:15:00Z",
+   "title": "AMD's sales jump 45% as demand for AI chips nearly doubles",
+   "why": "The US chipmaker AMD said third-quarter revenue rose 45% to $13.4 billion, with its data-centre business, which sells AI processors, up 97% to a record $8.5 billion. It expects about $17 billion in sales this quarter, and its shares rose about 8% after hours.",
+   "matters": "It suggests companies are still spending heavily on AI computing, even as investors worry about whether that spending will pay off.",
+   "sources": [
+    {
+     "name": "AMD",
+     "url": "https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://uk.investing.com/news/stock-market-news/earnings-call-transcript-amd-tops-q3-2026-estimates-as-stock-jumps-after-hours-93CH-4954263"
     }
    ]
   },
   {
    "section": "culture",
-   "published": "2026-11-03T18:15:00Z",
+   "published": "2026-11-03T12:30:00Z",
    "title": "Catalan writer Cristina Fernández Cubas wins the Cervantes Prize",
-   "why": "Spain's culture minister, Ernest Urtasun, announced on 3 November that Cristina Fernández Cubas, born in 1945 in Arenys de Mar near Barcelona, has won the 2026 Cervantes Prize. The jury praised her short stories and fantastic fiction. The prize is worth €125,000.",
-   "matters": "It is the top award for literature in Spanish, and she is only the seventh woman to win it since 1976.",
+   "why": "Spain's culture minister, Ernest Urtasun, announced on Tuesday that the short-story writer, born in 1945, has won the Spanish-speaking world's top literary award, worth €125,000. The jury praised her originality and her renewal of the contemporary short story. She is the seventh woman to win since 1976.",
+   "matters": "King Felipe VI will present the prize in April at the University of Alcalá de Henares, near Madrid.",
    "sources": [
     {
      "name": "Euronews",
@@ -112,26 +148,26 @@
      "url": "https://www.eldiario.es/cultura/cristina-fernandez-cubas-gana-premio-cervantes-2026_1_13634616.html"
     },
     {
-     "name": "La Nación, Costa Rica (AFP)",
-     "url": "https://www.nacion.com/ancora/cristina-fernandez-cubas-gana-el-premio-cervantes/N6I6TDWBVVBM7ERFS7SEUKC22U/story/"
+     "name": "Milenio",
+     "url": "https://www.milenio.com/espectaculos/famosos/cristina-fernandez-cubas-gana-premio-cervantes-2026"
     }
    ]
   },
   {
    "section": "sport",
    "developing": true,
-   "published": "2026-11-03T12:40:00Z",
-   "title": "European teams say they will not play Russia at ice hockey worlds",
-   "why": "Norway, Sweden, Denmark and Latvia say they will refuse to play Russia at the 2027 men's world championship in Germany, joining Finland; AP reports the Czech federation has joined too. It follows a sports court ruling on 30 October that Russia must be readmitted.",
-   "matters": "Russia has been banned from international ice hockey since invading Ukraine in 2022; the IIHF has not said how it will respond.",
+   "published": "2026-11-03T12:00:00Z",
+   "title": "Nordic and other nations refuse to play Russia at ice hockey worlds",
+   "why": "Norway, Denmark and Sweden said they will not play Russia at the 2027 men's world championship in Germany, joining Finland; Latvia's and the Czech federations said the same. The Court of Arbitration for Sport ruled last week that Russia, barred since its 2022 invasion of Ukraine, must be readmitted.",
+   "matters": "The sport's governing body, the IIHF, says it is disappointed by the ruling and is working out how to comply.",
    "sources": [
-    {
-     "name": "ESPN (AP)",
-     "url": "https://www.espn.com/olympics/story/_/id/50368089/norway-pledges-boycott-hockey-worlds-russia"
-    },
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/sports/2026/11/3/nordic-nations-refuse-to-face-russia-in-ice-hockey-world-championship"
+    },
+    {
+     "name": "The Athletic (via Yahoo Sports)",
+     "url": "https://sports.yahoo.com/articles/sweden-norway-among-nations-refusing-144605101.html"
     },
     {
      "name": "The Moscow Times",
@@ -141,43 +177,42 @@
   },
   {
    "section": "culture",
-   "published": "2026-11-03T11:50:00Z",
-   "title": "Philippe Jaenada wins France's Prix Goncourt for a true-crime novel",
-   "why": "The Académie Goncourt gave France's top literary prize to Philippe Jaenada, 62, on 3 November in Paris, by six votes to three. His novel 'L'Inconnue du quai de Javel' investigates the unsolved killing of a young woman found by the Seine in 1949.",
-   "matters": "The prize itself is just €10, but a Goncourt usually turns the winning book into one of France's biggest sellers before Christmas.",
+   "published": "2026-11-03T11:45:00Z",
+   "title": "Philippe Jaenada wins France's Prix Goncourt for true-crime novel",
+   "why": "The French writer, 62, won France's top literary prize in Paris on Tuesday for 'L'Inconnue du quai de Javel', which reinvestigates the unsolved murder of a young woman found on a Seine quay more than 70 years ago. The Renaudot prize went to François-Henri Désérable for 'Le Palais'.",
    "sources": [
     {
-     "name": "Radio-Canada (AFP)",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297742/prix-goncourt-jaenada-litterature"
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/03/philippe-jaenada-wins-2026-prix-goncourt-for-novel-linconnue-du-quai-de-javel"
     },
     {
      "name": "franceinfo",
      "url": "https://www.franceinfo.fr/culture/livres/prix-litteraires/philippe-jaenada-laureat-du-prix-goncourt-2026-pour-l-inconnue-du-quai-de-javel_8265872.html"
     },
     {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/03/philippe-jaenada-wins-2026-prix-goncourt-for-novel-linconnue-du-quai-de-javel"
+     "name": "The Connexion",
+     "url": "https://www.connexionfrance.com/news/prix-goncourt-2026-frances-top-literary-prize-awarded-to-philippe-jaenada/826090"
     }
    ]
   },
   {
-   "section": "money",
-   "published": "2026-11-03T07:11:00Z",
-   "title": "Saudi Aramco's quarterly profit rises by a third despite attacks",
-   "why": "Saudi Aramco, the state oil company, said net profit for July to September rose about 34% to $36.25 billion, helped by higher oil prices and a one-off gain from a sale to Petronas. Its output fell as attacks hit pipelines and other facilities, Reuters and Euronews report.",
-   "matters": "Saudi Arabia pumped about 8 million barrels of oil a day in September, against just over 10 million before the war.",
+   "section": "tech",
+   "published": "2026-11-03T09:30:00Z",
+   "title": "EU court adviser says AI chatbots may infringe news publishers' rights",
+   "why": "An adviser to the EU's top court, Advocate General Maciej Szpunar, said chatbots such as Google's Gemini may breach press publishers' rights when they reuse articles' wording or get past paywalls. He said training AI on such material is generally allowed. The case was brought by Hungarian publisher Like Company.",
+   "matters": "The opinion is not binding, but the court usually follows it; a ruling is expected within months.",
    "sources": [
     {
-     "name": "RTÉ (Reuters)",
-     "url": "https://www.rte.ie/news/business/2026/1103/1597771-aramcos-q3-profit-rises-by-a-third-despite-attacks/"
+     "name": "Court of Justice of the EU",
+     "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260155en.pdf"
     },
     {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/03/saudi-aramco-profits-jump-35-despite-attacks-on-oil-facilities"
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/fr/info-en-continu/20261103-ia-la-justice-europ%C3%A9enne-appel%C3%A9e-%C3%A0-trancher-sur-les-atteintes-%C3%A0-la-presse"
     },
     {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/business/20261103-despite-attacks-saudi-aramco-posts-34-rise-in-net-profits-in-latest-quarter"
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/news/2026/1103/1597874-eu-court-backs-publishers-google/"
     }
    ]
   },
@@ -185,51 +220,31 @@
    "section": "sport",
    "serious": true,
    "published": "2026-11-03T07:00:00Z",
-   "title": "Tenerife footballer Jesús de Miguel dies after on-field collision",
-   "why": "Jesús de Miguel, a 30-year-old forward for Spanish second-division club Tenerife, died in hospital on 3 November. He was hurt in a collision with Andorra's goalkeeper in stoppage time of a match on the Canary island of Tenerife the evening before. The match was abandoned.",
-   "matters": "Spanish police have opened a routine inquiry; the local chief prosecutor told the agency EFE that criminal charges were unlikely.",
+   "title": "Tenerife footballer Jesús de Miguel dies after on-pitch collision",
+   "why": "Jesús de Miguel, a 30-year-old Tenerife forward, died on Tuesday morning, a day after colliding with Andorra's goalkeeper in a Spanish second-division match in the Canary Islands. Police have opened an inquiry, as Spanish law requires, but the local chief prosecutor said criminal proceedings were unlikely.",
+   "matters": "Spain's football federation postponed Tuesday's matches and UEFA ordered a silence before this week's European games.",
    "sources": [
-    {
-     "name": "ABC Australia (AP)",
-     "url": "https://www.abc.net.au/news/2026-11-04/football-jesus-de-miguel-dead-after-goalkeeper-clash-police/107343990"
-    },
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/sports/2026/11/3/footballer-dies-after-on-field-collision"
     },
     {
-     "name": "RTÉ (PA)",
-     "url": "https://www.rte.ie/sport/soccer/2026/1103/1597759-tenerifes-jesus-de-miguel-dies-after-on-field-collision/"
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/03/spanish-footballer-jesus-de-miguel-dies-after-collision-with-goalkeeper-club-says"
+    },
+    {
+     "name": "Reuters (via NBC News)",
+     "url": "https://www.nbcnews.com/world/europe/tenerife-soccer-star-jesus-de-miguel-dies-collision-match-rcna607189"
     }
    ]
   },
   {
    "section": "sport",
+   "serious": true,
    "published": "2026-11-03T04:00:00Z",
-   "title": "Point of Law, bred by King Charles, wins the Melbourne Cup",
-   "why": "Favourite Point of Law won Australia's richest horse race at Flemington in Melbourne on 3 November by three and three-quarter lengths. Trainer Ciaron Maher also had the second and third horses, Zahrann and Juja Kibo, and jockey Ethan Brown won on his first Cup ride.",
-   "matters": "Maher is the first trainer in 166 runnings to fill the first three places; the King sold the colt this year.",
-   "sources": [
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-03/melbourne-cup-2026-live-flemington/107335812"
-    },
-    {
-     "name": "RNZ (AFP)",
-     "url": "https://www.rnz.co.nz/news/sport/2317725/point-of-law-wins-2026-melbourne-cup"
-    },
-    {
-     "name": "BloodHorse",
-     "url": "https://www.bloodhorse.com/horse-racing/articles/295821/point-of-law-leads-maher-trifecta-in-melbourne-cup"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-03T03:50:00Z",
-   "title": "Asian Cup in Saudi Arabia pushed back by almost a year",
-   "why": "The Asian Football Confederation said on 3 November that the 2027 men's Asian Cup will now run from 23 December 2027 to 21 January 2028, instead of January 2027. It cited \"exceptional circumstances\" in the region and travel problems. Saudi Arabia stays as host; FIFA must approve the dates.",
-   "matters": "Reports link the delay to attacks on Saudi Arabia claimed by Yemen's Houthis; other events there have also been moved or postponed.",
+   "title": "Asian Cup in Saudi Arabia postponed to December 2027",
+   "why": "The Asian Football Confederation has moved the 24-team tournament, due to start in Riyadh on 7 January 2027, to 23 December 2027 to 21 January 2028. It cited travel disruption and logistical problems from regional developments; Yemen's Houthis have claimed drone and missile attacks on Saudi Arabia.",
+   "matters": "The new dates still need approval from FIFA, football's world governing body.",
    "sources": [
     {
      "name": "AFC",
@@ -242,69 +257,39 @@
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/sports/2026/11/3/afc-reschedules-asian-cup-2027-in-saudi-arabia-amid-regional-conflict"
-    },
-    {
-     "name": "NBC Sports",
-     "url": "https://www.nbcsports.com/soccer/news/2027-asian-cup-postponed-moved-back-11-months-due-to-current-exceptional-circumstances-in-the-region"
     }
    ]
   },
   {
    "section": "money",
    "published": "2026-11-03T03:30:00Z",
-   "title": "Australia's central bank raises interest rates to 4.85%, an 18-year high",
-   "why": "The Reserve Bank of Australia raised its cash rate by 0.25 points to 4.85% on Tuesday, its fifth rise this year, in a 6–3 vote. It says inflation, 4.3% in September, will stay above 3% for the coming year.",
-   "matters": "Australia's big four banks raise variable home loan rates from 13 November; ANZ estimates A$79 more a month on a A$500,000 loan.",
+   "title": "Australia's central bank raises interest rates to an 18-year high",
+   "why": "The Reserve Bank of Australia raised its cash rate by 0.25 points to 4.85% on Tuesday, its fifth rise this year, in a 6–3 vote. It blamed higher fuel prices linked to the Middle East conflict and expects inflation, now 4.3%, to stay high until late 2027.",
+   "matters": "Australia's big four banks are raising variable mortgage rates; ANZ says that adds about A$79 a month to a A$500,000 loan.",
    "sources": [
     {
      "name": "Reserve Bank of Australia",
      "url": "https://www.rba.gov.au/media-releases/2026/mr-26-30.html"
     },
     {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-04/australian-banks-lift-interest-rates-after-rba-cash-rate-hike/107341858"
-    },
-    {
      "name": "CNBC",
      "url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html"
     },
     {
-     "name": "RNZ",
-     "url": "https://www.rnz.co.nz/news/business/2317279/reserve-bank-of-australia-raises-its-cash-rate-to-4-point-85-percent"
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-04/australian-banks-lift-interest-rates-after-rba-cash-rate-hike/107341858"
     }
    ]
   },
   {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-03T01:20:00Z",
-   "title": "Russian strike on Kharkiv hospital injures at least 73, Ukraine says",
-   "why": "A Russian strike hit a city hospital in Kharkiv, in north-eastern Ukraine, at about 03:20 on Tuesday, injuring at least 73 patients, staff and residents, Ukraine's prosecutor general says. President Zelenskyy says Russia launched 289 drones and 76 missiles overnight, mainly at energy sites.",
-   "matters": "Russia's defence ministry says it targeted power facilities supplying Ukraine's army; outages followed in several regions as winter approaches.",
-   "sources": [
-    {
-     "name": "Al Jazeera (Reuters)",
-     "url": "https://www.aljazeera.com/news/2026/11/3/at-least-73-injured-as-russia-bombs-ukrainian-hospital-and-power-plants"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/03/russia-pounds-ukraine-with-289-drones-and-17-ballistic-missiles-in-overnight-strikes-zelen"
-    },
-    {
-     "name": "Ukrinform",
-     "url": "https://www.ukrinform.net/rubric-ato/4180763-russian-strike-on-kharkiv-hospital-raises-injury-toll-to-73.html"
-    }
-   ]
-  },
-  {
-   "section": "curious",
+   "section": "culture",
    "published": "2026-11-03T00:01:00Z",
-   "title": "Collins Dictionary names 'mogging' its word of the year",
-   "why": "Collins chose 'mogging', slang for outshining someone or something, as its 2026 word of the year on 3 November. It says use of the word rose 210% this year. Other words on its list include 'carspreading', 'ghost jobs', 'fricy' and 'P(doom)'.",
-   "matters": "The word began in online men's forums but is now mostly used jokingly by younger people, Collins says.",
+   "title": "Collins Dictionary names 'mogging' its 2026 word of the year",
+   "why": "Collins, the British dictionary publisher, chose the slang word, meaning outshining or upstaging someone, often playfully. It says use of the word rose 210% in 2026. Other words on its list included 'ghost jobs', for vacancies with no plan to hire, and 'carspreading', for ever-bigger cars.",
+   "matters": "Collins says the word has moved from online forums into everyday speech among younger people.",
    "sources": [
     {
-     "name": "ABC News (AP)",
+     "name": "AP (via ABC News)",
      "url": "https://abcnews.com/International/wireStory/collins-dictionary-chooses-mogging-2026-word-year-137804839"
     },
     {
@@ -314,222 +299,106 @@
     {
      "name": "Euronews",
      "url": "https://www.euronews.com/2026/11/03/collins-english-dictionary-reveals-their-2026-word-of-the-year-do-you-know-what-mogging-me"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-04/mogging-word-of-the-year-maxxing-definition-/107344558"
     }
    ]
   },
   {
-   "section": "climate",
+   "section": "world",
    "serious": true,
    "developing": true,
-   "published": "2026-11-03T00:00:00Z",
-   "title": "Cyclone Murasu hits India's Andhra Pradesh coast, at least two dead",
-   "why": "Severe cyclonic storm Murasu came ashore near Ongole in Andhra Pradesh, south-east India, early on 3 November with winds gusting to 120km/h, India's weather department said. State disaster officials told PTI at least two people had died and more than 12,000 were in relief shelters.",
-   "matters": "It is the second cyclone to strike India's east coast in a week, after Cyclone Arnab.",
+   "published": "2026-11-02T21:53:00Z",
+   "title": "Ukraine says Russian strike on Zaporizhzhia aid point killed at least 33",
+   "why": "Guided bombs hit a school used as an aid point in the village of Komyshuvakha, in south-eastern Ukraine, on Monday as residents gathered for aid, Ukrainian officials say. President Zelensky says at least 33 people were killed. Russia's defence ministry says it targeted Ukrainian military units.",
+   "matters": "The US says Russian and Ukrainian delegations will meet for new talks in Abu Dhabi on 10 and 11 November.",
    "sources": [
     {
-     "name": "Al Jazeera (Reuters)",
-     "url": "https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy"
     },
     {
-     "name": "The Tribune (PTI)",
-     "url": "https://www.tribuneindia.com/news/india/cyclone-murasu-landfall-begins-heavy-rain-120-kmph-winds-batter-andhra-coast/"
-    },
-    {
-     "name": "ETV Bharat",
-     "url": "https://www.etvbharat.com/en/bharat/live-blog--cyclone-murasu-live-updates-landfall-andhra-pradesh-coast-odisha-tamil-nadu-weather-update-enn26110300486"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "published": "2026-11-02T22:04:00Z",
-   "title": "Washington state resident dies of bird flu caught from dairy cattle",
-   "why": "A resident of Yakima County in the US state of Washington has died after catching H5N1 bird flu from infected dairy cows, local health officials say. It is the first US bird flu death this year; two more human cases were confirmed in the county.",
-   "matters": "The US CDC says there is no sign of person-to-person spread and the risk to the public remains low.",
-   "sources": [
-    {
-     "name": "PBS NewsHour (AP)",
-     "url": "https://www.pbs.org/newshour/health/washington-state-resident-dies-from-bird-flu-following-exposure-to-infected-cattle"
-    },
-    {
-     "name": "CIDRAP",
-     "url": "https://www.cidrap.umn.edu/avian-influenza-bird-flu/yakima-county-washington-reports-2-more-avian-flu-cases-1-death"
-    },
-    {
-     "name": "Discover",
-     "url": "https://www.discovermagazine.com/first-u-s-bird-flu-death-of-2026-confirmed-following-washington-resident-s-exposure-to-infected-dairy-cows-49897"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-11-02T21:30:00Z",
-   "title": "Apple warns rising memory chip costs will squeeze its profit margins",
-   "why": "Apple's revenue rose 12% to $114.5 billion in July to September, with iPhone sales up about 17%, in the first results under chief executive John Ternus. But it forecast gross margins of 45–46% for the holiday quarter, as AI demand pushes up memory chip prices.",
-   "matters": "Apple has already raised some iPhone and MacBook prices to offset memory costs, which it expects to keep rising next year.",
-   "sources": [
-    {
-     "name": "RTÉ (Reuters)",
-     "url": "https://www.rte.ie/news/business/2026/1103/1597725-apple-forecasts-margin-drop-as-rising-memory-costs-bite/"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/03/apple-earnings-beat-expectations-but-rising-chip-costs-worry-investors"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/03/apple-margin-oil-iran.html"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "published": "2026-11-02T20:00:00Z",
-   "title": "Traces of blood molecules found in 115-million-year-old dinosaur bones from Brazil",
-   "why": "A team led by Australia's Curtin University reports heme, part of haemoglobin, inside what it interprets as fossilised red blood cells in the leg bones of Aratasaurus, a feathered dinosaur found in north-east Brazil. The study was published in the journal PNAS.",
-   "matters": "If it holds up, scientists could study the blood and metabolism of extinct animals; some outside experts urge caution.",
-   "sources": [
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/science/2026-11-03/signs-of-mineralised-molecules-from-dinosaurs-red-blood-cell/107335770"
-    },
-    {
-     "name": "New Atlas",
-     "url": "https://newatlas.com/biology/fossilized-blood-cells-dinosaur-bone"
-    },
-    {
-     "name": "Discover",
-     "url": "https://www.discovermagazine.com/evidence-of-ancient-blood-found-for-the-first-time-in-a-115-million-year-old-dinosaur-fossil-49887"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "developing": true,
-   "published": "2026-11-02T18:00:00Z",
-   "title": "NASA's Swift space telescope expected to fall back to Earth today",
-   "why": "NASA's Swift observatory, launched in 2004 to study gamma-ray bursts, was predicted to re-enter the atmosphere around 08:30 GMT on 4 November, give or take 11 hours, the US Space Force says. A commercial mission to boost its sinking orbit failed this summer.",
-   "matters": "Most of it should burn up; NASA puts the chance of anyone being harmed at about 1 in 2,100.",
-   "sources": [
-    {
-     "name": "NASA",
-     "url": "https://science.nasa.gov/blogs/swift/2026/11/02/nasas-swift-observatory-to-re-enter-atmosphere/"
-    },
-    {
-     "name": "Spaceflight Now",
-     "url": "https://spaceflightnow.com/2026/11/03/nasas-neil-gehrels-swift-observatory-to-burn-up-this-week-after-two-decades-in-space/"
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/news/ukraine/2026/1102/1597579-ukraine-russia/"
     },
     {
      "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/science/2026-11-03/nasa-swift-telescope-crash-landing/100018476"
+     "url": "https://www.abc.net.au/news/2026-11-04/russian-strike-on-school-kills-dozens-n-ukraine/107343894"
     }
    ]
   },
   {
    "section": "curious",
-   "published": "2026-11-02T15:00:00Z",
-   "title": "Karl Bushby reaches home in England after 28-year walk around the world",
-   "why": "British adventurer Karl Bushby arrived at his mother's house in Hull on 2 November, having set off on foot from Punta Arenas in southern Chile in November 1998. AP and Reuters put the journey at about 50,000 km; he swam the English Channel last month to keep it unbroken.",
-   "matters": "He set himself a rule of using no transport at all, crossing four continents and about 30 countries on foot.",
+   "published": "2026-11-02T14:30:00Z",
+   "title": "Karl Bushby arrives home in Hull after 28-year walk around the world",
+   "why": "British former paratrooper Karl Bushby reached his mother's house in Hull, northern England, on Monday, ending a walk that began in Punta Arenas, Chile, in November 1998. He covered about 50,000 km through some 30 countries, swimming the Caspian Sea and English Channel rather than use transport.",
    "sources": [
     {
-     "name": "PBS NewsHour (AP)",
-     "url": "https://www.pbs.org/newshour/world/karl-bushby-embraces-his-mother-as-he-completes-his-28-year-walk-around-world"
-    },
-    {
-     "name": "Al Jazeera (Reuters)",
-     "url": "https://www.aljazeera.com/news/2026/11/2/british-adventurer-karl-bushby-returns-home-after-28-year-walk-around-world"
+     "name": "AP (via NBC News)",
+     "url": "https://www.nbcnews.com/world/united-kingdom/karl-bushby-completes-28-year-31000-mile-walk-world-returns-mothers-ho-rcna606998"
     },
     {
      "name": "CBS News",
      "url": "https://www.cbsnews.com/news/englishman-karl-bushby-returns-home-walking-goliath-expedition/"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-11-02T14:32:00Z",
-   "title": "Anthropic reports $17 billion quarterly revenue in updated listing filing",
-   "why": "Anthropic, maker of the Claude AI models, filed an updated US stock market listing document on Monday showing third-quarter revenue of about $17 billion, roughly 12 times a year earlier. It made an operating loss of $567 million and has about $895 billion in commitments, mostly for computing power.",
-   "matters": "Its planned Nasdaq listing, possibly later in November, is widely watched as a test of investor confidence in AI.",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
     },
     {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/03/anthropic-swings-back-to-operating-loss-as-895-billion-compute-bill-looms-over-ipo"
-    },
-    {
-     "name": "US SEC (filing)",
-     "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/0001628280-26-068676-index.htm"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/2/british-adventurer-karl-bushby-returns-home-after-28-year-walk-around-world"
     }
    ]
   },
   {
    "section": "tech",
    "developing": true,
-   "changed": "Updated: the attacks reached about ten European countries, and Italy held emergency talks with its intelligence chiefs.",
+   "changed": "Updated: the suspected attack spread to at least nine European countries, and Belgian prosecutors have opened an investigation.",
    "published": "2026-11-02T08:00:00Z",
-   "title": "Cyberattacks on supermarket fridges spread to about ten European countries",
-   "why": "Hackers remotely switched off or heated fridges and freezers on Monday at supermarkets in Belgium, Ireland, Italy, Sweden, Finland, Portugal and other European countries, Euronews and CNBC report. No group has claimed responsibility; the EU's food commissioner called it a deliberate attempt to disrupt food supply.",
-   "matters": "It follows a similar attack on refrigeration systems at hundreds of French supermarkets in October that forced stores to throw away food.",
+   "title": "Suspected cyberattack disrupts supermarket fridges in nine European countries",
+   "why": "Fridges and freezers failed on Monday at supermarkets in Belgium, Ireland, Sweden, Italy, Portugal, the Netherlands, Luxembourg, Finland and Estonia, AFP reports, with Belgium hardest hit. Nobody has claimed responsibility; some affected systems were made by Danish firm Danfoss. Ireland's SuperValu says its 13 stores are back to normal.",
+   "matters": "It follows a similar attack on French supermarkets in October; the EU food commissioner called it a deliberate attack on food supplies.",
    "sources": [
     {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/03/italy-holds-emergency-talks-as-supermarket-fridge-attacks-spread-across-europe"
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261102-fridge-cyberattack-hits-supermarkets-across-europe"
     },
     {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html"
-    },
-    {
-     "name": "VRT NWS",
-     "url": "https://www.vrt.be/vrtnws/en/2026/11/02/possible-cyberattack-hits-several-belgian-supermarket-chains/"
-    },
-    {
-     "name": "RTÉ (Reuters)",
+     "name": "RTÉ",
      "url": "https://www.rte.ie/news/business/2026/1102/1597612-13-supervalu-stores-hit-by-suspected-cyber-attack/"
+    },
+    {
+     "name": "Brussels Times",
+     "url": "https://www.brusselstimes.com/news/2388216/cyberattack-on-supermarket-refrigeration-systems-spreads-across-europe"
     }
    ]
   },
   {
    "section": "money",
    "developing": true,
-   "changed": "Updated: Monday's fall was more than 7%, and prices rose on Tuesday after a reported US strike and Iranian comments.",
+   "changed": "Updated: Brent fell more than 7% on Monday and slipped again on Tuesday, despite a reported US strike on Iran's Qeshm Island.",
    "published": "2026-11-02T06:00:00Z",
-   "title": "Oil prices swing as Iran says a war deal is far off",
-   "why": "Brent crude fell more than 7% on Monday on hopes for Qatar-mediated talks, then rose to about $106 a barrel on Tuesday after reports of a US strike on Iran's Qeshm Island and an Iranian official saying a deal was far off. It was below $104 on Wednesday.",
-   "matters": "Oil prices feed into fuel, flight and food costs worldwide, and Brent ended October at a six-month high.",
+   "title": "Oil prices fall more than 7% on hopes of a US–Iran deal",
+   "why": "Brent crude fell more than 7% on Monday to about $104.77 a barrel as Washington and Tehran signalled openness to talks mediated by Qatar, and slipped again on Tuesday to $103.60. Prices briefly rose after US officials said the US had struck Iran's Qeshm Island.",
+   "matters": "Oil prices feed into fuel, flight and food costs worldwide; Brent ended October at a six-month high.",
    "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html"
+    },
     {
      "name": "RTÉ (Reuters)",
      "url": "https://www.rte.ie/news/business/2026/1103/1597775-world-oil-prices/"
     },
     {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/03/apple-margin-oil-iran.html"
-    },
-    {
-     "name": "Euronews (AFP)",
-     "url": "https://www.euronews.com/2026/11/04/asian-stocks-and-dollar-fall-as-democrats-gain-ground-in-us-midterms"
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261104-stocks-and-dollar-drop-as-democrats-enjoy-big-early-wins"
     }
    ]
   },
   {
    "section": "world",
    "developing": true,
-   "changed": "Updated: the opposition unites behind Eisenkot; Herzog's consultations start today.",
+   "changed": "Updated: opposition leaders back Gadi Eisenkot for prime minister as Herzog's consultations begin.",
    "published": "2026-11-01T19:57:00Z",
-   "title": "Israeli opposition backs Eisenkot as Herzog begins coalition consultations",
-   "why": "Opposition leaders Naftali Bennett, Yair Lapid, Yair Golan and Avigdor Liberman agreed on Tuesday to recommend Gadi Eisenkot for prime minister. President Isaac Herzog begins consultations on Wednesday and has until 11 November to choose. Netanyahu, whose bloc won 53 of 120 seats, says voters chose him.",
-   "matters": "Neither bloc has the 61 seats needed; Arab-led parties hold a record 19, making them potential kingmakers, France 24 reports.",
+   "title": "Israel's opposition backs Eisenkot as Herzog begins coalition talks",
+   "why": "Opposition leaders including Naftali Bennett, Yair Lapid and Avigdor Liberman agreed on Tuesday to recommend Gadi Eisenkot as prime minister. President Isaac Herzog starts consultations on Wednesday. Netanyahu's bloc holds 53 of 120 seats and the Jewish-led opposition 48; Arab-led parties, with 19, are expected to back Eisenkot.",
+   "matters": "Herzog will choose who first tries to form a government; Netanyahu wants a 'broad national government' under him.",
    "sources": [
     {
      "name": "Al Jazeera",
@@ -537,57 +406,88 @@
     },
     {
      "name": "Times of Israel",
-     "url": "https://timesofisrael.com/opposition-chiefs-meet-agree-to-launch-coalition-talks-but-path-remains-unclear"
+     "url": "https://www.timesofisrael.com/stop-climbing-trees-and-face-reality-in-appeal-to-leaders-herzog-signals-push-for-unity-government/"
     },
     {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261103-israeli-opposition-unites-behind-eisenkot-netanyahu-voters-chose-him-pm"
+     "name": "Jerusalem Post",
+     "url": "https://www.jpost.com/israel-election-2026/article-913448"
     }
    ]
   },
   {
    "section": "world",
    "developing": true,
-   "changed": "Updated: the new wage board meets on Wednesday as protests enter a fourth day.",
+   "changed": "Updated: owners are reopening factories and the new wage board has started work.",
    "published": "2026-11-01T12:58:00Z",
-   "title": "Bangladesh wage board meets as garment protests close hundreds of factories",
-   "why": "Bangladesh's new minimum wage board for garment workers was due to hold its first meeting in Dhaka on Wednesday, after four days of protests that have shut several hundred factories. Workers want a monthly minimum of 30,000 taka ($242), up from 12,500. Police have used tear gas, Al Jazeera reports.",
-   "matters": "Garments are Bangladesh's biggest export, and the unrest comes in the peak season for clothing orders.",
+   "title": "Bangladesh garment owners move to reopen factories after wage protests",
+   "why": "Clothing makers said they would reopen factories around Dhaka on Tuesday after meeting Home Minister Salahuddin Ahmed; industrial police said 414 were still shut on Monday. Workers want a minimum monthly wage of 30,000 taka, up from 12,500. A new government wage board is due to meet this week.",
+   "matters": "The new pay structure must take effect from 1 December; garments are Bangladesh's biggest export.",
    "sources": [
     {
      "name": "The Daily Star",
-     "url": "https://www.thedailystar.net/business/news/rmg-wage-board-meet-11am-today-amid-protests-4315206"
+     "url": "https://www.thedailystar.net/news/bangladesh/news/owners-reopen-rmg-factories-today-4314136"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/3/going-hungry-garment-workers-in-bangladesh-say-wages-barely-cover-needs"
+     "name": "The Business Standard (UNB)",
+     "url": "https://www.tbsnews.net/bangladesh/home-minister-says-closed-rmg-factories-reopen-soon-warns-stern-action-against-unrest"
     },
     {
-     "name": "The Business Standard",
-     "url": "https://www.tbsnews.net/economy/rmg/labour-leaders-see-new-wage-announcement-dec-may-ease-rmg-unrest-1590881"
+     "name": "bdnews24",
+     "url": "https://bdnews24.com/bangladesh/yxdcv14ech"
+    },
+    {
+     "name": "Al Jazeera (Reuters)",
+     "url": "https://www.aljazeera.com/news/2026/11/2/bangladesh-garment-factories-disrupted-as-protests-continue-for-third-day"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "serious": true,
+   "developing": true,
+   "published": "2026-11-01T01:50:00Z",
+   "title": "Bolivia declares national emergency as El Niño drought hits farming families",
+   "why": "Bolivia's President Rodrigo Paz declared a national emergency on 31 October over drought and other El Niño risks. The defence ministry says at least 114,000 families in six of nine departments have been hit since June, with more than 75,000 cattle lost.",
+   "matters": "Officials warn the coming rainy season could bring floods to other parts of the country while dry areas stay parched.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/02/bolivia-declares-national-emergency-over-el-nino-as-drought-hits-over-78000-families"
+    },
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/america/agencias/2026/11/01/bolivia-reporta-114048-familias-afectadas-por-la-sequia-relacionada-con-el-nino/"
+    },
+    {
+     "name": "Los Tiempos",
+     "url": "https://www.lostiempos.com/actualidad/pais/20261101/sequia-golpea-mas-114-mil-familias-bolivia-se-prepara-fenomeno-nino"
+    },
+    {
+     "name": "El Deber",
+     "url": "https://eldeber.com.bo/pais/nino-reportan-114-000-familias-afectadas-sequia_1793532922"
     }
    ]
   },
   {
    "section": "world",
    "developing": true,
-   "changed": "Updated: US strikes on Qeshm Island; Iran calls the US reply 'not convincing'.",
+   "changed": "Updated: US strikes on Qeshm Island; Qatar says it still hopes for an interim deal.",
    "published": "2026-10-31T13:00:00Z",
-   "title": "Iran calls US reply 'not convincing' after US strikes on Qeshm Island",
-   "why": "US forces struck an anti-aircraft site on Iran's Qeshm Island, near the Strait of Hormuz, early Tuesday; US officials call it a defensive strike after Iranian fire on a US aircraft. Iran's security chief Mohsen Rezaei says Washington's reply to Iran's plan to reopen the strait is 'not convincing'.",
-   "matters": "Qatar says both sides remain committed to talks; Iran's chief negotiator says US voters said 'no to war' in the midterms.",
+   "title": "US strikes Iran's Qeshm Island as Qatar says deal still possible",
+   "why": "US officials say limited 'defensive' strikes hit Iran's Qeshm Island, in the Strait of Hormuz, on Monday night, saying Iran fired at US aircraft. Qatar, which is carrying proposals between the two sides, says there is still 'hope' of an interim deal.",
+   "matters": "Vice-President JD Vance says there is no deadline for a deal; oil prices fell on hopes of a settlement.",
    "sources": [
     {
-     "name": "Al Jazeera (Reuters)",
-     "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes"
+     "name": "CNBC",
+     "url": "https://cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html"
     },
     {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/"
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/03/qatar-sees-hope-for-us-iran-deal-despite-fresh-us-strikes-as-mediators-exchange-proposals-"
     },
     {
-     "name": "Times of Israel",
-     "url": "https://timesofisrael.com/liveblog-november-4-2026"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security"
     }
    ]
   },
@@ -595,23 +495,31 @@
    "section": "health",
    "serious": true,
    "developing": true,
-   "changed": "Updated: Africa CDC now counts 5,376 deaths; confirmed cases pass 10,500",
+   "changed": "Updated: latest health ministry figures (to 1 November) and new US entry rule",
    "published": "2026-10-31T10:00:00Z",
-   "title": "Ebola outbreak deaths pass 5,300, Africa CDC says",
-   "why": "Africa CDC says the Bundibugyo-strain outbreak declared in May has killed 5,376 people, almost all in the Democratic Republic of Congo. Congo's health ministry had confirmed 10,532 cases and 5,126 deaths by 1 November. There is no approved vaccine or treatment for this strain.",
-   "matters": "Uganda, Kenya and Nigeria have also reported cases, and a vaccine trial has begun in Congo.",
+   "title": "Ebola deaths in the Democratic Republic of Congo pass 5,100",
+   "why": "Congo's health ministry says the Bundibugyo-strain outbreak, declared in May, had killed at least 5,126 people among 10,532 confirmed cases by 1 November. Most cases are in the eastern provinces of Ituri and North Kivu. There is no approved vaccine or treatment for this strain.",
+   "matters": "Since 3 November the US requires everyone flying in to declare they have not been in Congo in the past 21 days.",
    "sources": [
-    {
-     "name": "Al Jazeera (AFP, Reuters)",
-     "url": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo"
-    },
-    {
-     "name": "ECDC",
-     "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-EIP-00026"
-    },
     {
      "name": "US CDC",
      "url": "https://www.cdc.gov/ebola/situation-summary/index.html"
+    },
+    {
+     "name": "NaTHNaC (UK)",
+     "url": "https://travelhealthpro.org.uk/outbreaks"
+    },
+    {
+     "name": "PBS NewsHour (AP)",
+     "url": "https://www.pbs.org/newshour/world/congos-ebola-deaths-top-5000-as-fear-of-continent-wide-spread-mounts"
+    },
+    {
+     "name": "Al Jazeera (Reuters)",
+     "url": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000"
+    },
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/10/1168689"
     }
    ]
   }
