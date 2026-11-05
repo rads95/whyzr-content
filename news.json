@@ -1,6 +1,96 @@
 {
- "updated": "2026-11-05T01:56:46Z",
+ "updated": "2026-11-05T08:29:23Z",
  "items": [
+  {
+   "section": "world",
+   "published": "2026-11-05T03:30:00Z",
+   "title": "Hong Kong activist Joshua Wong jailed for 10 more years",
+   "why": "Hong Kong's High Court sentenced pro-democracy activist Joshua Wong, 30, to 10 years in prison on Thursday for conspiring to collude with foreign forces under the national security law. He had pleaded guilty in September and was due for release in January.",
+   "matters": "The US consulate and rights groups condemned the sentence; China told other countries not to interfere in Hong Kong's courts.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-05/hong-kong-democracy-activist-joshua-wong-jailed-for-10-years/107350986"
+    },
+    {
+     "name": "Hong Kong Free Press",
+     "url": "https://hongkongfp.com/2026/11/05/breaking-jailed-hong-kong-activist-joshua-wong-sentenced-to-10-years-over-foreign-collusion/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "serious": true,
+   "published": "2026-11-05T03:03:00Z",
+   "title": "Alan Jones, 1980 Formula One world champion, dies aged 80",
+   "why": "Australian racing driver Alan Jones, who won the 1980 Formula One world title with Williams, has died aged 80 after a short illness, his wife said on Thursday. He won 12 Grands Prix and later commentated on F1 for Australian television.",
+   "matters": "He and Jack Brabham are the only Australians to have won the Formula One drivers' title.",
+   "sources": [
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-05/australian-motor-racing-icon-alan-jones-dies-aged-80/107350036"
+    },
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/f1/story/_/id/50384560/1980-f1-world-champion-alan-jones-dies-aged-80"
+    },
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261105-australian-f1-great-alan-jones-dies-aged-80-reports"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-05T03:00:00Z",
+   "title": "South Korea plans naval mission near the Strait of Hormuz",
+   "why": "South Korea's government on Thursday backed a plan to extend its Gulf of Aden anti-piracy unit's area to waters off Oman, near the Strait of Hormuz, adding a patrol plane and mine-clearing teams. It still needs cabinet and parliamentary approval. Seoul says the mission is non-combat.",
+   "matters": "About a fifth of the world's oil normally passes through the strait; Iran has warned Seoul against the deployment.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/asia-pacific/20261105-south-korea-military-mission-strait-of-hormuz"
+    },
+    {
+     "name": "Korea JoongAng Daily",
+     "url": "https://www.koreajoongangdaily.com/korea/korea-expands-antipiracy-mission-toward-oman-as-us-pressure-builds-over-strait-of-hormuz/12957065"
+    },
+    {
+     "name": "Seoul Economic Daily",
+     "url": "https://en.sedaily.com/politics/2026/11/05/korea-to-expand-cheonghae-unit-mission-toward-hormuz-add"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "serious": true,
+   "published": "2026-11-04T23:40:00Z",
+   "title": "Pilot whales die in mass stranding on New Zealand's North Island",
+   "why": "Dozens of pilot whales stranded at Ngawi, near Cape Palliser at the southern tip of New Zealand's North Island, on Thursday. The conservation department counted about 20 on the beach and locals reported up to 50. Rescuers refloated two, but the last survivors died, Project Jonah says.",
+   "matters": "The conservation department says the area has not had a mass stranding since the 1990s; the cause is not yet known.",
+   "sources": [
+    {
+     "name": "1News",
+     "url": "https://www.1news.co.nz/2026/11/05/at-least-30-whales-dead-in-mass-stranding-at-cape-palliser/"
+    },
+    {
+     "name": "RNZ",
+     "url": "https://www.rnz.co.nz/news/environment/2356545/it-s-horrible-last-remaining-whales-in-wairarapa-stranding-die"
+    },
+    {
+     "name": "Sowetan (Reuters)",
+     "url": "https://www.sowetan.co.za/news/world/2026-11-05-dozens-of-pilot-whales-stranded-on-new-zealand-coast/"
+    }
+   ]
+  },
   {
    "section": "money",
    "published": "2026-11-04T22:40:00Z",
@@ -87,6 +177,7 @@
   },
   {
    "section": "science",
+   "changed": "Updated: Swift re-entered over Indonesia on Wednesday.",
    "published": "2026-11-04T12:39:00Z",
    "title": "NASA's Swift space telescope falls back to Earth over Indonesia",
    "why": "NASA's Swift observatory re-entered the atmosphere over North Sumatra, Indonesia, at 12:39 GMT on Wednesday, NASA and the US Space Force say. Launched in 2004 for a two-year study of gamma-ray bursts, it worked for 22 years. A commercial mission to raise its sinking orbit failed.",
@@ -104,8 +195,7 @@
      "name": "CBS News",
      "url": "https://www.cbsnews.com/news/swift-observatory-plunges-back-to-earth/"
     }
-   ],
-   "changed": "Updated: Swift re-entered over Indonesia on Wednesday."
+   ]
   },
   {
    "section": "health",
@@ -126,6 +216,27 @@
     {
      "name": "Euronews",
      "url": "https://www.euronews.com/2026/11/04/who-backs-trials-for-two-new-vaccines-against-ebola-outbreak"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-04T12:00:00Z",
+   "title": "Ethiopia and Sudan expel each other's consular staff",
+   "why": "Ethiopia ordered six staff of Sudan's consulate in the border town of Asosa to leave within 48 hours, and Sudan closed Ethiopia's consulate in Gedaref in response, officials told Reuters, AP and AFP. Neither government gave a formal reason.",
+   "matters": "Sudan accuses Ethiopia of letting Sudan's paramilitary RSF launch drone attacks from its soil; Ethiopia denies it.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions"
+    },
+    {
+     "name": "Arab News (Reuters)",
+     "url": "https://arabnews.com/middle-east/ethiopia-expels-sudanese-diplomats-after-fresh-allegations-of-support-for-rsf-3009806"
+    },
+    {
+     "name": "Citizen Digital (AFP)",
+     "url": "https://citizen.digital/article/ethiopia-expels-sudan-consular-staff-sudan-govt-source-n393349"
     }
    ]
   },
@@ -152,14 +263,23 @@
   },
   {
    "section": "money",
+   "changed": "Updated: Wall Street closed higher and oil fell below $95 (this replaces the separate oil story).",
    "published": "2026-11-04T05:47:00Z",
-   "title": "Shares rise in Europe and US after Democrats win Congress",
-   "why": "European shares and US stock futures rose on Wednesday after Democrats won both houses of Congress, AP and CNBC report, as investors expect gridlock and fewer sudden policy changes. Japan's Nikkei closed 1.4% lower on AI-chip worries. Gold rose almost 3% and the dollar weakened.",
-   "matters": "Clean-energy shares rose and defence shares fell, as investors weighed how a Democratic Congress could change US spending.",
+   "title": "Wall Street jumps and oil falls after Democrats win Congress",
+   "why": "The Dow Jones rose about 1,500 points, or 2.9%, on Wednesday after Democrats won both houses of Congress, AP reports, as investors expect fewer sudden policy changes. Brent crude fell 8.6% to about $95 a barrel on hopes the Iran war will wind down. Japan's Nikkei fell 1.4%.",
+   "matters": "Cheaper oil feeds through to fuel, flight and food prices; Brent had been above $100 for nearly a month.",
    "sources": [
     {
-     "name": "BNN Bloomberg (AP)",
-     "url": "https://www.bnnbloomberg.ca/markets/2026/11/04/world-shares-are-mostly-higher-as-democrats-gain-majorities-in-both-the-us-house-and-senate/"
+     "name": "PBS NewsHour (AP)",
+     "url": "https://www.pbs.org/newshour/economy/u-s-stocks-surge-and-the-dow-soars-1500-points-as-brent-oils-price-drops-below-95-per-barrel"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/11/4/us-markets-rise-as-democrats-sweep-midterm-elections"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
     },
     {
      "name": "CNBC",
@@ -169,28 +289,32 @@
      "name": "Euronews",
      "url": "https://www.euronews.com/2026/11/04/us-midterms-what-trumps-defeat-means-for-europe-and-global-markets"
     }
-   ],
-   "changed": "Updated: European shares and US futures rose after the early fall in Asia."
+   ]
   },
   {
    "section": "world",
    "developing": true,
+   "changed": "Updated: counting has begun and the two biggest parties are close.",
    "published": "2026-11-04T05:00:00Z",
-   "title": "South Africans vote in local elections seen as test for ANC",
-   "why": "Polls opened at 07:00 local time on Wednesday across South Africa for municipal elections, with a record 29.2 million people registered, the electoral commission says. Voters choose councils for 257 municipalities, including eight big metros. Final results are expected on Sunday.",
-   "matters": "The ANC lost its national majority in 2024, and polls suggest its support could fall below 40%, leaving more cities to coalitions.",
+   "title": "ANC and DA neck and neck in early South African local results",
+   "why": "With about a fifth of votes counted on Thursday, the ANC had about 32% and the Democratic Alliance about 31%, early figures from the electoral commission show. The DA leads strongly in Cape Town. The commission expects final results within seven days of Wednesday's vote.",
+   "matters": "The ANC won 46% in the last local elections in 2021; many councils may now need coalitions.",
    "sources": [
+    {
+     "name": "SABC News",
+     "url": "https://www.sabcnews.com/sabcnews/anc-takes-42-seats-with-8-of-votes-counted/"
+    },
+    {
+     "name": "TimesLIVE",
+     "url": "https://www.timeslive.co.za/politics/2026-11-04-live-updates-early-vote-counting-has-started-with-parties-gunning-for-the-top-spot/"
+    },
+    {
+     "name": "Lesotho News Agency",
+     "url": "https://www.lena.gov.ls/anc-maintains-narrow-lead-as-sa-counts-local-government-election-votes/"
+    },
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc"
-    },
-    {
-     "name": "News24",
-     "url": "https://www.news24.com/politics/south-africa-votes-turnout-set-to-shape-the-future-of-municipalities-20261103-1209"
-    },
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261030-basic-services-fading-loyalties-loom-over-south-africa-s-vote"
     }
    ]
   },
@@ -198,26 +322,27 @@
    "section": "world",
    "serious": true,
    "developing": true,
+   "changed": "Updated: Iran now says two more tankers and a tugboat caught fire on Thursday.",
    "published": "2026-11-04T04:00:00Z",
-   "title": "Iran says four oil tankers destroyed by mines near Strait of Hormuz",
-   "why": "Iran's Revolutionary Guards say four oil tankers hit naval mines on Wednesday while using a route Iran has banned, south of the Strait of Hormuz, and were still burning; two other ships were halted. The claim has not been independently confirmed.",
+   "title": "Iran says more tankers ablaze after mines near Strait of Hormuz",
+   "why": "Iran's Revolutionary Guards said on Thursday that two more oil tankers and a tugboat caught fire on routes Iran bans near the Strait of Hormuz, one after hitting a mine, Reuters reports. On Wednesday the Guards said four tankers hit mines. Neither claim has been independently confirmed.",
    "matters": "Iran's supreme leader warned of a much wider war if attacks resume; Trump says he has no immediate plans for new strikes.",
    "sources": [
     {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/middle-east/20261104-four-oil-tankers-destroyed-in-hormuz-after-hitting-mines-tehran-says"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it"
     },
     {
      "name": "Times of Israel (Reuters)",
-     "url": "https://www.timesofisrael.com/liveblog_entry/irans-irgc-says-four-tankers-ablaze-after-hitting-mines-near-strait-of-hormuz/"
+     "url": "https://www.timesofisrael.com/liveblog_entry/irgc-2-tankers-tugboat-attempting-to-use-unauthorized-hormuz-routes-catch-fire/"
     },
     {
      "name": "CBS News",
-     "url": "https://cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz"
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack"
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/middle-east/20261104-four-oil-tankers-destroyed-in-hormuz-after-hitting-mines-tehran-says"
     }
    ]
   },
@@ -225,6 +350,7 @@
    "section": "world",
    "lead": true,
    "developing": true,
+   "changed": "Updated: Trump says the Iran war played a part; Alaska and Mississippi are still uncalled.",
    "published": "2026-11-04T03:15:00Z",
    "title": "Democrats win control of US House and Senate",
    "why": "Democrats will control both the House of Representatives and the Senate after Tuesday's midterm elections, AP projects, with at least 54 Senate seats. Senate races in Alaska and Mississippi are still too close to call. Trump congratulated Democrats and said the Iran war was 'part of' the reason.",
@@ -258,8 +384,7 @@
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/11/4/us-midterms-2026-what-key-races-remain-undecided"
     }
-   ],
-   "changed": "Updated: Trump says the Iran war played a part; Alaska and Mississippi are still uncalled."
+   ]
   },
   {
    "section": "sport",
@@ -411,8 +536,30 @@
    ]
   },
   {
+   "section": "science",
+   "published": "2026-11-03T14:00:00Z",
+   "title": "CERN experiment finds evidence of a one-in-ten-billion particle decay",
+   "why": "Physicists on CERN's LHCb experiment near Geneva announced evidence that a beauty particle can decay into two muons, which theory says happens about once in ten billion times. The signal is 3.2 sigma: evidence, but short of the 5 sigma needed to claim a discovery.",
+   "matters": "The search began in 1984; rare decays like this are where physicists look for signs of unknown particles or forces.",
+   "sources": [
+    {
+     "name": "CERN",
+     "url": "https://home.cern/lhcb-finds-evidence-of-one-in-ten-billion-particle-decay/"
+    },
+    {
+     "name": "UKRI",
+     "url": "https://www.ukri.org/news/scientists-find-evidence-of-rarest-particle-decay-after-42-years/"
+    },
+    {
+     "name": "Sci.News",
+     "url": "https://www.sci.news/physics/cern-ultra-rare-particle-decay-15171.html"
+    }
+   ]
+  },
+  {
    "section": "sport",
    "developing": true,
+   "changed": "Updated: host Germany says it is considering pulling out.",
    "published": "2026-11-03T12:40:00Z",
    "title": "European teams say they will not play Russia at ice hockey worlds",
    "why": "Finland, Norway, Sweden, Denmark, Latvia and the Czech Republic say they will not play Russia at the 2027 men's world championship, after a sports court ruled on 30 October that Russia must be readmitted. Germany, the host, says it is considering withdrawing.",
@@ -434,8 +581,7 @@
      "name": "Euronews",
      "url": "https://www.euronews.com/2026/11/04/hockey-nations-refuse-to-play-russia-as-germany-weighs-pulling-out-as-host"
     }
-   ],
-   "changed": "Updated: host Germany says it is considering pulling out."
+   ]
   },
   {
    "section": "culture",
@@ -462,6 +608,7 @@
    "section": "world",
    "serious": true,
    "developing": true,
+   "changed": "Updated: officials raised the death toll to 40, with 59 people still missing.",
    "published": "2026-11-02T21:53:00Z",
    "title": "Ukraine says Russian strike on Zaporizhzhia aid point killed at least 40",
    "why": "Guided bombs hit a school used as an aid point in the village of Komyshuvakha, in south-eastern Ukraine, on Monday as residents gathered for aid, Ukrainian officials say. They now put the dead at 40, with 59 missing. Russia's defence ministry says it targeted Ukrainian military units.",
@@ -483,8 +630,7 @@
      "name": "NBC News (Reuters)",
      "url": "https://www.nbcnews.com/world/ukraine/russia-bomb-aid-center-ukraine-dead-missing-zelenskyy-bodies-rcna607458"
     }
-   ],
-   "changed": "Updated: officials raised the death toll to 40, with 59 people still missing."
+   ]
   },
   {
    "section": "tech",
@@ -526,29 +672,6 @@
    ]
   },
   {
-   "section": "money",
-   "developing": true,
-   "changed": "Updated: Monday's fall was more than 7%, and prices rose on Tuesday after a reported US strike and Iranian comments.",
-   "published": "2026-11-02T06:00:00Z",
-   "title": "Oil prices swing as Iran says a war deal is far off",
-   "why": "Brent crude fell more than 7% on Monday on hopes for Qatar-mediated talks, then rose to about $106 a barrel on Tuesday after reports of a US strike on Iran's Qeshm Island and an Iranian official saying a deal was far off. It was below $104 on Wednesday.",
-   "matters": "Oil prices feed into fuel, flight and food costs worldwide, and Brent ended October at a six-month high.",
-   "sources": [
-    {
-     "name": "RTÉ (Reuters)",
-     "url": "https://www.rte.ie/news/business/2026/1103/1597775-world-oil-prices/"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/03/apple-margin-oil-iran.html"
-    },
-    {
-     "name": "Euronews (AFP)",
-     "url": "https://www.euronews.com/2026/11/04/asian-stocks-and-dollar-fall-as-democrats-gain-ground-in-us-midterms"
-    }
-   ]
-  },
-  {
    "section": "world",
    "developing": true,
    "changed": "Updated: the election result was certified and Herzog's consultations began.",
@@ -578,12 +701,20 @@
   {
    "section": "world",
    "developing": true,
-   "changed": "Updated: the new wage board meets on Wednesday as protests enter a fourth day.",
+   "changed": "Updated: most workers are back and the wage board has agreed to raise pay.",
    "published": "2026-11-01T12:58:00Z",
-   "title": "Bangladesh wage board meets as garment protests close hundreds of factories",
-   "why": "Bangladesh's new minimum wage board for garment workers was due to hold its first meeting in Dhaka on Wednesday, after four days of protests that have shut several hundred factories. Workers want a monthly minimum of 30,000 taka ($242), up from 12,500. Police have used tear gas, Al Jazeera reports.",
-   "matters": "Garments are Bangladesh's biggest export, and the unrest comes in the peak season for clothing orders.",
+   "title": "Bangladesh garment workers largely return after wage protests",
+   "why": "Most Bangladeshi garment workers went back to work on Thursday after days of protests over pay, AFP reports; police said over 95% of factories in Narayanganj had reopened. The new wage board agreed on Wednesday to raise the minimum wage and meets again on 9 November.",
+   "matters": "Garments bring in about four-fifths of Bangladesh's export earnings and employ more than four million people.",
    "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261105-bangladesh-garment-workers-largely-return-after-wage-protests"
+    },
+    {
+     "name": "The Business Standard",
+     "url": "https://www.tbsnews.net/economy/rmg/bgmea-bkmea-assure-speedy-wage-revision-urge-rmg-workers-return-work-1593086"
+    },
     {
      "name": "The Daily Star",
      "url": "https://www.thedailystar.net/business/news/rmg-wage-board-meet-11am-today-amid-protests-4315206"
@@ -591,10 +722,6 @@
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/11/3/going-hungry-garment-workers-in-bangladesh-say-wages-barely-cover-needs"
-    },
-    {
-     "name": "The Business Standard",
-     "url": "https://www.tbsnews.net/economy/rmg/labour-leaders-see-new-wage-announcement-dec-may-ease-rmg-unrest-1590881"
     }
    ]
   }
