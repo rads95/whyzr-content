@@ -1,6 +1,134 @@
 {
- "updated": "2026-11-04T13:52:45Z",
+ "updated": "2026-11-05T01:56:46Z",
  "items": [
+  {
+   "section": "money",
+   "published": "2026-11-04T22:40:00Z",
+   "title": "Australian department store David Jones goes into voluntary administration",
+   "why": "David Jones, Australia's 188-year-old department store chain, went into voluntary administration on Thursday after rent talks with landlords including Westfield's owner broke down. Its 38 stores and website keep trading while receivers review the business.",
+   "matters": "Receivers blame rising costs and an outdated store network; news on store closures and jobs is expected this week.",
+   "sources": [
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-05/david-jones-collapses-into-voluntary-administration/107347878"
+    },
+    {
+     "name": "Capital Brief",
+     "url": "https://www.capitalbrief.com/briefing/david-jones-falls-into-administration-brings-in-mcgrathnicol-fti-consulting-0b997eb8-a9bc-4c0d-9ab0-05e24e90c23e/"
+    },
+    {
+     "name": "Yahoo Finance (NewsWire)",
+     "url": "https://au.finance.yahoo.com/news/david-jones-collapses-administration-221810575.html"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-04T22:00:00Z",
+   "title": "Como win 9-1 at Lens as Fenerbahce end Liverpool's perfect run",
+   "why": "Como beat Lens 9-1 in the Champions League on Wednesday, equalling the competition's biggest winning margin. Fenerbahce beat Liverpool 3-2 in Istanbul, ending their perfect record in the competition, and Real Madrid won 3-2 at AEK Athens with a stoppage-time goal.",
+   "matters": "Arsenal and Manchester City also won, beating Slavia Prague 2-1 and RB Leipzig 3-2.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261104-liverpool-lose-to-fenerbahce-as-como-hit-nine-in-stunning-champions-league-win"
+    },
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/soccer/story/_/id/50329182/real-madrid-liverpool-manchester-city-arsenal"
+    },
+    {
+     "name": "Liverpool FC",
+     "url": "https://www.liverpoolfc.com/news/liverpool-fenerbahce-champions-league-match-report"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-04T21:20:00Z",
+   "title": "LIV Golf faces wind-down after investor drops relaunch plan, reports say",
+   "why": "Private capital firm BC Partners has dropped plans to put up to $300 million into relaunching LIV Golf because too few players signed up, the Financial Times reports. The Saudi-funded tour filed for bankruptcy protection in New Jersey in September.",
+   "matters": "South Australia's premier says LIV's event planned for Adelaide next March will not go ahead.",
+   "sources": [
+    {
+     "name": "RTÉ (Reuters)",
+     "url": "https://www.rte.ie/sport/golf/2026/1104/1598037-liv-golf-relaunch-plans-abandoned-reports/"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-05/liv-golf-bc-partners-pull-out-of-backing/107348606"
+    },
+    {
+     "name": "TSN",
+     "url": "https://www.tsn.ca/golf/article/report-liv-golf-relaunch-set-to-be-abandoned/"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "published": "2026-11-04T14:00:00Z",
+   "title": "EU lawmakers back a softer 2035 emissions target for new cars",
+   "why": "The European Parliament's environment committee voted 48 to 30 on Wednesday to cut the 2035 CO2 reduction target for new cars from 100% to 87.5%, with up to 7.5 points more covered by credits for low-carbon EU steel. The target for vans would fall to 80%.",
+   "matters": "The current rule would in effect end sales of new petrol and diesel cars from 2035; the full Parliament votes in December.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/04/meps-deal-another-blow-to-green-deal-with-softer-car-emissions-targets"
+    },
+    {
+     "name": "Il Sole 24 Ore",
+     "url": "https://en.ilsole24ore.com/art/eu-parliaments-first-motion-on-flexibility-regarding-the-2035-emissions-reduction-targets-AJwKji4B"
+    },
+    {
+     "name": "EUbusiness",
+     "url": "https://www.eubusiness.com/environment/meps-want-to-ease-co2-emissions-targets-for-cars/"
+    }
+   ]
+  },
+  {
+   "section": "science",
+   "published": "2026-11-04T12:39:00Z",
+   "title": "NASA's Swift space telescope falls back to Earth over Indonesia",
+   "why": "NASA's Swift observatory re-entered the atmosphere over North Sumatra, Indonesia, at 12:39 GMT on Wednesday, NASA and the US Space Force say. Launched in 2004 for a two-year study of gamma-ray bursts, it worked for 22 years. A commercial mission to raise its sinking orbit failed.",
+   "matters": "Most of the 1.5-tonne craft burned up; NASA says some dense parts may have survived, and no damage has been reported.",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/blogs/swift/2026/11/02/nasas-swift-observatory-to-re-enter-atmosphere/"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-05/nasa-telescope-plummets-to-earth-after-decades-long-mission/107348488"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/swift-observatory-plunges-back-to-earth/"
+    }
+   ],
+   "changed": "Updated: Swift re-entered over Indonesia on Wednesday."
+  },
+  {
+   "section": "health",
+   "serious": true,
+   "published": "2026-11-04T12:00:00Z",
+   "title": "WHO backs trials of two new vaccines against the Bundibugyo Ebola strain",
+   "why": "WHO expert groups recommended adding two vaccines designed for the Bundibugyo strain, one from Oxford and the Serum Institute of India and one from Moderna, to a trial in the Democratic Republic of the Congo. The outbreak has killed more than 5,300 people since May, Africa CDC says.",
+   "matters": "There is no approved vaccine or treatment for this strain; WHO expects trial results in early 2027.",
+   "sources": [
+    {
+     "name": "WHO",
+     "url": "https://www.who.int/news/item/04-11-2026-two-new-candidate-vaccines-to-join-ebola-trial-as-treatment-research-advances"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/04/who-backs-trials-for-two-new-vaccines-against-ebola-outbreak"
+    }
+   ]
+  },
   {
    "section": "money",
    "published": "2026-11-04T10:00:00Z",
@@ -99,8 +227,8 @@
    "developing": true,
    "published": "2026-11-04T03:15:00Z",
    "title": "Democrats win control of US House and Senate",
-   "why": "Democrats will control both the House of Representatives and the Senate after Tuesday's midterm elections, AP projects, winning at least 54 Senate seats. They took at least seven Republican-held Senate seats, including Texas, Maine and Kansas. Races in Alaska and Mississippi are still being counted.",
-   "matters": "Trump says he is 'absolutely willing' to accept the results; from January, Democrats can block his bills and open investigations.",
+   "why": "Democrats will control both the House of Representatives and the Senate after Tuesday's midterm elections, AP projects, with at least 54 Senate seats. Senate races in Alaska and Mississippi are still too close to call. Trump congratulated Democrats and said the Iran war was 'part of' the reason.",
+   "matters": "From January, Democrats can block Trump's bills and open investigations; Michigan's Abdul El-Sayed will be the first Muslim US senator.",
    "sources": [
     {
      "name": "CBS News",
@@ -115,19 +243,23 @@
      "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html"
     },
     {
-     "name": "Al Jazeera (AP)",
-     "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections"
-    },
-    {
      "name": "France 24 (AFP)",
      "url": "https://www.france24.com/en/live-news/20261104-democrats-win-us-house-in-growing-midterms-wave-against-trump"
     },
     {
      "name": "RTÉ (AFP, Reuters)",
      "url": "https://www.rte.ie/news/us/2026/1104/1597894-us-midterms-wrap/"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261104-trump-congratulates-democrats-on-midterms-win-says-iran-war-played-role"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/4/us-midterms-2026-what-key-races-remain-undecided"
     }
    ],
-   "changed": "Updated: Democrats reach at least 54 Senate seats; Trump says he accepts the results."
+   "changed": "Updated: Trump says the Iran war played a part; Alaska and Mississippi are still uncalled."
   },
   {
    "section": "sport",
@@ -327,239 +459,12 @@
    ]
   },
   {
-   "section": "tech",
-   "published": "2026-11-03T09:30:00Z",
-   "title": "EU court adviser says AI chatbots may infringe news publishers' rights",
-   "why": "An adviser to the EU's top court, Advocate General Maciej Szpunar, said chatbots such as Google's Gemini may breach press publishers' rights when they reuse articles' wording or get past paywalls. He said training AI on such material is generally allowed. The case was brought by Hungarian publisher Like Company.",
-   "matters": "The opinion is not binding, but the court usually follows it; a ruling is expected within months.",
-   "sources": [
-    {
-     "name": "Court of Justice of the EU",
-     "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260155en.pdf"
-    },
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/fr/info-en-continu/20261103-ia-la-justice-europ%C3%A9enne-appel%C3%A9e-%C3%A0-trancher-sur-les-atteintes-%C3%A0-la-presse"
-    },
-    {
-     "name": "RTÉ",
-     "url": "https://www.rte.ie/news/2026/1103/1597874-eu-court-backs-publishers-google/"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-11-03T07:11:00Z",
-   "title": "Saudi Aramco's quarterly profit rises by a third despite attacks",
-   "why": "Saudi Aramco, the state oil company, said net profit for July to September rose about 34% to $36.25 billion, helped by higher oil prices and a one-off gain from a sale to Petronas. Its output fell as attacks hit pipelines and other facilities, Reuters and Euronews report.",
-   "matters": "Saudi Arabia pumped about 8 million barrels of oil a day in September, against just over 10 million before the war.",
-   "sources": [
-    {
-     "name": "RTÉ (Reuters)",
-     "url": "https://www.rte.ie/news/business/2026/1103/1597771-aramcos-q3-profit-rises-by-a-third-despite-attacks/"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/03/saudi-aramco-profits-jump-35-despite-attacks-on-oil-facilities"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/business/20261103-despite-attacks-saudi-aramco-posts-34-rise-in-net-profits-in-latest-quarter"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "serious": true,
-   "published": "2026-11-03T07:00:00Z",
-   "title": "Tenerife footballer Jesús de Miguel dies after on-field collision",
-   "why": "Jesús de Miguel, a 30-year-old forward for Spanish second-division club Tenerife, died in hospital on 3 November. He was hurt in a collision with Andorra's goalkeeper in stoppage time of a match on the Canary island of Tenerife the evening before. The match was abandoned.",
-   "matters": "Spanish police have opened a routine inquiry; the local chief prosecutor told the agency EFE that criminal charges were unlikely.",
-   "sources": [
-    {
-     "name": "ABC Australia (AP)",
-     "url": "https://www.abc.net.au/news/2026-11-04/football-jesus-de-miguel-dead-after-goalkeeper-clash-police/107343990"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/sports/2026/11/3/footballer-dies-after-on-field-collision"
-    },
-    {
-     "name": "RTÉ (PA)",
-     "url": "https://www.rte.ie/sport/soccer/2026/1103/1597759-tenerifes-jesus-de-miguel-dies-after-on-field-collision/"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-03T04:00:00Z",
-   "title": "Point of Law, bred by King Charles, wins the Melbourne Cup",
-   "why": "Favourite Point of Law won Australia's richest horse race at Flemington in Melbourne on 3 November by three and three-quarter lengths. Trainer Ciaron Maher also had the second and third horses, Zahrann and Juja Kibo, and jockey Ethan Brown won on his first Cup ride.",
-   "matters": "Maher is the first trainer in 166 runnings to fill the first three places; the King sold the colt this year.",
-   "sources": [
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-03/melbourne-cup-2026-live-flemington/107335812"
-    },
-    {
-     "name": "RNZ (AFP)",
-     "url": "https://www.rnz.co.nz/news/sport/2317725/point-of-law-wins-2026-melbourne-cup"
-    },
-    {
-     "name": "BloodHorse",
-     "url": "https://www.bloodhorse.com/horse-racing/articles/295821/point-of-law-leads-maher-trifecta-in-melbourne-cup"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-03T03:50:00Z",
-   "title": "Asian Cup in Saudi Arabia pushed back by almost a year",
-   "why": "The Asian Football Confederation said on 3 November that the 2027 men's Asian Cup will now run from 23 December 2027 to 21 January 2028, instead of January 2027. It cited \"exceptional circumstances\" in the region and travel problems. Saudi Arabia stays as host; FIFA must approve the dates.",
-   "matters": "Reports link the delay to attacks on Saudi Arabia claimed by Yemen's Houthis; other events there have also been moved or postponed.",
-   "sources": [
-    {
-     "name": "AFC",
-     "url": "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
-    },
-    {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/sport/football/2026/11/03/afc-postpones-2027-asian-cup-in-saudi-arabia-due-to-security-concerns/"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/sports/2026/11/3/afc-reschedules-asian-cup-2027-in-saudi-arabia-amid-regional-conflict"
-    },
-    {
-     "name": "NBC Sports",
-     "url": "https://www.nbcsports.com/soccer/news/2027-asian-cup-postponed-moved-back-11-months-due-to-current-exceptional-circumstances-in-the-region"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-11-03T03:30:00Z",
-   "title": "Australia's central bank raises interest rates to 4.85%, an 18-year high",
-   "why": "The Reserve Bank of Australia raised its cash rate by 0.25 points to 4.85% on Tuesday, its fifth rise this year, in a 6–3 vote. It says inflation, 4.3% in September, will stay above 3% for the coming year.",
-   "matters": "Australia's big four banks raise variable home loan rates from 13 November; ANZ estimates A$79 more a month on a A$500,000 loan.",
-   "sources": [
-    {
-     "name": "Reserve Bank of Australia",
-     "url": "https://www.rba.gov.au/media-releases/2026/mr-26-30.html"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-04/australian-banks-lift-interest-rates-after-rba-cash-rate-hike/107341858"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html"
-    },
-    {
-     "name": "RNZ",
-     "url": "https://www.rnz.co.nz/news/business/2317279/reserve-bank-of-australia-raises-its-cash-rate-to-4-point-85-percent"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-03T01:20:00Z",
-   "title": "Russian strike on Kharkiv hospital injures at least 73, Ukraine says",
-   "why": "A Russian strike hit a city hospital in Kharkiv, in north-eastern Ukraine, at about 03:20 on Tuesday, injuring at least 73 patients, staff and residents, Ukraine's prosecutor general says. President Zelenskyy says Russia launched 289 drones and 76 missiles overnight, mainly at energy sites.",
-   "matters": "Russia's defence ministry says it targeted power facilities supplying Ukraine's army; outages followed in several regions as winter approaches.",
-   "sources": [
-    {
-     "name": "Al Jazeera (Reuters)",
-     "url": "https://www.aljazeera.com/news/2026/11/3/at-least-73-injured-as-russia-bombs-ukrainian-hospital-and-power-plants"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/03/russia-pounds-ukraine-with-289-drones-and-17-ballistic-missiles-in-overnight-strikes-zelen"
-    },
-    {
-     "name": "Ukrinform",
-     "url": "https://www.ukrinform.net/rubric-ato/4180763-russian-strike-on-kharkiv-hospital-raises-injury-toll-to-73.html"
-    }
-   ]
-  },
-  {
-   "section": "curious",
-   "published": "2026-11-03T00:01:00Z",
-   "title": "Collins Dictionary names 'mogging' its word of the year",
-   "why": "Collins chose 'mogging', slang for outshining someone or something, as its 2026 word of the year on 3 November. It says use of the word rose 210% this year. Other words on its list include 'carspreading', 'ghost jobs', 'fricy' and 'P(doom)'.",
-   "matters": "The word began in online men's forums but is now mostly used jokingly by younger people, Collins says.",
-   "sources": [
-    {
-     "name": "ABC News (AP)",
-     "url": "https://abcnews.com/International/wireStory/collins-dictionary-chooses-mogging-2026-word-year-137804839"
-    },
-    {
-     "name": "The Irish Times",
-     "url": "https://www.irishtimes.com/culture/books/2026/11/03/mogging-collins-word-of-the-year-for-2026-has-roots-in-the-manosphere/"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/03/collins-english-dictionary-reveals-their-2026-word-of-the-year-do-you-know-what-mogging-me"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-04/mogging-word-of-the-year-maxxing-definition-/107344558"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "serious": true,
-   "developing": true,
-   "published": "2026-11-03T00:00:00Z",
-   "title": "Cyclone Murasu hits India's Andhra Pradesh coast, at least two dead",
-   "why": "Severe cyclonic storm Murasu came ashore near Ongole in Andhra Pradesh, south-east India, early on 3 November with winds gusting to 120km/h, India's weather department said. State disaster officials told PTI at least two people had died and more than 12,000 were in relief shelters.",
-   "matters": "It is the second cyclone to strike India's east coast in a week, after Cyclone Arnab.",
-   "sources": [
-    {
-     "name": "Al Jazeera (Reuters)",
-     "url": "https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast"
-    },
-    {
-     "name": "The Tribune (PTI)",
-     "url": "https://www.tribuneindia.com/news/india/cyclone-murasu-landfall-begins-heavy-rain-120-kmph-winds-batter-andhra-coast/"
-    },
-    {
-     "name": "ETV Bharat",
-     "url": "https://www.etvbharat.com/en/bharat/live-blog--cyclone-murasu-live-updates-landfall-andhra-pradesh-coast-odisha-tamil-nadu-weather-update-enn26110300486"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "published": "2026-11-02T22:04:00Z",
-   "title": "Washington state resident dies of bird flu caught from dairy cattle",
-   "why": "A resident of Yakima County in the US state of Washington has died after catching H5N1 bird flu from infected dairy cows, local health officials say. It is the first US bird flu death this year; two more human cases were confirmed in the county.",
-   "matters": "The US CDC says there is no sign of person-to-person spread and the risk to the public remains low.",
-   "sources": [
-    {
-     "name": "PBS NewsHour (AP)",
-     "url": "https://www.pbs.org/newshour/health/washington-state-resident-dies-from-bird-flu-following-exposure-to-infected-cattle"
-    },
-    {
-     "name": "CIDRAP",
-     "url": "https://www.cidrap.umn.edu/avian-influenza-bird-flu/yakima-county-washington-reports-2-more-avian-flu-cases-1-death"
-    },
-    {
-     "name": "Discover",
-     "url": "https://www.discovermagazine.com/first-u-s-bird-flu-death-of-2026-confirmed-following-washington-resident-s-exposure-to-infected-dairy-cows-49897"
-    }
-   ]
-  },
-  {
    "section": "world",
    "serious": true,
    "developing": true,
    "published": "2026-11-02T21:53:00Z",
-   "title": "Ukraine says Russian strike on Zaporizhzhia aid point killed at least 37",
-   "why": "Guided bombs hit a school used as an aid point in the village of Komyshuvakha, in south-eastern Ukraine, on Monday as residents gathered for aid, Ukrainian officials say. They now put the dead at 37, with 59 missing. Russia's defence ministry says it targeted Ukrainian military units.",
+   "title": "Ukraine says Russian strike on Zaporizhzhia aid point killed at least 40",
+   "why": "Guided bombs hit a school used as an aid point in the village of Komyshuvakha, in south-eastern Ukraine, on Monday as residents gathered for aid, Ukrainian officials say. They now put the dead at 40, with 59 missing. Russia's defence ministry says it targeted Ukrainian military units.",
    "matters": "The US says Russian and Ukrainian delegations will meet for new talks in Abu Dhabi on 10 and 11 November.",
    "sources": [
     {
@@ -573,125 +478,31 @@
     {
      "name": "ABC Australia",
      "url": "https://www.abc.net.au/news/2026-11-04/russian-strike-on-school-kills-dozens-n-ukraine/107343894"
+    },
+    {
+     "name": "NBC News (Reuters)",
+     "url": "https://www.nbcnews.com/world/ukraine/russia-bomb-aid-center-ukraine-dead-missing-zelenskyy-bodies-rcna607458"
     }
    ],
-   "changed": "Updated: officials raised the death toll to 37, with 59 people missing."
-  },
-  {
-   "section": "tech",
-   "published": "2026-11-02T21:30:00Z",
-   "title": "Apple warns rising memory chip costs will squeeze its profit margins",
-   "why": "Apple's revenue rose 12% to $114.5 billion in July to September, with iPhone sales up about 17%, in the first results under chief executive John Ternus. But it forecast gross margins of 45–46% for the holiday quarter, as AI demand pushes up memory chip prices.",
-   "matters": "Apple has already raised some iPhone and MacBook prices to offset memory costs, which it expects to keep rising next year.",
-   "sources": [
-    {
-     "name": "RTÉ (Reuters)",
-     "url": "https://www.rte.ie/news/business/2026/1103/1597725-apple-forecasts-margin-drop-as-rising-memory-costs-bite/"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/03/apple-earnings-beat-expectations-but-rising-chip-costs-worry-investors"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/03/apple-margin-oil-iran.html"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "published": "2026-11-02T20:00:00Z",
-   "title": "Traces of blood molecules found in 115-million-year-old dinosaur bones from Brazil",
-   "why": "A team led by Australia's Curtin University reports heme, part of haemoglobin, inside what it interprets as fossilised red blood cells in the leg bones of Aratasaurus, a feathered dinosaur found in north-east Brazil. The study was published in the journal PNAS.",
-   "matters": "If it holds up, scientists could study the blood and metabolism of extinct animals; some outside experts urge caution.",
-   "sources": [
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/science/2026-11-03/signs-of-mineralised-molecules-from-dinosaurs-red-blood-cell/107335770"
-    },
-    {
-     "name": "New Atlas",
-     "url": "https://newatlas.com/biology/fossilized-blood-cells-dinosaur-bone"
-    },
-    {
-     "name": "Discover",
-     "url": "https://www.discovermagazine.com/evidence-of-ancient-blood-found-for-the-first-time-in-a-115-million-year-old-dinosaur-fossil-49887"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "developing": true,
-   "published": "2026-11-02T18:00:00Z",
-   "title": "NASA's Swift space telescope expected to fall back to Earth today",
-   "why": "NASA's Swift observatory, launched in 2004 to study gamma-ray bursts, was predicted to re-enter the atmosphere around 08:30 GMT on 4 November, give or take 11 hours, the US Space Force says. A commercial mission to boost its sinking orbit failed this summer.",
-   "matters": "Most of it should burn up; NASA puts the chance of anyone being harmed at about 1 in 2,100.",
-   "sources": [
-    {
-     "name": "NASA",
-     "url": "https://science.nasa.gov/blogs/swift/2026/11/02/nasas-swift-observatory-to-re-enter-atmosphere/"
-    },
-    {
-     "name": "Spaceflight Now",
-     "url": "https://spaceflightnow.com/2026/11/03/nasas-neil-gehrels-swift-observatory-to-burn-up-this-week-after-two-decades-in-space/"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/science/2026-11-03/nasa-swift-telescope-crash-landing/100018476"
-    }
-   ]
-  },
-  {
-   "section": "curious",
-   "published": "2026-11-02T15:00:00Z",
-   "title": "Karl Bushby reaches home in England after 28-year walk around the world",
-   "why": "British adventurer Karl Bushby arrived at his mother's house in Hull on 2 November, having set off on foot from Punta Arenas in southern Chile in November 1998. AP and Reuters put the journey at about 50,000 km; he swam the English Channel last month to keep it unbroken.",
-   "matters": "He set himself a rule of using no transport at all, crossing four continents and about 30 countries on foot.",
-   "sources": [
-    {
-     "name": "PBS NewsHour (AP)",
-     "url": "https://www.pbs.org/newshour/world/karl-bushby-embraces-his-mother-as-he-completes-his-28-year-walk-around-world"
-    },
-    {
-     "name": "Al Jazeera (Reuters)",
-     "url": "https://www.aljazeera.com/news/2026/11/2/british-adventurer-karl-bushby-returns-home-after-28-year-walk-around-world"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/englishman-karl-bushby-returns-home-walking-goliath-expedition/"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-11-02T14:32:00Z",
-   "title": "Anthropic reports $17 billion quarterly revenue in updated listing filing",
-   "why": "Anthropic, maker of the Claude AI models, filed an updated US stock market listing document on Monday showing third-quarter revenue of about $17 billion, roughly 12 times a year earlier. It made an operating loss of $567 million and has about $895 billion in commitments, mostly for computing power.",
-   "matters": "Its planned Nasdaq listing, possibly later in November, is widely watched as a test of investor confidence in AI.",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/03/anthropic-swings-back-to-operating-loss-as-895-billion-compute-bill-looms-over-ipo"
-    },
-    {
-     "name": "US SEC (filing)",
-     "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/0001628280-26-068676-index.htm"
-    }
-   ]
+   "changed": "Updated: officials raised the death toll to 40, with 59 people still missing."
   },
   {
    "section": "tech",
    "developing": true,
-   "changed": "Updated: Germany, Romania and the UK reported attacks, bringing the total to at least 11 countries.",
+   "changed": "Updated: French blood banks say an attack on their cold stores was contained.",
    "published": "2026-11-02T08:00:00Z",
-   "title": "Cyberattacks on supermarket fridges spread to at least 11 European countries",
-   "why": "Hackers remotely switched off or heated fridges and freezers at supermarkets in Belgium, Ireland, Italy, Sweden, Germany, Romania and other European countries this week, Al Jazeera and Euronews report. No group has claimed responsibility; the European Commission says the attacks are 'not isolated incidents'.",
+   "title": "Cyberattacks on fridges spread across Europe and reach French blood banks",
+   "why": "Hackers have tampered with refrigeration at supermarkets in at least 11 European countries, Al Jazeera reports, and at three French blood-bank cold stores overnight into Monday. France's health ministry says alarms worked and no blood was lost. No group has claimed responsibility.",
    "matters": "It follows a similar attack on refrigeration systems at hundreds of French supermarkets in October that forced stores to throw away food.",
    "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/france/20261104-french-blood-banks-foil-new-cyberattack-targeting-refrigerators"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-05/french-blood-banks-hit-alongside-cyberattack-on-european-superma/107348302"
+    },
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks"
@@ -784,33 +595,6 @@
     {
      "name": "The Business Standard",
      "url": "https://www.tbsnews.net/economy/rmg/labour-leaders-see-new-wage-announcement-dec-may-ease-rmg-unrest-1590881"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "serious": true,
-   "developing": true,
-   "published": "2026-11-01T01:50:00Z",
-   "title": "Bolivia declares national emergency as El Niño drought hits farming families",
-   "why": "Bolivia's President Rodrigo Paz declared a national emergency on 31 October over drought and other El Niño risks. The defence ministry says at least 114,000 families in six of nine departments have been hit since June, with more than 75,000 cattle lost.",
-   "matters": "Officials warn the coming rainy season could bring floods to other parts of the country while dry areas stay parched.",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/02/bolivia-declares-national-emergency-over-el-nino-as-drought-hits-over-78000-families"
-    },
-    {
-     "name": "Infobae (EFE)",
-     "url": "https://www.infobae.com/america/agencias/2026/11/01/bolivia-reporta-114048-familias-afectadas-por-la-sequia-relacionada-con-el-nino/"
-    },
-    {
-     "name": "Los Tiempos",
-     "url": "https://www.lostiempos.com/actualidad/pais/20261101/sequia-golpea-mas-114-mil-familias-bolivia-se-prepara-fenomeno-nino"
-    },
-    {
-     "name": "El Deber",
-     "url": "https://eldeber.com.bo/pais/nino-reportan-114-000-familias-afectadas-sequia_1793532922"
     }
    ]
   }
