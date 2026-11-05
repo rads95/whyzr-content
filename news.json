@@ -1,6 +1,92 @@
 {
- "updated": "2026-11-05T08:29:23Z",
+ "updated": "2026-11-05T13:51:37Z",
  "items": [
+  {
+   "section": "money",
+   "published": "2026-11-05T12:00:00Z",
+   "title": "Bank of England raises interest rates to 4%, first rise since 2023",
+   "why": "The Bank of England raised its main rate from 3.75% to 4% on Thursday, by eight votes to one; one member wanted 4.25%. It blames higher fuel costs from the Iran war and expects UK inflation, 3.5% in September, to reach about 5% by mid-2027.",
+   "matters": "Borrowers on variable and tracker mortgages will pay more; the Bank says further rises are possible but not certain.",
+   "sources": [
+    {
+     "name": "Bank of England",
+     "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html"
+    },
+    {
+     "name": "Euronews (AP)",
+     "url": "https://www.euronews.com/2026/11/05/bank-of-england-raises-key-interest-rate-for-first-time-in-over-3-years"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-05T10:40:00Z",
+   "title": "Saudi-led coalition says it shot down Houthi missile fired towards Medina",
+   "why": "The Saudi-led coalition in Yemen says its air defences destroyed a ballistic missile fired by Yemen's Houthis at Saudi Arabia's Medina region on Thursday. Saudi civil defence had earlier warned of danger near the Red Sea port of Yanbu. No damage or casualties have been reported.",
+   "matters": "Yanbu is where a pipeline lets Saudi oil avoid the Strait of Hormuz.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/middle-east/20261105-houthi-missiles-fired-at-medina-intercepted-saudi-coalition-says"
+    },
+    {
+     "name": "Middle East Eye",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-houthis-fired-missile-medina"
+    },
+    {
+     "name": "Arab News",
+     "url": "https://www.arabnews.com/saudi-arabia/saudi-coalition-says-houthi-missile-fired-at-medina-region-intercepted-3009937"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-05T10:35:00Z",
+   "title": "Cristiano Ronaldo retires from international football with Portugal",
+   "why": "Cristiano Ronaldo, 41, announced on social media on Thursday that he is retiring from Portugal's national team after 23 years. He leaves with men's international records of 234 appearances and 146 goals, and won Euro 2016 and two Nations League titles.",
+   "matters": "It follows a dispute with coach Jorge Jesus; Ronaldo will keep playing for Al Nassr in Saudi Arabia.",
+   "sources": [
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/soccer/story/_/id/49266866/cristiano-ronaldo-retires-international-football"
+    },
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/football/news/13593800/cristiano-ronaldo-retires-from-international-football-after-glittering-portugal-career-that-spanned-23-years"
+    },
+    {
+     "name": "NBC Sports",
+     "url": "https://www.nbcsports.com/soccer/news/cristiano-ronaldo-announces-international-retirement-from-portugal"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "developing": true,
+   "published": "2026-11-05T06:00:00Z",
+   "title": "French unions and students strike and march over pay and living costs",
+   "why": "France's main unions held nationwide strikes and marches on Thursday, demanding higher wages and better public services, joined by school students. The CGT union says more than 250,000 people marched in 73 cities by lunchtime. The Eiffel Tower closed and police used tear gas in Lyon.",
+   "matters": "It follows earlier protests in France over living costs, public services and education.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs"
+    },
+    {
+     "name": "The Local France (AFP)",
+     "url": "https://www.thelocal.fr/20261105/france-workers-strike-and-march-for-dignified-wage"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/video/2026/11/05/france-workers-and-students-unite-in-nationwide-protests-over-living-costs"
+    }
+   ]
+  },
   {
    "section": "world",
    "published": "2026-11-05T03:30:00Z",
@@ -294,12 +380,20 @@
   {
    "section": "world",
    "developing": true,
-   "changed": "Updated: counting has begun and the two biggest parties are close.",
+   "changed": "Updated: with about 36% counted, the ANC leads the DA by about five points.",
    "published": "2026-11-04T05:00:00Z",
-   "title": "ANC and DA neck and neck in early South African local results",
-   "why": "With about a fifth of votes counted on Thursday, the ANC had about 32% and the Democratic Alliance about 31%, early figures from the electoral commission show. The DA leads strongly in Cape Town. The commission expects final results within seven days of Wednesday's vote.",
+   "title": "ANC narrowly leads DA as South African local votes are counted",
+   "why": "With about 36% of votes counted by midday on Thursday, the ANC had about 32% and the Democratic Alliance 27%, Reuters reports. The DA leads in Cape Town, Johannesburg, Ekurhuleni and Nelson Mandela Bay, early counts show. Full results are expected on Sunday.",
    "matters": "The ANC won 46% in the last local elections in 2021; many councils may now need coalitions.",
    "sources": [
+    {
+     "name": "CNBC Africa (Reuters)",
+     "url": "https://www.cnbcafrica.com/2026/anc-narrowly-leads-da-in-early-south-africa-municipal-election-results"
+    },
+    {
+     "name": "eNCA",
+     "url": "https://www.enca.com/elections-2026-enca/iec-results-2026"
+    },
     {
      "name": "SABC News",
      "url": "https://www.sabcnews.com/sabcnews/anc-takes-42-seats-with-8-of-votes-counted/"
@@ -474,23 +568,29 @@
   {
    "section": "world",
    "published": "2026-11-03T15:41:00Z",
-   "title": "False bomb threats disrupt flights across Europe",
-   "why": "At least seven flights to Poland, Italy, Spain and Bulgaria were searched or diverted on Tuesday after bomb threats, and a cruise ship bound for Israel was evacuated off the Greek island of Syros. No explosives were found and all the planes landed safely.",
-   "matters": "No one has claimed responsibility, and officials have not said who was behind the threats.",
+   "title": "Hoax bomb threats disrupt flights across Europe for a third day",
+   "why": "At least 14 European flights received hoax bomb threats on Thursday, RTÉ and Euronews report, after similar threats on Monday and Tuesday. Three were diverted, including an Aer Lingus Dublin–Rome flight sent to a French air base. No explosives were found and all landed safely.",
+   "matters": "No one has claimed responsibility; the EU says it is too early to say whether the threats are linked.",
    "sources": [
     {
-     "name": "France 24 (AFP, AP)",
-     "url": "https://www.france24.com/en/europe/20261103-bomb-threats-disrupt-europe-flights"
+     "name": "France 24 (AFP, AP, Reuters)",
+     "url": "https://www.france24.com/en/europe/20261105-dublin-rome-flight-diverted-to-france-over-bomb-threat"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found"
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/news/europe/2026/1105/1598073-aer-lingus-flight-diverted/"
     },
     {
-     "name": "ABC Australia (Reuters)",
-     "url": "https://www.abc.net.au/news/2026-11-03/warsaw-airport-closed-after-unplanned-landing-of-london-plane/107343338"
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/05/airbus-plane-from-dublin-to-rome-diverted-to-france-after-bomb-alert"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-05/bomb-threat-diverts-planes-across-europe/107352984"
     }
-   ]
+   ],
+   "developing": true,
+   "changed": "Updated: a third and bigger wave of hoax threats hit at least 14 flights on Thursday."
   },
   {
    "section": "world",
@@ -536,27 +636,6 @@
    ]
   },
   {
-   "section": "science",
-   "published": "2026-11-03T14:00:00Z",
-   "title": "CERN experiment finds evidence of a one-in-ten-billion particle decay",
-   "why": "Physicists on CERN's LHCb experiment near Geneva announced evidence that a beauty particle can decay into two muons, which theory says happens about once in ten billion times. The signal is 3.2 sigma: evidence, but short of the 5 sigma needed to claim a discovery.",
-   "matters": "The search began in 1984; rare decays like this are where physicists look for signs of unknown particles or forces.",
-   "sources": [
-    {
-     "name": "CERN",
-     "url": "https://home.cern/lhcb-finds-evidence-of-one-in-ten-billion-particle-decay/"
-    },
-    {
-     "name": "UKRI",
-     "url": "https://www.ukri.org/news/scientists-find-evidence-of-rarest-particle-decay-after-42-years/"
-    },
-    {
-     "name": "Sci.News",
-     "url": "https://www.sci.news/physics/cern-ultra-rare-particle-decay-15171.html"
-    }
-   ]
-  },
-  {
    "section": "sport",
    "developing": true,
    "changed": "Updated: host Germany says it is considering pulling out.",
@@ -580,27 +659,6 @@
     {
      "name": "Euronews",
      "url": "https://www.euronews.com/2026/11/04/hockey-nations-refuse-to-play-russia-as-germany-weighs-pulling-out-as-host"
-    }
-   ]
-  },
-  {
-   "section": "culture",
-   "published": "2026-11-03T11:50:00Z",
-   "title": "Philippe Jaenada wins France's Prix Goncourt for a true-crime novel",
-   "why": "The Académie Goncourt gave France's top literary prize to Philippe Jaenada, 62, on 3 November in Paris, by six votes to three. His novel 'L'Inconnue du quai de Javel' investigates the unsolved killing of a young woman found by the Seine in 1949.",
-   "matters": "The prize itself is just €10, but a Goncourt usually turns the winning book into one of France's biggest sellers before Christmas.",
-   "sources": [
-    {
-     "name": "Radio-Canada (AFP)",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297742/prix-goncourt-jaenada-litterature"
-    },
-    {
-     "name": "franceinfo",
-     "url": "https://www.franceinfo.fr/culture/livres/prix-litteraires/philippe-jaenada-laureat-du-prix-goncourt-2026-pour-l-inconnue-du-quai-de-javel_8265872.html"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/03/philippe-jaenada-wins-2026-prix-goncourt-for-novel-linconnue-du-quai-de-javel"
     }
    ]
   },
@@ -695,33 +753,6 @@
     {
      "name": "Times of Israel",
      "url": "https://timesofisrael.com/opposition-chiefs-meet-agree-to-launch-coalition-talks-but-path-remains-unclear"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "developing": true,
-   "changed": "Updated: most workers are back and the wage board has agreed to raise pay.",
-   "published": "2026-11-01T12:58:00Z",
-   "title": "Bangladesh garment workers largely return after wage protests",
-   "why": "Most Bangladeshi garment workers went back to work on Thursday after days of protests over pay, AFP reports; police said over 95% of factories in Narayanganj had reopened. The new wage board agreed on Wednesday to raise the minimum wage and meets again on 9 November.",
-   "matters": "Garments bring in about four-fifths of Bangladesh's export earnings and employ more than four million people.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261105-bangladesh-garment-workers-largely-return-after-wage-protests"
-    },
-    {
-     "name": "The Business Standard",
-     "url": "https://www.tbsnews.net/economy/rmg/bgmea-bkmea-assure-speedy-wage-revision-urge-rmg-workers-return-work-1593086"
-    },
-    {
-     "name": "The Daily Star",
-     "url": "https://www.thedailystar.net/business/news/rmg-wage-board-meet-11am-today-amid-protests-4315206"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/3/going-hungry-garment-workers-in-bangladesh-say-wages-barely-cover-needs"
     }
    ]
   }
