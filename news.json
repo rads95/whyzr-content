@@ -1,67 +1,338 @@
 {
- "updated": "2026-11-05T13:51:37Z",
+ "updated": "2026-11-07T15:37:17Z",
  "items": [
   {
-   "section": "money",
-   "published": "2026-11-05T12:00:00Z",
-   "title": "Bank of England raises interest rates to 4%, first rise since 2023",
-   "why": "The Bank of England raised its main rate from 3.75% to 4% on Thursday, by eight votes to one; one member wanted 4.25%. It blames higher fuel costs from the Iran war and expects UK inflation, 3.5% in September, to reach about 5% by mid-2027.",
-   "matters": "Borrowers on variable and tracker mortgages will pay more; the Bank says further rises are possible but not certain.",
+   "section": "sport",
+   "published": "2026-11-07T11:00:00Z",
+   "title": "New Zealand beat Tonga 34-10 to reach Rugby League World Cup final",
+   "why": "New Zealand's Kiwis beat Tonga 34-10 in Newcastle, Australia, on Saturday, after trailing 10-6 in the first half. It is their first World Cup final since 2013. They will play Australia or Samoa in Brisbane next Sunday.",
+   "matters": "New Zealand's women's team, the Kiwi Ferns, also reached their final, beating Samoa 32-0.",
    "sources": [
     {
-     "name": "Bank of England",
-     "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026"
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261107-new-zealand-sweep-into-rugby-league-world-cup-final"
     },
     {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html"
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-07/rugby-league-world-cup-live-semifinals-from-newcastle/107345014"
     },
     {
-     "name": "Euronews (AP)",
-     "url": "https://www.euronews.com/2026/11/05/bank-of-england-raises-key-interest-rate-for-first-time-in-over-3-years"
+     "name": "NZ Herald",
+     "url": "https://www.nzherald.co.nz/sport/rugby-league/kiwis-v-tonga-live-updates-rugby-league-world-cup-semi-final-from-newcastle/WDHLJNY43ZAXFMMLQRZGNKR22Y/"
+    },
+    {
+     "name": "RNZ",
+     "url": "https://www.rnz.co.nz/news/sport/2411167/rugby-league-world-cup-kiwis-kick-tonga-out-on-way-to-final"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "developing": true,
+   "published": "2026-11-07T10:30:00Z",
+   "title": "New Zealand election too close to call after election-night count",
+   "why": "With all polling places counted after Saturday's election, National has about 29.4% and Labour 29.2%, RNZ reports. National and its partners ACT and NZ First are projected to win a one-seat majority. About 700,000 special votes are still to be counted; final results are due on 27 November.",
+   "matters": "The centrist Opportunity Party has entered parliament and could hold the balance of power.",
+   "sources": [
+    {
+     "name": "RNZ",
+     "url": "https://www.rnz.co.nz/news/election2026"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-08/new-zealand-election-results-key-takeaways/107359778"
+    },
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261107-new-zealand-counts-the-votes-in-knife-edge-poll"
     }
    ]
   },
   {
    "section": "world",
    "serious": true,
-   "published": "2026-11-05T10:40:00Z",
-   "title": "Saudi-led coalition says it shot down Houthi missile fired towards Medina",
-   "why": "The Saudi-led coalition in Yemen says its air defences destroyed a ballistic missile fired by Yemen's Houthis at Saudi Arabia's Medina region on Thursday. Saudi civil defence had earlier warned of danger near the Red Sea port of Yanbu. No damage or casualties have been reported.",
-   "matters": "Yanbu is where a pipeline lets Saudi oil avoid the Strait of Hormuz.",
+   "published": "2026-11-07T03:00:00Z",
+   "title": "Russian missiles hit Kyiv's power supply and a major bridge",
+   "why": "Russia fired 36 ballistic missiles and 172 drones overnight into Saturday, mostly at Kyiv and the surrounding region, Ukraine says. Strikes damaged the Northern Bridge over the Dnipro and substations carrying power from two nuclear plants. Officials say at least one person was killed and several injured.",
+   "matters": "It comes days before US-backed talks between Ukraine and Russia in Abu Dhabi on Tuesday and Wednesday.",
    "sources": [
     {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/middle-east/20261105-houthi-missiles-fired-at-medina-intercepted-saudi-coalition-says"
+     "name": "RTÉ (Reuters)",
+     "url": "https://www.rte.ie/news/world/2026/1107/1598347-russia-ukraine/"
     },
     {
-     "name": "Middle East Eye",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-houthis-fired-missile-medina"
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261107-moscow-strikes-kyiv-as-ukraine-prepares-for-talks-with-russia-and-the-us"
     },
     {
-     "name": "Arab News",
-     "url": "https://www.arabnews.com/saudi-arabia/saudi-coalition-says-houthi-missile-fired-at-medina-region-intercepted-3009937"
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-after-zelensky-warns-of-mass-attack/"
     }
    ]
   },
   {
-   "section": "sport",
-   "published": "2026-11-05T10:35:00Z",
-   "title": "Cristiano Ronaldo retires from international football with Portugal",
-   "why": "Cristiano Ronaldo, 41, announced on social media on Thursday that he is retiring from Portugal's national team after 23 years. He leaves with men's international records of 234 appearances and 146 goals, and won Euro 2016 and two Nations League titles.",
-   "matters": "It follows a dispute with coach Jorge Jesus; Ronaldo will keep playing for Al Nassr in Saudi Arabia.",
+   "section": "world",
+   "published": "2026-11-06T21:55:00Z",
+   "title": "Paraguay's Senate removes President Santiago Peña after a bank collapse",
+   "why": "On Friday, 44 of the 45 members of Paraguay's Senate voted to remove President Santiago Peña over the collapse of Ueno, a digital bank with nearly 3 million customers. Vice-President Pedro Alliana was sworn in to serve until 2028. Prosecutors placed Peña under house arrest; he denies wrongdoing.",
+   "matters": "Many Paraguayans lost access to their savings; Alliana has promised depositors will be fully compensated.",
    "sources": [
     {
-     "name": "ESPN",
-     "url": "https://www.espn.com/soccer/story/_/id/49266866/cristiano-ronaldo-retires-international-football"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in"
     },
     {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/football/news/13593800/cristiano-ronaldo-retires-from-international-football-after-glittering-portugal-career-that-spanned-23-years"
+     "name": "RTÉ (AFP)",
+     "url": "https://www.rte.ie/news/world/2026/1107/1598335-paraguay-bank-collapse-sees-president-impeached-arrested/"
     },
     {
-     "name": "NBC Sports",
-     "url": "https://www.nbcsports.com/soccer/news/cristiano-ronaldo-announces-international-retirement-from-portugal"
+     "name": "MercoPress",
+     "url": "https://en.mercopress.com/2026/11/07/paraguay-s-senate-removes-santiago-pena-who-is-placed-under-arrest-and-pedro-alliana-takes-office"
+    },
+    {
+     "name": "ABC News (AP)",
+     "url": "https://abcnews.com/International/wireStory/paraguays-pea-loses-top-aides-impeachment-trial-resumes-137913219"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "published": "2026-11-06T20:00:00Z",
+   "title": "Polar vortex weakens weeks earlier than ever recorded",
+   "why": "The polar vortex, a ring of cold winds high above the Arctic, is breaking down earlier than ever recorded, forecasters at the ECMWF told AFP. It usually peaks around January. The UK Met Office calls it exceptional but says it does not mean a cold spell is certain.",
+   "matters": "An early breakdown raises the chance of cold snaps in Europe, North America and East Asia later in November and December.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261106-polar-vortex-faltering-weeks-earlier-than-ever-recorded"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/06/polar-vortex-weakens-weeks-ahead-of-schedule-raising-risk-of-cold-spells"
+    },
+    {
+     "name": "Met Office",
+     "url": "https://www.metoffice.gov.uk/blog/2026/deep-dive-could-changes-high-above-the-arctic-influence-the-uks-weather"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-06T19:00:00Z",
+   "title": "Trump names Stephen Miller as White House chief of staff",
+   "why": "President Donald Trump said on Friday that Stephen Miller, 41, his deputy chief of staff and the architect of his immigration crackdown, will replace Susie Wiles as chief of staff from Monday. Wiles is moving to Trump's political operation. The change follows Republican losses in Tuesday's midterms.",
+   "matters": "House Democratic leader Hakeem Jeffries called Miller an extremist; the White House calls him one of Trump's most trusted advisers.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/06/trump-appoints-immigration-hardliner-stephen-miller-as-new-chief-of-staff"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-07/donald-trump-cos-susie-wiles-to-be-replaced-by-stephen-miller/107358840"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "serious": true,
+   "published": "2026-11-06T16:00:00Z",
+   "title": "US measles cases pass 5,000, the most in 35 years",
+   "why": "The US has recorded 5,182 confirmed measles cases so far in 2026, the CDC said on Friday, more than double last year's 2,289 and the most since 1991. About 96% of cases are in people who are unvaccinated or whose status is unknown. States report at least eight deaths.",
+   "matters": "The US is expected to lose its measles-elimination status, held since 2000, at a regional health meeting next week.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/06/us-measles-cases-exceed-5000-in-2026-reaching-their-highest-level-in-35-years"
+    },
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261106-us-reports-highest-number-of-measles-cases-in-35-years"
+    },
+    {
+     "name": "CIDRAP",
+     "url": "https://www.cidrap.umn.edu/measles/us-measles-total-2026-tops-5100-cases"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-06T13:30:00Z",
+   "title": "US economy adds 165,000 jobs in October, far more than expected",
+   "why": "US employers added 165,000 jobs in October, against forecasts of about 65,000, and unemployment fell to 4.1%, the Labor Department said on Friday. Earlier months were revised up by 84,000. Average pay rose 3.1% over the year, less than inflation.",
+   "matters": "Strong hiring makes a Federal Reserve interest rate rise in December more likely, economists say.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261106-us-job-growth-tops-expectations-in-october"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/business/economy/us-added-jobs-october-risks-stagnation-rcna607812"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-11-06T13:00:00Z",
+   "title": "Tesla to stop making the Cybertruck in Texas from mid-2027",
+   "why": "Elon Musk said on Friday that Tesla will wind down Cybertruck production at its Texas factory around mid-2027, to make room for its Cybercab robotaxi. US Cybertruck sales fell 48% in 2025 to about 20,000, far below the 250,000 a year Musk once predicted.",
+   "matters": "Musk says existing Cybertrucks will stay on the road; it is unclear whether production will move elsewhere.",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/06/elon-musks-tesla-to-wind-down-cybertruck-production-next-year"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-07/tesla-to-pull-the-plug-on-cybertruck/107359058"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-11-06T11:00:00Z",
+   "title": "EU says TikTok's For You feed breaks its online safety law",
+   "why": "The European Commission said on Friday that TikTok's For You feed breaches the Digital Services Act by leading users into 'rabbit holes' of content about sadness, isolation or body image. It wants TikTok to give users' stated preferences more weight. TikTok calls the findings fundamentally inaccurate.",
+   "matters": "The findings are preliminary; if confirmed, TikTok could be fined up to 6% of its global yearly turnover.",
+   "sources": [
+    {
+     "name": "European Commission",
+     "url": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/06/eu-charges-tiktok-harmful-algorithmic-rabbit-hole-effects.html"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/06/eu-tells-tiktok-to-change-harmful-for-you-feed-over-rabbit-hole-effect"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-06T10:00:00Z",
+   "title": "Kenyan cult leader Paul Mackenzie jailed for 200 years",
+   "why": "Kenya's High Court in Mombasa on Friday sentenced preacher Paul Mackenzie to 200 years in prison over the deaths of 191 people, 190 of them children, in Shakahola Forest. Prosecutors said he urged followers to starve themselves to reach heaven. Twenty-eight others received 10 to 160 years.",
+   "matters": "The judge rejected the death penalty; many families are still waiting for relatives' remains to be identified.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison-1"
+    },
+    {
+     "name": "The Star (Kenya)",
+     "url": "https://www.the-star.co.ke/news/2026-11-06-mackenzie-sentenced-to-200-years-in-prison-over-shakahola-killings"
+    },
+    {
+     "name": "The Standard (Kenya)",
+     "url": "https://www.standardmedia.co.ke/national/article/2001561699/shakahola-massacre-paul-makenzi-sentenced-to-200-years-in-prison"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "developing": true,
+   "published": "2026-11-06T08:33:00Z",
+   "title": "Hoax bomb threats spread from European flights to newsrooms",
+   "why": "Ireland's RTÉ evacuated its Dublin headquarters on Friday after an emailed bomb threat, and Bulgaria's Nova TV and Britain's Sky also received threats, Reuters reports. More flights were escorted or searched across Europe. No explosives have been found and every plane landed safely.",
+   "matters": "No government has said who is behind the week of threats; Russia denies involvement.",
+   "sources": [
+    {
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/news/ireland/2026/1106/1598241-rte-evacuation/"
+    },
+    {
+     "name": "ABC Australia (Reuters)",
+     "url": "https://www.abc.net.au/news/2026-11-07/brk-bomb-threats-planes-europe/107358382"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-06T08:00:00Z",
+   "title": "At least 30 killed in strike on market in Yemen's Taiz province",
+   "why": "At least 30 people were killed and eight injured when a market in Taiz province, south-western Yemen, was hit on Friday morning, Houthi and local officials say. The Houthis blame Saudi air strikes; Yemen's government says a Houthi ballistic missile hit it. Neither account has been independently verified.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market"
+    },
+    {
+     "name": "NBC News (AP)",
+     "url": "https://www.nbcnews.com/world/yemen/airstrikes-market-southwestern-yemen-kill-least-30-houthis-say-rcna607908"
+    },
+    {
+     "name": "Arab News",
+     "url": "https://www.arabnews.com/middle-east/yemeni-forces-accuse-houthis-of-deadly-market-attack-in-taiz-3010200"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "developing": true,
+   "published": "2026-11-05T20:17:00Z",
+   "title": "Israel's president to name who forms the next government on Sunday",
+   "why": "Parties with 67 of the Knesset's 120 seats recommended opposition leader Gadi Eisenkot as prime minister, and parties with 46 backed Benjamin Netanyahu, President Isaac Herzog said on Thursday. Herzog will decide on Sunday who gets the first chance to form a government.",
+   "matters": "The two Arab-led parties backed Eisenkot; the nominee then has 28 days to build a coalition.",
+   "sources": [
+    {
+     "name": "Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog_entry/herzog-says-eisenkot-got-67-nods-as-pm-but-he-will-only-hand-over-mandate-on-sunday/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/middle-east/20261106-israel-s-eisenkot-claims-significant-progress-in-coalition-talks-as-opposition-eases-on-ultra-orthodox-draft"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "serious": true,
+   "developing": true,
+   "published": "2026-11-05T14:26:00Z",
+   "title": "Russell Brand found guilty of rape and sexual assault",
+   "why": "A jury at Southwark Crown Court in London found comedian Russell Brand, 51, guilty on Thursday of one rape and three sexual assaults between 2004 and 2009. He was cleared of two other rape charges and one other charge. He denied all of them and is in custody.",
+   "matters": "The judge said a significant prison sentence is inevitable; sentencing is due on Monday.",
+   "sources": [
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/world/united-kingdom/russell-brand-guilty-rape-sexual-assault-rcna606967"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-06/russell-brand-jury-verdict/107353304"
     }
    ]
   },
@@ -89,326 +360,28 @@
   },
   {
    "section": "world",
-   "published": "2026-11-05T03:30:00Z",
-   "title": "Hong Kong activist Joshua Wong jailed for 10 more years",
-   "why": "Hong Kong's High Court sentenced pro-democracy activist Joshua Wong, 30, to 10 years in prison on Thursday for conspiring to collude with foreign forces under the national security law. He had pleaded guilty in September and was due for release in January.",
-   "matters": "The US consulate and rights groups condemned the sentence; China told other countries not to interfere in Hong Kong's courts.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-05/hong-kong-democracy-activist-joshua-wong-jailed-for-10-years/107350986"
-    },
-    {
-     "name": "Hong Kong Free Press",
-     "url": "https://hongkongfp.com/2026/11/05/breaking-jailed-hong-kong-activist-joshua-wong-sentenced-to-10-years-over-foreign-collusion/"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "serious": true,
-   "published": "2026-11-05T03:03:00Z",
-   "title": "Alan Jones, 1980 Formula One world champion, dies aged 80",
-   "why": "Australian racing driver Alan Jones, who won the 1980 Formula One world title with Williams, has died aged 80 after a short illness, his wife said on Thursday. He won 12 Grands Prix and later commentated on F1 for Australian television.",
-   "matters": "He and Jack Brabham are the only Australians to have won the Formula One drivers' title.",
-   "sources": [
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-05/australian-motor-racing-icon-alan-jones-dies-aged-80/107350036"
-    },
-    {
-     "name": "ESPN",
-     "url": "https://www.espn.com/f1/story/_/id/50384560/1980-f1-world-champion-alan-jones-dies-aged-80"
-    },
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261105-australian-f1-great-alan-jones-dies-aged-80-reports"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-05T03:00:00Z",
-   "title": "South Korea plans naval mission near the Strait of Hormuz",
-   "why": "South Korea's government on Thursday backed a plan to extend its Gulf of Aden anti-piracy unit's area to waters off Oman, near the Strait of Hormuz, adding a patrol plane and mine-clearing teams. It still needs cabinet and parliamentary approval. Seoul says the mission is non-combat.",
-   "matters": "About a fifth of the world's oil normally passes through the strait; Iran has warned Seoul against the deployment.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/asia-pacific/20261105-south-korea-military-mission-strait-of-hormuz"
-    },
-    {
-     "name": "Korea JoongAng Daily",
-     "url": "https://www.koreajoongangdaily.com/korea/korea-expands-antipiracy-mission-toward-oman-as-us-pressure-builds-over-strait-of-hormuz/12957065"
-    },
-    {
-     "name": "Seoul Economic Daily",
-     "url": "https://en.sedaily.com/politics/2026/11/05/korea-to-expand-cheonghae-unit-mission-toward-hormuz-add"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "serious": true,
-   "published": "2026-11-04T23:40:00Z",
-   "title": "Pilot whales die in mass stranding on New Zealand's North Island",
-   "why": "Dozens of pilot whales stranded at Ngawi, near Cape Palliser at the southern tip of New Zealand's North Island, on Thursday. The conservation department counted about 20 on the beach and locals reported up to 50. Rescuers refloated two, but the last survivors died, Project Jonah says.",
-   "matters": "The conservation department says the area has not had a mass stranding since the 1990s; the cause is not yet known.",
-   "sources": [
-    {
-     "name": "1News",
-     "url": "https://www.1news.co.nz/2026/11/05/at-least-30-whales-dead-in-mass-stranding-at-cape-palliser/"
-    },
-    {
-     "name": "RNZ",
-     "url": "https://www.rnz.co.nz/news/environment/2356545/it-s-horrible-last-remaining-whales-in-wairarapa-stranding-die"
-    },
-    {
-     "name": "Sowetan (Reuters)",
-     "url": "https://www.sowetan.co.za/news/world/2026-11-05-dozens-of-pilot-whales-stranded-on-new-zealand-coast/"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-11-04T22:40:00Z",
-   "title": "Australian department store David Jones goes into voluntary administration",
-   "why": "David Jones, Australia's 188-year-old department store chain, went into voluntary administration on Thursday after rent talks with landlords including Westfield's owner broke down. Its 38 stores and website keep trading while receivers review the business.",
-   "matters": "Receivers blame rising costs and an outdated store network; news on store closures and jobs is expected this week.",
-   "sources": [
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-05/david-jones-collapses-into-voluntary-administration/107347878"
-    },
-    {
-     "name": "Capital Brief",
-     "url": "https://www.capitalbrief.com/briefing/david-jones-falls-into-administration-brings-in-mcgrathnicol-fti-consulting-0b997eb8-a9bc-4c0d-9ab0-05e24e90c23e/"
-    },
-    {
-     "name": "Yahoo Finance (NewsWire)",
-     "url": "https://au.finance.yahoo.com/news/david-jones-collapses-administration-221810575.html"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-04T22:00:00Z",
-   "title": "Como win 9-1 at Lens as Fenerbahce end Liverpool's perfect run",
-   "why": "Como beat Lens 9-1 in the Champions League on Wednesday, equalling the competition's biggest winning margin. Fenerbahce beat Liverpool 3-2 in Istanbul, ending their perfect record in the competition, and Real Madrid won 3-2 at AEK Athens with a stoppage-time goal.",
-   "matters": "Arsenal and Manchester City also won, beating Slavia Prague 2-1 and RB Leipzig 3-2.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261104-liverpool-lose-to-fenerbahce-as-como-hit-nine-in-stunning-champions-league-win"
-    },
-    {
-     "name": "ESPN",
-     "url": "https://www.espn.com/soccer/story/_/id/50329182/real-madrid-liverpool-manchester-city-arsenal"
-    },
-    {
-     "name": "Liverpool FC",
-     "url": "https://www.liverpoolfc.com/news/liverpool-fenerbahce-champions-league-match-report"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-04T21:20:00Z",
-   "title": "LIV Golf faces wind-down after investor drops relaunch plan, reports say",
-   "why": "Private capital firm BC Partners has dropped plans to put up to $300 million into relaunching LIV Golf because too few players signed up, the Financial Times reports. The Saudi-funded tour filed for bankruptcy protection in New Jersey in September.",
-   "matters": "South Australia's premier says LIV's event planned for Adelaide next March will not go ahead.",
-   "sources": [
-    {
-     "name": "RTÉ (Reuters)",
-     "url": "https://www.rte.ie/sport/golf/2026/1104/1598037-liv-golf-relaunch-plans-abandoned-reports/"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-05/liv-golf-bc-partners-pull-out-of-backing/107348606"
-    },
-    {
-     "name": "TSN",
-     "url": "https://www.tsn.ca/golf/article/report-liv-golf-relaunch-set-to-be-abandoned/"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "published": "2026-11-04T14:00:00Z",
-   "title": "EU lawmakers back a softer 2035 emissions target for new cars",
-   "why": "The European Parliament's environment committee voted 48 to 30 on Wednesday to cut the 2035 CO2 reduction target for new cars from 100% to 87.5%, with up to 7.5 points more covered by credits for low-carbon EU steel. The target for vans would fall to 80%.",
-   "matters": "The current rule would in effect end sales of new petrol and diesel cars from 2035; the full Parliament votes in December.",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/04/meps-deal-another-blow-to-green-deal-with-softer-car-emissions-targets"
-    },
-    {
-     "name": "Il Sole 24 Ore",
-     "url": "https://en.ilsole24ore.com/art/eu-parliaments-first-motion-on-flexibility-regarding-the-2035-emissions-reduction-targets-AJwKji4B"
-    },
-    {
-     "name": "EUbusiness",
-     "url": "https://www.eubusiness.com/environment/meps-want-to-ease-co2-emissions-targets-for-cars/"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "changed": "Updated: Swift re-entered over Indonesia on Wednesday.",
-   "published": "2026-11-04T12:39:00Z",
-   "title": "NASA's Swift space telescope falls back to Earth over Indonesia",
-   "why": "NASA's Swift observatory re-entered the atmosphere over North Sumatra, Indonesia, at 12:39 GMT on Wednesday, NASA and the US Space Force say. Launched in 2004 for a two-year study of gamma-ray bursts, it worked for 22 years. A commercial mission to raise its sinking orbit failed.",
-   "matters": "Most of the 1.5-tonne craft burned up; NASA says some dense parts may have survived, and no damage has been reported.",
-   "sources": [
-    {
-     "name": "NASA",
-     "url": "https://science.nasa.gov/blogs/swift/2026/11/02/nasas-swift-observatory-to-re-enter-atmosphere/"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-05/nasa-telescope-plummets-to-earth-after-decades-long-mission/107348488"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/swift-observatory-plunges-back-to-earth/"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "published": "2026-11-04T12:00:00Z",
-   "title": "WHO backs trials of two new vaccines against the Bundibugyo Ebola strain",
-   "why": "WHO expert groups recommended adding two vaccines designed for the Bundibugyo strain, one from Oxford and the Serum Institute of India and one from Moderna, to a trial in the Democratic Republic of the Congo. The outbreak has killed more than 5,300 people since May, Africa CDC says.",
-   "matters": "There is no approved vaccine or treatment for this strain; WHO expects trial results in early 2027.",
-   "sources": [
-    {
-     "name": "WHO",
-     "url": "https://www.who.int/news/item/04-11-2026-two-new-candidate-vaccines-to-join-ebola-trial-as-treatment-research-advances"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/04/who-backs-trials-for-two-new-vaccines-against-ebola-outbreak"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-04T12:00:00Z",
-   "title": "Ethiopia and Sudan expel each other's consular staff",
-   "why": "Ethiopia ordered six staff of Sudan's consulate in the border town of Asosa to leave within 48 hours, and Sudan closed Ethiopia's consulate in Gedaref in response, officials told Reuters, AP and AFP. Neither government gave a formal reason.",
-   "matters": "Sudan accuses Ethiopia of letting Sudan's paramilitary RSF launch drone attacks from its soil; Ethiopia denies it.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions"
-    },
-    {
-     "name": "Arab News (Reuters)",
-     "url": "https://arabnews.com/middle-east/ethiopia-expels-sudanese-diplomats-after-fresh-allegations-of-support-for-rsf-3009806"
-    },
-    {
-     "name": "Citizen Digital (AFP)",
-     "url": "https://citizen.digital/article/ethiopia-expels-sudan-consular-staff-sudan-govt-source-n393349"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-11-04T10:00:00Z",
-   "title": "Eurozone inflation rises to 4%, its highest in three years",
-   "why": "Prices in the countries using the euro rose 4.0% in the year to October, up from 3.8% in September, Eurostat's first estimate shows. Energy prices were up 20.8%. Lithuania had the highest rate, 6.1%, and Malta the lowest, 2.3%.",
-   "matters": "Markets now expect the European Central Bank to raise interest rates again in December, making borrowing dearer.",
-   "sources": [
-    {
-     "name": "Eurostat",
-     "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/04/eurozone-inflation-hits-4-which-countries-saw-prices-jump-the-most"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "changed": "Updated: Wall Street closed higher and oil fell below $95 (this replaces the separate oil story).",
-   "published": "2026-11-04T05:47:00Z",
-   "title": "Wall Street jumps and oil falls after Democrats win Congress",
-   "why": "The Dow Jones rose about 1,500 points, or 2.9%, on Wednesday after Democrats won both houses of Congress, AP reports, as investors expect fewer sudden policy changes. Brent crude fell 8.6% to about $95 a barrel on hopes the Iran war will wind down. Japan's Nikkei fell 1.4%.",
-   "matters": "Cheaper oil feeds through to fuel, flight and food prices; Brent had been above $100 for nearly a month.",
-   "sources": [
-    {
-     "name": "PBS NewsHour (AP)",
-     "url": "https://www.pbs.org/newshour/economy/u-s-stocks-surge-and-the-dow-soars-1500-points-as-brent-oils-price-drops-below-95-per-barrel"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/11/4/us-markets-rise-as-democrats-sweep-midterm-elections"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/04/us-midterms-what-trumps-defeat-means-for-europe-and-global-markets"
-    }
-   ]
-  },
-  {
-   "section": "world",
    "developing": true,
-   "changed": "Updated: with about 36% counted, the ANC leads the DA by about five points.",
+   "changed": "Updated: with 80% to 90% counted, the ANC is near 31% and the DA about 24%.",
    "published": "2026-11-04T05:00:00Z",
-   "title": "ANC narrowly leads DA as South African local votes are counted",
-   "why": "With about 36% of votes counted by midday on Thursday, the ANC had about 32% and the Democratic Alliance 27%, Reuters reports. The DA leads in Cape Town, Johannesburg, Ekurhuleni and Nelson Mandela Bay, early counts show. Full results are expected on Sunday.",
-   "matters": "The ANC won 46% in the last local elections in 2021; many councils may now need coalitions.",
+   "title": "ANC heads for its lowest score in South Africa's local elections",
+   "why": "With about 80% of votes counted, the ANC had nearly 32%, its lowest ever, and the Democratic Alliance just over 24%, AFP reports; later counts put the ANC near 31%. The DA leads in Cape Town and Johannesburg, and Zuma's MK party in Durban. Final results are expected on Sunday.",
+   "matters": "The ANC won 46% in 2021; several big cities are heading for coalition councils.",
    "sources": [
     {
-     "name": "CNBC Africa (Reuters)",
-     "url": "https://www.cnbcafrica.com/2026/anc-narrowly-leads-da-in-early-south-africa-municipal-election-results"
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261106-s-africa-s-anc-heads-to-all-time-election-low-with-30-partial-results"
+    },
+    {
+     "name": "EWN",
+     "url": "https://www.ewn.co.za/2026/11/06/vote-counting-enters-final-stage-with-90-of-districts-counted"
+    },
+    {
+     "name": "EWN",
+     "url": "https://www.ewn.co.za/2026/11/06/local-elections-2026-da-surges-anc-slides-and-metros-face-massive-coalition-test"
     },
     {
      "name": "eNCA",
      "url": "https://www.enca.com/elections-2026-enca/iec-results-2026"
-    },
-    {
-     "name": "SABC News",
-     "url": "https://www.sabcnews.com/sabcnews/anc-takes-42-seats-with-8-of-votes-counted/"
-    },
-    {
-     "name": "TimesLIVE",
-     "url": "https://www.timeslive.co.za/politics/2026-11-04-live-updates-early-vote-counting-has-started-with-parties-gunning-for-the-top-spot/"
-    },
-    {
-     "name": "Lesotho News Agency",
-     "url": "https://www.lena.gov.ls/anc-maintains-narrow-lead-as-sa-counts-local-government-election-votes/"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc"
     }
    ]
   },
@@ -416,27 +389,31 @@
    "section": "world",
    "serious": true,
    "developing": true,
-   "changed": "Updated: Iran now says two more tankers and a tugboat caught fire on Thursday.",
+   "changed": "Updated: Trump confirmed 'minor' US strikes on Qeshm Island on Friday night.",
    "published": "2026-11-04T04:00:00Z",
-   "title": "Iran says more tankers ablaze after mines near Strait of Hormuz",
-   "why": "Iran's Revolutionary Guards said on Thursday that two more oil tankers and a tugboat caught fire on routes Iran bans near the Strait of Hormuz, one after hitting a mine, Reuters reports. On Wednesday the Guards said four tankers hit mines. Neither claim has been independently confirmed.",
-   "matters": "Iran's supreme leader warned of a much wider war if attacks resume; Trump says he has no immediate plans for new strikes.",
+   "title": "US strikes Iran's Qeshm Island again as Qatar presses for a deal",
+   "why": "President Trump said the US carried out 'minor strikes' on Iranian air defences on Friday night, as Iranian media reported missiles hitting Qeshm Island in the Strait of Hormuz. Iran's Revolutionary Guards say two more tankers hit mines on Friday; that has not been independently confirmed.",
+   "matters": "Trump claims 'a lot of progress' in talks; Qatar, the main mediator, denies reports that negotiations have failed.",
    "sources": [
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it"
+     "name": "Al Jazeera (AP)",
+     "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island"
     },
     {
-     "name": "Times of Israel (Reuters)",
-     "url": "https://www.timesofisrael.com/liveblog_entry/irgc-2-tankers-tugboat-attempting-to-use-unauthorized-hormuz-routes-catch-fire/"
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html"
     },
     {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran"
     },
     {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/middle-east/20261104-four-oil-tankers-destroyed-in-hormuz-after-hitting-mines-tehran-says"
+     "name": "Arab News (AFP)",
+     "url": "https://www.arabnews.com/middle-east/iran-guards-say-two-tankers-caught-fire-in-hormuz-3010129"
+    },
+    {
+     "name": "Times of Israel",
+     "url": "https://www.timesofisrael.com/trump-says-hed-rather-not-destroy-iran-but-may-have-to-youll-know-soon-enough"
     }
    ]
   },
@@ -444,315 +421,31 @@
    "section": "world",
    "lead": true,
    "developing": true,
-   "changed": "Updated: Trump says the Iran war played a part; Alaska and Mississippi are still uncalled.",
+   "changed": "Updated: Democrats now hold at least 252 House seats; Alaska and Mississippi are still uncalled.",
    "published": "2026-11-04T03:15:00Z",
    "title": "Democrats win control of US House and Senate",
-   "why": "Democrats will control both the House of Representatives and the Senate after Tuesday's midterm elections, AP projects, with at least 54 Senate seats. Senate races in Alaska and Mississippi are still too close to call. Trump congratulated Democrats and said the Iran war was 'part of' the reason.",
+   "why": "Democrats will control both the House of Representatives and the Senate after Tuesday's midterms. NBC News counts 252 House seats for Democrats and 162 for Republicans, with 21 uncalled, and 54 Senate seats to 44. Democrats narrowly lead the uncalled Senate races in Alaska and Mississippi.",
    "matters": "From January, Democrats can block Trump's bills and open investigations; Michigan's Abdul El-Sayed will be the first Muslim US senator.",
    "sources": [
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
-    },
     {
      "name": "NBC News",
      "url": "https://www.nbcnews.com/politics/2026-elections/house-results"
     },
     {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html"
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-06/us-midterm-elections-2026-live-updates/107351586"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
     },
     {
      "name": "France 24 (AFP)",
      "url": "https://www.france24.com/en/live-news/20261104-democrats-win-us-house-in-growing-midterms-wave-against-trump"
     },
     {
-     "name": "RTÉ (AFP, Reuters)",
-     "url": "https://www.rte.ie/news/us/2026/1104/1597894-us-midterms-wrap/"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261104-trump-congratulates-democrats-on-midterms-win-says-iran-war-played-role"
-    },
-    {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/11/4/us-midterms-2026-what-key-races-remain-undecided"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-03T22:00:00Z",
-   "title": "PSG beat Villarreal 6-0 as Barcelona and Bayern win in Champions League",
-   "why": "Paris Saint-Germain won 6-0 away at Villarreal on 3 November, scoring four goals in the first 17 minutes, a competition record according to Opta. Barcelona beat Aston Villa 3-0, Bayern Munich won 2-0 at Atletico Madrid, and Manchester United came from two goals down to beat Roma 3-2.",
-   "matters": "PSG lead the league phase with 12 points after four matches; the remaining matchday 4 games are played on Wednesday.",
-   "sources": [
-    {
-     "name": "Cyprus Mail (Reuters)",
-     "url": "https://cyprus-mail.com/2026/11/04/psg-hit-villarreal-for-six-as-bayern-win-and-man-united-fight-back"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/sports/2026/11/3/raphinha-lamal-fire-barcelona-to-3-0-champions-league-win-over-aston-villa"
-    },
-    {
-     "name": "RTÉ",
-     "url": "https://www.rte.ie/sport/soccer/2026/1103/1597737-champions-lge-round-up-bayern-tame-atleti-psg-run-riot/"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-11-03T21:15:00Z",
-   "title": "AMD's sales jump 45% as demand for AI chips nearly doubles",
-   "why": "The US chipmaker AMD said third-quarter revenue rose 45% to $13.4 billion, with its data-centre business, which sells AI processors, up 97% to a record $8.5 billion. It expects about $17 billion in sales this quarter, and its shares rose about 8% after hours.",
-   "matters": "It suggests companies are still spending heavily on AI computing, even as investors worry about whether that spending will pay off.",
-   "sources": [
-    {
-     "name": "AMD",
-     "url": "https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html"
-    },
-    {
-     "name": "Investing.com",
-     "url": "https://uk.investing.com/news/stock-market-news/earnings-call-transcript-amd-tops-q3-2026-estimates-as-stock-jumps-after-hours-93CH-4954263"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-03T21:12:00Z",
-   "title": "Spain's transport minister resigns after train crash that killed 69",
-   "why": "Óscar Puente resigned on Tuesday, six days after a high-speed train hit a stationary train near Urda, south of Madrid, on 28 October. Spanish authorities give a provisional toll of 69 dead. Puente said a minister could not stay after two such serious crashes in a year.",
-   "matters": "Investigators are examining why controllers let the train continue after a safety system failed, Euronews and Al Jazeera report.",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/03/spains-transport-minister-oscar-puente-resigns-over-urda-train-crash-that-killed-69"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/4/spanish-transport-minister-resigns-after-train-crash-killed-69-people"
-    },
-    {
-     "name": "ABC Australia (AP)",
-     "url": "https://www.abc.net.au/news/2026-11-04/spanish-minister-resigns-after-deadly-train-collision/107344438"
-    }
-   ]
-  },
-  {
-   "section": "culture",
-   "published": "2026-11-03T18:15:00Z",
-   "title": "Catalan writer Cristina Fernández Cubas wins the Cervantes Prize",
-   "why": "Spain's culture minister, Ernest Urtasun, announced on 3 November that Cristina Fernández Cubas, born in 1945 in Arenys de Mar near Barcelona, has won the 2026 Cervantes Prize. The jury praised her short stories and fantastic fiction. The prize is worth €125,000.",
-   "matters": "It is the top award for literature in Spanish, and she is only the seventh woman to win it since 1976.",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/03/cristina-fernandez-cubas-wins-2026-cervantes-prize-for-spanish-literature"
-    },
-    {
-     "name": "elDiario.es",
-     "url": "https://www.eldiario.es/cultura/cristina-fernandez-cubas-gana-premio-cervantes-2026_1_13634616.html"
-    },
-    {
-     "name": "La Nación, Costa Rica (AFP)",
-     "url": "https://www.nacion.com/ancora/cristina-fernandez-cubas-gana-el-premio-cervantes/N6I6TDWBVVBM7ERFS7SEUKC22U/story/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-03T15:41:00Z",
-   "title": "Hoax bomb threats disrupt flights across Europe for a third day",
-   "why": "At least 14 European flights received hoax bomb threats on Thursday, RTÉ and Euronews report, after similar threats on Monday and Tuesday. Three were diverted, including an Aer Lingus Dublin–Rome flight sent to a French air base. No explosives were found and all landed safely.",
-   "matters": "No one has claimed responsibility; the EU says it is too early to say whether the threats are linked.",
-   "sources": [
-    {
-     "name": "France 24 (AFP, AP, Reuters)",
-     "url": "https://www.france24.com/en/europe/20261105-dublin-rome-flight-diverted-to-france-over-bomb-threat"
-    },
-    {
-     "name": "RTÉ",
-     "url": "https://www.rte.ie/news/europe/2026/1105/1598073-aer-lingus-flight-diverted/"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/05/airbus-plane-from-dublin-to-rome-diverted-to-france-after-bomb-alert"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-05/bomb-threat-diverts-planes-across-europe/107352984"
-    }
-   ],
-   "developing": true,
-   "changed": "Updated: a third and bigger wave of hoax threats hit at least 14 flights on Thursday."
-  },
-  {
-   "section": "world",
-   "published": "2026-11-03T14:18:00Z",
-   "title": "Trump says US military aid to Israel will end this year",
-   "why": "President Trump said on Tuesday that about $4 billion a year in US military funding for Israel will stop at the end of 2026, saying he and Prime Minister Netanyahu agreed it months ago. Netanyahu's office declined to comment. The current aid agreement runs until 2028.",
-   "matters": "Israeli opposition figure Yair Golan says ending the aid would seriously harm Israel's security.",
-   "sources": [
-    {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/politics/2026-election/trump-says-us-will-stop-4b-military-aid-israel-end-2026-rcna607210"
-    },
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/middle-east/20261103-trump-says-us-will-halt-4-billion-in-aid-to-israel-after-end-of-this-year"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-04/us-midterms-daily-news-briefing/107340542"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "developing": true,
-   "published": "2026-11-03T14:00:00Z",
-   "title": "Indonesian president's chief of staff arrested over alleged phone tapping",
-   "why": "Indonesian police have detained Listyo Sigit Prabowo, President Prabowo Subianto's chief of staff and a former national police chief, and two police generals on suspicion of illegally tapping the phones of the president, ministers and others. The president dismissed him on Wednesday.",
-   "matters": "A presidential spokesman says it may amount to treason; officials say the motive is not yet known.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/4/indonesian-presidents-chief-of-staff-dismissed-over-alleged"
-    },
-    {
-     "name": "ABC Australia (AP)",
-     "url": "https://www.abc.net.au/news/2026-11-04/indonesian-police-detained-over-alleged-wiretapping-of-president/107344464"
-    },
-    {
-     "name": "Nikkei Asia",
-     "url": "https://asia.nikkei.com/politics/indonesia-chief-of-staff-sacked-for-allegedly-wiretapping-president-prabowo"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "developing": true,
-   "changed": "Updated: host Germany says it is considering pulling out.",
-   "published": "2026-11-03T12:40:00Z",
-   "title": "European teams say they will not play Russia at ice hockey worlds",
-   "why": "Finland, Norway, Sweden, Denmark, Latvia and the Czech Republic say they will not play Russia at the 2027 men's world championship, after a sports court ruled on 30 October that Russia must be readmitted. Germany, the host, says it is considering withdrawing.",
-   "matters": "Russia has been banned since invading Ukraine in 2022; the IIHF disagrees with the ruling but says it will comply.",
-   "sources": [
-    {
-     "name": "ESPN (AP)",
-     "url": "https://www.espn.com/olympics/story/_/id/50368089/norway-pledges-boycott-hockey-worlds-russia"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/sports/2026/11/3/nordic-nations-refuse-to-face-russia-in-ice-hockey-world-championship"
-    },
-    {
-     "name": "The Moscow Times",
-     "url": "https://www.themoscowtimes.com/2026/11/03/norway-denmark-sweden-latvia-and-czech-republic-to-boycott-russia-at-2027-ice-hockey-world-championship-a94171"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/04/hockey-nations-refuse-to-play-russia-as-germany-weighs-pulling-out-as-host"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: officials raised the death toll to 40, with 59 people still missing.",
-   "published": "2026-11-02T21:53:00Z",
-   "title": "Ukraine says Russian strike on Zaporizhzhia aid point killed at least 40",
-   "why": "Guided bombs hit a school used as an aid point in the village of Komyshuvakha, in south-eastern Ukraine, on Monday as residents gathered for aid, Ukrainian officials say. They now put the dead at 40, with 59 missing. Russia's defence ministry says it targeted Ukrainian military units.",
-   "matters": "The US says Russian and Ukrainian delegations will meet for new talks in Abu Dhabi on 10 and 11 November.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy"
-    },
-    {
-     "name": "RTÉ",
-     "url": "https://www.rte.ie/news/ukraine/2026/1104/1597955-ukraine-russia/"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-04/russian-strike-on-school-kills-dozens-n-ukraine/107343894"
-    },
-    {
-     "name": "NBC News (Reuters)",
-     "url": "https://www.nbcnews.com/world/ukraine/russia-bomb-aid-center-ukraine-dead-missing-zelenskyy-bodies-rcna607458"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "developing": true,
-   "changed": "Updated: French blood banks say an attack on their cold stores was contained.",
-   "published": "2026-11-02T08:00:00Z",
-   "title": "Cyberattacks on fridges spread across Europe and reach French blood banks",
-   "why": "Hackers have tampered with refrigeration at supermarkets in at least 11 European countries, Al Jazeera reports, and at three French blood-bank cold stores overnight into Monday. France's health ministry says alarms worked and no blood was lost. No group has claimed responsibility.",
-   "matters": "It follows a similar attack on refrigeration systems at hundreds of French supermarkets in October that forced stores to throw away food.",
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france/20261104-french-blood-banks-foil-new-cyberattack-targeting-refrigerators"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-05/french-blood-banks-hit-alongside-cyberattack-on-european-superma/107348302"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/03/italy-holds-emergency-talks-as-supermarket-fridge-attacks-spread-across-europe"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html"
-    },
-    {
-     "name": "VRT NWS",
-     "url": "https://www.vrt.be/vrtnws/en/2026/11/02/possible-cyberattack-hits-several-belgian-supermarket-chains/"
-    },
-    {
-     "name": "RTÉ (Reuters)",
-     "url": "https://www.rte.ie/news/business/2026/1102/1597612-13-supervalu-stores-hit-by-suspected-cyber-attack/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "developing": true,
-   "changed": "Updated: the election result was certified and Herzog's consultations began.",
-   "published": "2026-11-01T19:57:00Z",
-   "title": "Israel certifies election result as Herzog begins coalition talks",
-   "why": "Israel's election committee certified the 27 October results on Wednesday, saying it found no evidence of fraud, after Netanyahu and his allies alleged, without evidence, that the vote was stolen. President Isaac Herzog is holding two days of consultations before choosing who will try to form a government.",
-   "matters": "Netanyahu's bloc won 53 of 120 seats and Gadi Eisenkot's 48; Arab-led parties hold a record 19.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims"
-    },
-    {
-     "name": "ABC Australia (AP)",
-     "url": "https://www.abc.net.au/news/2026-11-04/israeli-election-commission-fraud-investigation/107347454"
-    },
-    {
-     "name": "RTÉ (AFP)",
-     "url": "https://www.rte.ie/news/world/2026/1104/1597892-israel-election/"
-    },
-    {
-     "name": "Times of Israel",
-     "url": "https://timesofisrael.com/opposition-chiefs-meet-agree-to-launch-coalition-talks-but-path-remains-unclear"
     }
    ]
   }
