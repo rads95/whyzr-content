@@ -1,6 +1,51 @@
 {
- "updated": "2026-11-07T15:37:17Z",
+ "updated": "2026-11-07T15:43:00Z",
  "items": [
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "published": "2026-11-07T14:00:00Z",
+   "title": "At least five killed in shooting in Krakow's main square, police say",
+   "why": "A gunman opened fire near the Main Market Square in the Polish city of Krakow on Saturday afternoon. Polish police say at least five people were killed and about a dozen hurt. Police say the suspect was shot by officers and detained.",
+   "matters": "Prime Minister Donald Tusk called it a tragic shooting; police are investigating the motive.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say"
+    },
+    {
+     "name": "BBC (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/world/articles/five-killed-krakow-shooting-police-151929086.html"
+    },
+    {
+     "name": "TVP World",
+     "url": "https://tvpworld.com/96358317/two-reported-dead-10-injured-in-shooting-in-polands-krakow"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "serious": true,
+   "published": "2026-11-07T13:30:00Z",
+   "title": "Heavy rain floods tens of thousands of tents in Gaza",
+   "why": "The first winter storm of the season flooded at least 70,000 tents sheltering displaced people across Gaza on Saturday, the Hamas-run government media office says. The civil defence agency says it received about 1,500 distress calls and lacks the equipment to respond. No deaths have been reported.",
+   "matters": "Local officials say Gaza urgently needs prefabricated homes, tents and heating as winter begins.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261107-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza-local-authorities"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza"
+    },
+    {
+     "name": "Arab News (Reuters)",
+     "url": "https://www.arabnews.pk/middle-east/heavy-rain-floods-tents-housing-gaza-displaced-people-aid-shortages-hamper-response-3006380"
+    }
+   ]
+  },
   {
    "section": "sport",
    "published": "2026-11-07T11:00:00Z",
@@ -49,6 +94,48 @@
    ]
   },
   {
+   "section": "sport",
+   "published": "2026-11-07T10:00:00Z",
+   "title": "Towhid Hridoy scores 242, Bangladesh's highest Test innings",
+   "why": "Towhid Hridoy made 242 not out against West Indies in Sylhet, passing Mushfiqur Rahim's 219 not out from 2018. His innings took Bangladesh from 184 for 7 to 386, a first-innings lead over West Indies' 356.",
+   "matters": "He is only the fourth Bangladesh batter to score a Test double century.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261107-hridoy-breaks-bangladesh-test-runs-record-with-220-against-west-indies"
+    },
+    {
+     "name": "Wisden",
+     "url": "https://www.wisden.com/series/bangladesh-vs-west-indies-m-2026/cricket-news/highest-test-score-for-each-country-full-list-towhid-hridoy-breaks-mushfiqur-rahims-bangladesh-record"
+    },
+    {
+     "name": "The Tribune (ANI)",
+     "url": "https://www.tribuneindia.com/news/sports/towhid-hridoy-achieves-bangladeshs-highest-ever-individual-test-score"
+    }
+   ]
+  },
+  {
+   "section": "science",
+   "published": "2026-11-07T08:00:00Z",
+   "title": "Pakistani astronaut to be first foreigner on China's space station",
+   "why": "China's Manned Space Agency says a Pakistani astronaut will fly on the Shenzhou-24 mission as a payload specialist, Chinese state media reported on Saturday. The astronaut, not yet named, will make a short stay and return on Shenzhou-23. No launch date has been given.",
+   "matters": "It would be the first time China's crewed space programme has flown a foreign astronaut.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission"
+    },
+    {
+     "name": "AP (via News4Jax)",
+     "url": "https://www.news4jax.com/tech/2026/11/07/pakistani-astronaut-to-board-shenzhou-24-and-become-the-first-foreigner-on-chinas-space-station/"
+    },
+    {
+     "name": "The Standard (Reuters)",
+     "url": "https://www.thestandard.com.hk/china/article/347801/Pakistani-astronaut-to-join-China-space-stations-Shenzhou-24-mission"
+    }
+   ]
+  },
+  {
    "section": "world",
    "serious": true,
    "published": "2026-11-07T03:00:00Z",
@@ -73,9 +160,9 @@
   {
    "section": "world",
    "published": "2026-11-06T21:55:00Z",
-   "title": "Paraguay's Senate removes President Santiago Peña after a bank collapse",
-   "why": "On Friday, 44 of the 45 members of Paraguay's Senate voted to remove President Santiago Peña over the collapse of Ueno, a digital bank with nearly 3 million customers. Vice-President Pedro Alliana was sworn in to serve until 2028. Prosecutors placed Peña under house arrest; he denies wrongdoing.",
-   "matters": "Many Paraguayans lost access to their savings; Alliana has promised depositors will be fully compensated.",
+   "title": "Paraguay's Senate removes President Peña, who is put under house arrest",
+   "why": "All 44 senators present voted on Friday to remove Santiago Peña over the collapse of Ueno Bank, which locked nearly half of Paraguayans out of their savings. Prosecutors then put him under house arrest over alleged breach of trust; Peña denies wrongdoing. Vice-President Pedro Alliana was sworn in.",
+   "matters": "Alliana will serve until August 2028; deposit insurance covers 97% of Ueno's customers, the central bank says.",
    "sources": [
     {
      "name": "Al Jazeera",
@@ -92,8 +179,13 @@
     {
      "name": "ABC News (AP)",
      "url": "https://abcnews.com/International/wireStory/paraguays-pea-loses-top-aides-impeachment-trial-resumes-137913219"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261107-ousted-paraguay-president-under-house-arrest-after-banking-crisis"
     }
-   ]
+   ],
+   "changed": "Updated: Peña is under house arrest and Pedro Alliana has been sworn in."
   },
   {
    "section": "climate",
@@ -333,28 +425,6 @@
     {
      "name": "ABC Australia",
      "url": "https://www.abc.net.au/news/2026-11-06/russell-brand-jury-verdict/107353304"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "developing": true,
-   "published": "2026-11-05T06:00:00Z",
-   "title": "French unions and students strike and march over pay and living costs",
-   "why": "France's main unions held nationwide strikes and marches on Thursday, demanding higher wages and better public services, joined by school students. The CGT union says more than 250,000 people marched in 73 cities by lunchtime. The Eiffel Tower closed and police used tear gas in Lyon.",
-   "matters": "It follows earlier protests in France over living costs, public services and education.",
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs"
-    },
-    {
-     "name": "The Local France (AFP)",
-     "url": "https://www.thelocal.fr/20261105/france-workers-strike-and-march-for-dignified-wage"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/video/2026/11/05/france-workers-and-students-unite-in-nationwide-protests-over-living-costs"
     }
    ]
   },
