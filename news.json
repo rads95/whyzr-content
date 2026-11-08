@@ -1,26 +1,70 @@
 {
- "updated": "2026-11-07T15:43:00Z",
+ "updated": "2026-11-08T12:41:00Z",
  "items": [
+  {
+   "section": "world",
+   "published": "2026-11-07T15:00:00Z",
+   "title": "Pope Leo holds first Mass of South America tour in Uruguay",
+   "why": "About 40,000 people attended Pope Leo XIV's Mass in the rain in Paysandú, western Uruguay, on Saturday, the Vatican says. It is the first papal visit to Uruguay in nearly four decades; the 12-day tour continues to Argentina and Peru.",
+   "matters": "The trip had been in doubt after the 71-year-old pope's lung cancer surgery last month.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders"
+    },
+    {
+     "name": "NBC News (AP)",
+     "url": "https://www.nbcnews.com/world/pope-leo-xiv/thousands-pour-park-uruguay-pope-leos-first-mass-south-america-rcna607977"
+    },
+    {
+     "name": "Vatican News",
+     "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-in-uruguay-carry-forward-the-mission-of-evangelization.html"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "developing": true,
+   "published": "2026-11-07T14:23:00Z",
+   "title": "US sets up task force to block Iran's land supply routes",
+   "why": "US Central Command announced Task Force Iron Gate on Saturday to stop weapons and sanctioned goods crossing Iran's land borders and the Caspian Sea. The same day, it says, a US aircraft disabled a St Kitts-flagged cargo ship trying to break its naval blockade in the Gulf of Oman.",
+   "matters": "It extends a months-long US naval blockade of Iranian ports to Iran's land borders.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes"
+    },
+    {
+     "name": "Gulf News",
+     "url": "https://gulfnews.com/world/mena/us-strikes-cargo-ship-in-gulf-of-oman-amid-iran-blockade-enforcement-1.500739942"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+    }
+   ]
+  },
   {
    "section": "world",
    "serious": true,
    "developing": true,
+   "changed": "Updated: police raised the toll to at least six; the prime minister calls it terrorism",
    "published": "2026-11-07T14:00:00Z",
-   "title": "At least five killed in shooting in Krakow's main square, police say",
-   "why": "A gunman opened fire near the Main Market Square in the Polish city of Krakow on Saturday afternoon. Polish police say at least five people were killed and about a dozen hurt. Police say the suspect was shot by officers and detained.",
-   "matters": "Prime Minister Donald Tusk called it a tragic shooting; police are investigating the motive.",
+   "title": "At least six killed in Krakow shooting, which Poland's PM calls terrorism",
+   "why": "A gunman fired from a car in the Main Market Square of Krakow, Poland, on Saturday afternoon, killing at least six people and wounding about 15, police say. Officers shot and detained the suspect, a Polish man; three more bodies were found at his home.",
+   "matters": "The interior minister says the suspect held ultra-nationalist views; Poland has declared two days of mourning.",
    "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow"
+    },
     {
      "name": "France 24",
      "url": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say"
     },
     {
-     "name": "BBC (via Yahoo News)",
-     "url": "https://www.yahoo.com/news/world/articles/five-killed-krakow-shooting-police-151929086.html"
-    },
-    {
-     "name": "TVP World",
-     "url": "https://tvpworld.com/96358317/two-reported-dead-10-injured-in-shooting-in-polands-krakow"
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/world/europe/poland-krakow-shooting-rcna608001"
     }
    ]
   },
@@ -159,6 +203,7 @@
   },
   {
    "section": "world",
+   "changed": "Updated: Peña is under house arrest and Pedro Alliana has been sworn in.",
    "published": "2026-11-06T21:55:00Z",
    "title": "Paraguay's Senate removes President Peña, who is put under house arrest",
    "why": "All 44 senators present voted on Friday to remove Santiago Peña over the collapse of Ueno Bank, which locked nearly half of Paraguayans out of their savings. Prosecutors then put him under house arrest over alleged breach of trust; Peña denies wrongdoing. Vice-President Pedro Alliana was sworn in.",
@@ -184,8 +229,7 @@
      "name": "France 24",
      "url": "https://www.france24.com/en/americas/20261107-ousted-paraguay-president-under-house-arrest-after-banking-crisis"
     }
-   ],
-   "changed": "Updated: Peña is under house arrest and Pedro Alliana has been sworn in."
+   ]
   },
   {
    "section": "climate",
@@ -294,53 +338,6 @@
    ]
   },
   {
-   "section": "tech",
-   "published": "2026-11-06T11:00:00Z",
-   "title": "EU says TikTok's For You feed breaks its online safety law",
-   "why": "The European Commission said on Friday that TikTok's For You feed breaches the Digital Services Act by leading users into 'rabbit holes' of content about sadness, isolation or body image. It wants TikTok to give users' stated preferences more weight. TikTok calls the findings fundamentally inaccurate.",
-   "matters": "The findings are preliminary; if confirmed, TikTok could be fined up to 6% of its global yearly turnover.",
-   "sources": [
-    {
-     "name": "European Commission",
-     "url": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/06/eu-charges-tiktok-harmful-algorithmic-rabbit-hole-effects.html"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/06/eu-tells-tiktok-to-change-harmful-for-you-feed-over-rabbit-hole-effect"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-06T10:00:00Z",
-   "title": "Kenyan cult leader Paul Mackenzie jailed for 200 years",
-   "why": "Kenya's High Court in Mombasa on Friday sentenced preacher Paul Mackenzie to 200 years in prison over the deaths of 191 people, 190 of them children, in Shakahola Forest. Prosecutors said he urged followers to starve themselves to reach heaven. Twenty-eight others received 10 to 160 years.",
-   "matters": "The judge rejected the death penalty; many families are still waiting for relatives' remains to be identified.",
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison-1"
-    },
-    {
-     "name": "The Star (Kenya)",
-     "url": "https://www.the-star.co.ke/news/2026-11-06-mackenzie-sentenced-to-200-years-in-prison-over-shakahola-killings"
-    },
-    {
-     "name": "The Standard (Kenya)",
-     "url": "https://www.standardmedia.co.ke/national/article/2001561699/shakahola-massacre-paul-makenzi-sentenced-to-200-years-in-prison"
-    }
-   ]
-  },
-  {
    "section": "world",
    "developing": true,
    "published": "2026-11-06T08:33:00Z",
@@ -364,44 +361,25 @@
   },
   {
    "section": "world",
-   "serious": true,
-   "published": "2026-11-06T08:00:00Z",
-   "title": "At least 30 killed in strike on market in Yemen's Taiz province",
-   "why": "At least 30 people were killed and eight injured when a market in Taiz province, south-western Yemen, was hit on Friday morning, Houthi and local officials say. The Houthis blame Saudi air strikes; Yemen's government says a Houthi ballistic missile hit it. Neither account has been independently verified.",
+   "lead": true,
+   "developing": true,
+   "changed": "Updated: Herzog chose Eisenkot on Saturday",
+   "published": "2026-11-05T20:17:00Z",
+   "title": "Israel's president asks Eisenkot, not Netanyahu, to form a government",
+   "why": "President Isaac Herzog chose former army chief Gadi Eisenkot on Saturday after parties with 67 of the Knesset's 120 seats backed him. Eisenkot's bloc won 48 seats in the 27 October election; he has 28 days, with a possible 14-day extension, to build a coalition.",
+   "matters": "Netanyahu stays on as caretaker prime minister; if no coalition can be formed, Israel faces another election.",
    "sources": [
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market"
+     "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government"
     },
-    {
-     "name": "NBC News (AP)",
-     "url": "https://www.nbcnews.com/world/yemen/airstrikes-market-southwestern-yemen-kill-least-30-houthis-say-rcna607908"
-    },
-    {
-     "name": "Arab News",
-     "url": "https://www.arabnews.com/middle-east/yemeni-forces-accuse-houthis-of-deadly-market-attack-in-taiz-3010200"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "developing": true,
-   "published": "2026-11-05T20:17:00Z",
-   "title": "Israel's president to name who forms the next government on Sunday",
-   "why": "Parties with 67 of the Knesset's 120 seats recommended opposition leader Gadi Eisenkot as prime minister, and parties with 46 backed Benjamin Netanyahu, President Isaac Herzog said on Thursday. Herzog will decide on Sunday who gets the first chance to form a government.",
-   "matters": "The two Arab-led parties backed Eisenkot; the nominee then has 28 days to build a coalition.",
-   "sources": [
     {
      "name": "Times of Israel",
-     "url": "https://www.timesofisrael.com/liveblog_entry/herzog-says-eisenkot-got-67-nods-as-pm-but-he-will-only-hand-over-mandate-on-sunday/"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government"
+     "url": "https://www.timesofisrael.com/president-herzog-taps-eisenkot-to-form-coalition-but-path-remains-fraught/"
     },
     {
      "name": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261106-israel-s-eisenkot-claims-significant-progress-in-coalition-talks-as-opposition-eases-on-ultra-orthodox-draft"
+     "url": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government"
     }
    ]
   },
@@ -425,97 +403,6 @@
     {
      "name": "ABC Australia",
      "url": "https://www.abc.net.au/news/2026-11-06/russell-brand-jury-verdict/107353304"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "developing": true,
-   "changed": "Updated: with 80% to 90% counted, the ANC is near 31% and the DA about 24%.",
-   "published": "2026-11-04T05:00:00Z",
-   "title": "ANC heads for its lowest score in South Africa's local elections",
-   "why": "With about 80% of votes counted, the ANC had nearly 32%, its lowest ever, and the Democratic Alliance just over 24%, AFP reports; later counts put the ANC near 31%. The DA leads in Cape Town and Johannesburg, and Zuma's MK party in Durban. Final results are expected on Sunday.",
-   "matters": "The ANC won 46% in 2021; several big cities are heading for coalition councils.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261106-s-africa-s-anc-heads-to-all-time-election-low-with-30-partial-results"
-    },
-    {
-     "name": "EWN",
-     "url": "https://www.ewn.co.za/2026/11/06/vote-counting-enters-final-stage-with-90-of-districts-counted"
-    },
-    {
-     "name": "EWN",
-     "url": "https://www.ewn.co.za/2026/11/06/local-elections-2026-da-surges-anc-slides-and-metros-face-massive-coalition-test"
-    },
-    {
-     "name": "eNCA",
-     "url": "https://www.enca.com/elections-2026-enca/iec-results-2026"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: Trump confirmed 'minor' US strikes on Qeshm Island on Friday night.",
-   "published": "2026-11-04T04:00:00Z",
-   "title": "US strikes Iran's Qeshm Island again as Qatar presses for a deal",
-   "why": "President Trump said the US carried out 'minor strikes' on Iranian air defences on Friday night, as Iranian media reported missiles hitting Qeshm Island in the Strait of Hormuz. Iran's Revolutionary Guards say two more tankers hit mines on Friday; that has not been independently confirmed.",
-   "matters": "Trump claims 'a lot of progress' in talks; Qatar, the main mediator, denies reports that negotiations have failed.",
-   "sources": [
-    {
-     "name": "Al Jazeera (AP)",
-     "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran"
-    },
-    {
-     "name": "Arab News (AFP)",
-     "url": "https://www.arabnews.com/middle-east/iran-guards-say-two-tankers-caught-fire-in-hormuz-3010129"
-    },
-    {
-     "name": "Times of Israel",
-     "url": "https://www.timesofisrael.com/trump-says-hed-rather-not-destroy-iran-but-may-have-to-youll-know-soon-enough"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "lead": true,
-   "developing": true,
-   "changed": "Updated: Democrats now hold at least 252 House seats; Alaska and Mississippi are still uncalled.",
-   "published": "2026-11-04T03:15:00Z",
-   "title": "Democrats win control of US House and Senate",
-   "why": "Democrats will control both the House of Representatives and the Senate after Tuesday's midterms. NBC News counts 252 House seats for Democrats and 162 for Republicans, with 21 uncalled, and 54 Senate seats to 44. Democrats narrowly lead the uncalled Senate races in Alaska and Mississippi.",
-   "matters": "From January, Democrats can block Trump's bills and open investigations; Michigan's Abdul El-Sayed will be the first Muslim US senator.",
-   "sources": [
-    {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/politics/2026-elections/house-results"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-06/us-midterm-elections-2026-live-updates/107351586"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
-    },
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261104-democrats-win-us-house-in-growing-midterms-wave-against-trump"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/4/us-midterms-2026-what-key-races-remain-undecided"
     }
    ]
   }
