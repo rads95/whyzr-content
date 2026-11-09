@@ -1,11 +1,81 @@
 {
- "updated": "2026-11-09T00:20:28Z",
+ "updated": "2026-11-09T10:07:14Z",
  "items": [
+  {
+   "section": "climate",
+   "published": "2026-11-09T08:30:00Z",
+   "title": "UN climate talks open in Antalya, Turkey, as Guterres urges action",
+   "why": "COP31 opened on Monday in Antalya, Turkey, and runs until 20 November, with world leaders due on 11 and 12 November. UN chief António Guterres said the world has “entered a new age of climate extremes”. Money for poorer countries is the main dispute.",
+   "matters": "The UN says current national pledges put the world on course for about 2.6C of warming this century.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261109-cop31-opens-as-climate-and-geopolitical-pressures-mount"
+    },
+    {
+     "name": "TRT World",
+     "url": "https://www.trtworld.com/article/80e31443493f"
+    },
+    {
+     "name": "The Globe and Mail (AP)",
+     "url": "https://www.theglobeandmail.com/world/article-un-climate-cop-31-turkey/"
+    },
+    {
+     "name": "UNFCCC",
+     "url": "https://unfccc.int/cop31"
+    }
+   ],
+   "changed": "Updated: the summit has opened"
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "published": "2026-11-09T06:05:00Z",
+   "title": "Drones hit a major Russian refinery ahead of Ukraine peace talks",
+   "why": "Leningrad region governor Alexander Drozdenko says a Ukrainian drone attack overnight on Monday set fire to the Kirishi refinery, one of Russia’s largest, and that falling debris killed a woman. US-mediated talks between Russia, Ukraine and the US are due in Abu Dhabi on Tuesday and Wednesday.",
+   "matters": "France says European countries will take part in the Abu Dhabi talks, which Russia has opposed.",
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-russias-second-largest-oil-refinery-in-overnight-drone-attack/"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-09/ukrainian-drone-attack-at-russia-kirishi-refinery-woman-dies/107365888"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-09T03:00:00Z",
+   "title": "Asian markets recover after AI share sell-off linked to US midterms",
+   "why": "Taiwan’s main index rose about 5% and Japan’s Nikkei more than 2% on Monday, after Wall Street steadied on Friday. Last week investors sold AI shares on fears that Democratic gains could slow data-centre building; South Korea’s Kospi fell so fast on Friday that trading was briefly halted.",
+   "matters": "Chip makers in Taiwan, Korea and Japan carry great weight in Asian markets and many pension funds.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout"
+    },
+    {
+     "name": "WRAL (AP)",
+     "url": "https://www.wral.com/news/ap/d938f-asian-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/business/markets/taiwan-south-korea-japan-stock-markets-hit-hard-by-ai-sell-off"
+    }
+   ]
+  },
   {
    "section": "tech",
    "published": "2026-11-08T21:30:00Z",
    "title": "Nvidia opens inquiry after reports its CEO was targeted by spies",
-   "why": "Nvidia’s board said on Sunday that independent directors will investigate reports that chief executive Jensen Huang was the target of a foreign intelligence effort. The New York Times reported that US intelligence linked a Chinese businesswoman close to Huang to Beijing. Huang stays on as CEO.",
+   "why": "Nvidia’s board said on Sunday that independent directors will investigate reports that chief executive Jensen Huang was the target of a Chinese intelligence effort. China’s foreign ministry called the reports “groundless speculation and slander”. Senior US lawmakers want Huang to brief Congress. Huang stays on as CEO.",
    "matters": "Nvidia makes most of the chips that power AI and is one of the world’s most valuable companies.",
    "sources": [
     {
@@ -23,8 +93,13 @@
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-09/nvidia-ceo-jensen-huang-affair-with-suspected-chinese-spy/107362878"
     }
-   ]
+   ],
+   "changed": "Updated: China denies the reports and US lawmakers ask Huang to brief Congress"
   },
   {
    "section": "culture",
@@ -48,6 +123,49 @@
    ]
   },
   {
+   "section": "world",
+   "published": "2026-11-08T21:00:00Z",
+   "title": "Drone strike halts Iraqi Kurdistan gas field and cuts regional power",
+   "why": "A drone hit the Khor Mor gas field in Iraq’s Kurdistan region late on Sunday, starting a fire and halting output, operator Dana Gas says. The regional electricity ministry says about 2.8 gigawatts of power was lost. No one was hurt and no group has claimed the attack.",
+   "matters": "Khor Mor feeds the region’s power stations, so millions of people face long power cuts.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield"
+    },
+    {
+     "name": "ThePrint (Reuters)",
+     "url": "https://theprint.in/world/iraqs-khor-mor-gas-field-suspends-output-after-drone-attack-operator-says/3093925/"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/09/drone-attack-on-iraqi-kurdistans-khor-mor-gas-field-causes-blackouts/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "developing": true,
+   "published": "2026-11-08T19:40:00Z",
+   "title": "Merz backs Ilse Aigner to be Germany’s first woman president",
+   "why": "Chancellor Friedrich Merz told his party on Sunday he will propose Ilse Aigner, 61, speaker of Bavaria’s parliament, as head of state; party leaders meet on Monday to confirm it. The Social Democrats back her. A special assembly votes on 30 January to succeed Frank-Walter Steinmeier.",
+   "matters": "Germany’s president is largely ceremonial but signs laws and acts as a moral voice for the country.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president"
+    },
+    {
+     "name": "blue News (Keystone-SDA)",
+     "url": "https://www.bluewin.ch/en/news/merz-aigner-should-become-federal-president-li.3666521"
+    },
+    {
+     "name": "Anadolu Agency",
+     "url": "https://aa.com.tr/en/europe/german-conservatives-agree-to-nominate-ilse-aigner-for-presidency-report/4114673"
+    }
+   ]
+  },
+  {
    "section": "sport",
    "published": "2026-11-08T19:00:00Z",
    "title": "Norris wins wet São Paulo Grand Prix as Mercedes take teams’ title",
@@ -65,6 +183,49 @@
     {
      "name": "Sky Sports",
      "url": "https://www.skysports.com/f1/news/13609694/sao-paulo-gp-lando-norris-wins-wet-race-for-mclaren-as-mercedes-seal-2026-f1-constructors-championship-in-brazil"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-08T18:00:00Z",
+   "title": "Mexico arrests alleged Jalisco cartel cell leader known as ‘R2’",
+   "why": "Mexican marines arrested Rafael Álvarez Ayala, alleged head of the ‘Los Rs’ cell of the Jalisco New Generation Cartel, in Zapopan, Jalisco, on Sunday, with US intelligence help. The navy says 19 others were detained. He and a marine were wounded in a shootout, officials say.",
+   "matters": "Officials link the cell to the 2025 killing of Uruapan’s mayor, Carlos Manzo; the US also wants him extradited.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/9/mexico-arrests-major-leader-of-jalisco-cartel"
+    },
+    {
+     "name": "ThePrint (Reuters)",
+     "url": "https://theprint.in/world/mexico-captures-alleged-cartel-cell-leader-in-operation-aided-by-dea-intelligence/3093828/"
+    },
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/mexico/2026/11/09/dea-aplaude-a-mexico-la-captura-de-rafael-alvarez-ayala-alias-el-r2-operador-clave-del-cjng/"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-08T18:00:00Z",
+   "title": "Bezzecchi wins Qatar MotoGP, so Márquez must wait for the title",
+   "why": "Italy’s Marco Bezzecchi led from pole to win the Qatar Grand Prix at Lusail on Sunday, ahead of Marc Márquez and Raúl Fernández. Márquez now leads Jorge Martín, seventh in Qatar, by 60 points with two rounds left, Portugal and Valencia.",
+   "matters": "Another title would be Márquez’s eighth in the top class, one more than Valentino Rossi.",
+   "sources": [
+    {
+     "name": "MotoGP",
+     "url": "https://www.motogp.com/en/news/2026/11/08/bezzecchi-bounces-back-with-qatar-victory-as-marquez-extends-championship-lead/1184256"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/sports/2026/11/9/motogp-bezzecchi-denies-marquez-world-title-as-motorsport-returns-to-qatar"
+    },
+    {
+     "name": "Crash.net",
+     "url": "https://www.crash.net/motogp/news/1109897/1/marc-marquez-denied-motogp-title-qatar-marco-bezzecchi-wins-race"
     }
    ]
   },
@@ -110,27 +271,6 @@
     }
    ],
    "changed": "Updated: the pope has arrived in Argentina"
-  },
-  {
-   "section": "climate",
-   "published": "2026-11-08T15:00:00Z",
-   "title": "UN climate talks open in Antalya, Turkey, with modest goals",
-   "why": "Delegates meet in Antalya, Turkey, from Monday until 20 November for COP31, with world leaders due on 11 and 12 November. Talks focus on moving away from fossil fuels and on money for poorer countries. The US is not expected to attend.",
-   "matters": "The UN says current national pledges put the world on course for about 2.6C of warming this century.",
-   "sources": [
-    {
-     "name": "The Globe and Mail (AP)",
-     "url": "https://www.theglobeandmail.com/world/article-un-climate-cop-31-turkey/"
-    },
-    {
-     "name": "Christian Science Monitor",
-     "url": "https://www.csmonitor.com/Environment/2026/1108/climate-change-cop31-turkey"
-    },
-    {
-     "name": "UNFCCC",
-     "url": "https://unfccc.int/cop31"
-    }
-   ]
   },
   {
    "section": "world",
@@ -296,31 +436,6 @@
    "changed": "Updated: at least five people were killed when an embankment collapsed onto tents"
   },
   {
-   "section": "sport",
-   "published": "2026-11-07T11:00:00Z",
-   "title": "New Zealand beat Tonga 34-10 to reach Rugby League World Cup final",
-   "why": "New Zealand's Kiwis beat Tonga 34-10 in Newcastle, Australia, on Saturday, after trailing 10-6 in the first half. It is their first World Cup final since 2013. They will play Australia or Samoa in Brisbane next Sunday.",
-   "matters": "New Zealand's women's team, the Kiwi Ferns, also reached their final, beating Samoa 32-0.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261107-new-zealand-sweep-into-rugby-league-world-cup-final"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-07/rugby-league-world-cup-live-semifinals-from-newcastle/107345014"
-    },
-    {
-     "name": "NZ Herald",
-     "url": "https://www.nzherald.co.nz/sport/rugby-league/kiwis-v-tonga-live-updates-rugby-league-world-cup-semi-final-from-newcastle/WDHLJNY43ZAXFMMLQRZGNKR22Y/"
-    },
-    {
-     "name": "RNZ",
-     "url": "https://www.rnz.co.nz/news/sport/2411167/rugby-league-world-cup-kiwis-kick-tonga-out-on-way-to-final"
-    }
-   ]
-  },
-  {
    "section": "world",
    "developing": true,
    "published": "2026-11-07T10:30:00Z",
@@ -339,70 +454,6 @@
     {
      "name": "France 24 (AFP)",
      "url": "https://www.france24.com/en/live-news/20261107-new-zealand-counts-the-votes-in-knife-edge-poll"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-07T10:00:00Z",
-   "title": "Towhid Hridoy scores 242, Bangladesh's highest Test innings",
-   "why": "Towhid Hridoy made 242 not out against West Indies in Sylhet, passing Mushfiqur Rahim's 219 not out from 2018. His innings took Bangladesh from 184 for 7 to 386, a first-innings lead over West Indies' 356.",
-   "matters": "He is only the fourth Bangladesh batter to score a Test double century.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261107-hridoy-breaks-bangladesh-test-runs-record-with-220-against-west-indies"
-    },
-    {
-     "name": "Wisden",
-     "url": "https://www.wisden.com/series/bangladesh-vs-west-indies-m-2026/cricket-news/highest-test-score-for-each-country-full-list-towhid-hridoy-breaks-mushfiqur-rahims-bangladesh-record"
-    },
-    {
-     "name": "The Tribune (ANI)",
-     "url": "https://www.tribuneindia.com/news/sports/towhid-hridoy-achieves-bangladeshs-highest-ever-individual-test-score"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "published": "2026-11-07T08:00:00Z",
-   "title": "Pakistani astronaut to be first foreigner on China's space station",
-   "why": "China's Manned Space Agency says a Pakistani astronaut will fly on the Shenzhou-24 mission as a payload specialist, Chinese state media reported on Saturday. The astronaut, not yet named, will make a short stay and return on Shenzhou-23. No launch date has been given.",
-   "matters": "It would be the first time China's crewed space programme has flown a foreign astronaut.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission"
-    },
-    {
-     "name": "AP (via News4Jax)",
-     "url": "https://www.news4jax.com/tech/2026/11/07/pakistani-astronaut-to-board-shenzhou-24-and-become-the-first-foreigner-on-chinas-space-station/"
-    },
-    {
-     "name": "The Standard (Reuters)",
-     "url": "https://www.thestandard.com.hk/china/article/347801/Pakistani-astronaut-to-join-China-space-stations-Shenzhou-24-mission"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-07T03:00:00Z",
-   "title": "Russian missiles hit Kyiv's power supply and a major bridge",
-   "why": "Russia fired 36 ballistic missiles and 172 drones overnight into Saturday, mostly at Kyiv and the surrounding region, Ukraine says. Strikes damaged the Northern Bridge over the Dnipro and substations carrying power from two nuclear plants. Officials say at least one person was killed and several injured.",
-   "matters": "It comes days before US-backed talks between Ukraine and Russia in Abu Dhabi on Tuesday and Wednesday.",
-   "sources": [
-    {
-     "name": "RTÉ (Reuters)",
-     "url": "https://www.rte.ie/news/world/2026/1107/1598347-russia-ukraine/"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261107-moscow-strikes-kyiv-as-ukraine-prepares-for-talks-with-russia-and-the-us"
-    },
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-after-zelensky-warns-of-mass-attack/"
     }
    ]
   },
