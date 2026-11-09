@@ -1,24 +1,224 @@
 {
- "updated": "2026-11-08T12:41:00Z",
+ "updated": "2026-11-09T00:20:28Z",
  "items": [
   {
+   "section": "tech",
+   "published": "2026-11-08T21:30:00Z",
+   "title": "Nvidia opens inquiry after reports its CEO was targeted by spies",
+   "why": "Nvidia’s board said on Sunday that independent directors will investigate reports that chief executive Jensen Huang was the target of a foreign intelligence effort. The New York Times reported that US intelligence linked a Chinese businesswoman close to Huang to Beijing. Huang stays on as CEO.",
+   "matters": "Nvidia makes most of the chips that power AI and is one of the world’s most valuable companies.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/technology/20261108-nvidia-jensen-huang-chinese-intelligence-probe"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-investigation-rcna608148"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "published": "2026-11-08T21:30:00Z",
+   "title": "‘Godzilla Minus Zero’ sets North American record for a foreign-language film",
+   "why": "The Japanese monster film took an estimated $31.6m in the US and Canada over the weekend, topping the box office. AP and Variety say that is a record opening there for a film not in English, beating the $17.8m of China’s ‘Hero’.",
+   "matters": "It is almost three times the opening of its predecessor, ‘Godzilla Minus One’.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261108-godzilla-minus-zero-stomps-to-the-top-of-n-america-box-office"
+    },
+    {
+     "name": "Variety",
+     "url": "https://variety.com/2026/film/box-office/godzilla-minus-zero-box-office-opening-weekend-cat-in-the-hat-fizzles-1236942363/"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-box-office-opening-the-cat-in-the-hat-1236750019/"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-08T19:00:00Z",
+   "title": "Norris wins wet São Paulo Grand Prix as Mercedes take teams’ title",
+   "why": "McLaren’s Lando Norris won a rain-hit race at Interlagos in Brazil on Sunday, 14.6 seconds ahead of Max Verstappen, with Isack Hadjar third. Mercedes secured the constructors’ championship, their ninth, with two races left.",
+   "matters": "With Kimi Antonelli already drivers’ champion, Mercedes have won both 2026 titles.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261108-norris-wins-rain-hit-race-as-mercedes-clinch-teams-title-and-double"
+    },
+    {
+     "name": "Formula 1",
+     "url": "https://www.formula1.com/en/latest/article/norris-beats-verstappen-in-wet-sao-paulo-gp-thriller-as-mercedes-win-constructors-championship.7JN7MXLZf5lk5l0C3gfKGI"
+    },
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/f1/news/13609694/sao-paulo-gp-lando-norris-wins-wet-race-for-mclaren-as-mercedes-seal-2026-f1-constructors-championship-in-brazil"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-08T16:30:00Z",
+   "title": "Alcaraz beats Shelton to win the Paris Masters for the first time",
+   "why": "Spain’s Carlos Alcaraz beat Ben Shelton of the US 7-6, 7-5 in Paris on Sunday, avenging his US Open defeat to him in September. It is his ninth Masters 1000 title and his fifth title of 2026.",
+   "matters": "Alcaraz heads to the season-ending ATP Finals in Turin, which start on 15 November.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/sport/20261108-spain-s-alcaraz-beats-error-prone-shelton-to-win-paris-masters-for-first-time"
+    },
+    {
+     "name": "ATP Tour",
+     "url": "https://www.atptour.com/en/news/alcaraz-shelton-paris-2026-final-sunday"
+    },
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/tennis/news/13609753/atp-paris-masters-carlos-alcaraz-beats-ben-shelton-to-claim-fifth-title-of-2026-after-avenging-us-open-defeat"
+    }
+   ]
+  },
+  {
    "section": "world",
-   "published": "2026-11-07T15:00:00Z",
-   "title": "Pope Leo holds first Mass of South America tour in Uruguay",
-   "why": "About 40,000 people attended Pope Leo XIV's Mass in the rain in Paysandú, western Uruguay, on Saturday, the Vatican says. It is the first papal visit to Uruguay in nearly four decades; the 12-day tour continues to Argentina and Peru.",
-   "matters": "The trip had been in doubt after the 71-year-old pope's lung cancer surgery last month.",
+   "published": "2026-11-08T15:00:00Z",
+   "title": "Pope Leo tells Argentina the economy must serve people",
+   "why": "Pope Leo XIV arrived in Buenos Aires on Sunday from Uruguay, the first papal visit to Argentina since 1987, and was welcomed by President Javier Milei. In his first speech he said the economy must serve the person, which France 24 describes as criticism of Milei’s austerity.",
+   "matters": "Argentina is the home country of the late Pope Francis; Leo goes on to Peru on Wednesday.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261108-pope-leo-argentina-visit-milei"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina"
+    },
+    {
+     "name": "PBS NewsHour (AP)",
+     "url": "https://www.pbs.org/newshour/world/pope-arrives-in-argentina-and-tells-milei-that-people-not-the-economy-should-come-first"
+    }
+   ],
+   "changed": "Updated: the pope has arrived in Argentina"
+  },
+  {
+   "section": "climate",
+   "published": "2026-11-08T15:00:00Z",
+   "title": "UN climate talks open in Antalya, Turkey, with modest goals",
+   "why": "Delegates meet in Antalya, Turkey, from Monday until 20 November for COP31, with world leaders due on 11 and 12 November. Talks focus on moving away from fossil fuels and on money for poorer countries. The US is not expected to attend.",
+   "matters": "The UN says current national pledges put the world on course for about 2.6C of warming this century.",
+   "sources": [
+    {
+     "name": "The Globe and Mail (AP)",
+     "url": "https://www.theglobeandmail.com/world/article-un-climate-cop-31-turkey/"
+    },
+    {
+     "name": "Christian Science Monitor",
+     "url": "https://www.csmonitor.com/Environment/2026/1108/climate-change-cop31-turkey"
+    },
+    {
+     "name": "UNFCCC",
+     "url": "https://unfccc.int/cop31"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-08T13:30:00Z",
+   "title": "At least 34 killed as migrant boat sinks off Senegal",
+   "why": "A wooden boat carrying migrants sank off Kebemer in north-western Senegal, between Dakar and Saint-Louis, at the weekend, killing at least 34 people, the state news agency APS says. The interior ministry says one person was rescued and others are missing.",
+   "matters": "The Atlantic route from West Africa to Spain’s Canary Islands is one of the deadliest migration routes in the world.",
    "sources": [
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders"
+     "url": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal"
+    },
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/africa/20261108-migrant-boat-sinks-off-senegal-killing-at-least-34-people-authorities-say"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/08/at-least-21-dead-after-migrant-boat-capsizes-off-senegal-authorities-say"
+    },
+    {
+     "name": "Anadolu Agency",
+     "url": "https://www.aa.com.tr/fr/afrique/s%C3%A9n%C3%A9gal-34-morts-dans-le-chavirement-d-une-embarcation-transportant-des-migrants-irr%C3%A9guliers/4116127"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-08T12:30:00Z",
+   "title": "At least seven killed in train collision near Cairo, Egypt",
+   "why": "A train heading to Fayoum ran into the back of a Cairo-to-Aswan train in al-Ayyat, in Giza province south of Cairo, on Sunday afternoon. At least seven people were killed and more than 100 injured, Egypt’s health ministry says.",
+   "matters": "President Abdel Fattah el-Sisi has ordered an urgent investigation into the cause.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261108-egypt-train-collision-kills-7-injures-112-health-ministry"
     },
     {
      "name": "NBC News (AP)",
-     "url": "https://www.nbcnews.com/world/pope-leo-xiv/thousands-pour-park-uruguay-pope-leos-first-mass-south-america-rcna607977"
+     "url": "https://www.nbcnews.com/world/middle-east/train-collision-egypt-cairo-giza-rcna608111"
     },
     {
-     "name": "Vatican News",
-     "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-in-uruguay-carry-forward-the-mission-of-evangelization.html"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city"
+    }
+   ]
+  },
+  {
+   "section": "science",
+   "published": "2026-11-07T21:15:00Z",
+   "title": "NASA opens applications for new astronauts to staff a Moon base",
+   "why": "NASA is taking applications for its next astronaut class until 3 December, it announced on Saturday at Kennedy Space Center in Florida. It has 32 active astronauts and plans a lasting base on the Moon. It expects to choose the class by late 2027.",
+   "matters": "Applicants must be US citizens; the last call in 2024 drew more than 8,000 applications for ten places.",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/"
+    },
+    {
+     "name": "NBC News (AP)",
+     "url": "https://www.nbcnews.com/science/space/nasa-is-looking-for-new-astronauts-rcna608025"
+    },
+    {
+     "name": "Houston Chronicle",
+     "url": "https://www.houstonchronicle.com/news/houston-texas/space/article/nasa-astronaut-applications-open-22518400.php"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "published": "2026-11-07T16:00:00Z",
+   "title": "Cholesterol drug fails to prevent heart attacks despite cutting levels 78%",
+   "why": "In a trial of 8,323 people in 42 countries, Novartis’s pelacarsen lowered lipoprotein(a), an inherited form of cholesterol, by 78%, but did not reduce heart attacks, strokes or heart deaths, researchers told the American Heart Association meeting in Chicago on Saturday.",
+   "matters": "About one in five people carry high lipoprotein(a); several similar drugs are still in trials.",
+   "sources": [
+    {
+     "name": "American Heart Association",
+     "url": "https://newsroom.heart.org/news/lp-a-horizon-trial-lp-a-fell-by-78-but-cardiovascular-outcomes-unexpectedly-neutral"
+    },
+    {
+     "name": "STAT",
+     "url": "https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/"
+    },
+    {
+     "name": "NBC News (AP)",
+     "url": "https://www.nbcnews.com/health/health-news/cholesterol-drug-lipoprotein-a-fails-heart-attacks-stroke-trial-rcna607237"
     }
    ]
   },
@@ -72,23 +272,28 @@
    "section": "climate",
    "serious": true,
    "published": "2026-11-07T13:30:00Z",
-   "title": "Heavy rain floods tens of thousands of tents in Gaza",
-   "why": "The first winter storm of the season flooded at least 70,000 tents sheltering displaced people across Gaza on Saturday, the Hamas-run government media office says. The civil defence agency says it received about 1,500 distress calls and lacks the equipment to respond. No deaths have been reported.",
-   "matters": "Local officials say Gaza urgently needs prefabricated homes, tents and heating as winter begins.",
+   "title": "Five killed as rain floods tens of thousands of Gaza tents",
+   "why": "A sand embankment collapsed onto tents at a shelter south of Deir el-Balah in central Gaza on Sunday, killing at least five people, including children, Gaza’s civil defence says. Rain since Friday has flooded about 70,000 tents, the Hamas-run government media office says.",
+   "matters": "Local officials and aid groups say Gaza urgently needs shelter, tents and heating as winter begins.",
    "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter"
+    },
+    {
+     "name": "The New Arab",
+     "url": "https://www.newarab.com/news/five-killed-gaza-after-storm-collapses-sand-mound-tents"
+    },
     {
      "name": "France 24 (AFP)",
      "url": "https://www.france24.com/en/live-news/20261107-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza-local-authorities"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza"
-    },
-    {
      "name": "Arab News (Reuters)",
      "url": "https://www.arabnews.pk/middle-east/heavy-rain-floods-tents-housing-gaza-displaced-people-aid-shortages-hamper-response-3006380"
     }
-   ]
+   ],
+   "changed": "Updated: at least five people were killed when an embankment collapsed onto tents"
   },
   {
    "section": "sport",
@@ -203,206 +408,29 @@
   },
   {
    "section": "world",
-   "changed": "Updated: Peña is under house arrest and Pedro Alliana has been sworn in.",
-   "published": "2026-11-06T21:55:00Z",
-   "title": "Paraguay's Senate removes President Peña, who is put under house arrest",
-   "why": "All 44 senators present voted on Friday to remove Santiago Peña over the collapse of Ueno Bank, which locked nearly half of Paraguayans out of their savings. Prosecutors then put him under house arrest over alleged breach of trust; Peña denies wrongdoing. Vice-President Pedro Alliana was sworn in.",
-   "matters": "Alliana will serve until August 2028; deposit insurance covers 97% of Ueno's customers, the central bank says.",
+   "lead": true,
+   "developing": true,
+   "changed": "Updated: Eisenkot formally received the mandate on Sunday and says Likud could join",
+   "published": "2026-11-05T20:17:00Z",
+   "title": "Eisenkot formally asked to form Israel’s government, open to Likud joining",
+   "why": "President Isaac Herzog formally gave opposition leader Gadi Eisenkot the mandate in Jerusalem on Sunday. Eisenkot has 28 days, plus a possible two-week extension, to reach 61 of 120 seats; his alliance has 48 and Netanyahu’s bloc 53. He says Likud could join a government he leads.",
+   "matters": "If he fails, Netanyahu could get a turn; if neither succeeds, Israel would vote again in the spring.",
    "sources": [
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in"
-    },
-    {
-     "name": "RTÉ (AFP)",
-     "url": "https://www.rte.ie/news/world/2026/1107/1598335-paraguay-bank-collapse-sees-president-impeached-arrested/"
-    },
-    {
-     "name": "MercoPress",
-     "url": "https://en.mercopress.com/2026/11/07/paraguay-s-senate-removes-santiago-pena-who-is-placed-under-arrest-and-pedro-alliana-takes-office"
-    },
-    {
-     "name": "ABC News (AP)",
-     "url": "https://abcnews.com/International/wireStory/paraguays-pea-loses-top-aides-impeachment-trial-resumes-137913219"
+     "url": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government"
     },
     {
      "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261107-ousted-paraguay-president-under-house-arrest-after-banking-crisis"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "published": "2026-11-06T20:00:00Z",
-   "title": "Polar vortex weakens weeks earlier than ever recorded",
-   "why": "The polar vortex, a ring of cold winds high above the Arctic, is breaking down earlier than ever recorded, forecasters at the ECMWF told AFP. It usually peaks around January. The UK Met Office calls it exceptional but says it does not mean a cold spell is certain.",
-   "matters": "An early breakdown raises the chance of cold snaps in Europe, North America and East Asia later in November and December.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261106-polar-vortex-faltering-weeks-earlier-than-ever-recorded"
+     "url": "https://www.france24.com/en/middle-east/20261108-israeli-opposition-leader-eisenkot-begins-the-hard-work-of-forging-a-coalition-government"
     },
     {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/06/polar-vortex-weakens-weeks-ahead-of-schedule-raising-risk-of-cold-spells"
-    },
-    {
-     "name": "Met Office",
-     "url": "https://www.metoffice.gov.uk/blog/2026/deep-dive-could-changes-high-above-the-arctic-influence-the-uks-weather"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-06T19:00:00Z",
-   "title": "Trump names Stephen Miller as White House chief of staff",
-   "why": "President Donald Trump said on Friday that Stephen Miller, 41, his deputy chief of staff and the architect of his immigration crackdown, will replace Susie Wiles as chief of staff from Monday. Wiles is moving to Trump's political operation. The change follows Republican losses in Tuesday's midterms.",
-   "matters": "House Democratic leader Hakeem Jeffries called Miller an extremist; the White House calls him one of Trump's most trusted advisers.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/06/trump-appoints-immigration-hardliner-stephen-miller-as-new-chief-of-staff"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-07/donald-trump-cos-susie-wiles-to-be-replaced-by-stephen-miller/107358840"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "published": "2026-11-06T16:00:00Z",
-   "title": "US measles cases pass 5,000, the most in 35 years",
-   "why": "The US has recorded 5,182 confirmed measles cases so far in 2026, the CDC said on Friday, more than double last year's 2,289 and the most since 1991. About 96% of cases are in people who are unvaccinated or whose status is unknown. States report at least eight deaths.",
-   "matters": "The US is expected to lose its measles-elimination status, held since 2000, at a regional health meeting next week.",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/06/us-measles-cases-exceed-5000-in-2026-reaching-their-highest-level-in-35-years"
-    },
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261106-us-reports-highest-number-of-measles-cases-in-35-years"
-    },
-    {
-     "name": "CIDRAP",
-     "url": "https://www.cidrap.umn.edu/measles/us-measles-total-2026-tops-5100-cases"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-11-06T13:30:00Z",
-   "title": "US economy adds 165,000 jobs in October, far more than expected",
-   "why": "US employers added 165,000 jobs in October, against forecasts of about 65,000, and unemployment fell to 4.1%, the Labor Department said on Friday. Earlier months were revised up by 84,000. Average pay rose 3.1% over the year, less than inflation.",
-   "matters": "Strong hiring makes a Federal Reserve interest rate rise in December more likely, economists say.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261106-us-job-growth-tops-expectations-in-october"
-    },
-    {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/business/economy/us-added-jobs-october-risks-stagnation-rcna607812"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-11-06T13:00:00Z",
-   "title": "Tesla to stop making the Cybertruck in Texas from mid-2027",
-   "why": "Elon Musk said on Friday that Tesla will wind down Cybertruck production at its Texas factory around mid-2027, to make room for its Cybercab robotaxi. US Cybertruck sales fell 48% in 2025 to about 20,000, far below the 250,000 a year Musk once predicted.",
-   "matters": "Musk says existing Cybertrucks will stay on the road; it is unclear whether production will move elsewhere.",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/06/elon-musks-tesla-to-wind-down-cybertruck-production-next-year"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-07/tesla-to-pull-the-plug-on-cybertruck/107359058"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "developing": true,
-   "published": "2026-11-06T08:33:00Z",
-   "title": "Hoax bomb threats spread from European flights to newsrooms",
-   "why": "Ireland's RTÉ evacuated its Dublin headquarters on Friday after an emailed bomb threat, and Bulgaria's Nova TV and Britain's Sky also received threats, Reuters reports. More flights were escorted or searched across Europe. No explosives have been found and every plane landed safely.",
-   "matters": "No government has said who is behind the week of threats; Russia denies involvement.",
-   "sources": [
-    {
-     "name": "RTÉ",
-     "url": "https://www.rte.ie/news/ireland/2026/1106/1598241-rte-evacuation/"
-    },
-    {
-     "name": "ABC Australia (Reuters)",
-     "url": "https://www.abc.net.au/news/2026-11-07/brk-bomb-threats-planes-europe/107358382"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "lead": true,
-   "developing": true,
-   "changed": "Updated: Herzog chose Eisenkot on Saturday",
-   "published": "2026-11-05T20:17:00Z",
-   "title": "Israel's president asks Eisenkot, not Netanyahu, to form a government",
-   "why": "President Isaac Herzog chose former army chief Gadi Eisenkot on Saturday after parties with 67 of the Knesset's 120 seats backed him. Eisenkot's bloc won 48 seats in the 27 October election; he has 28 days, with a possible 14-day extension, to build a coalition.",
-   "matters": "Netanyahu stays on as caretaker prime minister; if no coalition can be formed, Israel faces another election.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government"
+     "name": "NBC News (AP)",
+     "url": "https://www.nbcnews.com/world/israel/israels-president-taps-gadi-eisenkot-rcna608033"
     },
     {
      "name": "Times of Israel",
      "url": "https://www.timesofisrael.com/president-herzog-taps-eisenkot-to-form-coalition-but-path-remains-fraught/"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government"
-    }
-   ]
-  },
-  {
-   "section": "culture",
-   "serious": true,
-   "developing": true,
-   "published": "2026-11-05T14:26:00Z",
-   "title": "Russell Brand found guilty of rape and sexual assault",
-   "why": "A jury at Southwark Crown Court in London found comedian Russell Brand, 51, guilty on Thursday of one rape and three sexual assaults between 2004 and 2009. He was cleared of two other rape charges and one other charge. He denied all of them and is in custody.",
-   "matters": "The judge said a significant prison sentence is inevitable; sentencing is due on Monday.",
-   "sources": [
-    {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/world/united-kingdom/russell-brand-guilty-rape-sexual-assault-rcna606967"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-06/russell-brand-jury-verdict/107353304"
     }
    ]
   }
