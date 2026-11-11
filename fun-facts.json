@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-11",
   "facts": [
     {
       "date": "2026-09-20",
@@ -1256,6 +1256,106 @@
         {
           "name": "Earth.com",
           "url": "https://www.earth.com/news/only-sea-on-earth-that-has-no-shore-because-it-never-touches-land-sargasso"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "kind": "fact",
+      "category": "Animals",
+      "emoji": "🐝",
+      "title": "Bees give directions by dancing",
+      "text": "When a honeybee finds flowers, it dances to tell the hive. The angle of its \"waggle\" run shows the direction compared with the sun, and the longer it waggles, the farther away the food is. Karl von Frisch decoded the dance and shared the 1973 Nobel Prize.",
+      "sources": [
+        {
+          "name": "North Carolina State University Extension",
+          "url": "https://content.ces.ncsu.edu/honey-bee-dance-language"
+        },
+        {
+          "name": "Scientific American",
+          "url": "https://www.scientificamerican.com/article/if-you-re-looking-for-a-healthy-environment-follow-the-dancing-bee/"
+        },
+        {
+          "name": "Journal of Comparative Physiology A (via PubMed Central): Einstein, von Frisch and the honeybee",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8222030/"
+        },
+        {
+          "name": "Scientific Reports (via PubMed Central): Honey bees communicate distance via waggle duration",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8029670/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "kind": "tale",
+      "emoji": "🏹",
+      "title": "Robin Hood",
+      "story": "In the legend, Robin Hood is an outlaw hiding in Sherwood Forest near Nottingham. With his band he robs the rich, outwits the Sheriff of Nottingham and gives to the poor.",
+      "origin": "Nobody has proved Robin Hood was a real person. The first known mention is in the English poem Piers Plowman, written in the late 1300s, where a lazy priest knows \"rhymes of Robin Hood\". The oldest surviving ballads about him date from the 1400s.",
+      "sources": [
+        {
+          "name": "University of Rochester, Robbins Library Digital Projects",
+          "url": "https://d.lib.rochester.edu/robin-hood/theme/robin-hood.html"
+        },
+        {
+          "name": "National Geographic",
+          "url": "https://www.nationalgeographic.com/history/history-magazine/article/origins-of-england-folk-lore-robin-hood"
+        },
+        {
+          "name": "Medievalists.net: Robin Hood, a historiography",
+          "url": "https://www.medievalists.net/2011/10/robin-hood-a-historiography/"
+        },
+        {
+          "name": "History.com",
+          "url": "https://www.history.com/articles/robin-hood"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "kind": "fact",
+      "category": "Food",
+      "emoji": "🌰",
+      "title": "Swapping Manhattan for nutmeg",
+      "text": "In 1667, at the end of a war, England kept Manhattan and the Dutch got Run, a tiny island in Indonesia’s Banda Islands. Why? Banda was then the only known home of nutmeg, a spice once worth its weight in gold.",
+      "sources": [
+        {
+          "name": "National Geographic",
+          "url": "https://www.nationalgeographic.com/photography/article/the-spice-trades-forgotten-island"
+        },
+        {
+          "name": "Historic UK",
+          "url": "https://www.historic-uk.com/HistoryUK/HistoryofEngland/Founding-New-York/"
+        },
+        {
+          "name": "The Jakarta Post",
+          "url": "https://www.thejakartapost.com/news/2017/11/14/banda-festival-to-become-annual-tourism-magnet"
+        },
+        {
+          "name": "History.com",
+          "url": "https://www.history.com/articles/pumpkin-spice-trade-nutmeg-archaeology"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "kind": "fact",
+      "category": "Everyday",
+      "emoji": "📝",
+      "title": "The dot on an i has a name",
+      "text": "That little dot on a lowercase i is called a tittle. The word once meant any small mark in writing, like an accent, which is why \"tittle\" can also mean the tiniest bit of something.",
+      "sources": [
+        {
+          "name": "The Phrase Finder",
+          "url": "https://www.phrases.org.uk/meanings/jot-or-tittle.html"
+        },
+        {
+          "name": "A.Word.A.Day (Wordsmith.org)",
+          "url": "https://wordsmith.org/words/tittle.html"
+        },
+        {
+          "name": "Mental Floss",
+          "url": "https://www.mentalfloss.com/language/16-little-words-and-phrases-describing-small-amounts"
         }
       ]
     }
