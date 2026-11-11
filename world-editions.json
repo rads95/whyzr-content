@@ -4760,5 +4760,521 @@
         ]
       }
     ]
+  },
+  {
+    "id": "050",
+    "published": "2026-11-11",
+    "title": "The Booker’s oldest winner, dinosaur blood and Verstappen’s charge from 21st",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Did this actually happen?",
+        "claim": "On 9 November, 81-year-old British writer M. John Harrison won the Booker Prize, becoming the oldest winner in the prize’s history.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this is true. M. John Harrison won the 2026 Booker Prize in London on Monday 9 November for his novel ‘The End of Everything’, and at 81 he is the oldest winner the prize has ever had. The book is a darkly funny science-fiction story set on the Kent coast in England after a strange, slow invasion. The Booker is one of the best-known prizes for fiction written in English, and the winner receives £50,000.",
+        "sources": [
+          [
+            "WLRN (NPR) · Apocalyptic sci-fi novel ‘The End of Everything’ wins this year’s Booker Prize",
+            "https://www.wlrn.org/npr-breaking-news/2026-11-09/apocalyptic-sci-fi-novel-the-end-of-everything-wins-this-years-booker-prize"
+          ],
+          [
+            "The Star (Xinhua) · British science fiction writer M. John Harrison wins 2026 Booker Prize",
+            "https://www.thestar.com.my/news/world/2026/11/10/british-science-fiction-writer-m-john-harrison-wins-2026-booker-prize"
+          ],
+          [
+            "Irish Examiner · M John Harrison becomes oldest Booker Prize winner with dystopian novel The End Of Everything",
+            "https://www.irishexaminer.com/lifestyle/artsandculture/arid-41935350.html"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three terms. Find their partners.",
+        "pairs": [
+          [
+            "Lando Norris",
+            "Won Formula 1’s São Paulo Grand Prix in Brazil"
+          ],
+          [
+            "Max Verstappen",
+            "Started near the back, in 21st place, and finished second"
+          ],
+          [
+            "Mercedes",
+            "Sealed the 2026 teams’ championship at the same race"
+          ]
+        ],
+        "why": "The pairs are: Lando Norris – won the race; Max Verstappen – from 21st on the grid to second; Mercedes – clinched the teams’ title. On Sunday 8 November at the Interlagos circuit in São Paulo, McLaren’s Norris won in tricky, changing weather. Verstappen had to start 21st because of a grid penalty for fitting new engine parts, but fought his way up to second. Mercedes wrapped up the constructors’ (teams’) championship with three races to spare, a week after their driver Kimi Antonelli had already won the drivers’ title in Mexico.",
+        "sources": [
+          [
+            "New Straits Times (Reuters) · Norris wins in Brazil as Mercedes take constructors’ title",
+            "https://www.nst.com.my/amp/sports/motor-sports/2026/11/1573748/norris-wins-brazil-mercedes-take-constructors-title"
+          ],
+          [
+            "The Irish Times (Guardian) · Dominant Lando Norris powers to victory in São Paulo Grand Prix",
+            "https://www.irishtimes.com/sport/2026/11/08/dominant-lando-norris-powers-to-victory-in-sao-paulo-grand-prix/"
+          ],
+          [
+            "Qatar Tribune (dpa) · Mercedes seal constructors’ title as McLaren’s Norris wins in Brazil",
+            "https://www.qatar-tribune.com/article/263299/sports/mercedes-seal-constructors-title-as-mclarens-norris-wins-in-brazil"
+          ],
+          [
+            "Crash.net · Lando Norris beats recovering Max Verstappen to win Brazil GP as Mercedes seals F1 title double",
+            "https://www.crash.net/f1/race-report/1110006/1/lando-norris-beats-recovering-max-verstappen-win-brazil-gp-mercedes-seals"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "A leg bone from a meat-eating dinosaur, found in a mine in north-eastern Brazil",
+          "About 115 million years old",
+          "Chemical traces of heme, the iron-rich part of what makes blood red"
+        ],
+        "options": [
+          "Scientists recover dinosaur DNA for the first time",
+          "Scientists report signs of red blood cells preserved in a dinosaur bone",
+          "Brazil unveils the biggest dinosaur skeleton ever found",
+          "A museum reveals the oldest dinosaur egg ever found"
+        ],
+        "correct": 1,
+        "why": "It was: scientists report signs of red blood cells preserved in a dinosaur bone. A team led by Curtin University in Australia studied a leg bone of Aratasaurus, a meat-eater about 3 metres long, and found tiny cell-like shapes inside it along with chemical traces of heme, a molecule found in blood. The study, published in the journal PNAS, is being called the strongest evidence yet of blood cells in a dinosaur fossil. There is no liquid blood and no DNA: the cells have turned into mineral over millions of years.",
+        "sources": [
+          [
+            "Cyprus Mail (Reuters) · Evidence of red blood cells seen in dinosaur fossil from Brazil",
+            "https://cyprus-mail.com/2026/11/08/evidence-of-red-blood-cells-seen-in-dinosaur-fossil-from-brazil"
+          ],
+          [
+            "CTV News (CNN) · Scientists say they’ve found the strongest evidence yet of red blood cells in a dinosaur bone",
+            "https://www.ctvnews.ca/sci-tech/article/scientists-say-theyve-found-the-strongest-evidence-yet-of-red-blood-cells-in-a-dinosaur-bone/"
+          ],
+          [
+            "Newsweek · Dinosaur blood discovered in 115-million-year-old fossil",
+            "https://newsweek.com/dinosaur-blood-discovered-in-115-million-year-old-fossil-12670089"
+          ],
+          [
+            "Popular Science · Dinosaur blood found in fossils for the first time",
+            "https://www.popsci.com/science/first-dinosaur-blood-fossil-discovery/"
+          ],
+          [
+            "Sci.News · 115-million-year-old dinosaur bones preserve chemical traces of red blood cells",
+            "https://www.sci.news/paleontology/cretaceous-dinosaur-red-blood-cells-15169.html"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "Israel is working to form a new government. Put these steps in order, earliest first.",
+        "items": [
+          "President Isaac Herzog formally asks Gadi Eisenkot to form a government",
+          "Israelis vote in a general election for the Knesset, their parliament",
+          "Eisenkot’s first 28-day deadline to put a government together runs out"
+        ],
+        "correctOrder": [
+          1,
+          0,
+          2
+        ],
+        "why": "The right order is: the election (27 October), then Herzog hands Eisenkot the task (8 November), then the 28-day deadline (early December). No side won a majority of the Knesset’s 120 seats, so the president met each party, and parties with 67 seats between them recommended Eisenkot, who leads the Yashar party, rather than Prime Minister Benjamin Netanyahu. Eisenkot now has 28 days to build a coalition with a majority, and the president can give him up to 14 extra days. If he does not succeed, the president can ask someone else.",
+        "sources": [
+          [
+            "Al Jazeera · Israel’s president picks Eisenkot over Netanyahu to form next government",
+            "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government"
+          ],
+          [
+            "Anadolu Agency · Israel’s president says will task Eisenkot with forming next government",
+            "https://www.aa.com.tr/en/middle-east/israels-president-says-will-task-eisenkot-with-forming-next-government/4115508"
+          ],
+          [
+            "HNGN · Eisenkot gets 28 days to form Israel government",
+            "https://www.hngn.com/articles/273746/20261108/eisenkot-gets-28-days-form-israel-government-13-seats-short.htm"
+          ],
+          [
+            "Siasat Daily · Eisenkot officially gets mandate to form Israel’s next govt",
+            "https://www.siasat.com/eisenkot-officially-gets-mandate-to-form-israels-next-govt-3571976/"
+          ],
+          [
+            "Ynetnews · Eisenkot formally tasked with forming government",
+            "https://www.ynetnews.com/article/sjygemraml"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "On 5 November the Bank of England raised its main interest rate for the first time since 2023, as high energy prices push up the cost of living. What is a rate rise like this mainly meant to do?",
+        "options": [
+          "Make mortgages and loans cheaper so people spend more",
+          "Lower the price of petrol and gas straight away",
+          "Slow down rising prices by making borrowing more expensive",
+          "Raise more tax money for the government"
+        ],
+        "correct": 2,
+        "why": "It is meant to slow down rising prices by making borrowing more expensive. The Bank lifted its rate by a quarter of a point, from 3.75% to 4%, because higher energy costs have pushed UK inflation to 3.5%, well above its 2% target, and it expects inflation to reach about 5% by the middle of 2027. Dearer loans and better returns on savings tend to cool spending, which eases the pressure on prices over time. A rate rise cannot cut energy prices directly; it aims to stop them feeding into prices and wages more widely.",
+        "sources": [
+          [
+            "Bank of England · Monetary Policy Report – November 2026",
+            "https://www.bankofengland.co.uk/monetary-policy-report/2026/November-2026"
+          ],
+          [
+            "Euronews · Bank of England raises key interest rate for first time in over 3 years",
+            "https://www.euronews.com/2026/11/05/bank-of-england-raises-key-interest-rate-for-first-time-in-over-3-years"
+          ],
+          [
+            "The Express Tribune (Reuters) · Bank of England raises rates for first time since 2023, says more may come",
+            "https://tribune.com.pk/story/2638826/bank-of-england-raises-rates-for-first-time-since-2023-says-more-may-come"
+          ],
+          [
+            "KPRC Click2Houston (AP) · Bank of England set to hike interest rates to tackle higher inflation",
+            "https://www.click2houston.com/business/2026/11/05/bank-of-england-set-to-hike-interest-rates-to-tackle-higher-inflation-caused-by-iran-war/"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "051",
+    "published": "2026-11-12",
+    "title": "A climate summit by the sea, a pope’s homecoming and a first for China’s space station",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Did this actually happen?",
+        "claim": "The COP31 UN climate summit, which opened on 9 November, is being held in Australia.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 1,
+        "why": "No, this is made up. COP31 opened on 9 November in Antalya, a seaside city in Türkiye, and runs until 20 November, with Türkiye holding the presidency. Australia had also wanted to host, so the two countries agreed an unusual shared arrangement: Türkiye hosts the summit, while Australia’s climate minister, Chris Bowen, leads the negotiations between countries. A COP is the UN’s yearly two-week climate conference, where countries try to agree on how to tackle climate change.",
+        "sources": [
+          [
+            "Khaleej Times (AFP) · COP31 opens with leaders told to ‘get serious’ about tackling climate crisis",
+            "https://www.khaleejtimes.com/world/cop31-opens-leaders-pressure-tackle-climate-crisis"
+          ],
+          [
+            "Bernama (Anadolu) · COP31 opens in Antalya",
+            "https://bernama.com/en/world/news.php?id=2631948"
+          ],
+          [
+            "Hürriyet Daily News · COP31 climate summit opens in Türkiye amid calls for stronger action",
+            "https://www.hurriyetdailynews.com/cop31-climate-summit-opens-in-turkiye-amid-calls-for-stronger-action-229175"
+          ],
+          [
+            "Daily Sabah · COP31 opens in Türkiye with push to turn climate pledges into action",
+            "https://www.dailysabah.com/turkiye/cop31-opens-in-turkiye-with-push-to-turn-climate-pledges-into-action/news"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three terms. Find their partners.",
+        "pairs": [
+          [
+            "Uruguay",
+            "First stop of the trip, where he landed on 6 November"
+          ],
+          [
+            "Argentina",
+            "First papal visit since John Paul II in 1987, a trip Francis never made as pope"
+          ],
+          [
+            "Peru",
+            "Final stop, where he spent many years as a missionary and later a bishop"
+          ]
+        ],
+        "why": "The pairs are: Uruguay – the first stop; Argentina – the first papal visit since 1987; Peru – the country he served in for years. Pope Leo XIV is on a 12-day trip to South America from 6 to 17 November. In Argentina he was welcomed by President Javier Milei; Pope Francis was born there but never went back during his 12 years as pope. Peru is personal for Leo: he spent many years there as a missionary and later as a bishop.",
+        "sources": [
+          [
+            "Al Jazeera · President Milei welcomes Pope Leo during historic visit to Argentina",
+            "https://aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina"
+          ],
+          [
+            "AJC (AP) · Pope Leo XIV begins 3-day South American visit in Uruguay",
+            "https://www.ajc.com/news/2026/11/pope-leo-xiv-begins-3-day-south-american-visit-in-uruguay-less-than-a-month-after-his-lung-surgery/"
+          ],
+          [
+            "Cyprus Mail (Reuters) · Pope Leo arrives for South America homecoming tour",
+            "https://cyprus-mail.com/2026/11/06/pope-leo-arrives-for-south-america-homecoming-tour-a-month-after-lung-surgery"
+          ],
+          [
+            "Africanews · Argentina: Pope Leo XIV welcomed by Javier Milei for historic visit",
+            "https://www.africanews.com/2026/11/09/argentina-pope-leo-xiv-welcomed-by-javier-milei-for-historic-visit/"
+          ],
+          [
+            "Al Jazeera · Pope Leo XIV to visit Peru, Argentina and Uruguay in November",
+            "https://www.aljazeera.com/news/2026/8/5/pope-leo-xiv-to-visit-peru-argentina-and-uruguay-in-november"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "China’s crewed space agency announced it on 7 November",
+          "The traveller will fly on Shenzhou-24 as a ‘payload specialist’, there to run experiments rather than fly the spacecraft",
+          "Two pilots from one of China’s closest allies have been training for months in Beijing"
+        ],
+        "options": [
+          "India launches its first astronaut on its own rocket",
+          "Japan and China agree to build a space station together",
+          "Russia sends a Chinese astronaut to the International Space Station",
+          "A Pakistani astronaut will be the first foreign visitor to China’s space station"
+        ],
+        "correct": 3,
+        "why": "It was: a Pakistani astronaut will be the first foreign visitor to China’s space station. Chinese state media said on 7 November that an astronaut from Pakistan will join the Shenzhou-24 mission as a payload specialist, someone who carries out science work on board, and will come home on a different spacecraft, Shenzhou-23, after a short stay. Until now only Chinese astronauts have been to the station. China has not yet named the astronaut or announced the launch date.",
+        "sources": [
+          [
+            "Al Jazeera (AFP, Reuters) · Pakistani astronaut to join China’s next space station mission",
+            "https://www.aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission"
+          ],
+          [
+            "Arab News Pakistan (Reuters) · Pakistani astronaut to join China space station’s Shenzhou-24 mission",
+            "https://www.arabnews.pk/pakistan/pakistani-astronaut-to-join-china-space-stations-shenzhou-24-mission-3006361"
+          ],
+          [
+            "The Week · Shenzhou-24 mission: China opens its orbit to Pakistan’s astronauts",
+            "https://www.theweek.in/news/sci-tech/2026/11/09/shenzhou-24-mission-china-opens-its-orbit-to-pakistans-astronauts.amp.html"
+          ],
+          [
+            "bdnews24 (Reuters) · Pakistani astronaut to join China’s Shenzhou-24 mission",
+            "https://bdnews24.com/science/sx0gmiji41"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT HAPPENS FIRST?",
+        "title": "New Zealand’s election ended without a clear winner. Put these steps in order, earliest first.",
+        "items": [
+          "Parties hold talks to form the next government",
+          "Polls close on 7 November and the early count is too close to call",
+          "The final official results, including special votes, are released"
+        ],
+        "correctOrder": [
+          1,
+          2,
+          0
+        ],
+        "why": "The right order is: polls close on 7 November, then the final official results on 27 November, then talks to form a government. On election night neither the governing National-led coalition nor the left-leaning parties had a clear majority, so the result depends on special votes, cast for example by New Zealanders abroad, which are counted later. Under New Zealand’s proportional voting system, parties usually team up to govern, and those coalition talks can take weeks after the final count.",
+        "sources": [
+          [
+            "KSAT (AP) · Early count in New Zealand’s election suggests result too close to call",
+            "https://www.ksat.com/news/2026/11/06/early-count-in-new-zealands-election-suggests-result-too-close-to-call/"
+          ],
+          [
+            "Devdiscourse (Reuters) · New Zealand preliminary vote leaves unclear who will govern",
+            "https://www.devdiscourse.com/article/international/4003405-new-zealand-preliminary-vote-leaves-unclear-who-will-govern"
+          ],
+          [
+            "Bernama (Anadolu) · New Zealand election ends without clear winner",
+            "https://bernama.com/en/world/news.php?id=2631508"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "Figures out on 10 November showed US consumer prices rose faster than expected in October. To bring inflation down, what is the US central bank, the Federal Reserve, most likely to do next?",
+        "options": [
+          "Cut interest rates to make borrowing cheaper",
+          "Raise interest rates",
+          "Print extra money to help shoppers",
+          "Freeze all prices by law"
+        ],
+        "correct": 1,
+        "why": "It is most likely to raise interest rates. Inflation means prices rising over time, and the October figures showed prices up 0.4% in a single month, more than forecasters expected. Higher interest rates make loans and credit more expensive, so people and businesses borrow and spend a little less, which helps cool price rises. After the report, traders were betting heavily that the Federal Reserve will raise rates at its meeting on 8–9 December.",
+        "sources": [
+          [
+            "CNBC · CPI inflation report: October 2026",
+            "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
+          ],
+          [
+            "CBS News · Inflation remained elevated in October, CPI report shows, upping odds of Fed interest rate hike",
+            "https://www.cbsnews.com/news/october-cpi-report-elevated-inflation/"
+          ],
+          [
+            "Fox Business · October CPI: Inflation trended higher as energy prices hit consumers",
+            "https://www.foxbusiness.com/economy/cpi-inflation-october-2026"
+          ],
+          [
+            "US Bureau of Labor Statistics · Consumer Price Index Summary, October 2026",
+            "https://www.bls.gov/news.release/cpi.nr0.htm"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "052",
+    "published": "2026-11-13",
+    "title": "A Beatle’s billions, a judo champion for president and China’s trillion-dollar surplus",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Did this actually happen?",
+        "claim": "This week Forbes named Paul McCartney the richest musician in the world, ahead of Taylor Swift and Jay-Z.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 1,
+        "why": "No, that is made up. Forbes did say this week that Paul McCartney is now a billionaire, worth about $1.4 billion, but that makes him the third-richest musician in the world, behind Jay-Z (about $2.8 billion) and Taylor Swift (about $2 billion). The 84-year-old former Beatle’s fortune comes from his share of Beatles earnings, the rights to songs he wrote, music catalogues he has bought (including Buddy Holly’s songs), his world tours, property and an art collection.",
+        "sources": [
+          [
+            "Euronews · Pennies Lane: Paul McCartney becomes third richest musician in the world",
+            "https://www.euronews.com/2026/11/10/pennies-lane-paul-mccartney-becomes-third-richest-musician-in-the-world"
+          ],
+          [
+            "The Daily Beast · Billionaire rock icon becomes world’s third-richest musician",
+            "https://www.thedailybeast.com/obsessed/paul-mccartney-becomes-worlds-third-richest-musician"
+          ],
+          [
+            "Variety Australia · Paul McCartney becomes a billionaire, making him the world’s third-richest musician",
+            "https://au.variety.com/?p=42408"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three terms. Find their partners.",
+        "pairs": [
+          [
+            "Carlos Alcaraz",
+            "Won the Paris Masters tennis title for the first time"
+          ],
+          [
+            "Ben Shelton",
+            "The American he beat in the final"
+          ],
+          [
+            "Turin",
+            "Italian city where he plays next, at the season-ending ATP Finals"
+          ]
+        ],
+        "why": "The pairs are: Carlos Alcaraz – first Paris Masters title; Ben Shelton – the opponent he beat in the final; Turin – home of the ATP Finals, his next event. On Sunday 8 November the 23-year-old Spaniard beat Shelton 7–6, 7–5 near Paris to win the indoor Paris Masters for the first time, a little revenge after Shelton knocked him out of the US Open this year. Alcaraz now heads to Turin for the season-ending ATP Finals (15–22 November), a title he has never won.",
+        "sources": [
+          [
+            "Al Jazeera · Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title",
+            "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title"
+          ],
+          [
+            "New Straits Times (AFP) · Spain’s Alcaraz wins Paris Masters for first time",
+            "https://www.nst.com.my/amp/sports/racquet-sports/2026/11/1573629/spains-alcaraz-wins-paris-masters-first-time"
+          ],
+          [
+            "ATP Tour · Alcaraz beats Shelton to win first Paris title",
+            "https://www.atptour.com/en/news/alcaraz-shelton-paris-2026-final-sunday"
+          ],
+          [
+            "Tennis Majors · Rolex Paris Masters: Alcaraz lifts the trophy",
+            "https://www.tennismajors.com/atp/breaking-news-rolex-paris-masters-alcaraz-lifts-the-trophy-866414.html"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "Three individual Olympic golds and 11 world titles",
+          "“Neither left nor right”, he says",
+          "The vote is due in spring 2027"
+        ],
+        "options": [
+          "A football legend is elected mayor of Paris",
+          "A tennis star launches a new political party in Spain",
+          "A judo champion says he will run for president of France",
+          "An Olympic swimmer joins Italy’s government"
+        ],
+        "correct": 2,
+        "why": "It was: a judo champion says he will run for president of France. On 9 November Teddy Riner, 37, an 11-time world judo champion, announced in a video online and in a newspaper interview that he will stand in France’s 2027 presidential election. He has no party and has never held elected office, and says he is neither left- nor right-wing. He even hopes to keep competing, with an eye on the 2028 Los Angeles Olympics.",
+        "sources": [
+          [
+            "Euronews · French judo legend and Olympic medallist Teddy Riner announces presidential bid",
+            "https://www.euronews.com/2026/11/09/french-judo-legend-and-olympic-medallist-teddy-riner-announces-presidential-bid"
+          ],
+          [
+            "Kuwait Times (AFP) · Judo king Riner joins fight for French presidency",
+            "https://kuwaittimes.com/article/53320/world/judo-king-riner-joins-fight-for-french-presidency/"
+          ],
+          [
+            "Ynetnews (AP) · Olympic judo champion Teddy Riner launches bid for French presidency",
+            "https://www.ynetnews.com/article/sk2aqv1czl"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "China sells far more to the world than it buys. Put these milestones in order, earliest first.",
+        "items": [
+          "China’s trade surplus passes $1 trillion after only ten months of the year",
+          "China’s trade surplus passes $1 trillion for the first time ever",
+          "China ends a year with a record surplus of about $1.2 trillion"
+        ],
+        "correctOrder": [
+          1,
+          2,
+          0
+        ],
+        "why": "The right order is: the surplus first passes $1 trillion (2025), then 2025 ends with a record of about $1.2 trillion, then the surplus passes $1 trillion again after just ten months of 2026. A trade surplus is how much more a country sells abroad than it buys. Figures released on 10 November showed China’s surplus for January to October 2026 at about $1.04 trillion, its second year in a row above $1 trillion, and reached sooner than last year. Exports jumped 35% in October, led by computer chips as the world buys hardware for artificial intelligence.",
+        "sources": [
+          [
+            "Euronews · China’s trade surplus surpasses $1 trillion as AI boom powers exports",
+            "https://www.euronews.com/2026/11/10/chinas-trade-surplus-surpasses-1-trillion-as-ai-boom-powers-exports"
+          ],
+          [
+            "NBC News (AP) · China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35%",
+            "https://www.nbcnews.com/world/asia/chinas-trade-surplus-surpasses-1-trillion-2nd-straight-year-exports-rcna608493"
+          ],
+          [
+            "CNBC · China’s goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade",
+            "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "On 9 November the US medicines regulator ordered a new warning on popular diabetes and weight-loss drugs such as Ozempic, Wegovy and Mounjaro. What is the warning about?",
+        "options": [
+          "A rare eye condition that can cause sudden loss of sight",
+          "A risk of becoming addicted to the drugs",
+          "Hair loss in people who take high doses",
+          "A loss of hearing in older patients"
+        ],
+        "correct": 0,
+        "why": "It is about a rare eye condition that can cause sudden loss of sight. The US Food and Drug Administration (FDA) told the makers of all GLP-1 drugs, the family of medicines that includes Ozempic, Wegovy, Mounjaro and Zepbound, to add a warning about a possible higher risk of NAION, a condition where reduced blood flow damages the optic nerve that links the eye to the brain. The FDA calls the risk rare, and Europe’s medicines regulator already lists it as a very rare side effect of semaglutide (the medicine in Ozempic and Wegovy), affecting up to about 1 in 10,000 users. Novo Nordisk, which makes Ozempic and Wegovy, says the data do not show the drugs cause it.",
+        "sources": [
+          [
+            "Euronews · US drug watchdog orders new safety warnings for weight-loss drugs over potential risk of vision loss",
+            "https://www.euronews.com/2026/11/09/us-drug-watchdog-orders-new-safety-warnings-for-weight-loss-drugs-over-potential-risk-of-v"
+          ],
+          [
+            "Honolulu Star-Advertiser (Reuters) · FDA orders new eye risk warnings for Ozempic, Zepbound",
+            "https://www.staradvertiser.com/2026/11/09/breaking-news/fda-orders-new-eye-risk-warnings-for-ozempic-zepbound/"
+          ],
+          [
+            "NBC Los Angeles (NBC News) · FDA orders warning on GLP-1 drugs over rare eye condition",
+            "https://www.nbclosangeles.com/health/fda-warning-glp-rare-eye-condition-sudden-blindness/3968027/"
+          ]
+        ]
+      }
+    ]
   }
 ]
