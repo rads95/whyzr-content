@@ -1,439 +1,463 @@
 {
- "updated": "2026-11-09T10:07:14Z",
+ "updated": "2026-11-11T08:11:07Z",
  "items": [
   {
-   "section": "climate",
-   "published": "2026-11-09T08:30:00Z",
-   "title": "UN climate talks open in Antalya, Turkey, as Guterres urges action",
-   "why": "COP31 opened on Monday in Antalya, Turkey, and runs until 20 November, with world leaders due on 11 and 12 November. UN chief António Guterres said the world has “entered a new age of climate extremes”. Money for poorer countries is the main dispute.",
-   "matters": "The UN says current national pledges put the world on course for about 2.6C of warming this century.",
+   "section": "health",
+   "serious": true,
+   "developing": true,
+   "published": "2026-11-11T06:17:00Z",
+   "title": "Congo's Ebola outbreak passes 11,000 cases, with no vaccine for strain",
+   "why": "Ebola has infected 11,042 people and killed at least 5,387 in the Democratic Republic of the Congo, the health ministry says. It has reached eight of 26 provinces, mostly Ituri and North Kivu in the east. The Bundibugyo strain has no approved vaccine or treatment.",
+   "matters": "It is the second-largest Ebola outbreak on record, after West Africa's in 2014–2016, with cases also in Uganda, Kenya and Nigeria.",
    "sources": [
     {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261109-cop31-opens-as-climate-and-geopolitical-pressures-mount"
+     "name": "AP",
+     "url": "https://www.wsls.com/news/world/2026/11/11/congos-ebola-outbreak-tops-11000-cases-as-disease-keeps-spreading/"
     },
     {
-     "name": "TRT World",
-     "url": "https://www.trtworld.com/article/80e31443493f"
+     "name": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths"
     },
     {
-     "name": "The Globe and Mail (AP)",
-     "url": "https://www.theglobeandmail.com/world/article-un-climate-cop-31-turkey/"
-    },
-    {
-     "name": "UNFCCC",
-     "url": "https://unfccc.int/cop31"
+     "name": "CDC",
+     "url": "https://www.cdc.gov/ebola/situation-summary/index.html"
     }
-   ],
-   "changed": "Updated: the summit has opened"
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-10T19:00:00Z",
+   "title": "US charges three men over Iran-linked plots, including on a UK airbase",
+   "why": "US prosecutors in New York on Tuesday charged three men they describe as Iranian operatives over nearly 20 alleged attacks or plots in Europe and the US, including on Jewish targets and the RAF Fairford airbase in England. Only one is in custody. Iran denies involvement at Fairford.",
+   "sources": [
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/us/2026/11/10/iran-fairford-plot-charges/"
+    },
+    {
+     "name": "ABC Australia (AP)",
+     "url": "https://www.abc.net.au/news/2026-11-11/us-charges-3-men-with-plotting-terror-attacks/107371492"
+    },
+    {
+     "name": "The Media Line",
+     "url": "https://themedialine.org/headlines/us-charges-3-iran-backed-operatives-over-attacks-on-jewish-targets-and-uk-airbase-plot/"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-10T18:08:00Z",
+   "title": "South Africa’s most decorated Olympian, Tatjana Smith, switches to the Netherlands",
+   "why": "Swimmer Tatjana Smith, 29, who won Olympic breaststroke gold in Tokyo and Paris, said on Tuesday she will compete for the Netherlands, her father’s country. She cited financial and practical challenges and better high-performance support. She plans to keep training in South Africa, aiming for the 2028 Los Angeles Games.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://www.espn.com/olympics/story/_/id/50444115/2-gold-medalist-tatjana-smith-swim-netherlands"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands"
+    },
+    {
+     "name": "The Mercury (IOL)",
+     "url": "https://themercury.co.za/sport/swimming/2026-11-10-breaking-olympic-icon-tatjana-smith-quits-team-sa-to-swim-for-another-country/"
+    }
+   ]
   },
   {
    "section": "world",
    "serious": true,
    "developing": true,
-   "published": "2026-11-09T06:05:00Z",
-   "title": "Drones hit a major Russian refinery ahead of Ukraine peace talks",
-   "why": "Leningrad region governor Alexander Drozdenko says a Ukrainian drone attack overnight on Monday set fire to the Kirishi refinery, one of Russia’s largest, and that falling debris killed a woman. US-mediated talks between Russia, Ukraine and the US are due in Abu Dhabi on Tuesday and Wednesday.",
-   "matters": "France says European countries will take part in the Abu Dhabi talks, which Russia has opposed.",
+   "published": "2026-11-10T18:00:00Z",
+   "title": "Former Iraqi MP found dead in Beirut; Lebanon investigates killing",
+   "why": "Ahmed al-Alwani, a former Iraqi lawmaker from Anbar and a critic of Iran’s influence in Iraq, was found dead in a flat in Beirut, Lebanon, on Tuesday evening. A judicial source told AFP he was killed; one Lebanese suspect has been arrested and two Syrians are being sought.",
    "sources": [
     {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-russias-second-largest-oil-refinery-in-overnight-drone-attack/"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/11/former-iraqi-awmaker-ahmed-al-alwani-found-dead-in-beirut"
     },
     {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-09/ukrainian-drone-attack-at-russia-kirishi-refinery-woman-dies/107365888"
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/11/former-iraqi-legislator-found-dead-in-beirut-in-suspected-assassination/"
     },
     {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says"
+     "name": "Arab News",
+     "url": "https://www.arabnews.com/middle-east/former-iraqi-mp-found-dead-in-beirut-suspect-arrested-3011016"
     }
    ]
   },
   {
    "section": "money",
-   "published": "2026-11-09T03:00:00Z",
-   "title": "Asian markets recover after AI share sell-off linked to US midterms",
-   "why": "Taiwan’s main index rose about 5% and Japan’s Nikkei more than 2% on Monday, after Wall Street steadied on Friday. Last week investors sold AI shares on fears that Democratic gains could slow data-centre building; South Korea’s Kospi fell so fast on Friday that trading was briefly halted.",
-   "matters": "Chip makers in Taiwan, Korea and Japan carry great weight in Asian markets and many pension funds.",
+   "published": "2026-11-10T11:40:00Z",
+   "title": "Anthropic targets valuation of up to $1.4 trillion in share sale",
+   "why": "AI company Anthropic, maker of the Claude chatbot, said on Tuesday it will sell 825 million shares at $70 to $78 each on the US Nasdaq exchange. That could raise about $64 billion; people familiar with the deal told CNBC trading should start on 19 November.",
+   "matters": "It would be one of the largest stock market listings ever, coming a week after a sharp sell-off in AI shares.",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+    },
+    {
+     "name": "Fortune",
+     "url": "https://fortune.com/2026/11/10/anthropic-ipo-price-range-ai-stock-sell-off/"
+    },
+    {
+     "name": "UPI",
+     "url": "https://www.upi.com/Top_News/US/2026/11/10/anthropic-ipo-stock-range-nasdaq/6651794326745/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-10T09:46:00Z",
+   "title": "Malaysian minister quits as ex-PM Najib moves to house arrest",
+   "why": "Former prime minister Najib Razak, jailed since 2022 over the 1MDB state fund scandal, went home in Kuala Lumpur on Tuesday to serve the rest of his sentence under house arrest after a High Court ruling. Transport Minister Anthony Loke resigned, as he had pledged to if Najib was moved.",
    "sources": [
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout"
+     "url": "https://www.aljazeera.com/news/2026/11/10/malaysian-court-clears-former-pm-najib-razak-for-house-arrest-transfer"
     },
     {
-     "name": "WRAL (AP)",
-     "url": "https://www.wral.com/news/ap/d938f-asian-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/"
+     "name": "The Star",
+     "url": "https://www.thestar.com.my/news/nation/2026/11/10/loke-quits-as-transport-minister-after-najib-house-arrest-ruling"
     },
+    {
+     "name": "Malay Mail",
+     "url": "https://www.malaymail.com/news/malaysia/2026/11/10/anthony-loke-officially-resigns-as-transport-minister-following-court-decision-on-najib/242738"
+    }
+   ]
+  },
+  {
+   "section": "curious",
+   "published": "2026-11-10T09:41:00Z",
+   "title": "Ethiopian water mouse, feared extinct for a century, found again",
+   "why": "Researchers caught the Ethiopian water mouse in mid-October in the Yayu Biosphere Reserve in south-western Ethiopia, Germany’s NABU conservation group announced on Tuesday. The species had been known from a single animal collected in 1927. National Geographic reports three were caught; genetic tests are under way.",
+   "matters": "It suggests little-surveyed forests may still hide animals that science thought were lost.",
+   "sources": [
+    {
+     "name": "National Geographic",
+     "url": "https://www.nationalgeographic.com/animals/article/ethiopia-water-mouse-extinct-rediscovery"
+    },
+    {
+     "name": "dpa (t-online)",
+     "url": "https://www.t-online.de/nachrichten/panorama/wissen/id_101521404/vermeintlich-ausgestorbene-aethiopische-wassermaus-gesichtet.html"
+    },
+    {
+     "name": "APA (Salzburger Nachrichten)",
+     "url": "https://www.sn.at/panorama/wissen/jahrzehnte-lang-verschollene-aethiopische-wassermaus-entdeckt-art-683089"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "developing": true,
+   "published": "2026-11-10T08:36:00Z",
+   "title": "Indonesia’s vice-president Gibran offers to resign over diploma ruling",
+   "why": "Vice-President Gibran Rakabuming Raka told President Prabowo Subianto in Jakarta on Tuesday that he wants to step down, State Secretary Prasetyo Hadi says, after the Supreme Court ruled his school certificate did not meet election rules. No formal resignation has been confirmed.",
+   "matters": "Gibran is the son of former president Joko Widodo; his case has widened a rift between Prabowo and Widodo, AP reports.",
+   "sources": [
+    {
+     "name": "AP (via ABC News)",
+     "url": "https://abcnews.com/International/wireStory/indonesias-vice-president-offers-resignation-questions-mount-eligibility-138005690"
+    },
+    {
+     "name": "Jakarta Globe",
+     "url": "https://jakartaglobe.id/news/breaking-news-gibran-offers-to-resign-as-indonesias-vice-president-amid-diploma-dispute"
+    },
+    {
+     "name": "The Jakarta Post (via Asia News Network)",
+     "url": "https://asianews.network/indonesian-vp-gibran-intends-to-resign-says-state-secretary/"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-10T06:50:00Z",
+   "title": "SoftBank reports $7 billion quarterly loss after US data-centre costs",
+   "why": "Japan's SoftBank Group said on Tuesday it lost 1.12 trillion yen (about $7 billion) from July to September. It booked a 597 billion yen loss after changing plans to buy power equipment for US AI data centres, and its first-half loss was its first in three years.",
+   "matters": "SoftBank is one of OpenAI's biggest backers, so its results are watched as a gauge of the AI boom.",
+   "sources": [
     {
      "name": "Nikkei Asia",
-     "url": "https://asia.nikkei.com/business/markets/taiwan-south-korea-japan-stock-markets-hit-hard-by-ai-sell-off"
+     "url": "https://asia.nikkei.com/business/softbank/softbank-swings-to-first-half-loss-as-ai-hopes-face-new-setbacks"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html"
+    },
+    {
+     "name": "Jiji Press (Nippon.com)",
+     "url": "https://www.nippon.com/en/articles/-/57223"
     }
    ]
   },
   {
    "section": "tech",
-   "published": "2026-11-08T21:30:00Z",
-   "title": "Nvidia opens inquiry after reports its CEO was targeted by spies",
-   "why": "Nvidia’s board said on Sunday that independent directors will investigate reports that chief executive Jensen Huang was the target of a Chinese intelligence effort. China’s foreign ministry called the reports “groundless speculation and slander”. Senior US lawmakers want Huang to brief Congress. Huang stays on as CEO.",
-   "matters": "Nvidia makes most of the chips that power AI and is one of the world’s most valuable companies.",
+   "published": "2026-11-10T03:50:00Z",
+   "title": "Australia to create AI safety regulator after OpenAI agent breach",
+   "why": "Prime Minister Anthony Albanese said on Tuesday AI developers will face mandatory safety rules, enforced by a new regulator able to impose significant penalties. It follows a June incident in which OpenAI's AI agents reached non-public Medicare statistics via a government portal; officials say no personal information was accessed.",
+   "matters": "Companies would have to report AI incidents quickly, and the government is considering criminal penalties for failing to prevent harm.",
    "sources": [
     {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/technology/20261108-nvidia-jensen-huang-chinese-intelligence-probe"
-    },
-    {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-investigation-rcna608148"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair"
+     "name": "AP",
+     "url": "https://www.yahoo.com/news/world/articles/australia-launch-ai-safety-regulator-050252320.html"
     },
     {
      "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-09/nvidia-ceo-jensen-huang-affair-with-suspected-chinese-spy/107362878"
+     "url": "https://www.abc.net.au/news/2026-11-10/openai-medicare-hack-government-loophole/107368330"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/australia-plans-new-regulator-for-artificial-intelligence-after-openai-hack"
     }
-   ],
-   "changed": "Updated: China denies the reports and US lawmakers ask Huang to brief Congress"
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-10T02:40:00Z",
+   "title": "China's trade surplus passes $1 trillion for second year running",
+   "why": "China's exports rose 35.2% in October from a year earlier, led by AI-related goods such as chips and servers, customs data showed on Tuesday. The surplus for January to October reached $1.04 trillion, passing that mark two months earlier than in 2025.",
+   "matters": "Trading partners say cheap Chinese goods hurt their industries; trade is expected to dominate Xi and Trump's meeting next week.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://www.nbcnews.com/world/asia/chinas-trade-surplus-surpasses-1-trillion-2nd-straight-year-exports-rcna608493"
+    },
+    {
+     "name": "ABC Australia (AFP)",
+     "url": "https://www.abc.net.au/news/2026-11-11/china-trade-surpasses-1-trillion-for-second-straight-year/107372090"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html"
+    }
+   ]
   },
   {
    "section": "culture",
-   "published": "2026-11-08T21:30:00Z",
-   "title": "‘Godzilla Minus Zero’ sets North American record for a foreign-language film",
-   "why": "The Japanese monster film took an estimated $31.6m in the US and Canada over the weekend, topping the box office. AP and Variety say that is a record opening there for a film not in English, beating the $17.8m of China’s ‘Hero’.",
-   "matters": "It is almost three times the opening of its predecessor, ‘Godzilla Minus One’.",
+   "published": "2026-11-09T22:00:00Z",
+   "title": "M. John Harrison, 81, wins Booker Prize with ‘The End of Everything’",
+   "why": "The British writer won the £50,000 prize on Monday in London for his satirical science-fiction novel set on a ruined Kent coast. He is the oldest winner in its history. Judges, chaired by historian Mary Beard, were unanimous. AP calls it the first science-fiction winner.",
    "sources": [
     {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261108-godzilla-minus-zero-stomps-to-the-top-of-n-america-box-office"
+     "name": "AP",
+     "url": "https://www.ajc.com/news/2026/11/the-end-of-everything-by-m-john-harrison-wins-the-2026-booker-prize-for-fiction/"
     },
     {
-     "name": "Variety",
-     "url": "https://variety.com/2026/film/box-office/godzilla-minus-zero-box-office-opening-weekend-cat-in-the-hat-fizzles-1236942363/"
+     "name": "NPR",
+     "url": "https://www.wlrn.org/npr-breaking-news/2026-11-09/apocalyptic-sci-fi-novel-the-end-of-everything-wins-this-years-booker-prize"
     },
     {
-     "name": "The Hollywood Reporter",
-     "url": "https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-box-office-opening-the-cat-in-the-hat-1236750019/"
+     "name": "Xinhua (The Star)",
+     "url": "https://www.thestar.com.my/news/world/2026/11/10/british-science-fiction-writer-m-john-harrison-wins-2026-booker-prize"
     }
    ]
   },
   {
-   "section": "world",
-   "published": "2026-11-08T21:00:00Z",
-   "title": "Drone strike halts Iraqi Kurdistan gas field and cuts regional power",
-   "why": "A drone hit the Khor Mor gas field in Iraq’s Kurdistan region late on Sunday, starting a fire and halting output, operator Dana Gas says. The regional electricity ministry says about 2.8 gigawatts of power was lost. No one was hurt and no group has claimed the attack.",
-   "matters": "Khor Mor feeds the region’s power stations, so millions of people face long power cuts.",
+   "section": "culture",
+   "published": "2026-11-09T17:15:00Z",
+   "title": "James Gunn and Peter Safran leave the top of DC Studios",
+   "why": "Skydance said on Monday that the pair, who have run Warner Bros’ superhero studio since 2022, will step down as co-chiefs and return to film-making. Former Marvel Studios executive Jeremy Latcham takes over on 1 December. Gunn’s ‘Superman’ took about $618m worldwide.",
+   "matters": "Gunn still makes ‘Man of Tomorrow’, due in July 2027, but the wider DC film plan passes to new leadership.",
    "sources": [
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield"
+     "name": "AP",
+     "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/09/james-gunn-and-peter-safran-are-out-in-another-dc-studios-shakeup-skydance-appoints-jeremy-latchman"
     },
     {
-     "name": "ThePrint (Reuters)",
-     "url": "https://theprint.in/world/iraqs-khor-mor-gas-field-suspends-output-after-drone-attack-operator-says/3093925/"
+     "name": "Screen Daily",
+     "url": "https://www.screendaily.com/news/jeremy-latcham-to-lead-dc-studios-james-gunn-peter-safran-departing/5222202.article"
     },
     {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/news/mena/2026/11/09/drone-attack-on-iraqi-kurdistans-khor-mor-gas-field-causes-blackouts/"
+     "name": "TheWrap",
+     "url": "https://www.thewrap.com/creative-content/movies/james-gunn-and-peter-safran-out-at-dc-studios-jeremy-latcham-named-new-president-and-chief-creative-officer/"
     }
    ]
   },
   {
-   "section": "world",
-   "developing": true,
-   "published": "2026-11-08T19:40:00Z",
-   "title": "Merz backs Ilse Aigner to be Germany’s first woman president",
-   "why": "Chancellor Friedrich Merz told his party on Sunday he will propose Ilse Aigner, 61, speaker of Bavaria’s parliament, as head of state; party leaders meet on Monday to confirm it. The Social Democrats back her. A special assembly votes on 30 January to succeed Frank-Walter Steinmeier.",
-   "matters": "Germany’s president is largely ceremonial but signs laws and acts as a moral voice for the country.",
+   "section": "culture",
+   "serious": true,
+   "published": "2026-11-09T13:00:00Z",
+   "title": "Russell Brand jailed for 10½ years for rape and sexual assaults",
+   "why": "A judge at Southwark Crown Court in London sentenced the British comedian and actor, 51, on Monday for raping one woman and sexually assaulting three others between 2004 and 2009. Brand has denied the offences, saying the encounters were consensual. Police say they are assessing further complaints.",
    "sources": [
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president"
+     "name": "Crown Prosecution Service",
+     "url": "https://www.cps.gov.uk/node/30527"
     },
     {
-     "name": "blue News (Keystone-SDA)",
-     "url": "https://www.bluewin.ch/en/news/merz-aigner-should-become-federal-president-li.3666521"
+     "name": "AP",
+     "url": "https://www.bostonglobe.com/2026/11/09/world/russell-brand-sentenced/"
     },
     {
-     "name": "Anadolu Agency",
-     "url": "https://aa.com.tr/en/europe/german-conservatives-agree-to-nominate-ilse-aigner-for-presidency-report/4114673"
+     "name": "AAP",
+     "url": "https://www.theleader.com.au/story/9388663/predator-brand-sentenced-to-10-and-a-half-years-jail/"
     }
    ]
   },
   {
    "section": "sport",
-   "published": "2026-11-08T19:00:00Z",
-   "title": "Norris wins wet São Paulo Grand Prix as Mercedes take teams’ title",
-   "why": "McLaren’s Lando Norris won a rain-hit race at Interlagos in Brazil on Sunday, 14.6 seconds ahead of Max Verstappen, with Isack Hadjar third. Mercedes secured the constructors’ championship, their ninth, with two races left.",
-   "matters": "With Kimi Antonelli already drivers’ champion, Mercedes have won both 2026 titles.",
+   "published": "2026-11-09T10:00:00Z",
+   "title": "West Indies win Test series in Bangladesh after draw in Sylhet",
+   "why": "Bad light ended the second Test in Sylhet, north-east Bangladesh, on Monday with Bangladesh 184 for 4, chasing 369. West Indies take the two-match series 1-0. Towhid Hridoy’s 324 runs in the match are a Bangladesh Test record, and Mushfiqur Rahim became the first Bangladeshi to 7,000 Test runs.",
    "sources": [
     {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261108-norris-wins-rain-hit-race-as-mercedes-clinch-teams-title-and-double"
+     "name": "ICC",
+     "url": "https://www.icc-cricket.com/tournaments/world-test-championship/news/west-indies-clinch-wtc27-series-after-stalemate-in-sylhet"
     },
     {
-     "name": "Formula 1",
-     "url": "https://www.formula1.com/en/latest/article/norris-beats-verstappen-in-wet-sao-paulo-gp-thriller-as-mercedes-win-constructors-championship.7JN7MXLZf5lk5l0C3gfKGI"
+     "name": "AFP (New Straits Times)",
+     "url": "https://www.nst.com.my/amp/sports/cricket/2026/11/1574106/bangladesh-force-draw-second-test-west-indies-win-series-1-0"
     },
     {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/f1/news/13609694/sao-paulo-gp-lando-norris-wins-wet-race-for-mclaren-as-mercedes-seal-2026-f1-constructors-championship-in-brazil"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-08T18:00:00Z",
-   "title": "Mexico arrests alleged Jalisco cartel cell leader known as ‘R2’",
-   "why": "Mexican marines arrested Rafael Álvarez Ayala, alleged head of the ‘Los Rs’ cell of the Jalisco New Generation Cartel, in Zapopan, Jalisco, on Sunday, with US intelligence help. The navy says 19 others were detained. He and a marine were wounded in a shootout, officials say.",
-   "matters": "Officials link the cell to the 2025 killing of Uruapan’s mayor, Carlos Manzo; the US also wants him extradited.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/9/mexico-arrests-major-leader-of-jalisco-cartel"
-    },
-    {
-     "name": "ThePrint (Reuters)",
-     "url": "https://theprint.in/world/mexico-captures-alleged-cartel-cell-leader-in-operation-aided-by-dea-intelligence/3093828/"
-    },
-    {
-     "name": "Infobae",
-     "url": "https://www.infobae.com/mexico/2026/11/09/dea-aplaude-a-mexico-la-captura-de-rafael-alvarez-ayala-alias-el-r2-operador-clave-del-cjng/"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-08T18:00:00Z",
-   "title": "Bezzecchi wins Qatar MotoGP, so Márquez must wait for the title",
-   "why": "Italy’s Marco Bezzecchi led from pole to win the Qatar Grand Prix at Lusail on Sunday, ahead of Marc Márquez and Raúl Fernández. Márquez now leads Jorge Martín, seventh in Qatar, by 60 points with two rounds left, Portugal and Valencia.",
-   "matters": "Another title would be Márquez’s eighth in the top class, one more than Valentino Rossi.",
-   "sources": [
-    {
-     "name": "MotoGP",
-     "url": "https://www.motogp.com/en/news/2026/11/08/bezzecchi-bounces-back-with-qatar-victory-as-marquez-extends-championship-lead/1184256"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/sports/2026/11/9/motogp-bezzecchi-denies-marquez-world-title-as-motorsport-returns-to-qatar"
-    },
-    {
-     "name": "Crash.net",
-     "url": "https://www.crash.net/motogp/news/1109897/1/marc-marquez-denied-motogp-title-qatar-marco-bezzecchi-wins-race"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-08T16:30:00Z",
-   "title": "Alcaraz beats Shelton to win the Paris Masters for the first time",
-   "why": "Spain’s Carlos Alcaraz beat Ben Shelton of the US 7-6, 7-5 in Paris on Sunday, avenging his US Open defeat to him in September. It is his ninth Masters 1000 title and his fifth title of 2026.",
-   "matters": "Alcaraz heads to the season-ending ATP Finals in Turin, which start on 15 November.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/sport/20261108-spain-s-alcaraz-beats-error-prone-shelton-to-win-paris-masters-for-first-time"
-    },
-    {
-     "name": "ATP Tour",
-     "url": "https://www.atptour.com/en/news/alcaraz-shelton-paris-2026-final-sunday"
-    },
-    {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/tennis/news/13609753/atp-paris-masters-carlos-alcaraz-beats-ben-shelton-to-claim-fifth-title-of-2026-after-avenging-us-open-defeat"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-08T15:00:00Z",
-   "title": "Pope Leo tells Argentina the economy must serve people",
-   "why": "Pope Leo XIV arrived in Buenos Aires on Sunday from Uruguay, the first papal visit to Argentina since 1987, and was welcomed by President Javier Milei. In his first speech he said the economy must serve the person, which France 24 describes as criticism of Milei’s austerity.",
-   "matters": "Argentina is the home country of the late Pope Francis; Leo goes on to Peru on Wednesday.",
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261108-pope-leo-argentina-visit-milei"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina"
-    },
-    {
-     "name": "PBS NewsHour (AP)",
-     "url": "https://www.pbs.org/newshour/world/pope-arrives-in-argentina-and-tells-milei-that-people-not-the-economy-should-come-first"
-    }
-   ],
-   "changed": "Updated: the pope has arrived in Argentina"
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-08T13:30:00Z",
-   "title": "At least 34 killed as migrant boat sinks off Senegal",
-   "why": "A wooden boat carrying migrants sank off Kebemer in north-western Senegal, between Dakar and Saint-Louis, at the weekend, killing at least 34 people, the state news agency APS says. The interior ministry says one person was rescued and others are missing.",
-   "matters": "The Atlantic route from West Africa to Spain’s Canary Islands is one of the deadliest migration routes in the world.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal"
-    },
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/africa/20261108-migrant-boat-sinks-off-senegal-killing-at-least-34-people-authorities-say"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/08/at-least-21-dead-after-migrant-boat-capsizes-off-senegal-authorities-say"
-    },
-    {
-     "name": "Anadolu Agency",
-     "url": "https://www.aa.com.tr/fr/afrique/s%C3%A9n%C3%A9gal-34-morts-dans-le-chavirement-d-une-embarcation-transportant-des-migrants-irr%C3%A9guliers/4116127"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-08T12:30:00Z",
-   "title": "At least seven killed in train collision near Cairo, Egypt",
-   "why": "A train heading to Fayoum ran into the back of a Cairo-to-Aswan train in al-Ayyat, in Giza province south of Cairo, on Sunday afternoon. At least seven people were killed and more than 100 injured, Egypt’s health ministry says.",
-   "matters": "President Abdel Fattah el-Sisi has ordered an urgent investigation into the cause.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261108-egypt-train-collision-kills-7-injures-112-health-ministry"
-    },
-    {
-     "name": "NBC News (AP)",
-     "url": "https://www.nbcnews.com/world/middle-east/train-collision-egypt-cairo-giza-rcna608111"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "published": "2026-11-07T21:15:00Z",
-   "title": "NASA opens applications for new astronauts to staff a Moon base",
-   "why": "NASA is taking applications for its next astronaut class until 3 December, it announced on Saturday at Kennedy Space Center in Florida. It has 32 active astronauts and plans a lasting base on the Moon. It expects to choose the class by late 2027.",
-   "matters": "Applicants must be US citizens; the last call in 2024 drew more than 8,000 applications for ten places.",
-   "sources": [
-    {
-     "name": "NASA",
-     "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/"
-    },
-    {
-     "name": "NBC News (AP)",
-     "url": "https://www.nbcnews.com/science/space/nasa-is-looking-for-new-astronauts-rcna608025"
-    },
-    {
-     "name": "Houston Chronicle",
-     "url": "https://www.houstonchronicle.com/news/houston-texas/space/article/nasa-astronaut-applications-open-22518400.php"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "published": "2026-11-07T16:00:00Z",
-   "title": "Cholesterol drug fails to prevent heart attacks despite cutting levels 78%",
-   "why": "In a trial of 8,323 people in 42 countries, Novartis’s pelacarsen lowered lipoprotein(a), an inherited form of cholesterol, by 78%, but did not reduce heart attacks, strokes or heart deaths, researchers told the American Heart Association meeting in Chicago on Saturday.",
-   "matters": "About one in five people carry high lipoprotein(a); several similar drugs are still in trials.",
-   "sources": [
-    {
-     "name": "American Heart Association",
-     "url": "https://newsroom.heart.org/news/lp-a-horizon-trial-lp-a-fell-by-78-but-cardiovascular-outcomes-unexpectedly-neutral"
-    },
-    {
-     "name": "STAT",
-     "url": "https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/"
-    },
-    {
-     "name": "NBC News (AP)",
-     "url": "https://www.nbcnews.com/health/health-news/cholesterol-drug-lipoprotein-a-fails-heart-attacks-stroke-trial-rcna607237"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "developing": true,
-   "published": "2026-11-07T14:23:00Z",
-   "title": "US sets up task force to block Iran's land supply routes",
-   "why": "US Central Command announced Task Force Iron Gate on Saturday to stop weapons and sanctioned goods crossing Iran's land borders and the Caspian Sea. The same day, it says, a US aircraft disabled a St Kitts-flagged cargo ship trying to break its naval blockade in the Gulf of Oman.",
-   "matters": "It extends a months-long US naval blockade of Iranian ports to Iran's land borders.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes"
-    },
-    {
-     "name": "Gulf News",
-     "url": "https://gulfnews.com/world/mena/us-strikes-cargo-ship-in-gulf-of-oman-amid-iran-blockade-enforcement-1.500739942"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: police raised the toll to at least six; the prime minister calls it terrorism",
-   "published": "2026-11-07T14:00:00Z",
-   "title": "At least six killed in Krakow shooting, which Poland's PM calls terrorism",
-   "why": "A gunman fired from a car in the Main Market Square of Krakow, Poland, on Saturday afternoon, killing at least six people and wounding about 15, police say. Officers shot and detained the suspect, a Polish man; three more bodies were found at his home.",
-   "matters": "The interior minister says the suspect held ultra-nationalist views; Poland has declared two days of mourning.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say"
-    },
-    {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/world/europe/poland-krakow-shooting-rcna608001"
+     "name": "AAP",
+     "url": "https://www.theleader.com.au/story/9388656/bangladesh-salvage-draw-but-windies-win-series/"
     }
    ]
   },
   {
    "section": "climate",
+   "developing": true,
+   "changed": "Updated: world leaders begin two days of speeches; Turkey's electricity target divides countries",
+   "published": "2026-11-09T08:30:00Z",
+   "title": "COP31 leaders' speeches begin in Turkey without US or top Europeans",
+   "why": "Leaders hold two days of speeches from Wednesday at the COP31 climate talks in Antalya, Turkey. The US is absent, and France's, Germany's and Italy's leaders are staying away, AFP reports. Host Turkey wants electricity to supply 35% of world energy by 2035, up from 23%.",
+   "matters": "Countries disagree on whether that electricity must come from clean sources, which decides how much it would slow warming.",
+   "sources": [
+    {
+     "name": "RTÉ/AFP",
+     "url": "https://www.rte.ie/news/world/2026/1111/1598779-cop-31-turkey/"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-11/cop31-electrification-turkiye-australia/107371196"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/11/everything-and-everyone-we-love-is-at-stake-thunberg-slams-cop31-talks"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "lead": true,
    "serious": true,
-   "published": "2026-11-07T13:30:00Z",
-   "title": "Five killed as rain floods tens of thousands of Gaza tents",
-   "why": "A sand embankment collapsed onto tents at a shelter south of Deir el-Balah in central Gaza on Sunday, killing at least five people, including children, Gaza’s civil defence says. Rain since Friday has flooded about 70,000 tents, the Hamas-run government media office says.",
-   "matters": "Local officials and aid groups say Gaza urgently needs shelter, tents and heating as winter begins.",
+   "developing": true,
+   "changed": "Updated: talks under way in Abu Dhabi; drones hit Ust-Luga port",
+   "published": "2026-11-09T06:05:00Z",
+   "title": "Ukraine, Russia and US hold first peace talks since February",
+   "why": "US envoys Steve Witkoff and Jared Kushner hosted Ukrainian and Russian delegations in Abu Dhabi on Tuesday and Wednesday, the first such talks since February. Zelensky called day one “constructive”; prisoner swaps and de-escalation were discussed. Russian officials say drones also hit the Ust-Luga oil port overnight.",
+   "matters": "The talks are the first direct contact between the warring sides in nine months.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261111-live-ukraine-russia-hold-second-day-of-us-mediated-talks-in-abu-dhabi"
+    },
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/ukraine-russia-us-resume-trilateral-peace-talks-in-abu-dhabi-after-9-month-pause/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "developing": true,
+   "changed": "Updated: shareholder lawsuit, FBI inquiry and a two-day share fall",
+   "published": "2026-11-08T21:30:00Z",
+   "title": "Nvidia and its boss sued by shareholders over alleged spy link",
+   "why": "A shareholder lawsuit filed in California on Monday says Nvidia and chief executive Jensen Huang misled investors about his relationship with a woman US officials reportedly suspect of spying for China. Huang has admitted an affair. President Trump says the FBI is looking into it; China denies the claims.",
+   "matters": "Nvidia makes most of the chips behind the AI boom; its shares fell about 10% on Monday and Tuesday.",
+   "sources": [
+    {
+     "name": "AFP (France 24)",
+     "url": "https://www.france24.com/en/live-news/20261110-nvidia-and-huang-face-class-action-lawsuit-over-affair"
+    },
+    {
+     "name": "AP (Korea Times)",
+     "url": "https://www.koreatimes.co.kr/world/20261111/nvidia-and-jensen-huang-face-shareholder-lawsuit-alleging-investors-were-misled-about-spy-affair"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-10/who-is-jensen-huang-and-why-is-nvidia-ceo-scandal-important/107368698"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "developing": true,
+   "changed": "Updated: CDU and SPD leaderships formally endorse her",
+   "published": "2026-11-08T19:40:00Z",
+   "title": "Germany’s governing parties formally back Ilse Aigner for president",
+   "why": "The CDU leadership approved Chancellor Friedrich Merz’s choice of Ilse Aigner, speaker of Bavaria’s parliament, on Monday, and the Social Democrats backed her. The governing parties have about 50 more votes than the rest of the assembly voting on 30 January, so she is expected to win, dpa reports.",
+   "matters": "She would be Germany’s first woman head of state.",
+   "sources": [
+    {
+     "name": "dpa (via Blue News)",
+     "url": "https://www.bluewin.ch/en/news/international/germany-could-have-its-first-female-federal-president-li.3667177"
+    },
+    {
+     "name": "SRF",
+     "url": "https://www.srf.ch/news/international/bundespraesidentenwahl-ilse-aigner-soll-erste-bundespraesidentin-werden-die-reaktionen"
+    },
+    {
+     "name": "CDU",
+     "url": "https://www.cdu.de/aktuelles/cdu-deutschlands/ilse-aigner-kandidatin-fuer-das-amt-der-bundespraesidentin-und-cdu-bundeskanzler-friedrich-merz/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "changed": "Updated: death toll rises from 34 to 39",
+   "published": "2026-11-08T13:30:00Z",
+   "title": "At least 39 dead as migrant boat sinks off Senegal",
+   "why": "A wooden boat bound for Spain overturned off Kébémer in north-western Senegal, between Dakar and Saint-Louis, on Sunday. The toll rose to 39 on Monday as more bodies were found, the state news agency APS says. One person was rescued and others are missing.",
+   "sources": [
+    {
+     "name": "AP (via Spectrum News)",
+     "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/09/death-toll-rises-to-39-after-migrant-boat-capsizes-off-senegal"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/9/senegal-human-rights-group-demands-government-action-after-deadly-sinking"
+    },
+    {
+     "name": "Reuters (via TimesLIVE)",
+     "url": "https://www.timeslive.co.za/news/africa/2026-11-09-more-than-30-dead-as-migrant-boat-sinks-off-senegal-coast-official-media-says/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "changed": "Updated: gunman died on Monday; minister points to right-wing extremism",
+   "published": "2026-11-07T14:00:00Z",
+   "title": "Krakow gunman dies in hospital; minister cites right-wing extremism",
+   "why": "The 24-year-old gunman who killed six people in the main square of Krakow, Poland, on Saturday died in hospital on Monday, police say. Justice Minister Waldemar Żurek said on Tuesday there was “a very strong indication of right-wing extremism”. His parents and sister were found dead at home.",
    "sources": [
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter"
+     "url": "https://www.aljazeera.com/news/2026/11/10/polish-gunman-visited-websites-about-norwegian-neo-nazi-serial-killer"
     },
     {
-     "name": "The New Arab",
-     "url": "https://www.newarab.com/news/five-killed-gaza-after-storm-collapses-sand-mound-tents"
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/09/krakow-main-square-shooting-suspect-dies-in-hospital-police-say"
     },
     {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261107-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza-local-authorities"
-    },
-    {
-     "name": "Arab News (Reuters)",
-     "url": "https://www.arabnews.pk/middle-east/heavy-rain-floods-tents-housing-gaza-displaced-people-aid-shortages-hamper-response-3006380"
+     "name": "AP (via Boston Globe)",
+     "url": "https://www.bostonglobe.com/2026/11/09/world/poland-mass-shooting-suspect-24-died-in-hospital-police/"
     }
-   ],
-   "changed": "Updated: at least five people were killed when an embankment collapsed onto tents"
+   ]
   },
   {
    "section": "world",
@@ -459,29 +483,23 @@
   },
   {
    "section": "world",
-   "lead": true,
    "developing": true,
-   "changed": "Updated: Eisenkot formally received the mandate on Sunday and says Likud could join",
+   "changed": "Updated: new Knesset sworn in; speaker vote set for next Tuesday",
    "published": "2026-11-05T20:17:00Z",
-   "title": "Eisenkot formally asked to form Israel’s government, open to Likud joining",
-   "why": "President Isaac Herzog formally gave opposition leader Gadi Eisenkot the mandate in Jerusalem on Sunday. Eisenkot has 28 days, plus a possible two-week extension, to reach 61 of 120 seats; his alliance has 48 and Netanyahu’s bloc 53. He says Likud could join a government he leads.",
-   "matters": "If he fails, Netanyahu could get a turn; if neither succeeds, Israel would vote again in the spring.",
+   "title": "Israel’s new parliament sworn in as Eisenkot seeks a majority",
+   "why": "Israel’s 120 new lawmakers were sworn in in Jerusalem on Tuesday. Gadi Eisenkot, asked to form a government, still lacks a 61-seat majority; his bloc says it can replace the Likud speaker in a vote next Tuesday. Caretaker prime minister Benjamin Netanyahu called for a unity government.",
    "sources": [
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government"
+     "url": "https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session"
     },
     {
      "name": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261108-israeli-opposition-leader-eisenkot-begins-the-hard-work-of-forging-a-coalition-government"
+     "url": "https://www.france24.com/en/middle-east/20261110-eisenkot-pushes-october-7-inquiry-as-netanyahu-targets-arab-parties-in-tense-new-parliament"
     },
     {
-     "name": "NBC News (AP)",
-     "url": "https://www.nbcnews.com/world/israel/israels-president-taps-gadi-eisenkot-rcna608033"
-    },
-    {
-     "name": "Times of Israel",
-     "url": "https://www.timesofisrael.com/president-herzog-taps-eisenkot-to-form-coalition-but-path-remains-fraught/"
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-11/knesset-sworn-in-taunts-heckling/107371226"
     }
    ]
   }
