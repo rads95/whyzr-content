@@ -1,6 +1,48 @@
 {
- "updated": "2026-11-11T08:11:07Z",
+ "updated": "2026-11-11T13:54:44Z",
  "items": [
+  {
+   "section": "tech",
+   "published": "2026-11-11T11:00:00Z",
+   "title": "EU proposes letting users switch off autoplay and endless scrolling",
+   "why": "The European Commission put forward its Digital Fairness Act in Brussels on Wednesday. Apps would have to let people turn off autoplay and infinite scrolling, influencers must label paid posts clearly, and cancelling subscriptions would be made easier. Fines could reach 6% of global turnover.",
+   "matters": "The proposal still needs approval from EU governments and the European Parliament before it becomes law.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261111-eu-to-make-addictive-app-features-easier-to-switch-off"
+    },
+    {
+     "name": "Eunews",
+     "url": "https://www.eunews.it/en/2026/11/11/eu-unveils-digital-fairness-act-tighter-rules-on-influencers-targeted-advertising-and-trap-subscriptions/"
+    },
+    {
+     "name": "EUobserver",
+     "url": "https://euobserver.com/248072/digital-fairness-act-eu-cracks-down-on-stealth-influencer-ads-and-manipulative-app-design/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-11T09:00:00Z",
+   "title": "Hoax bomb emails hit hundreds of schools in Italy and the UK",
+   "why": "At least 300 schools in Italy were evacuated on Wednesday after emailed bomb threats, Education Minister Giuseppe Valditara said. Schools in Scotland and Northern Ireland received similar emails. Police in both say the messages came from outside the UK and are treating them as hoaxes. No one has been identified.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts"
+    },
+    {
+     "name": "France 24 (Reuters)",
+     "url": "https://www.france24.com/en/europe/20261111-hundreds-of-schools-in-italy-evacuated-after-receiving-bomb-threats"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/11/hoax-bomb-threats-schools-italy-uk.html"
+    }
+   ]
+  },
   {
    "section": "health",
    "serious": true,
@@ -21,6 +63,69 @@
     {
      "name": "CDC",
      "url": "https://www.cdc.gov/ebola/situation-summary/index.html"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-10T23:00:00Z",
+   "title": "Spain holds first general strike in 14 years over housing costs",
+   "why": "Millions of workers in Spain joined a 24-hour strike on Wednesday called by the two biggest unions, UGT and CCOO, over rents and living costs. Unions report stoppages of up to 90% at ports and car plants; about 5% of flights were cancelled, airport operator AENA says.",
+   "matters": "Average rents have nearly doubled in ten years, and housing is now central to Spain's snap election on 29 November.",
+   "sources": [
+    {
+     "name": "Reuters (via NBC News)",
+     "url": "https://www.nbcnews.com/world/spain/workers-launch-general-strike-spain-severe-housing-crisis-rcna608710"
+    },
+    {
+     "name": "AP (via The Globe and Mail)",
+     "url": "https://www.theglobeandmail.com/world/article-spain-general-strike-housing-crisis/"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261111-spain-general-strike-puts-housing-crisis-centre-upcoming-elections"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "developing": true,
+   "published": "2026-11-10T21:00:00Z",
+   "title": "Portugal shuts schools and services as Storm Charles hits",
+   "why": "Portugal closed its schools and non-essential public services on Wednesday as Storm Charles moved in from the Atlantic after striking the island of Madeira on Tuesday. Gusts of up to 140 km/h were forecast, AP reports. Lisbon's Web Summit cancelled its second day on government advice.",
+   "sources": [
+    {
+     "name": "AP (via ABC News)",
+     "url": "https://abcnews.com/Business/wireStory/portugal-closes-schools-essential-services-ahead-major-atlantic-138039075"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/10/depression-charles-to-hit-madeira-and-portugal-as-government-urges-maximum-caution"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/business/20261111-second-day-of-web-summit-cancelled-as-storm-charles-puts-portugal-on-high-alert"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-10T21:00:00Z",
+   "title": "US House shelves bid to impeach Defence Secretary Pete Hegseth",
+   "why": "The House of Representatives voted 211 to 204 on Tuesday to send Republican Thomas Massie's impeachment articles to committee, which in effect ends them in this Congress. They accused Hegseth over the Iran war and other military operations. Hegseth called the effort a “farce”.",
+   "matters": "Democrats take control of the House in January and could try again then.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/americas/20261110-live-pentagon-chief-pete-hegseth-calls-move-to-impeach-him-a-farce"
+    },
+    {
+     "name": "ABC News (US)",
+     "url": "https://6abc.com/story/hegseth-dismisses-impeachment-effort-political-spectacle/20029818/"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/hegseth-massie-impeachment-2026-election-congress-ukraine-live-updates-rcna608406"
     }
    ]
   },
@@ -172,6 +277,27 @@
    ]
   },
   {
+   "section": "climate",
+   "published": "2026-11-10T08:00:00Z",
+   "title": "Fossil fuel emissions set for first fall since 2020, scientists say",
+   "why": "Global CO₂ emissions from fossil fuels will fall about 0.4% in 2026, to 38.2 billion tonnes, the Global Carbon Budget report projects. Researchers say high oil prices from the Iran war are the main reason. India's emissions are still forecast to rise 4.4%, and China's to fall 0.9%.",
+   "matters": "Researchers say the fall is probably temporary, and total emissions including deforestation are still rising.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/environment/20261110-fossil-fuel-emissions-set-to-fall-for-first-time-since-covid-research-shows"
+    },
+    {
+     "name": "Science News",
+     "url": "https://sciencenews.org/article/fossil-fuel-emissions-down-2026-gas"
+    },
+    {
+     "name": "The Wire",
+     "url": "https://m.thewire.in/article/environment/carbon-emissions-worldwide-are-dipping-in-2026-but-indias-are-set-to-rise-by-4-4-study"
+    }
+   ]
+  },
+  {
    "section": "money",
    "published": "2026-11-10T06:50:00Z",
    "title": "SoftBank reports $7 billion quarterly loss after US data-centre costs",
@@ -276,47 +402,6 @@
    ]
   },
   {
-   "section": "culture",
-   "serious": true,
-   "published": "2026-11-09T13:00:00Z",
-   "title": "Russell Brand jailed for 10½ years for rape and sexual assaults",
-   "why": "A judge at Southwark Crown Court in London sentenced the British comedian and actor, 51, on Monday for raping one woman and sexually assaulting three others between 2004 and 2009. Brand has denied the offences, saying the encounters were consensual. Police say they are assessing further complaints.",
-   "sources": [
-    {
-     "name": "Crown Prosecution Service",
-     "url": "https://www.cps.gov.uk/node/30527"
-    },
-    {
-     "name": "AP",
-     "url": "https://www.bostonglobe.com/2026/11/09/world/russell-brand-sentenced/"
-    },
-    {
-     "name": "AAP",
-     "url": "https://www.theleader.com.au/story/9388663/predator-brand-sentenced-to-10-and-a-half-years-jail/"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-09T10:00:00Z",
-   "title": "West Indies win Test series in Bangladesh after draw in Sylhet",
-   "why": "Bad light ended the second Test in Sylhet, north-east Bangladesh, on Monday with Bangladesh 184 for 4, chasing 369. West Indies take the two-match series 1-0. Towhid Hridoy’s 324 runs in the match are a Bangladesh Test record, and Mushfiqur Rahim became the first Bangladeshi to 7,000 Test runs.",
-   "sources": [
-    {
-     "name": "ICC",
-     "url": "https://www.icc-cricket.com/tournaments/world-test-championship/news/west-indies-clinch-wtc27-series-after-stalemate-in-sylhet"
-    },
-    {
-     "name": "AFP (New Straits Times)",
-     "url": "https://www.nst.com.my/amp/sports/cricket/2026/11/1574106/bangladesh-force-draw-second-test-west-indies-win-series-1-0"
-    },
-    {
-     "name": "AAP",
-     "url": "https://www.theleader.com.au/story/9388656/bangladesh-salvage-draw-but-windies-win-series/"
-    }
-   ]
-  },
-  {
    "section": "climate",
    "developing": true,
    "changed": "Updated: world leaders begin two days of speeches; Turkey's electricity target divides countries",
@@ -344,23 +429,23 @@
    "lead": true,
    "serious": true,
    "developing": true,
-   "changed": "Updated: talks under way in Abu Dhabi; drones hit Ust-Luga port",
+   "changed": "Updated: talks ended with a deal on a large prisoner swap",
    "published": "2026-11-09T06:05:00Z",
-   "title": "Ukraine, Russia and US hold first peace talks since February",
-   "why": "US envoys Steve Witkoff and Jared Kushner hosted Ukrainian and Russian delegations in Abu Dhabi on Tuesday and Wednesday, the first such talks since February. Zelensky called day one “constructive”; prisoner swaps and de-escalation were discussed. Russian officials say drones also hit the Ust-Luga oil port overnight.",
-   "matters": "The talks are the first direct contact between the warring sides in nine months.",
+   "title": "Ukraine–Russia talks in Abu Dhabi end with prisoner swap deal",
+   "why": "Two days of US-hosted talks between Ukrainian and Russian negotiators ended in Abu Dhabi on Wednesday with agreement on a large prisoner exchange, US envoy Jared Kushner said; numbers are due on Thursday. There was no breakthrough on territory. US envoys go to Moscow and then meet Zelensky in Dublin.",
+   "matters": "It was the first direct contact between the warring sides in nine months.",
    "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/11/abu-dhabi-peace-talks-end-with-prisoner-exchange-agreement-as-us-envoys-prepare-to-meet-pu"
+    },
     {
      "name": "France 24",
      "url": "https://www.france24.com/en/europe/20261111-live-ukraine-russia-hold-second-day-of-us-mediated-talks-in-abu-dhabi"
-    },
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/ukraine-russia-us-resume-trilateral-peace-talks-in-abu-dhabi-after-9-month-pause/"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region"
     }
    ]
   },
@@ -411,95 +496,6 @@
     {
      "name": "CDU",
      "url": "https://www.cdu.de/aktuelles/cdu-deutschlands/ilse-aigner-kandidatin-fuer-das-amt-der-bundespraesidentin-und-cdu-bundeskanzler-friedrich-merz/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "changed": "Updated: death toll rises from 34 to 39",
-   "published": "2026-11-08T13:30:00Z",
-   "title": "At least 39 dead as migrant boat sinks off Senegal",
-   "why": "A wooden boat bound for Spain overturned off Kébémer in north-western Senegal, between Dakar and Saint-Louis, on Sunday. The toll rose to 39 on Monday as more bodies were found, the state news agency APS says. One person was rescued and others are missing.",
-   "sources": [
-    {
-     "name": "AP (via Spectrum News)",
-     "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/09/death-toll-rises-to-39-after-migrant-boat-capsizes-off-senegal"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/9/senegal-human-rights-group-demands-government-action-after-deadly-sinking"
-    },
-    {
-     "name": "Reuters (via TimesLIVE)",
-     "url": "https://www.timeslive.co.za/news/africa/2026-11-09-more-than-30-dead-as-migrant-boat-sinks-off-senegal-coast-official-media-says/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: gunman died on Monday; minister points to right-wing extremism",
-   "published": "2026-11-07T14:00:00Z",
-   "title": "Krakow gunman dies in hospital; minister cites right-wing extremism",
-   "why": "The 24-year-old gunman who killed six people in the main square of Krakow, Poland, on Saturday died in hospital on Monday, police say. Justice Minister Waldemar Żurek said on Tuesday there was “a very strong indication of right-wing extremism”. His parents and sister were found dead at home.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/10/polish-gunman-visited-websites-about-norwegian-neo-nazi-serial-killer"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/09/krakow-main-square-shooting-suspect-dies-in-hospital-police-say"
-    },
-    {
-     "name": "AP (via Boston Globe)",
-     "url": "https://www.bostonglobe.com/2026/11/09/world/poland-mass-shooting-suspect-24-died-in-hospital-police/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "developing": true,
-   "published": "2026-11-07T10:30:00Z",
-   "title": "New Zealand election too close to call after election-night count",
-   "why": "With all polling places counted after Saturday's election, National has about 29.4% and Labour 29.2%, RNZ reports. National and its partners ACT and NZ First are projected to win a one-seat majority. About 700,000 special votes are still to be counted; final results are due on 27 November.",
-   "matters": "The centrist Opportunity Party has entered parliament and could hold the balance of power.",
-   "sources": [
-    {
-     "name": "RNZ",
-     "url": "https://www.rnz.co.nz/news/election2026"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-08/new-zealand-election-results-key-takeaways/107359778"
-    },
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261107-new-zealand-counts-the-votes-in-knife-edge-poll"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "developing": true,
-   "changed": "Updated: new Knesset sworn in; speaker vote set for next Tuesday",
-   "published": "2026-11-05T20:17:00Z",
-   "title": "Israel’s new parliament sworn in as Eisenkot seeks a majority",
-   "why": "Israel’s 120 new lawmakers were sworn in in Jerusalem on Tuesday. Gadi Eisenkot, asked to form a government, still lacks a 61-seat majority; his bloc says it can replace the Likud speaker in a vote next Tuesday. Caretaker prime minister Benjamin Netanyahu called for a unity government.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261110-eisenkot-pushes-october-7-inquiry-as-netanyahu-targets-arab-parties-in-tense-new-parliament"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-11/knesset-sworn-in-taunts-heckling/107371226"
     }
    ]
   }
