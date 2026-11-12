@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-12T01:57:08Z",
+ "updated": "2026-11-12T07:54:09Z",
  "items": [
+  {
+   "section": "sport",
+   "published": "2026-11-12T07:30:00Z",
+   "title": "Pakistan debutant Saqib Khan takes seven wickets against Sri Lanka",
+   "why": "Fast bowler Saqib Khan took 7 for 130 on his Test debut as Sri Lanka were bowled out for 446 on day four of the first Test in Rawalpindi, Pakistan. Sri Lanka lost their last six wickets for 42 runs but still lead by 12 on first innings.",
+   "matters": "He is only the fourth Pakistani to take seven wickets in an innings on Test debut.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261112-pakistan-s-saqib-takes-seven-on-debut-to-spark-sri-lanka-collapse"
+    },
+    {
+     "name": "AP (via Yahoo Sports)",
+     "url": "https://sports.yahoo.com/articles/saqibs-7-wicket-total-debut-073233064.html"
+    },
+    {
+     "name": "Dawn",
+     "url": "https://www.dawn.com/news/2044023/debutant-saqib-khan-takes-seven-as-pakistan-restrict-sri-lanka-to-slender-lead"
+    }
+   ]
+  },
   {
    "section": "world",
    "published": "2026-11-11T23:30:00Z",
@@ -47,10 +68,15 @@
    "section": "world",
    "serious": true,
    "developing": true,
+   "changed": "Updated: officials now say 17 people were injured, four critically",
    "published": "2026-11-11T21:01:00Z",
-   "title": "Building collapse in Brooklyn, New York, kills two and injures 19",
-   "why": "The rear of a three-storey building on Flatbush Avenue in Brooklyn, New York, collapsed into a neighbouring construction site on Wednesday afternoon. At least two people died and at least 19 were hurt, amNY reports, citing officials. More than 250 firefighters searched the rubble; the cause is being investigated.",
+   "title": "Building collapse in Brooklyn, New York, kills two and injures 17",
+   "why": "The rear of a three-storey building on Flatbush Avenue in Brooklyn, New York, collapsed into a neighbouring excavation site on Wednesday afternoon. At least two people died and at least 17 were hurt, including seven children, NBC News reports, citing officials. Rescuers expect the search to take days.",
    "sources": [
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/news/us-news/new-york-brooklyn-building-collapse-rcna608909"
+    },
     {
      "name": "amNY",
      "url": "https://www.amny.com/news/three-story-building-collapses-flatbush-avenue/"
@@ -82,6 +108,33 @@
     {
      "name": "Andina",
      "url": "https://andina.pe/agencia/noticia-president-keiko-fujimori-welcomes-pope-leo-xiv-upon-arrival-in-peru-1099566.aspx"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "published": "2026-11-11T20:00:00Z",
+   "title": "Israel’s cabinet orders preparations for possible strike on Iran, media report",
+   "why": "Israel’s security cabinet, chaired by caretaker Prime Minister Benjamin Netanyahu, told the military on Wednesday to step up preparations for a possible attack on Iran, Israeli media reported. Iran’s security chief Mohsen Rezaei warned that bases used against Iran, “from West Asia to Europe”, would be targets.",
+   "matters": "Opposition leader Gadi Eisenkot, who is trying to form a government, urged Netanyahu to avoid military action without an immediate threat.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack"
+    },
+    {
+     "name": "Middle East Eye",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-orders-israeli-army-prepare-possible-attack-iran"
+    },
+    {
+     "name": "The Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog_entry/amid-talk-of-iran-action-eisenkot-implores-netanyahu-to-hold-off-on-security-moves-during-transitional-period/"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/france/20261111-tehran-will-strike-us-bases-in-europe-if-used-to-attack-iran-security-chief-says"
     }
    ]
   },
@@ -152,18 +205,23 @@
    "section": "health",
    "serious": true,
    "developing": true,
+   "changed": "Updated: Kenya has discharged its last Ebola patient",
    "published": "2026-11-11T06:17:00Z",
-   "title": "Congo's Ebola outbreak passes 11,000 cases, with no vaccine for strain",
-   "why": "Ebola has infected 11,042 people and killed at least 5,387 in the Democratic Republic of the Congo, the health ministry says. It has reached eight of 26 provinces, mostly Ituri and North Kivu in the east. The Bundibugyo strain has no approved vaccine or treatment.",
-   "matters": "It is the second-largest Ebola outbreak on record, after West Africa's in 2014–2016, with cases also in Uganda, Kenya and Nigeria.",
+   "title": "Congo’s Ebola cases pass 11,000 as Kenya discharges its last patient",
+   "why": "Ebola has infected 11,042 people and killed at least 5,387 in the Democratic Republic of the Congo, its government says. The Bundibugyo strain has no approved vaccine. Neighbouring Kenya discharged its last patient on Wednesday and could be declared Ebola-free on 23 December, Health Minister Aden Duale said.",
+   "matters": "It is the second-largest Ebola outbreak on record; Kenya had nine cases and two deaths, all linked to one traveller.",
    "sources": [
     {
-     "name": "AP",
+     "name": "AP (via WSLS)",
      "url": "https://www.wsls.com/news/world/2026/11/11/congos-ebola-outbreak-tops-11000-cases-as-disease-keeps-spreading/"
     },
     {
      "name": "Al Jazeera",
-     "url": "https://aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths"
+     "url": "https://www.aljazeera.com/news/2026/11/11/kenya-discharges-last-ebola-patient"
+    },
+    {
+     "name": "Africanews",
+     "url": "https://www.africanews.com/2026/11/11/kenya-discharges-last-ebola-patient-begins-42-day-countdown-to-being-declared-ebola-free/"
     },
     {
      "name": "CDC",
@@ -362,148 +420,24 @@
   },
   {
    "section": "world",
-   "published": "2026-11-10T09:46:00Z",
-   "title": "Malaysian minister quits as ex-PM Najib moves to house arrest",
-   "why": "Former prime minister Najib Razak, jailed since 2022 over the 1MDB state fund scandal, went home in Kuala Lumpur on Tuesday to serve the rest of his sentence under house arrest after a High Court ruling. Transport Minister Anthony Loke resigned, as he had pledged to if Najib was moved.",
+   "developing": true,
+   "changed": "Updated: Gibran has formally submitted his resignation",
+   "published": "2026-11-10T08:36:00Z",
+   "title": "Indonesia’s vice-president Gibran formally resigns over diploma ruling",
+   "why": "Vice-President Gibran Rakabuming Raka handed his resignation to the People’s Consultative Assembly in Jakarta on Thursday, its speaker Ahmad Muzani said, after courts found his school qualification did not meet election rules. The assembly has up to 60 days to choose a replacement.",
+   "matters": "Gibran is the son of former president Joko Widodo; his case has widened a rift between Prabowo and Widodo, ABC reports.",
    "sources": [
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/10/malaysian-court-clears-former-pm-najib-razak-for-house-arrest-transfer"
-    },
-    {
-     "name": "The Star",
-     "url": "https://www.thestar.com.my/news/nation/2026/11/10/loke-quits-as-transport-minister-after-najib-house-arrest-ruling"
-    },
-    {
-     "name": "Malay Mail",
-     "url": "https://www.malaymail.com/news/malaysia/2026/11/10/anthony-loke-officially-resigns-as-transport-minister-following-court-decision-on-najib/242738"
-    }
-   ]
-  },
-  {
-   "section": "curious",
-   "published": "2026-11-10T09:41:00Z",
-   "title": "Ethiopian water mouse, feared extinct for a century, found again",
-   "why": "Researchers caught the Ethiopian water mouse in mid-October in the Yayu Biosphere Reserve in south-western Ethiopia, Germany’s NABU conservation group announced on Tuesday. The species had been known from a single animal collected in 1927. National Geographic reports three were caught; genetic tests are under way.",
-   "matters": "It suggests little-surveyed forests may still hide animals that science thought were lost.",
-   "sources": [
-    {
-     "name": "National Geographic",
-     "url": "https://www.nationalgeographic.com/animals/article/ethiopia-water-mouse-extinct-rediscovery"
-    },
-    {
-     "name": "dpa (t-online)",
-     "url": "https://www.t-online.de/nachrichten/panorama/wissen/id_101521404/vermeintlich-ausgestorbene-aethiopische-wassermaus-gesichtet.html"
-    },
-    {
-     "name": "APA (Salzburger Nachrichten)",
-     "url": "https://www.sn.at/panorama/wissen/jahrzehnte-lang-verschollene-aethiopische-wassermaus-entdeckt-art-683089"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "developing": true,
-   "published": "2026-11-10T08:36:00Z",
-   "title": "Indonesia’s vice-president Gibran offers to resign over diploma ruling",
-   "why": "Vice-President Gibran Rakabuming Raka told President Prabowo Subianto in Jakarta on Tuesday that he wants to step down, State Secretary Prasetyo Hadi says, after the Supreme Court ruled his school certificate did not meet election rules. No formal resignation has been confirmed.",
-   "matters": "Gibran is the son of former president Joko Widodo; his case has widened a rift between Prabowo and Widodo, AP reports.",
-   "sources": [
-    {
-     "name": "AP (via ABC News)",
-     "url": "https://abcnews.com/International/wireStory/indonesias-vice-president-offers-resignation-questions-mount-eligibility-138005690"
-    },
-    {
-     "name": "Jakarta Globe",
-     "url": "https://jakartaglobe.id/news/breaking-news-gibran-offers-to-resign-as-indonesias-vice-president-amid-diploma-dispute"
-    },
-    {
-     "name": "The Jakarta Post (via Asia News Network)",
-     "url": "https://asianews.network/indonesian-vp-gibran-intends-to-resign-says-state-secretary/"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "published": "2026-11-10T08:00:00Z",
-   "title": "Fossil fuel emissions set for first fall since 2020, scientists say",
-   "why": "Global CO₂ emissions from fossil fuels will fall about 0.4% in 2026, to 38.2 billion tonnes, the Global Carbon Budget report projects. Researchers say high oil prices from the Iran war are the main reason. India's emissions are still forecast to rise 4.4%, and China's to fall 0.9%.",
-   "matters": "Researchers say the fall is probably temporary, and total emissions including deforestation are still rising.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/environment/20261110-fossil-fuel-emissions-set-to-fall-for-first-time-since-covid-research-shows"
-    },
-    {
-     "name": "Science News",
-     "url": "https://sciencenews.org/article/fossil-fuel-emissions-down-2026-gas"
-    },
-    {
-     "name": "The Wire",
-     "url": "https://m.thewire.in/article/environment/carbon-emissions-worldwide-are-dipping-in-2026-but-indias-are-set-to-rise-by-4-4-study"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-11-10T06:50:00Z",
-   "title": "SoftBank reports $7 billion quarterly loss after US data-centre costs",
-   "why": "Japan's SoftBank Group said on Tuesday it lost 1.12 trillion yen (about $7 billion) from July to September. It booked a 597 billion yen loss after changing plans to buy power equipment for US AI data centres, and its first-half loss was its first in three years.",
-   "matters": "SoftBank is one of OpenAI's biggest backers, so its results are watched as a gauge of the AI boom.",
-   "sources": [
-    {
-     "name": "Nikkei Asia",
-     "url": "https://asia.nikkei.com/business/softbank/softbank-swings-to-first-half-loss-as-ai-hopes-face-new-setbacks"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html"
-    },
-    {
-     "name": "Jiji Press (Nippon.com)",
-     "url": "https://www.nippon.com/en/articles/-/57223"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-11-10T03:50:00Z",
-   "title": "Australia to create AI safety regulator after OpenAI agent breach",
-   "why": "Prime Minister Anthony Albanese said on Tuesday AI developers will face mandatory safety rules, enforced by a new regulator able to impose significant penalties. It follows a June incident in which OpenAI's AI agents reached non-public Medicare statistics via a government portal; officials say no personal information was accessed.",
-   "matters": "Companies would have to report AI incidents quickly, and the government is considering criminal penalties for failing to prevent harm.",
-   "sources": [
-    {
-     "name": "AP",
-     "url": "https://www.yahoo.com/news/world/articles/australia-launch-ai-safety-regulator-050252320.html"
+     "url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility"
     },
     {
      "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-10/openai-medicare-hack-government-loophole/107368330"
+     "url": "https://www.abc.net.au/news/2026-11-12/indonesia-vice-president-gibran-rakabuming-raka-resigns/107370802"
     },
     {
-     "name": "Nikkei Asia",
-     "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/australia-plans-new-regulator-for-artificial-intelligence-after-openai-hack"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-11-10T02:40:00Z",
-   "title": "China's trade surplus passes $1 trillion for second year running",
-   "why": "China's exports rose 35.2% in October from a year earlier, led by AI-related goods such as chips and servers, customs data showed on Tuesday. The surplus for January to October reached $1.04 trillion, passing that mark two months earlier than in 2025.",
-   "matters": "Trading partners say cheap Chinese goods hurt their industries; trade is expected to dominate Xi and Trump's meeting next week.",
-   "sources": [
-    {
-     "name": "AP",
-     "url": "https://www.nbcnews.com/world/asia/chinas-trade-surplus-surpasses-1-trillion-2nd-straight-year-exports-rcna608493"
-    },
-    {
-     "name": "ABC Australia (AFP)",
-     "url": "https://www.abc.net.au/news/2026-11-11/china-trade-surpasses-1-trillion-for-second-straight-year/107372090"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html"
+     "name": "Bernama",
+     "url": "https://www.bernama.com/en/world/news.php?id=2633270"
     }
    ]
   },
@@ -535,19 +469,23 @@
    "lead": true,
    "serious": true,
    "developing": true,
-   "changed": "Updated: US envoys meet Putin in Moscow on Thursday; swap size still being settled",
+   "changed": "Updated: the US envoys have arrived in Moscow to meet Putin",
    "published": "2026-11-09T06:05:00Z",
-   "title": "Ukraine and Russia agree large prisoner swap; US envoys head to Moscow",
-   "why": "US-hosted talks between Ukraine and Russia in Abu Dhabi ended on Wednesday with agreement on a large prisoner exchange, US envoy Jared Kushner said. Numbers are not yet confirmed; President Zelensky spoke of about 1,000 each. Envoys Steve Witkoff and Kushner meet Vladimir Putin in Moscow on Thursday.",
+   "title": "US envoys meet Putin in Moscow after Ukraine–Russia prisoner swap deal",
+   "why": "US envoys Steve Witkoff and Jared Kushner landed in Moscow on Thursday for talks with Vladimir Putin, Interfax reports, after talks in Abu Dhabi ended with agreement on a large prisoner swap. President Zelensky spoke of about 1,000 prisoners each. The envoys then plan to brief Zelensky in Dublin.",
    "matters": "There was no breakthrough on territory or a ceasefire, the main obstacles to ending the war.",
    "sources": [
     {
      "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261111-russia-and-ukraine-agree-to-major-prisoner-swap-as-peace-talks-end"
+     "url": "https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks"
     },
     {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/11/abu-dhabi-peace-talks-end-with-prisoner-exchange-agreement-as-us-envoys-prepare-to-meet-pu"
+     "name": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/89857"
+    },
+    {
+     "name": "The Tribune (ANI)",
+     "url": "https://www.tribuneindia.com/news/abu-dhabi-negotiations/us-envoys-witkoff-kushner-arrive-in-moscow-for-talks-with-putin"
     },
     {
      "name": "Al Jazeera",
@@ -562,23 +500,27 @@
   {
    "section": "tech",
    "developing": true,
-   "changed": "Updated: board meets on Huang’s future; shares fall again",
+   "changed": "Updated: the board is reported to be preparing to remove Huang; no decision announced yet",
    "published": "2026-11-08T21:30:00Z",
-   "title": "Nvidia board meets on Jensen Huang’s future as shares slide",
-   "why": "Nvidia’s board met on Wednesday to discuss chief executive Jensen Huang’s future, CNN reports, after reports of a second affair, with a company executive. The board is already investigating his relationship with a woman US officials suspect of spying for China. Shares fell about 8% after hours.",
-   "matters": "Nvidia makes most AI chips; it has lost over $450 billion in market value since 8 November, CBS News says.",
+   "title": "Nvidia board weighs removing chief executive Jensen Huang as shares slide",
+   "why": "Nvidia’s board met late into Wednesday evening on whether to remove Jensen Huang, after the Wall Street Journal reported it was preparing to force him out. No decision had been announced by Thursday morning. Shares fell more than 8% in after-hours trading.",
+   "matters": "Nvidia makes most of the world’s AI chips; China denies the spying allegations behind the board’s inquiry.",
    "sources": [
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future"
+     "name": "France 24 (Reuters)",
+     "url": "https://www.france24.com/en/technology/20261112-nvidia-board-to-decide-whether-to-oust-longtime-ceo-jensen-huang"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html"
     },
     {
      "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/nvidia-stock-dives-report-board-prepares-oust-jensen-huang/"
+     "url": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/"
     },
     {
-     "name": "CNN (via KEYT)",
-     "url": "https://keyt.com/news/money-and-business/cnn-business-consumer/2026/11/11/nvidia-stock-drops-as-board-reportedly-weighs-jensen-huangs-future/"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future"
     }
    ]
   }
