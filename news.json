@@ -1,6 +1,111 @@
 {
- "updated": "2026-11-11T13:54:44Z",
+ "updated": "2026-11-12T01:57:08Z",
  "items": [
+  {
+   "section": "world",
+   "published": "2026-11-11T23:30:00Z",
+   "title": "Democrat Scott Colom unseats Senator Cindy Hyde-Smith in Mississippi",
+   "why": "Scott Colom, a 43-year-old Democratic prosecutor, defeated Republican Senator Cindy Hyde-Smith in Mississippi after more than a week of counting postal and provisional ballots from the 3 November election. AP called the race on Wednesday evening and Hyde-Smith conceded.",
+   "matters": "He will be Mississippi’s first Black senator since 1881; Democrats have flipped at least eight Republican-held Senate seats.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261111-democrat-scott-colom-wins-historic-senate-race-in-mississippi"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi"
+    },
+    {
+     "name": "Mississippi Free Press",
+     "url": "https://www.mississippifreepress.org/scott-colom-wins-mississippi-us-senate-race-will-be-states-first-black-senator-in-146-years/"
+    }
+   ]
+  },
+  {
+   "section": "curious",
+   "published": "2026-11-11T23:00:00Z",
+   "title": "Record-breaking liner SS United States sunk to make world’s largest reef",
+   "why": "The SS United States, a 302-metre ocean liner that still holds the transatlantic speed record set in 1952, was deliberately flooded and sunk in the Gulf of Mexico off Florida on Wednesday. It will become the world’s largest artificial reef, about 55 metres down.",
+   "matters": "Florida’s Okaloosa County bought the ship, out of service since 1969, hoping the wreck will draw divers.",
+   "sources": [
+    {
+     "name": "AFP (France 24)",
+     "url": "https://www.france24.com/en/live-news/20261111-sunken-treasure-historic-us-ocean-liner-reborn-as-artifical-reef"
+    },
+    {
+     "name": "PBS NewsHour",
+     "url": "https://www.pbs.org/newshour/nation/watch-live-ss-united-states-once-worlds-fastest-ocean-liner-sinks-to-become-reef-off-florida"
+    },
+    {
+     "name": "6abc",
+     "url": "https://6abc.com/live-updates/ss-united-states-live-stream-historic-vessel-sunk-become-worlds-largest-artificial-reef-off-florida-coast/20033077/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "published": "2026-11-11T21:01:00Z",
+   "title": "Building collapse in Brooklyn, New York, kills two and injures 19",
+   "why": "The rear of a three-storey building on Flatbush Avenue in Brooklyn, New York, collapsed into a neighbouring construction site on Wednesday afternoon. At least two people died and at least 19 were hurt, amNY reports, citing officials. More than 250 firefighters searched the rubble; the cause is being investigated.",
+   "sources": [
+    {
+     "name": "amNY",
+     "url": "https://www.amny.com/news/three-story-building-collapses-flatbush-avenue/"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-12/new-york-brooklyn-building-collapse-rescue/107376940"
+    },
+    {
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/news/2026/1111/1598896-brooklyn-building-collapse/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-11T21:00:00Z",
+   "title": "Pope Leo XIV arrives in Peru, his adopted home, for six-day visit",
+   "why": "Pope Leo XIV landed near Lima on Wednesday and was welcomed by President Keiko Fujimori, starting the final leg of a 12-day South American tour after Uruguay and Argentina. He will visit Chiclayo, where he was bishop from 2015 to 2023, Cusco and Pucallpa before leaving on Monday.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261111-pope-leo-xiv-returns-to-second-homeland-peru-to-a-nationwide-welcome"
+    },
+    {
+     "name": "Vatican News",
+     "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-arrives-in-peru-for-final-leg-of-apostolic-journey.html"
+    },
+    {
+     "name": "Andina",
+     "url": "https://andina.pe/agencia/noticia-president-keiko-fujimori-welcomes-pope-leo-xiv-upon-arrival-in-peru-1099566.aspx"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-11T17:00:00Z",
+   "title": "Russia’s ambassador to the United States, Alexander Darchiev, dies at 66",
+   "why": "Russia’s Foreign Ministry said on Wednesday that Alexander Darchiev, its ambassador in Washington since early 2025, had “passed away suddenly”. It gave no cause of death. He was previously Russia’s ambassador to Canada, from 2014 to 2021.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/11/russian-ambassador-to-the-us-dies-russias-foreign-ministry-announced"
+    },
+    {
+     "name": "The Moscow Times",
+     "url": "https://www.themoscowtimes.com/2026/11/11/russias-ambassador-to-the-united-states-dies-at-66-a94232"
+    }
+   ]
+  },
   {
    "section": "tech",
    "published": "2026-11-11T11:00:00Z",
@@ -88,19 +193,40 @@
    ]
   },
   {
-   "section": "climate",
-   "developing": true,
-   "published": "2026-11-10T21:00:00Z",
-   "title": "Portugal shuts schools and services as Storm Charles hits",
-   "why": "Portugal closed its schools and non-essential public services on Wednesday as Storm Charles moved in from the Atlantic after striking the island of Madeira on Tuesday. Gusts of up to 140 km/h were forecast, AP reports. Lisbon's Web Summit cancelled its second day on government advice.",
+   "section": "world",
+   "published": "2026-11-10T23:00:00Z",
+   "title": "US judge lets Trump’s defamation case against the BBC go ahead",
+   "why": "A federal judge in Florida, Jeffrey Kuntz, refused on Tuesday to dismiss Donald Trump’s defamation claim over a BBC Panorama edit of his 6 January 2021 speech, but threw out a second claim, cutting the suit to at least $5 billion. The BBC will defend the case.",
+   "matters": "The ruling does not decide whether Trump’s claims are true; the BBC has apologised for the edit but denies defamation.",
    "sources": [
     {
-     "name": "AP (via ABC News)",
-     "url": "https://abcnews.com/Business/wireStory/portugal-closes-schools-essential-services-ahead-major-atlantic-138039075"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/11/judge-rules-trumps-10bn-bbc-defamation-suit-can-proceed"
     },
     {
      "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/10/depression-charles-to-hit-madeira-and-portugal-as-government-urges-maximum-caution"
+     "url": "https://www.euronews.com/2026/11/11/trumps-defamation-lawsuit-against-the-bbc-over-panorama-edit-can-proceed-judge-rules"
+    },
+    {
+     "name": "UPI (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/us/articles/judge-allows-trumps-10b-defamation-095335453.html"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "changed": "Updated: the storm passed without severe damage",
+   "published": "2026-11-10T21:00:00Z",
+   "title": "Storm Charles cancels over 300 flights in Portugal; little severe damage",
+   "why": "Storm Charles crossed mainland Portugal on Wednesday with gusts above 120 km/h, closing schools and non-essential public services and cancelling more than 300 flights, Al Jazeera reports. Some Lisbon streets flooded, but no severe damage or injuries were reported. Lisbon’s Web Summit cancelled its second day.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/11/portugal-cancels-300-plus-flights-shuts-schools-ahead-of-storm-charles"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/11/portugal-closes-all-schools-and-non-essential-services-over-storm-charles"
     },
     {
      "name": "France 24",
@@ -189,6 +315,27 @@
     {
      "name": "Arab News",
      "url": "https://www.arabnews.com/middle-east/former-iraqi-mp-found-dead-in-beirut-suspect-arrested-3011016"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-10T12:00:00Z",
+   "title": "Privy Council strikes down Trinidad and Tobago’s ban on gay sex",
+   "why": "The Judicial Committee of the Privy Council in London, Trinidad and Tobago’s final court of appeal, ruled unanimously on Tuesday that the country’s Sexual Offences Act cannot be used to prosecute private, consensual sex between adults of the same sex. Activist Jason Jones brought the case in 2017.",
+   "matters": "Final wording of the law will follow further written submissions; activists are pressing for wider equality laws.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/11/trinidad-and-tobago-highest-court-overturns-gay-sex-ban"
+    },
+    {
+     "name": "TTT News",
+     "url": "https://www.ttt.live/a-huge-step-forward-jason-jones-welcomes-privy-council-decision-on-same-sex-relations/"
+    },
+    {
+     "name": "Caribbean National Weekly",
+     "url": "https://www.caribbeannationalweekly.com/posts/privy-council-rules-against-trinidad-and-tobagos-anti-gay-laws"
     }
    ]
   },
@@ -361,66 +508,25 @@
    ]
   },
   {
-   "section": "culture",
-   "published": "2026-11-09T22:00:00Z",
-   "title": "M. John Harrison, 81, wins Booker Prize with ‘The End of Everything’",
-   "why": "The British writer won the £50,000 prize on Monday in London for his satirical science-fiction novel set on a ruined Kent coast. He is the oldest winner in its history. Judges, chaired by historian Mary Beard, were unanimous. AP calls it the first science-fiction winner.",
-   "sources": [
-    {
-     "name": "AP",
-     "url": "https://www.ajc.com/news/2026/11/the-end-of-everything-by-m-john-harrison-wins-the-2026-booker-prize-for-fiction/"
-    },
-    {
-     "name": "NPR",
-     "url": "https://www.wlrn.org/npr-breaking-news/2026-11-09/apocalyptic-sci-fi-novel-the-end-of-everything-wins-this-years-booker-prize"
-    },
-    {
-     "name": "Xinhua (The Star)",
-     "url": "https://www.thestar.com.my/news/world/2026/11/10/british-science-fiction-writer-m-john-harrison-wins-2026-booker-prize"
-    }
-   ]
-  },
-  {
-   "section": "culture",
-   "published": "2026-11-09T17:15:00Z",
-   "title": "James Gunn and Peter Safran leave the top of DC Studios",
-   "why": "Skydance said on Monday that the pair, who have run Warner Bros’ superhero studio since 2022, will step down as co-chiefs and return to film-making. Former Marvel Studios executive Jeremy Latcham takes over on 1 December. Gunn’s ‘Superman’ took about $618m worldwide.",
-   "matters": "Gunn still makes ‘Man of Tomorrow’, due in July 2027, but the wider DC film plan passes to new leadership.",
-   "sources": [
-    {
-     "name": "AP",
-     "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/09/james-gunn-and-peter-safran-are-out-in-another-dc-studios-shakeup-skydance-appoints-jeremy-latchman"
-    },
-    {
-     "name": "Screen Daily",
-     "url": "https://www.screendaily.com/news/jeremy-latcham-to-lead-dc-studios-james-gunn-peter-safran-departing/5222202.article"
-    },
-    {
-     "name": "TheWrap",
-     "url": "https://www.thewrap.com/creative-content/movies/james-gunn-and-peter-safran-out-at-dc-studios-jeremy-latcham-named-new-president-and-chief-creative-officer/"
-    }
-   ]
-  },
-  {
    "section": "climate",
    "developing": true,
-   "changed": "Updated: world leaders begin two days of speeches; Turkey's electricity target divides countries",
+   "changed": "Updated: Guterres addressed leaders and proposed a climate justice compact",
    "published": "2026-11-09T08:30:00Z",
-   "title": "COP31 leaders' speeches begin in Turkey without US or top Europeans",
-   "why": "Leaders hold two days of speeches from Wednesday at the COP31 climate talks in Antalya, Turkey. The US is absent, and France's, Germany's and Italy's leaders are staying away, AFP reports. Host Turkey wants electricity to supply 35% of world energy by 2035, up from 23%.",
-   "matters": "Countries disagree on whether that electricity must come from clean sources, which decides how much it would slow warming.",
+   "title": "UN chief calls for climate justice pact as COP31 leaders speak",
+   "why": "UN Secretary-General António Guterres told leaders at COP31 in Antalya, Turkey, on Wednesday that current national plans point to more than 2.5C of warming. He urged a “climate justice compact”, windfall taxes on fossil fuel firms and no new coal, oil or gas projects.",
+   "matters": "It is Guterres’s last climate summit as UN chief; the US is absent and talks run until 20 November.",
    "sources": [
     {
-     "name": "RTÉ/AFP",
-     "url": "https://www.rte.ie/news/world/2026/1111/1598779-cop-31-turkey/"
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168783"
     },
     {
      "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-11/cop31-electrification-turkiye-australia/107371196"
+     "url": "https://www.abc.net.au/news/2026-11-12/cop31-australia-criticised-over-fossil-fuel-expansion/107375792"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/11/everything-and-everyone-we-love-is-at-stake-thunberg-slams-cop31-talks"
+     "name": "RTÉ/AFP",
+     "url": "https://www.rte.ie/news/world/2026/1111/1598779-cop-31-turkey/"
     }
    ]
   },
@@ -429,73 +535,50 @@
    "lead": true,
    "serious": true,
    "developing": true,
-   "changed": "Updated: talks ended with a deal on a large prisoner swap",
+   "changed": "Updated: US envoys meet Putin in Moscow on Thursday; swap size still being settled",
    "published": "2026-11-09T06:05:00Z",
-   "title": "Ukraine–Russia talks in Abu Dhabi end with prisoner swap deal",
-   "why": "Two days of US-hosted talks between Ukrainian and Russian negotiators ended in Abu Dhabi on Wednesday with agreement on a large prisoner exchange, US envoy Jared Kushner said; numbers are due on Thursday. There was no breakthrough on territory. US envoys go to Moscow and then meet Zelensky in Dublin.",
-   "matters": "It was the first direct contact between the warring sides in nine months.",
+   "title": "Ukraine and Russia agree large prisoner swap; US envoys head to Moscow",
+   "why": "US-hosted talks between Ukraine and Russia in Abu Dhabi ended on Wednesday with agreement on a large prisoner exchange, US envoy Jared Kushner said. Numbers are not yet confirmed; President Zelensky spoke of about 1,000 each. Envoys Steve Witkoff and Kushner meet Vladimir Putin in Moscow on Thursday.",
+   "matters": "There was no breakthrough on territory or a ceasefire, the main obstacles to ending the war.",
    "sources": [
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement"
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261111-russia-and-ukraine-agree-to-major-prisoner-swap-as-peace-talks-end"
     },
     {
      "name": "Euronews",
      "url": "https://www.euronews.com/2026/11/11/abu-dhabi-peace-talks-end-with-prisoner-exchange-agreement-as-us-envoys-prepare-to-meet-pu"
     },
     {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261111-live-ukraine-russia-hold-second-day-of-us-mediated-talks-in-abu-dhabi"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement"
+    },
+    {
+     "name": "The Moscow Times",
+     "url": "https://www.themoscowtimes.com/2026/11/11/abu-dhabi-talks-end-with-prisoner-exchange-but-no-peace-breakthrough-a94227"
     }
    ]
   },
   {
    "section": "tech",
    "developing": true,
-   "changed": "Updated: shareholder lawsuit, FBI inquiry and a two-day share fall",
+   "changed": "Updated: board meets on Huang’s future; shares fall again",
    "published": "2026-11-08T21:30:00Z",
-   "title": "Nvidia and its boss sued by shareholders over alleged spy link",
-   "why": "A shareholder lawsuit filed in California on Monday says Nvidia and chief executive Jensen Huang misled investors about his relationship with a woman US officials reportedly suspect of spying for China. Huang has admitted an affair. President Trump says the FBI is looking into it; China denies the claims.",
-   "matters": "Nvidia makes most of the chips behind the AI boom; its shares fell about 10% on Monday and Tuesday.",
+   "title": "Nvidia board meets on Jensen Huang’s future as shares slide",
+   "why": "Nvidia’s board met on Wednesday to discuss chief executive Jensen Huang’s future, CNN reports, after reports of a second affair, with a company executive. The board is already investigating his relationship with a woman US officials suspect of spying for China. Shares fell about 8% after hours.",
+   "matters": "Nvidia makes most AI chips; it has lost over $450 billion in market value since 8 November, CBS News says.",
    "sources": [
     {
-     "name": "AFP (France 24)",
-     "url": "https://www.france24.com/en/live-news/20261110-nvidia-and-huang-face-class-action-lawsuit-over-affair"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future"
     },
     {
-     "name": "AP (Korea Times)",
-     "url": "https://www.koreatimes.co.kr/world/20261111/nvidia-and-jensen-huang-face-shareholder-lawsuit-alleging-investors-were-misled-about-spy-affair"
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/nvidia-stock-dives-report-board-prepares-oust-jensen-huang/"
     },
     {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-10/who-is-jensen-huang-and-why-is-nvidia-ceo-scandal-important/107368698"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "developing": true,
-   "changed": "Updated: CDU and SPD leaderships formally endorse her",
-   "published": "2026-11-08T19:40:00Z",
-   "title": "Germany’s governing parties formally back Ilse Aigner for president",
-   "why": "The CDU leadership approved Chancellor Friedrich Merz’s choice of Ilse Aigner, speaker of Bavaria’s parliament, on Monday, and the Social Democrats backed her. The governing parties have about 50 more votes than the rest of the assembly voting on 30 January, so she is expected to win, dpa reports.",
-   "matters": "She would be Germany’s first woman head of state.",
-   "sources": [
-    {
-     "name": "dpa (via Blue News)",
-     "url": "https://www.bluewin.ch/en/news/international/germany-could-have-its-first-female-federal-president-li.3667177"
-    },
-    {
-     "name": "SRF",
-     "url": "https://www.srf.ch/news/international/bundespraesidentenwahl-ilse-aigner-soll-erste-bundespraesidentin-werden-die-reaktionen"
-    },
-    {
-     "name": "CDU",
-     "url": "https://www.cdu.de/aktuelles/cdu-deutschlands/ilse-aigner-kandidatin-fuer-das-amt-der-bundespraesidentin-und-cdu-bundeskanzler-friedrich-merz/"
+     "name": "CNN (via KEYT)",
+     "url": "https://keyt.com/news/money-and-business/cnn-business-consumer/2026/11/11/nvidia-stock-drops-as-board-reportedly-weighs-jensen-huangs-future/"
     }
    ]
   }
