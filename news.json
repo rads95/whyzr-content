@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-12T07:54:09Z",
+ "updated": "2026-11-12T13:55:31Z",
  "items": [
+  {
+   "section": "sport",
+   "published": "2026-11-12T11:30:00Z",
+   "title": "Manchester United and Crystal Palace both sack their managers",
+   "why": "Manchester United sacked Michael Carrick on Thursday with the club 18th in the Premier League after one league win in ten games. Later that day, bottom club Crystal Palace parted with Pierre Sage after five months. Sky Sports reports Mauricio Pochettino has verbally agreed to take the United job.",
+   "sources": [
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/football/news/13606106/man-utd-sack-michael-carrick-with-mauricio-pochettino-set-to-be-appointed-after-worst-start-to-premier-league-season"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-12/michael-carrick-sacked-as-manchester-united-manager/107380482"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/sports/2026/11/12/manchester-united-sack-michael-carrick-as-manager"
+    },
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261112-crystal-palace-sack-manager-sage-after-just-five-months"
+    },
+    {
+     "name": "Crystal Palace FC",
+     "url": "https://www.cpfc.co.uk/news/announcement/statement-pierre-sage/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-12T08:00:00Z",
+   "title": "Amnesty says South Sudan and UN failed to prevent village massacre",
+   "why": "Amnesty International says South Sudan’s authorities and the UN mission had about two weeks’ warning before armed men attacked Abiemnom, near the Sudan border, on 1 March. Authorities say at least 213 people were killed. The UN mission says it did its best with limited resources.",
+   "matters": "Amnesty is calling for independent inquiries; South Sudan is due to hold elections on 22 December.",
+   "sources": [
+    {
+     "name": "Amnesty International",
+     "url": "https://www.amnesty.org/en/latest/news/2026/11/south-sudan-authorities-un-must-investigate-failure-to-protect-victims-of-abiemnom-massacre/"
+    },
+    {
+     "name": "Al Jazeera (AP)",
+     "url": "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre"
+    },
+    {
+     "name": "Africanews",
+     "url": "https://www.africanews.com/2026/11/12/south-sudan-and-un-failed-to-heed-massacre-warnings-amnesty-international/"
+    }
+   ]
+  },
   {
    "section": "sport",
    "published": "2026-11-12T07:30:00Z",
@@ -19,6 +69,28 @@
     {
      "name": "Dawn",
      "url": "https://www.dawn.com/news/2044023/debutant-saqib-khan-takes-seven-as-pakistan-restrict-sri-lanka-to-slender-lead"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-12T02:00:00Z",
+   "title": "Israeli strike on Gaza’s Nasser Hospital kills a surgeon and five others",
+   "why": "An Israeli air strike hit the surgery department of Nasser Hospital in Khan Younis, southern Gaza, early on Thursday, killing at least six people including a surgeon, Gaza’s health ministry says. Israel’s military says Hamas was using the hospital as a command centre.",
+   "matters": "Palestinian health authorities say more than 1,600 people have been killed in Gaza since the October 2025 ceasefire.",
+   "sources": [
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-12/deadly-israeli-air-strike-nasser-hospital-gaza/107379926"
+    },
+    {
+     "name": "The National (Reuters)",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/12/israeli-strike-on-gaza-hospital-kills-surgeon-and-at-least-five-others/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza"
     }
    ]
   },
@@ -68,26 +140,26 @@
    "section": "world",
    "serious": true,
    "developing": true,
-   "changed": "Updated: officials now say 17 people were injured, four critically",
+   "changed": "Updated: the death toll has risen to eight",
    "published": "2026-11-11T21:01:00Z",
-   "title": "Building collapse in Brooklyn, New York, kills two and injures 17",
-   "why": "The rear of a three-storey building on Flatbush Avenue in Brooklyn, New York, collapsed into a neighbouring excavation site on Wednesday afternoon. At least two people died and at least 17 were hurt, including seven children, NBC News reports, citing officials. Rescuers expect the search to take days.",
+   "title": "Building collapse in Brooklyn, New York, kills eight and injures 17",
+   "why": "A three-storey building on Flatbush Avenue in Brooklyn, New York, collapsed into a neighbouring excavation site on Wednesday afternoon. At least eight people died and 17 were hurt, including three firefighters, Mayor Zohran Mamdani said on Thursday. The cause is being investigated.",
    "sources": [
     {
      "name": "NBC News",
      "url": "https://www.nbcnews.com/news/us-news/new-york-brooklyn-building-collapse-rcna608909"
     },
     {
-     "name": "amNY",
-     "url": "https://www.amny.com/news/three-story-building-collapses-flatbush-avenue/"
+     "name": "CBS New York",
+     "url": "https://www.cbsnews.com/newyork/news/building-collapse-nyc-brooklyn-flatbush-rescue-operation/"
     },
     {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-12/new-york-brooklyn-building-collapse-rescue/107376940"
+     "name": "ABC7 New York",
+     "url": "https://abc7ny.com/post/flatbush-brooklyn-building-collapse-leaves-2-dead-17-injured-search-continues/20035354/"
     },
     {
-     "name": "RTÉ",
-     "url": "https://www.rte.ie/news/2026/1111/1598896-brooklyn-building-collapse/"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/12/building-collapse-in-brooklyn-kills-two-injures-more-than-a-dozen"
     }
    ]
   },
@@ -156,6 +228,29 @@
     {
      "name": "The Moscow Times",
      "url": "https://www.themoscowtimes.com/2026/11/11/russias-ambassador-to-the-united-states-dies-at-66-a94232"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "published": "2026-11-11T15:07:00Z",
+   "title": "Saudi Arabia says it intercepted Houthi missiles aimed at Riyadh and Mecca",
+   "why": "The Saudi-led coalition said on Wednesday it destroyed three cruise missiles heading for Riyadh and drones aimed at Mecca and southern regions, the second day of interceptions over the capital. The Houthis denied targeting Mecca. Fighting inside Yemen has also intensified.",
+   "matters": "The WHO says more than 320,000 people in Yemen have been displaced by the fighting since August.",
+   "sources": [
+    {
+     "name": "Al-Monitor (Reuters)",
+     "url": "https://www.al-monitor.com/originals/2026/11/saudi-arabia-intercepts-houthi-missiles-drones-group-denies-targeting-mecca"
+    },
+    {
+     "name": "Middle East Eye",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-air-defences-intercept-houthi-cruise-missiles-launched-toward"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca"
     }
    ]
   },
@@ -378,48 +473,6 @@
   },
   {
    "section": "world",
-   "published": "2026-11-10T12:00:00Z",
-   "title": "Privy Council strikes down Trinidad and Tobago’s ban on gay sex",
-   "why": "The Judicial Committee of the Privy Council in London, Trinidad and Tobago’s final court of appeal, ruled unanimously on Tuesday that the country’s Sexual Offences Act cannot be used to prosecute private, consensual sex between adults of the same sex. Activist Jason Jones brought the case in 2017.",
-   "matters": "Final wording of the law will follow further written submissions; activists are pressing for wider equality laws.",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/11/trinidad-and-tobago-highest-court-overturns-gay-sex-ban"
-    },
-    {
-     "name": "TTT News",
-     "url": "https://www.ttt.live/a-huge-step-forward-jason-jones-welcomes-privy-council-decision-on-same-sex-relations/"
-    },
-    {
-     "name": "Caribbean National Weekly",
-     "url": "https://www.caribbeannationalweekly.com/posts/privy-council-rules-against-trinidad-and-tobagos-anti-gay-laws"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-11-10T11:40:00Z",
-   "title": "Anthropic targets valuation of up to $1.4 trillion in share sale",
-   "why": "AI company Anthropic, maker of the Claude chatbot, said on Tuesday it will sell 825 million shares at $70 to $78 each on the US Nasdaq exchange. That could raise about $64 billion; people familiar with the deal told CNBC trading should start on 19 November.",
-   "matters": "It would be one of the largest stock market listings ever, coming a week after a sharp sell-off in AI shares.",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
-    },
-    {
-     "name": "Fortune",
-     "url": "https://fortune.com/2026/11/10/anthropic-ipo-price-range-ai-stock-sell-off/"
-    },
-    {
-     "name": "UPI",
-     "url": "https://www.upi.com/Top_News/US/2026/11/10/anthropic-ipo-stock-range-nasdaq/6651794326745/"
-    }
-   ]
-  },
-  {
-   "section": "world",
    "developing": true,
    "changed": "Updated: Gibran has formally submitted his resignation",
    "published": "2026-11-10T08:36:00Z",
@@ -469,10 +522,10 @@
    "lead": true,
    "serious": true,
    "developing": true,
-   "changed": "Updated: the US envoys have arrived in Moscow to meet Putin",
+   "changed": "Updated: the envoys have held talks with Putin, who proposed an aid mission",
    "published": "2026-11-09T06:05:00Z",
-   "title": "US envoys meet Putin in Moscow after Ukraine–Russia prisoner swap deal",
-   "why": "US envoys Steve Witkoff and Jared Kushner landed in Moscow on Thursday for talks with Vladimir Putin, Interfax reports, after talks in Abu Dhabi ended with agreement on a large prisoner swap. President Zelensky spoke of about 1,000 prisoners each. The envoys then plan to brief Zelensky in Dublin.",
+   "title": "US envoys hold talks with Putin in Moscow on ending Ukraine war",
+   "why": "US envoys Steve Witkoff and Jared Kushner met Vladimir Putin at the Kremlin on Thursday, after Abu Dhabi talks ended with a deal on a large prisoner swap. Putin proposed a joint aid mission for civilians in Ukraine’s Kostiantynivka, Interfax reports. The envoys then plan to brief Zelensky in Dublin.",
    "matters": "There was no breakthrough on territory or a ceasefire, the main obstacles to ending the war.",
    "sources": [
     {
@@ -480,47 +533,47 @@
      "url": "https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks"
     },
     {
-     "name": "Kyiv Post",
-     "url": "https://www.kyivpost.com/post/89857"
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/12/witkoff-and-kushner-arrive-in-moscow-seeking-putins-blessing-to-bring-europe-into-ukraine-"
     },
     {
-     "name": "The Tribune (ANI)",
-     "url": "https://www.tribuneindia.com/news/abu-dhabi-negotiations/us-envoys-witkoff-kushner-arrive-in-moscow-for-talks-with-putin"
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/witkoff-kushner-arrive-in-moscow-following-ukraine-peace-talks/"
+    },
+    {
+     "name": "The Moscow Times",
+     "url": "https://www.themoscowtimes.com/2026/11/12/us-envoys-arrive-at-kremlin-for-talks-with-putin-on-ukraine-a94236"
     },
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement"
-    },
-    {
-     "name": "The Moscow Times",
-     "url": "https://www.themoscowtimes.com/2026/11/11/abu-dhabi-talks-end-with-prisoner-exchange-but-no-peace-breakthrough-a94227"
     }
    ]
   },
   {
    "section": "tech",
    "developing": true,
-   "changed": "Updated: the board is reported to be preparing to remove Huang; no decision announced yet",
+   "changed": "Updated: shares fell further on Thursday; China accuses the US of fabricating claims",
    "published": "2026-11-08T21:30:00Z",
    "title": "Nvidia board weighs removing chief executive Jensen Huang as shares slide",
-   "why": "Nvidia’s board met late into Wednesday evening on whether to remove Jensen Huang, after the Wall Street Journal reported it was preparing to force him out. No decision had been announced by Thursday morning. Shares fell more than 8% in after-hours trading.",
-   "matters": "Nvidia makes most of the world’s AI chips; China denies the spying allegations behind the board’s inquiry.",
+   "why": "Nvidia’s board met on Wednesday to discuss whether to remove Jensen Huang, after the Wall Street Journal reported it was preparing to force him out. No decision had been announced by Thursday, when shares fell about 9% before markets opened. China said the US was “fabricating” spy claims.",
+   "matters": "Nvidia makes most of the world’s AI chips, so its leadership affects the whole AI industry.",
    "sources": [
     {
-     "name": "France 24 (Reuters)",
-     "url": "https://www.france24.com/en/technology/20261112-nvidia-board-to-decide-whether-to-oust-longtime-ceo-jensen-huang"
-    },
-    {
      "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html"
+     "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
     },
     {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/"
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/asia-pacific/20261112-china-accuses-us-fabricating-nvidia-spy-claims-to-push-tech-blockade"
     },
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/"
     }
    ]
   }
