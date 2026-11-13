@@ -1,6 +1,167 @@
 {
- "updated": "2026-11-12T13:55:31Z",
+ "updated": "2026-11-13T06:40:42Z",
  "items": [
+  {
+   "section": "culture",
+   "published": "2026-11-13T04:15:00Z",
+   "title": "Rosalía wins album of the year at the Latin Grammys for Lux",
+   "why": "Spanish singer Rosalía won album of the year for Lux and song of the year for “La Perla” at the 27th Latin Grammy Awards in Las Vegas on Thursday. Milo J took record of the year for “Niño”, and Colombian singer Aria Vega was named best new artist.",
+   "matters": "Daddy Yankee was honoured as the Latin Recording Academy’s person of the year.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261113-superstars-karol-g-rosalia-compete-at-latin-grammys"
+    },
+    {
+     "name": "ABC News (AP)",
+     "url": "https://abcnews.com/Entertainment/wireStory/rosalas-lux-wins-album-year-2026-latin-grammy-138069383"
+    },
+    {
+     "name": "Yahoo Entertainment (Cover Media)",
+     "url": "https://www.yahoo.com/entertainment/music/articles/rosal-wins-top-gong-2026-041532503.html"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "published": "2026-11-13T02:27:00Z",
+   "title": "Iran’s Revolutionary Guards say they struck a US radar in Bahrain",
+   "why": "Iran’s Revolutionary Guards said on Friday they targeted a US early-warning radar in Bahrain, home of the US Navy’s Fifth Fleet, in what they called retaliation for a strike on a telecoms tower in Sirik, southern Iran. The claim could not be verified; Washington and Bahrain had not commented.",
+   "matters": "Hours earlier, Trump said Gulf allies had asked him to hold off further strikes on Iran.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain"
+    },
+    {
+     "name": "Middle East Eye",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-says-it-targeted-us-radar-bahrain"
+    },
+    {
+     "name": "Iran International",
+     "url": "https://www.iranintl.com/en/liveblog/202611077068"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "lead": true,
+   "serious": true,
+   "developing": true,
+   "changed": "Updated: after Moscow and Dublin meetings, the US says Europe will join the talks",
+   "published": "2026-11-12T23:35:00Z",
+   "title": "Europe to join next round of Ukraine peace talks, US envoys say",
+   "why": "After meeting Vladimir Putin in Moscow on Thursday, US envoys Steve Witkoff and Jared Kushner briefed Volodymyr Zelensky near Dublin and said Europe would join the next round of talks. Zelensky confirmed this. The Kremlin says the EU must first name one representative. No date is set.",
+   "matters": "Kushner says the US is also working towards the largest prisoner exchange of the war.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261113-live-zelensky-and-kushner-confirm-that-europe-will-join-next-round-of-russia-ukraine-talks"
+    },
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/zelensky-meets-with-trumps-envoys-in-dublin-after-their-summit-with-putin/"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/12/russia-plays-down-peace-talks-with-europe-after-witkoff-raises-hopes-of-breakthrough"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-12T23:00:00Z",
+   "title": "Haiti’s police retake the national football stadium, held by gangs since 2024",
+   "why": "Haitian police said on Thursday they had taken full control of the Sylvio Cator stadium in the capital, Port-au-Prince, working with a government security task force and Salvadoran troops. Gangs had held it since 2024. El Salvador’s president, Nayib Bukele, says the forces will use it as a base.",
+   "matters": "Haiti’s national team has had to play home qualifiers in Curaçao; about 2,000 Salvadoran soldiers operate outside the UN-backed force.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261113-haitian-police-retake-national-stadium-from-gangs-after-two-years"
+    },
+    {
+     "name": "The Haitian Times",
+     "url": "https://haitiantimes.com/2026/11/12/haiti-el-salvador-forces-retake-sylvio-cator-stadium/"
+    },
+    {
+     "name": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/article/info/2300301/haiti-forces-gangs-reprise-stade-soccer"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "developing": true,
+   "published": "2026-11-12T18:15:00Z",
+   "title": "Global Microsoft 365 outage disrupts Outlook, Teams and Copilot for hours",
+   "why": "A Microsoft 365 outage that began on Thursday left tens of thousands unable to use Outlook email, with Teams and Copilot also hit, in at least 74 countries, Downdetector data show. Microsoft blamed overloaded servers, said there was no sign of a cyber attack, and reported only partial recovery.",
+   "matters": "Governments, schools and hospitals rely on it; Australia and New Zealand report public services were affected.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affects-users-worldwide/107381050"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "changed": "Updated: Huang has resigned; finance chief Colette Kress is interim chief executive",
+   "published": "2026-11-12T14:06:00Z",
+   "title": "Jensen Huang resigns as Nvidia chief after affair raises security concerns",
+   "why": "Jensen Huang resigned as Nvidia’s chief executive and left its board on Thursday after 33 years, following reports of extramarital affairs, one with a woman reportedly suspected by US intelligence of working for China. Beijing denies this. Finance chief Colette Kress is interim chief executive. Shares fell over 10%.",
+   "matters": "Nvidia makes most of the world’s AI chips, so its leadership affects the whole AI industry.",
+   "sources": [
+    {
+     "name": "France 24 (AFP/Reuters)",
+     "url": "https://www.france24.com/en/asia-pacific/20261112-nvidia-ceo-jensen-huang-to-step-down-after-affair"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-13/nvidia-scandal-china-spy-network/107381704"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "serious": true,
+   "published": "2026-11-12T12:00:00Z",
+   "title": "UN food agency chief says 900,000 people in Sudan lost food aid",
+   "why": "On his first field trip, the World Food Programme’s new head, Luke Lindberg, met displaced families in Kosti, Sudan, and called for an end to the war: “We cannot outfeed the war.” Funding cuts have shrunk WFP’s reach from over 4 million people in August to just over 3 million.",
+   "matters": "WFP says it needs $520 million to feed 5.4 million people in Sudan through April 2027.",
+   "sources": [
+    {
+     "name": "WFP",
+     "url": "https://www.wfp.org/news/world-food-programme-executive-director-calls-end-fighting-sudan"
+    },
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168793"
+    },
+    {
+     "name": "Africanews",
+     "url": "https://www.africanews.com/2026/11/13/un-food-agency-chief-calls-for-end-to-sudan-war-as-famine-crisis-deepens/"
+    }
+   ]
+  },
   {
    "section": "sport",
    "published": "2026-11-12T11:30:00Z",
@@ -325,131 +486,6 @@
    ]
   },
   {
-   "section": "money",
-   "published": "2026-11-10T23:00:00Z",
-   "title": "Spain holds first general strike in 14 years over housing costs",
-   "why": "Millions of workers in Spain joined a 24-hour strike on Wednesday called by the two biggest unions, UGT and CCOO, over rents and living costs. Unions report stoppages of up to 90% at ports and car plants; about 5% of flights were cancelled, airport operator AENA says.",
-   "matters": "Average rents have nearly doubled in ten years, and housing is now central to Spain's snap election on 29 November.",
-   "sources": [
-    {
-     "name": "Reuters (via NBC News)",
-     "url": "https://www.nbcnews.com/world/spain/workers-launch-general-strike-spain-severe-housing-crisis-rcna608710"
-    },
-    {
-     "name": "AP (via The Globe and Mail)",
-     "url": "https://www.theglobeandmail.com/world/article-spain-general-strike-housing-crisis/"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261111-spain-general-strike-puts-housing-crisis-centre-upcoming-elections"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-10T23:00:00Z",
-   "title": "US judge lets Trump’s defamation case against the BBC go ahead",
-   "why": "A federal judge in Florida, Jeffrey Kuntz, refused on Tuesday to dismiss Donald Trump’s defamation claim over a BBC Panorama edit of his 6 January 2021 speech, but threw out a second claim, cutting the suit to at least $5 billion. The BBC will defend the case.",
-   "matters": "The ruling does not decide whether Trump’s claims are true; the BBC has apologised for the edit but denies defamation.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/11/judge-rules-trumps-10bn-bbc-defamation-suit-can-proceed"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/11/trumps-defamation-lawsuit-against-the-bbc-over-panorama-edit-can-proceed-judge-rules"
-    },
-    {
-     "name": "UPI (via Yahoo News)",
-     "url": "https://www.yahoo.com/news/us/articles/judge-allows-trumps-10b-defamation-095335453.html"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "changed": "Updated: the storm passed without severe damage",
-   "published": "2026-11-10T21:00:00Z",
-   "title": "Storm Charles cancels over 300 flights in Portugal; little severe damage",
-   "why": "Storm Charles crossed mainland Portugal on Wednesday with gusts above 120 km/h, closing schools and non-essential public services and cancelling more than 300 flights, Al Jazeera reports. Some Lisbon streets flooded, but no severe damage or injuries were reported. Lisbon’s Web Summit cancelled its second day.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/11/portugal-cancels-300-plus-flights-shuts-schools-ahead-of-storm-charles"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/11/portugal-closes-all-schools-and-non-essential-services-over-storm-charles"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/business/20261111-second-day-of-web-summit-cancelled-as-storm-charles-puts-portugal-on-high-alert"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-10T21:00:00Z",
-   "title": "US House shelves bid to impeach Defence Secretary Pete Hegseth",
-   "why": "The House of Representatives voted 211 to 204 on Tuesday to send Republican Thomas Massie's impeachment articles to committee, which in effect ends them in this Congress. They accused Hegseth over the Iran war and other military operations. Hegseth called the effort a “farce”.",
-   "matters": "Democrats take control of the House in January and could try again then.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/americas/20261110-live-pentagon-chief-pete-hegseth-calls-move-to-impeach-him-a-farce"
-    },
-    {
-     "name": "ABC News (US)",
-     "url": "https://6abc.com/story/hegseth-dismisses-impeachment-effort-political-spectacle/20029818/"
-    },
-    {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/hegseth-massie-impeachment-2026-election-congress-ukraine-live-updates-rcna608406"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-10T19:00:00Z",
-   "title": "US charges three men over Iran-linked plots, including on a UK airbase",
-   "why": "US prosecutors in New York on Tuesday charged three men they describe as Iranian operatives over nearly 20 alleged attacks or plots in Europe and the US, including on Jewish targets and the RAF Fairford airbase in England. Only one is in custody. Iran denies involvement at Fairford.",
-   "sources": [
-    {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/news/us/2026/11/10/iran-fairford-plot-charges/"
-    },
-    {
-     "name": "ABC Australia (AP)",
-     "url": "https://www.abc.net.au/news/2026-11-11/us-charges-3-men-with-plotting-terror-attacks/107371492"
-    },
-    {
-     "name": "The Media Line",
-     "url": "https://themedialine.org/headlines/us-charges-3-iran-backed-operatives-over-attacks-on-jewish-targets-and-uk-airbase-plot/"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-10T18:08:00Z",
-   "title": "South Africa’s most decorated Olympian, Tatjana Smith, switches to the Netherlands",
-   "why": "Swimmer Tatjana Smith, 29, who won Olympic breaststroke gold in Tokyo and Paris, said on Tuesday she will compete for the Netherlands, her father’s country. She cited financial and practical challenges and better high-performance support. She plans to keep training in South Africa, aiming for the 2028 Los Angeles Games.",
-   "sources": [
-    {
-     "name": "AP",
-     "url": "https://www.espn.com/olympics/story/_/id/50444115/2-gold-medalist-tatjana-smith-swim-netherlands"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands"
-    },
-    {
-     "name": "The Mercury (IOL)",
-     "url": "https://themercury.co.za/sport/swimming/2026-11-10-breaking-olympic-icon-tatjana-smith-quits-team-sa-to-swim-for-another-country/"
-    }
-   ]
-  },
-  {
    "section": "world",
    "serious": true,
    "developing": true,
@@ -514,66 +550,6 @@
     {
      "name": "RTÉ/AFP",
      "url": "https://www.rte.ie/news/world/2026/1111/1598779-cop-31-turkey/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "lead": true,
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: the envoys have held talks with Putin, who proposed an aid mission",
-   "published": "2026-11-09T06:05:00Z",
-   "title": "US envoys hold talks with Putin in Moscow on ending Ukraine war",
-   "why": "US envoys Steve Witkoff and Jared Kushner met Vladimir Putin at the Kremlin on Thursday, after Abu Dhabi talks ended with a deal on a large prisoner swap. Putin proposed a joint aid mission for civilians in Ukraine’s Kostiantynivka, Interfax reports. The envoys then plan to brief Zelensky in Dublin.",
-   "matters": "There was no breakthrough on territory or a ceasefire, the main obstacles to ending the war.",
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/12/witkoff-and-kushner-arrive-in-moscow-seeking-putins-blessing-to-bring-europe-into-ukraine-"
-    },
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/witkoff-kushner-arrive-in-moscow-following-ukraine-peace-talks/"
-    },
-    {
-     "name": "The Moscow Times",
-     "url": "https://www.themoscowtimes.com/2026/11/12/us-envoys-arrive-at-kremlin-for-talks-with-putin-on-ukraine-a94236"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "developing": true,
-   "changed": "Updated: shares fell further on Thursday; China accuses the US of fabricating claims",
-   "published": "2026-11-08T21:30:00Z",
-   "title": "Nvidia board weighs removing chief executive Jensen Huang as shares slide",
-   "why": "Nvidia’s board met on Wednesday to discuss whether to remove Jensen Huang, after the Wall Street Journal reported it was preparing to force him out. No decision had been announced by Thursday, when shares fell about 9% before markets opened. China said the US was “fabricating” spy claims.",
-   "matters": "Nvidia makes most of the world’s AI chips, so its leadership affects the whole AI industry.",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
-    },
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/asia-pacific/20261112-china-accuses-us-fabricating-nvidia-spy-claims-to-push-tech-blockade"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/"
     }
    ]
   }
