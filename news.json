@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T06:40:42Z",
+ "updated": "2026-11-13T07:48:53Z",
  "items": [
   {
    "section": "culture",
@@ -97,26 +97,52 @@
    ]
   },
   {
+   "section": "climate",
+   "published": "2026-11-12T22:00:00Z",
+   "title": "El Niño and global warming drove Indonesia’s worst fires in a decade",
+   "why": "World Weather Attribution scientists say El Niño roughly halved rainfall from July to October, while human-caused warming made the season about 1.6°C hotter and fire weather three times more likely. Drained peatland and deforestation added to the risk; nearly 3 million hectares have burned, monitors estimate.",
+   "matters": "Smoke from the fires has reached millions of people in Indonesia, Malaysia, Singapore and Timor-Leste.",
+   "sources": [
+    {
+     "name": "World Weather Attribution",
+     "url": "https://www.worldweatherattribution.org/climate-change-is-increasing-the-severity-of-el-nino-driven-fire-weather-across-rapidly-degrading-peatlands-and-forests-in-indonesia/"
+    },
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261112-el-nino-mostly-to-blame-for-indonesian-wildfires-research"
+    },
+    {
+     "name": "The Guardian (via AOL)",
+     "url": "https://www.aol.co.uk/articles/el-ni-o-turned-off-040008000.html"
+    }
+   ]
+  },
+  {
    "section": "tech",
    "developing": true,
-   "published": "2026-11-12T18:15:00Z",
-   "title": "Global Microsoft 365 outage disrupts Outlook, Teams and Copilot for hours",
-   "why": "A Microsoft 365 outage that began on Thursday left tens of thousands unable to use Outlook email, with Teams and Copilot also hit, in at least 74 countries, Downdetector data show. Microsoft blamed overloaded servers, said there was no sign of a cyber attack, and reported only partial recovery.",
-   "matters": "Governments, schools and hospitals rely on it; Australia and New Zealand report public services were affected.",
+   "published": "2026-11-12T16:17:00Z",
+   "title": "Microsoft 365 outage drags past 12 hours as fixes fall short",
+   "why": "An outage that began at about 16:15 UTC on Thursday has disrupted Outlook, Teams and Copilot in at least 74 countries, Downdetector data show. Microsoft says some servers unexpectedly went offline, overloading the rest; it reports only partial recovery and no sign of a cyber attack.",
+   "matters": "Governments and businesses rely on it; an adviser in Australia estimates the cost to businesses there at billions of dollars.",
    "sources": [
     {
      "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries"
+     "url": "https://www.france24.com/en/live-news/20261113-microsoft-battling-to-fix-global-outlook-outage"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/future/technology/2026/11/13/microsoft-outlook-outage-update/"
     },
     {
      "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affects-users-worldwide/107381050"
+     "url": "https://www.abc.net.au/news/2026-11-13/microsoft-outlook-outage-cost-to-businesses/107381570"
     },
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users"
     }
-   ]
+   ],
+   "changed": "Updated: the outage passed 12 hours and Microsoft says its fixes have not held"
   },
   {
    "section": "tech",
@@ -230,6 +256,32 @@
     {
      "name": "Dawn",
      "url": "https://www.dawn.com/news/2044023/debutant-saqib-khan-takes-seven-as-pakistan-restrict-sri-lanka-to-slender-lead"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-12T06:00:00Z",
+   "title": "Finland says it detected a strike on a Russian warship nearby",
+   "why": "Finland’s military says it detected a strike on a Russian warship in the Gulf of Finland on Wednesday. Ukraine’s security service says its drones hit the small missile ship Naro-Fominsk; Estonia’s defence minister says smoke was seen and the ship returned towards St Petersburg.",
+   "matters": "Yle reports the strike was near Gogland island, about 40 km from Finland and 55 km from Estonia, both NATO members.",
+   "sources": [
+    {
+     "name": "Yle",
+     "url": "https://yle.fi/a/74-20256496"
+    },
+    {
+     "name": "Defense News (Reuters)",
+     "url": "https://www.defensenews.com/global/europe/2026/11/12/finland-says-it-detects-strike-on-russian-warship-in-baltic-sea/"
+    },
+    {
+     "name": "BBC (via Yahoo)",
+     "url": "https://ca.news.yahoo.com/russian-warship-hit-ukrainian-drone-200921912.html"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys"
     }
    ]
   },
@@ -527,29 +579,6 @@
     {
      "name": "Bernama",
      "url": "https://www.bernama.com/en/world/news.php?id=2633270"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "developing": true,
-   "changed": "Updated: Guterres addressed leaders and proposed a climate justice compact",
-   "published": "2026-11-09T08:30:00Z",
-   "title": "UN chief calls for climate justice pact as COP31 leaders speak",
-   "why": "UN Secretary-General António Guterres told leaders at COP31 in Antalya, Turkey, on Wednesday that current national plans point to more than 2.5C of warming. He urged a “climate justice compact”, windfall taxes on fossil fuel firms and no new coal, oil or gas projects.",
-   "matters": "It is Guterres’s last climate summit as UN chief; the US is absent and talks run until 20 November.",
-   "sources": [
-    {
-     "name": "UN News",
-     "url": "https://news.un.org/en/story/2026/11/1168783"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-12/cop31-australia-criticised-over-fossil-fuel-expansion/107375792"
-    },
-    {
-     "name": "RTÉ/AFP",
-     "url": "https://www.rte.ie/news/world/2026/1111/1598779-cop-31-turkey/"
     }
    ]
   }
