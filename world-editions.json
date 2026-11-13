@@ -5276,5 +5276,329 @@
         ]
       }
     ]
+  },
+  {
+    "id": "053",
+    "published": "2026-11-14",
+    "title": "A doomsday that never came, an ocean liner turned reef and Italy’s win over France",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Did this actually happen?",
+        "claim": "In 1960 a paper in the leading journal Science predicted that the number of people on Earth would shoot up to infinity on Friday 13 November 2026.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this is true. In 1960 the physicist Heinz von Foerster and two colleagues at the University of Illinois published a paper in Science called “Doomsday: Friday, 13 November, A.D. 2026”. Looking at 2,000 years of population estimates, they saw the world’s population doubling faster and faster, and worked out that if the trend carried on, the curve would reach infinity on that date. It did not happen because growth slowed down: from the 1960s families around the world began having fewer children, and the UN now expects the population to peak at about 10.3 billion in the 2080s.",
+        "sources": [
+          [
+            "Euronews · Doomsday study’s prediction of the end of the world on 13 November 2026 fails",
+            "https://www.euronews.com/2026/11/12/doomsday-studys-prediction-of-the-end-of-the-world-on-13-november-2026-fails"
+          ],
+          [
+            "Gizmodo (The Conversation) · Scientists once calculated the date of doomsday",
+            "https://gizmodo.com/scientists-once-calculated-the-date-of-doomsday-and-its-next-month-2000820261"
+          ],
+          [
+            "Futura-Sciences · The 1960 study that set doomsday for Friday 13 November 2026",
+            "https://www.futura-sciences.com/en/?p=901001"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three terms. Find their partners.",
+        "pairs": [
+          [
+            "Pio Esposito",
+            "Scored twice as Italy beat France 3–1"
+          ],
+          [
+            "Zinedine Zidane",
+            "France coach who lost for the first time in charge"
+          ],
+          [
+            "San Siro",
+            "The stadium in Milan where the match was played"
+          ]
+        ],
+        "why": "The pairs are: Pio Esposito – scored twice for Italy; Zinedine Zidane – France’s coach, beaten for the first time since taking over; San Siro – the Milan stadium that hosted the game. On Thursday 12 November Michael Olise put France ahead in the Nations League, but Italy fought back: Francesco Pio Esposito scored twice (once from a penalty) and Davide Frattesi added the other goal. It was the first defeat for the former France star Zidane since he became France coach this summer, and it moved Roberto Mancini’s Italy to the top of their group.",
+        "sources": [
+          [
+            "Al Jazeera · Italy fight back to beat France 3-1 and move top of Nations League group",
+            "https://www.aljazeera.com/sports/2026/11/12/italy-fight-back-to-beat-france-3-1-and-move-top-of-nations-league-group"
+          ],
+          [
+            "ESPN · Italy 3-1 France (Nov 12, 2026) Final Score",
+            "https://www.espn.com/soccer/match/_/gameId/401861151/france-italy"
+          ],
+          [
+            "TNT Sports · Italy 3-1 France: Pio Esposito brace hands Zinedine Zidane first defeat as Les Bleus manager",
+            "https://www.tntsports.co.uk/football/uefa-nations-league/2026-2027/live-italy-france_mtc20005823/live-commentary.shtml"
+          ],
+          [
+            "Sofascore · Italy-France 3-1: Pio Esposito’s brace sends Mancini’s Azzurri to the top of the Nations League",
+            "https://www.sofascore.com/news/italy-france-3-1-pio-espositos-brace-sends-mancinis-azzurri-to-the-top-of-the-nations-league"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "Last seen by scientists in 1927",
+          "Caught by a stream where villagers wash their clothes",
+          "Broad back feet and waterproof fur"
+        ],
+        "options": [
+          "A new species of otter is found in the Amazon",
+          "A rare river dolphin returns to the Ganges",
+          "A giant frog is discovered in Madagascar",
+          "A swimming mouse thought to be extinct is found again in Ethiopia"
+        ],
+        "correct": 3,
+        "why": "It was: a swimming mouse thought to be extinct has been found again in Ethiopia. The Ethiopian water mouse was known from just one animal, caught in a mountain stream in 1927, and many feared it had died out. In mid-October the Ethiopian ecologist Mengistu Wale caught one in a trap by a stream in the Yayu Biosphere Reserve in south-western Ethiopia, during a wildlife survey backed by the German conservation group NABU. It is about 15 cm long, with broad back feet that work like paddles and thick, water-repellent fur; DNA tests are being done to confirm the find.",
+        "sources": [
+          [
+            "National Geographic · Scientists thought this amphibious mouse was extinct. After almost a century, it’s reappeared",
+            "https://www.nationalgeographic.com/animals/article/ethiopia-water-mouse-extinct-rediscovery"
+          ],
+          [
+            "blue News (Keystone-SDA) · Ethiopian water rat, believed to be extinct, spotted",
+            "https://www.bluewin.ch/en/news/ethiopian-water-rat-believed-to-be-extinct-spotted-li.3668420"
+          ],
+          [
+            "SRF · Verschollen geglaubte Art: Die Äthiopische Wassermaus ist zurück",
+            "https://www.srf.ch/news/verschollen-geglaubte-art-die-aethiopische-wassermaus-ist-zurueck"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "Spain’s fight over the cost of housing: put these events in order, earliest first.",
+        "items": [
+          "A small group of MPs approves new housing rules by a single vote",
+          "Spain holds its first general strike in 14 years, over housing and wages",
+          "Spain votes in an early general election"
+        ],
+        "correctOrder": [
+          1,
+          0,
+          2
+        ],
+        "why": "The right order is: the general strike (Wednesday 11 November), then the vote on housing rules (Thursday 12 November), then the early general election (29 November). Spain’s two biggest unions called the 24-hour strike, the first of its kind since 2012, because rents have soared while wages have not kept up. The next day a standing committee of 69 MPs, which stands in for parliament before an election, approved one package of housing measures, including extra protection from eviction, by just one vote, but rejected the automatic renewal of rental contracts. Whether the measures last may depend on who wins the election.",
+        "sources": [
+          [
+            "Euronews · Spain grinds to a halt in first general strike in 14 years",
+            "https://www.euronews.com/2026/11/12/spain-holds-its-first-general-strike-in-14-years-amid-mass-protests-and-police-charges"
+          ],
+          [
+            "Al Jazeera · Spain approves housing reforms after nationwide strike over costs",
+            "https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs"
+          ],
+          [
+            "Internazionale (Reuters) · Spain approves one of housing decrees that triggered snap election",
+            "https://www.internazionale.it/ultime-notizie-reuters/2026/11/12/spain-approves-one-of-housing-decrees-that-triggered-snap-election"
+          ],
+          [
+            "idealista · Spain general strike over housing crisis takes place on 11 November",
+            "https://www.idealista.com/en/news/legal-advice-in-spain/2026/11/10/917678-spain-general-strike-over-housing-crisis-takes-place-on-11-november"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "On 11 November the SS United States, the ocean liner that still holds the speed record for crossing the Atlantic, was deliberately sunk off the coast of Florida. Why?",
+        "options": [
+          "To film a scene for a disaster movie",
+          "To test new ship-safety equipment",
+          "To turn it into the world’s largest artificial reef",
+          "To mark the end of a navy exercise"
+        ],
+        "correct": 2,
+        "why": "It was sunk to become the world’s largest artificial reef. Okaloosa County in Florida bought the liner, which had been out of service since 1969 and docked for years in Philadelphia, made it environmentally safe and sank it about 22 nautical miles (roughly 40 km) off Destin, in about 55 metres (180 feet) of water. Over time sponges, corals and fish will settle on the wreck, and the county hopes it will draw divers and anglers. On its first voyage in 1952 the ship crossed the Atlantic faster than any passenger liner before or since.",
+        "sources": [
+          [
+            "Al Jazeera · From ocean legend to undersea reef: Why has the SS United States been sunk?",
+            "https://www.aljazeera.com/news/2026/11/13/from-ocean-legend-to-undersea-reef-why-has-the-ss-united-states-been-sunk"
+          ],
+          [
+            "Marine Insight · SS United States becomes the world’s largest artificial reef after sinking off Florida",
+            "https://www.marineinsight.com/ocean-liner-ss-united-states-sunk-artificial-reef/"
+          ],
+          [
+            "Fox News · SS United States is sunk near Destin, Florida, as world’s largest artificial reef",
+            "https://www.foxnews.com/travel/legendary-ss-united-states-sinks-beneath-waves-divers-prepare-first-look"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "054",
+    "published": "2026-11-15",
+    "title": "Africa’s first Olympic Games, an email meltdown and a bid to unseat Schumer",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Did this actually happen?",
+        "claim": "The Youth Olympic Games in Dakar, Senegal, which ended on 13 November, were the first Olympic sporting event ever held in Africa.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this is true. Senegal’s capital Dakar hosted the fourth Summer Youth Olympic Games from 31 October to 13 November, the first Olympic sporting event ever staged on the African continent. About 2,700 young athletes from more than 200 teams competed in 25 sports. The hosts celebrated their first-ever Youth Olympic gold medals in beach wrestling, a sport with deep roots in Senegal.",
+        "sources": [
+          [
+            "Olympics.com newsroom · Africa stars on and off the field as historic Youth Olympic Games Dakar 2026 enters home straight",
+            "https://newsroom.olympics.com/record/3930"
+          ],
+          [
+            "People’s Daily (Xinhua) · Dakar 2026 Youth Olympics opens in historic first for Africa",
+            "https://en.people.cn/n3/2026/1101/c90000-20514329.html"
+          ],
+          [
+            "Al Jazeera · Inside the circle: Senegal’s wrestlers turn tradition to Youth Olympic gold",
+            "https://www.aljazeera.com/sports/2026/11/12/senegals-wrestlers-turn-tradition-into-gold-at-dakar-youth-olympics"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three terms. Find their partners.",
+        "pairs": [
+          [
+            "Outlook",
+            "Microsoft’s email service, the worst hit in this week’s outage"
+          ],
+          [
+            "Teams",
+            "Microsoft’s chat and video-call app, also disrupted"
+          ],
+          [
+            "Downdetector",
+            "Website where people’s reports of problems peaked at about 130,000"
+          ]
+        ],
+        "why": "The pairs are: Outlook – Microsoft’s email service, the worst hit; Teams – its chat and video-call app, also disrupted; Downdetector – the website that collects people’s reports of outages. From about 1pm US Eastern time on Thursday 12 November, Outlook, Teams, the Copilot AI assistant and other Microsoft 365 services stopped working for many users around the world, and problems carried on into Friday in Asia and Australia. Microsoft said some of its servers had unexpectedly gone offline, putting too much strain on the rest; it was not blamed on a cyberattack.",
+        "sources": [
+          [
+            "Euronews · Worldwide Microsoft outage hits Outlook, Teams and Copilot, disrupting thousands",
+            "https://www.euronews.com/2026/11/12/microsoft-outage-hits-outlook-teams-and-copilot-disrupting-thousands"
+          ],
+          [
+            "Al Jazeera · Microsoft outage hits tens of thousands of users",
+            "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users"
+          ],
+          [
+            "CNBC · Widespread Microsoft outage takes down Outlook and other 365 services",
+            "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "An hour of factory work at home costs up to five times as much as in Eastern Europe",
+          "Talks with unions about cutting labour costs have stalled",
+          "Two German plants could close"
+        ],
+        "options": [
+          "Volkswagen moves its headquarters to China",
+          "Mercedes-Benz halts all new investment in its German factories",
+          "BMW stops making petrol cars in Germany",
+          "Porsche is bought by an American company"
+        ],
+        "correct": 1,
+        "why": "It was: Mercedes-Benz has stopped all new investment in its German factories. In a memo to staff reported on 12 November, its production chief said the board had decided to halt all further investment at its German sites, because talks with the works council (the staff’s elected representatives) and unions on cutting labour costs had got stuck. The company says an hour of work at its German plants can cost up to five times as much as in Eastern Europe. It warned in September that two German plants could close, but says it still wants to avoid closures.",
+        "sources": [
+          [
+            "Euronews · Mercedes-Benz halts new investment in German plants, considers closures",
+            "https://www.euronews.com/2026/11/12/mercedes-benz-halts-new-investment-in-german-plants-considers-closures"
+          ],
+          [
+            "Euronext (Reuters) · Mercedes-Benz halts German investments as plant closures loom",
+            "https://live.euronext.com/en/financial-news/mercedes-benz-halts-german-investments-plant-closures-loom"
+          ],
+          [
+            "Autocar India · Mercedes-Benz freezes all German plant investment",
+            "https://www.autocarindia.com/car-news/mercedes-benz-freezes-all-german-plant-investment-441319"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "A contest to lead the US Senate: put these steps in order, earliest first.",
+        "items": [
+          "Senator Chris Van Hollen says he will challenge Chuck Schumer for the top job",
+          "Democrats win a majority in the US Senate in the midterm elections",
+          "Senate Democrats choose their leader in a secret vote"
+        ],
+        "correctOrder": [
+          1,
+          0,
+          2
+        ],
+        "why": "The right order is: Democrats win a Senate majority (midterm elections on 3 November), then Chris Van Hollen announces his challenge (12 November), then Senate Democrats vote for their leader (expected in early December). Chuck Schumer has led the Democrats in the Senate since 2017 and says he has the votes to stay on; Van Hollen, a senator from Maryland, calls himself the underdog. Whoever wins would become Senate majority leader when the new Congress starts in January.",
+        "sources": [
+          [
+            "CBS News · Chris Van Hollen announces he will challenge Chuck Schumer for Senate majority leader",
+            "https://www.cbsnews.com/news/chris-van-hollen-challenge-chuck-schumer-senate-majority-leader-democrat/"
+          ],
+          [
+            "Euronews · US senator Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
+            "https://www.euronews.com/2026/11/13/us-senator-chris-van-hollen-to-challenge-chuck-schumer-for-senate-majority-leader"
+          ],
+          [
+            "Al Jazeera · US Senator Chris Van Hollen seeks to lead Democrats: Who is he?",
+            "https://www.aljazeera.com/news/2026/11/13/who-is-us-senator-chris-van-hollen"
+          ],
+          [
+            "KTTC (Gray News) · Colom, Hyde-Smith separated by narrow margin in Mississippi Senate race",
+            "https://www.kttc.com/2026/11/04/colom-hyde-smith-separated-by-narrow-margin-mississippi-senate-race/"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "At the COP31 climate summit in Türkiye, the hosts are urging countries to sign a “35 by 35” pledge. What does it aim for?",
+        "options": [
+          "Cutting the world’s meat eating by 35% by 2035",
+          "Planting 35 billion trees by 2035",
+          "Banning new coal power plants in 35 countries by 2035",
+          "Electricity supplying 35% of the world’s energy use by 2035"
+        ],
+        "correct": 3,
+        "why": "It aims for electricity to supply 35% of all the energy the world uses by 2035, up from about 23% today. The idea is that things like electric cars, heat pumps and electric factories replace burning oil, gas and coal directly. The pledge is voluntary, and Australia, Germany, Norway and Ethiopia are among the early backers. Some countries want it to say the extra electricity must come from clean sources such as solar and wind, while some fossil-fuel producers oppose that wording.",
+        "sources": [
+          [
+            "RTÉ · COP31 host Turkey to push global electrification goal",
+            "https://www.rte.ie/news/environment/2026/1110/1598617-cop-climate-world/"
+          ],
+          [
+            "ABC News (Australia) · COP31 electric power target sparks row over cutting fossil fuel use",
+            "https://www.abc.net.au/news/2026-11-11/cop31-electrification-turkiye-australia/107371196"
+          ],
+          [
+            "Climate Home News · COP31 Bulletin Day 2: Momentum builds on electrification and fossil fuel transition",
+            "https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/"
+          ]
+        ]
+      }
+    ]
   }
 ]
