@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-13",
   "facts": [
     {
       "date": "2026-09-20",
@@ -1356,6 +1356,50 @@
         {
           "name": "Mental Floss",
           "url": "https://www.mentalfloss.com/language/16-little-words-and-phrases-describing-small-amounts"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "kind": "folklore",
+      "emoji": "🍬",
+      "title": "Swallowed gum lasts seven years",
+      "myth": "If you swallow chewing gum, it sticks inside your stomach for seven years.",
+      "truth": "Your body can’t digest the rubbery gum base, but your gut still pushes it out like other food, usually within days. Doctors who look inside stomachs say they never find old gum; only swallowing lots at once can cause a blockage.",
+      "sources": [
+        {
+          "name": "Duke Health",
+          "url": "https://www.dukehealth.org/blog/myth-or-fact-it-takes-seven-years-digest-chewing-gum"
+        },
+        {
+          "name": "Scientific American",
+          "url": "https://www.scientificamerican.com/article/fact-or-fiction-chewing-gum-takes-seven-years-to-digest/"
+        },
+        {
+          "name": "McGill University Office for Science and Society",
+          "url": "https://www.mcgill.ca/oss/node/9574"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "kind": "fact",
+      "category": "Records",
+      "emoji": "🦈",
+      "title": "The shark that lives for centuries",
+      "text": "Greenland sharks are the longest-lived animals with a backbone known to science. Researchers worked out their ages from the core of their eye lenses, which forms before birth. The biggest one tested was estimated at about 392 years old, beating the bowhead whale’s record of around 211.",
+      "sources": [
+        {
+          "name": "ScienceDaily (AAAS release on Nielsen et al., Science 2016)",
+          "url": "https://sciencedaily.com/releases/2016/08/160811143218.htm"
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2016/08/400-year-old-greenland-shark-is-the-longest-living-vertebrate/"
+        },
+        {
+          "name": "Sci.News",
+          "url": "https://www.sci.news/biology/greenland-sharks-longest-lived-vertebrates-04099.html"
         }
       ]
     }
