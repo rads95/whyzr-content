@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-13T07:48:53Z",
+ "updated": "2026-11-13T23:07:18Z",
  "items": [
+  {
+   "section": "world",
+   "published": "2026-11-13T12:00:00Z",
+   "title": "UN nuclear watchdog “increasingly concerned” about Iran’s uninspected Isfahan plant",
+   "why": "A confidential report by the International Atomic Energy Agency, seen by news agencies on Friday, says it does not know the location or status of an enrichment plant Iran declared in Isfahan in 2025. It calls this a serious proliferation concern. Iran says inspections cannot resume amid US threats.",
+   "matters": "The agency says it cannot confirm Iran has not diverted nuclear material, including near-weapons-grade uranium.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection"
+    },
+    {
+     "name": "Cyprus Mail (Reuters)",
+     "url": "https://cyprus-mail.com/2026/11/13/iaea-increasingly-concerned-about-iranian-enrichment-plant"
+    },
+    {
+     "name": "The Times of Israel",
+     "url": "https://www.timesofisrael.com/un-agency-cant-confirm-iran-hasnt-diverted-nuclear-material-from-peaceful-activity/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "published": "2026-11-13T06:00:00Z",
+   "title": "Building under construction collapses near Nairobi, Kenya, killing at least six",
+   "why": "Part of an eight-storey building under construction collapsed on Friday morning in Syokimau, on the outskirts of Kenya’s capital, Nairobi. Public broadcaster KBC and Reuters report six dead and five rescued; another outlet reported five dead and one missing. Preliminary reports point to a failure during concreting.",
+   "matters": "It comes three weeks after a collapse in Nairobi’s Eastleigh district, renewing calls for tighter building safety checks.",
+   "sources": [
+    {
+     "name": "Al Jazeera (Reuters)",
+     "url": "https://www.aljazeera.com/news/2026/11/13/kenyan-building-collapse-near-nairobi-kills-six-people"
+    },
+    {
+     "name": "KBC",
+     "url": "https://www.kbc.co.ke/six-dead-five-rescued-after-syokimau-building-collapse/"
+    },
+    {
+     "name": "Capital FM Kenya",
+     "url": "https://capitalfm.africa/5-killed-1-missing-after-building-collapses-near-syokimau-sgr-road/"
+    }
+   ]
+  },
   {
    "section": "culture",
    "published": "2026-11-13T04:15:00Z",
@@ -27,23 +71,28 @@
    "serious": true,
    "developing": true,
    "published": "2026-11-13T02:27:00Z",
-   "title": "Iran’s Revolutionary Guards say they struck a US radar in Bahrain",
-   "why": "Iran’s Revolutionary Guards said on Friday they targeted a US early-warning radar in Bahrain, home of the US Navy’s Fifth Fleet, in what they called retaliation for a strike on a telecoms tower in Sirik, southern Iran. The claim could not be verified; Washington and Bahrain had not commented.",
-   "matters": "Hours earlier, Trump said Gulf allies had asked him to hold off further strikes on Iran.",
+   "title": "US says it shot down two Iranian drones aimed at Bahrain",
+   "why": "Iran’s Revolutionary Guards said on Friday they destroyed a US early-warning radar in Bahrain, in retaliation for a strike on a telecoms tower in Sirik, southern Iran. US Central Command called the claim false, saying it shot down two Iranian drones and there was no damage or injury.",
+   "matters": "Reuters says it is Iran’s first claimed attack on US forces in a Gulf country since early September.",
    "sources": [
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain"
     },
     {
-     "name": "Middle East Eye",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-says-it-targeted-us-radar-bahrain"
+     "name": "Middle East Monitor",
+     "url": "https://www.middleeastmonitor.com/20261113-centcom-denies-iranian-claim-of-attack-on-us-radar-in-bahrain-says-2-drones-shot-down"
     },
     {
-     "name": "Iran International",
-     "url": "https://www.iranintl.com/en/liveblog/202611077068"
+     "name": "Shafaq News",
+     "url": "https://shafaq.com/en/Middle-East/CENTCOM-denies-Iran-destroyed-US-radar-in-Bahrain"
+    },
+    {
+     "name": "Middle East Eye",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-says-it-targeted-us-radar-bahrain"
     }
-   ]
+   ],
+   "changed": "Updated: the US denies the radar was hit and says it downed two drones"
   },
   {
    "section": "world",
@@ -121,28 +170,28 @@
    "section": "tech",
    "developing": true,
    "published": "2026-11-12T16:17:00Z",
-   "title": "Microsoft 365 outage drags past 12 hours as fixes fall short",
-   "why": "An outage that began at about 16:15 UTC on Thursday has disrupted Outlook, Teams and Copilot in at least 74 countries, Downdetector data show. Microsoft says some servers unexpectedly went offline, overloading the rest; it reports only partial recovery and no sign of a cyber attack.",
+   "title": "Microsoft restores Outlook and Teams gradually after day-long global outage",
+   "why": "An outage that began at about 16:15 UTC on Thursday disrupted Outlook, Teams and Copilot in at least 74 countries. By Friday Microsoft reported improving server stability and a gradual recovery, though some restored servers briefly failed again. It says it saw no sign of a cyber attack.",
    "matters": "Governments and businesses rely on it; an adviser in Australia estimates the cost to businesses there at billions of dollars.",
    "sources": [
     {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261113-microsoft-battling-to-fix-global-outlook-outage"
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-13/microsoft-outlook-outage/107380958"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries"
     },
     {
      "name": "The National",
      "url": "https://www.thenationalnews.com/future/technology/2026/11/13/microsoft-outlook-outage-update/"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-13/microsoft-outlook-outage-cost-to-businesses/107381570"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users"
     }
    ],
-   "changed": "Updated: the outage passed 12 hours and Microsoft says its fixes have not held"
+   "changed": "Updated: services are gradually coming back, but recovery is uneven"
   },
   {
    "section": "tech",
@@ -426,27 +475,6 @@
   {
    "section": "world",
    "serious": true,
-   "published": "2026-11-11T17:00:00Z",
-   "title": "Russia’s ambassador to the United States, Alexander Darchiev, dies at 66",
-   "why": "Russia’s Foreign Ministry said on Wednesday that Alexander Darchiev, its ambassador in Washington since early 2025, had “passed away suddenly”. It gave no cause of death. He was previously Russia’s ambassador to Canada, from 2014 to 2021.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/11/russian-ambassador-to-the-us-dies-russias-foreign-ministry-announced"
-    },
-    {
-     "name": "The Moscow Times",
-     "url": "https://www.themoscowtimes.com/2026/11/11/russias-ambassador-to-the-united-states-dies-at-66-a94232"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
    "developing": true,
    "published": "2026-11-11T15:07:00Z",
    "title": "Saudi Arabia says it intercepted Houthi missiles aimed at Riyadh and Mecca",
@@ -464,48 +492,6 @@
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-11-11T11:00:00Z",
-   "title": "EU proposes letting users switch off autoplay and endless scrolling",
-   "why": "The European Commission put forward its Digital Fairness Act in Brussels on Wednesday. Apps would have to let people turn off autoplay and infinite scrolling, influencers must label paid posts clearly, and cancelling subscriptions would be made easier. Fines could reach 6% of global turnover.",
-   "matters": "The proposal still needs approval from EU governments and the European Parliament before it becomes law.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261111-eu-to-make-addictive-app-features-easier-to-switch-off"
-    },
-    {
-     "name": "Eunews",
-     "url": "https://www.eunews.it/en/2026/11/11/eu-unveils-digital-fairness-act-tighter-rules-on-influencers-targeted-advertising-and-trap-subscriptions/"
-    },
-    {
-     "name": "EUobserver",
-     "url": "https://euobserver.com/248072/digital-fairness-act-eu-cracks-down-on-stealth-influencer-ads-and-manipulative-app-design/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-11T09:00:00Z",
-   "title": "Hoax bomb emails hit hundreds of schools in Italy and the UK",
-   "why": "At least 300 schools in Italy were evacuated on Wednesday after emailed bomb threats, Education Minister Giuseppe Valditara said. Schools in Scotland and Northern Ireland received similar emails. Police in both say the messages came from outside the UK and are treating them as hoaxes. No one has been identified.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts"
-    },
-    {
-     "name": "France 24 (Reuters)",
-     "url": "https://www.france24.com/en/europe/20261111-hundreds-of-schools-in-italy-evacuated-after-receiving-bomb-threats"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/11/hoax-bomb-threats-schools-italy-uk.html"
     }
    ]
   },
