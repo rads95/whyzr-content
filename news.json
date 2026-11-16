@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T07:09:08Z",
+ "updated": "2026-11-16T07:48:51Z",
  "items": [
   {
    "section": "culture",
@@ -211,6 +211,27 @@
     {
      "name": "AFP (via Kuwait Times)",
      "url": "https://kuwaittimes.com/article/53714/sports/icon-ronaldinho-makes-winning-return-to-pro-football-in-italys-third-tier/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-15T15:00:00Z",
+   "title": "Huge Prague rally opposes plan to change public media funding",
+   "why": "Organisers say about 350,000 to 450,000 people gathered on Letná plain in Prague, the Czech capital, on 15 November. They oppose a government bill to scrap the licence fee and fund Czech Television and Czech Radio from the state budget. Police gave no count.",
+   "matters": "Critics fear state funding could weaken the broadcasters’ independence; Prime Minister Andrej Babiš says it will not and plans to proceed.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://abcnews.com/Business/wireStory/czechs-gather-big-numbers-reject-governments-plan-overhaul-138158819"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/15/hundreds-of-thousands-in-prague-protest-czech-governments-public-media-funding-plans"
+    },
+    {
+     "name": "EUalive",
+     "url": "https://eualive.net/hundreds-of-thousands-gather-against-changes-to-czech-public-media-funding/"
     }
    ]
   },
