@@ -1,6 +1,69 @@
 {
- "updated": "2026-11-16T07:48:51Z",
+ "updated": "2026-11-16T14:02:03Z",
  "items": [
+  {
+   "section": "culture",
+   "published": "2026-11-16T13:30:00Z",
+   "title": "Raye and Rosalía lead nominations for the 2027 Grammy Awards",
+   "why": "British singer Raye leads the nominations for the 69th Grammy Awards with 11, and Spain's Rosalía has nine, NPR reports. Both are up for album of the year alongside Taylor Swift, Olivia Rodrigo and Bruno Mars. The ceremony is in Los Angeles on 7 February 2027.",
+   "sources": [
+    {
+     "name": "NPR",
+     "url": "https://www.nprillinois.org/classic-91-9-hd2/2026-11-16/raye-and-rosalia-lead-the-2027-grammy-nominations"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://abcnews.com/GMA/Culture/grammy-nominations-2027-full-list/story?id=138113372"
+    },
+    {
+     "name": "The Independent",
+     "url": "https://uk.news.yahoo.com/grammy-nominations-2027-full-olivia-123955944.html"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-16T10:25:00Z",
+   "title": "Ukrainian drones hit Crimea bridge as Russia reports 1,336 drones downed",
+   "why": "Russia's defence ministry says it downed 1,336 Ukrainian drones overnight into Monday, about 600 of them aimed at the Moscow region, the city's mayor says. Ukraine also struck the bridge linking annexed Crimea to Russia; the Kremlin says the damage was minor.",
+   "matters": "Kyiv has stepped up strikes on refineries; Zelensky says over half of Russia's refining capacity is out, which Reuters could not verify.",
+   "sources": [
+    {
+     "name": "Reuters (via Yahoo)",
+     "url": "https://www.yahoo.com/news/world/articles/ukraine-launches-biggest-drone-attack-103332284.html"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261116-live-600-ukrainian-drones-target-moscow-strike-crimea-bridge-halts-traffic"
+    },
+    {
+     "name": "The Moscow Times",
+     "url": "https://www.themoscowtimes.com/2026/11/16/ukraine-hits-crimean-bridge-amid-record-overnight-drone-attack-a94265"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-11-16T09:28:00Z",
+   "title": "Nvidia shares fall again as calls grow for Jensen Huang's return",
+   "why": "Nvidia shares fell about 2.7% before US markets opened on Monday, CNBC reports. More than 170,000 people, including Elon Musk, have signed a letter urging the board to reinstate Jensen Huang, who resigned on 12 November after reports of affairs. US Treasury Secretary Scott Bessent wants an outside CEO.",
+   "matters": "Nvidia makes most of the chips behind AI, so who runs it matters to markets and to governments.",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html"
+    },
+    {
+     "name": "AFP via TheJournal.ie",
+     "url": "https://www.thejournal.ie/jensen-huang-nvidia-reinstatement-letter-7227408-Nov2026/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster"
+    }
+   ]
+  },
   {
    "section": "culture",
    "published": "2026-11-16T04:57:00Z",
@@ -23,6 +86,27 @@
    ]
   },
   {
+   "section": "tech",
+   "published": "2026-11-16T03:10:00Z",
+   "title": "Hong Kong police switch on AI facial recognition across CCTV network",
+   "why": "Hong Kong police began using AI facial recognition on their SmartView camera network on Monday. About 5,000 police cameras have gone up since 2024, with 60,000 planned by 2028. Police chief Joe Chow says the tools 'won't be abused'; critics fear false matches and too little transparency.",
+   "matters": "The EU has largely banned police use of live facial recognition in public places; Hong Kong is expanding it.",
+   "sources": [
+    {
+     "name": "AFP via Yahoo",
+     "url": "https://www.yahoo.com/news/world/articles/hong-kong-rolls-ai-facial-074621493.html"
+    },
+    {
+     "name": "Hong Kong Free Press",
+     "url": "https://hongkongfp.com/2026/11/16/hong-kong-police-activate-facial-recognition-across-ai-enabled-cctv-network-as-police-chief-says-tools-wont-be-abused/"
+    },
+    {
+     "name": "The Standard (Hong Kong)",
+     "url": "https://www.thestandard.com.hk/news/article/348552/Police-chief-emphasizes-privacy-safeguards-over-AI-powered-CCTVs"
+    }
+   ]
+  },
+  {
    "section": "money",
    "published": "2026-11-16T02:00:00Z",
    "title": "China's factory output and shop sales slow more than expected",
@@ -40,6 +124,29 @@
     {
      "name": "Reuters via The Standard",
      "url": "https://www.thestandard.com.hk/finance/article/348591/Chinas-economy-falters-in-October-as-factory-output-retail-sales-miss-forecasts"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "serious": true,
+   "developing": true,
+   "published": "2026-11-16T00:52:00Z",
+   "title": "Storm Akvan forecast to hit India's Andhra Pradesh coast this week",
+   "why": "A deep depression in the Bay of Bengal was expected to become Cyclone Akvan on Monday evening, India's weather department (IMD) said. It forecasts a very severe cyclonic storm reaching the coast between Nellore and Tuni around 19–20 November, with gusts up to 145 km/h.",
+   "matters": "Heavy rain is also forecast for Tamil Nadu, including Chennai, and fishermen have been told to stay off the sea.",
+   "sources": [
+    {
+     "name": "Down To Earth",
+     "url": "https://www.downtoearth.org.in/climate-change/daily-weather-tracker-bay-of-bengal-depression-set-to-become-cyclone-akvan-andhra-pradesh-on-alert"
+    },
+    {
+     "name": "The Federal",
+     "url": "https://thefederal.com/category/news/cyclone-akvan-bay-of-bengal-east-coast-rainfall-weather-forecast-imd-263072"
+    },
+    {
+     "name": "The Week",
+     "url": "https://www.theweek.in/news/india/2026/11/16/imd-alert-deep-depression-intensifies-over-bay-of-bengal-landfall-likely-in-andhra-pradesh.html"
     }
    ]
   },
@@ -111,6 +218,27 @@
    ]
   },
   {
+   "section": "sport",
+   "published": "2026-11-15T22:40:00Z",
+   "title": "Mirra Andreeva, 19, wins WTA Finals without dropping a set",
+   "why": "Russia's Mirra Andreeva beat Ukraine's Elina Svitolina 7-5, 6-3 in the final at Indian Wells, California, on Sunday. The event was moved from Riyadh, Saudi Arabia, because of the war with Iran, Reuters says. Andreeva won all five matches and rises to world number two.",
+   "matters": "She is the youngest WTA Finals champion since Maria Sharapova in 2004.",
+   "sources": [
+    {
+     "name": "Reuters (Cyprus Mail)",
+     "url": "https://cyprus-mail.com/2026/11/16/unbeaten-andreeva-captures-wta-finals-crown-on-debut"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/sports/2026/11/16/russias-andreeva-defeats-ukraines-svitolina-7-5-6-3-to-win-wta-finals"
+    },
+    {
+     "name": "AFP (France 24)",
+     "url": "https://www.france24.com/en/live-news/20261115-andreeva-defeats-svitolina-to-win-wta-finals"
+    }
+   ]
+  },
+  {
    "section": "world",
    "serious": true,
    "published": "2026-11-15T22:00:00Z",
@@ -149,6 +277,28 @@
     {
      "name": "TNT Sports",
      "url": "https://www.tntsports.co.uk/football/uefa-nations-league/2026-2027/live-spain-england_mtc20005878/live-commentary.shtml"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "serious": true,
+   "published": "2026-11-15T21:07:00Z",
+   "title": "Africa CDC says Congo's Ebola outbreak still not under control",
+   "why": "Six months after it was declared, the Bundibugyo Ebola outbreak in the Democratic Republic of Congo has passed 11,000 cases and 5,500 deaths, government data show. Africa CDC says over 80% of new cases come from outside known contact lists.",
+   "matters": "There is no approved vaccine or treatment for this strain; WHO expects trial results for two vaccines in early 2027.",
+   "sources": [
+    {
+     "name": "AP (via PBS NewsHour)",
+     "url": "https://pbs.org/newshour/world/ebola-outbreak-remains-out-of-control-in-congo-6-months-into-response"
+    },
+    {
+     "name": "Al Jazeera (with Reuters)",
+     "url": "https://aljazeera.com/amp/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control"
+    },
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168797"
     }
    ]
   },
@@ -257,6 +407,27 @@
    ]
   },
   {
+   "section": "curious",
+   "published": "2026-11-15T12:45:00Z",
+   "title": "Thousands of Konkani singers set record with 12-day singing marathon",
+   "why": "More than 6,700 singers performed over 4,500 Konkani songs without stopping for 12 days, 12 hours and 12 minutes in Mangaluru, southern India, ending on Sunday. Organisers Mandd Sobhann say Guinness World Records certified it as the longest singing marathon by multiple singers.",
+   "matters": "Konkani, spoken mainly along India's west coast, is one of the country's 22 officially recognised languages.",
+   "sources": [
+    {
+     "name": "ETV Bharat",
+     "url": "https://www.etvbharat.com/en/state/mangaluru-konkani-singing-marathon-guinness-world-record-enn26111603898"
+    },
+    {
+     "name": "ANI (Asianet Newsable)",
+     "url": "https://newsable.asianetnews.com/entertainment/konkani-music-marathon-enters-guinness-world-records-in-mangaluru-articleshow-7dcrtwz"
+    },
+    {
+     "name": "The Goan",
+     "url": "https://www.thegoan.net/goa-news/historic-konkani-sings-its-way-into-guinness-record/157139.html"
+    }
+   ]
+  },
+  {
    "section": "sport",
    "published": "2026-11-15T12:20:00Z",
    "title": "Rory McIlroy equals record with eighth Race to Dubai title",
@@ -299,6 +470,30 @@
    ]
   },
   {
+   "section": "sport",
+   "published": "2026-11-15T11:40:00Z",
+   "title": "Australia beat New Zealand 32-12 to win Rugby League World Cup",
+   "why": "Australia's Kangaroos beat New Zealand 32-12 in the men's Rugby League World Cup final in Brisbane on Sunday, their fourth title in a row and 13th in all. Earlier, Australia's women beat New Zealand 34-10 to keep their own world title.",
+   "sources": [
+    {
+     "name": "RNZ",
+     "url": "https://www.rnz.co.nz/news/sport/2610905/kiwis-crushed-by-kangaroos-in-rugby-league-world-cup-final"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-15/kangaroos-jillaroos-live-rugby-league-world-cup-finals/107376474"
+    },
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/rugby-league/news/13612427/mens-rugby-league-world-cup-final-australia-32-12-new-zealand-kangaroos-brush-off-kiwis-to-win-fourth-straight-world-title"
+    },
+    {
+     "name": "1News",
+     "url": "https://www.1news.co.nz/2026/11/16/clinical-kangaroos-thrash-kiwis-to-clinch-fourth-straight-cup-win/"
+    }
+   ]
+  },
+  {
    "section": "world",
    "serious": true,
    "published": "2026-11-15T10:01:00Z",
@@ -323,22 +518,23 @@
   {
    "section": "climate",
    "developing": true,
+   "changed": "Updated: first draft of the main deal published.",
    "published": "2026-11-15T10:00:00Z",
-   "title": "COP31 climate talks in Türkiye enter final week as ministers take over",
-   "why": "Ministers at the UN climate summit in Antalya, Türkiye, now tackle the hardest questions: money for poorer countries and moving away from fossil fuels. A first draft of the main decision is due early this week, and the talks are scheduled to end on 20 November.",
-   "matters": "The deal will shape how fast countries cut emissions and how much help vulnerable nations get to adapt.",
+   "title": "COP31 draft deal calls for faster exit from fossil fuels",
+   "why": "The first draft of the main decision at the UN climate summit in Antalya, Türkiye, was released on Monday. It calls for accelerated action to move away from fossil fuels and for adaptation finance for poorer countries to triple to at least $120 billion a year by 2035.",
+   "matters": "Australia's Chris Bowen, who leads the negotiations, says not all countries will agree; talks are due to end on 20 November.",
    "sources": [
     {
-     "name": "Hürriyet Daily News",
-     "url": "https://www.hurriyetdailynews.com/cop31-turns-to-ministers-for-deal-on-finance-energy-229443"
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261116-cop31-draft-deal-calls-for-accelerated-action-to-exit-fossil-fuels"
     },
     {
      "name": "Climate Home News",
-     "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/"
+     "url": "https://www.climatechangenews.com/2026/11/16/cop31-bulletin-day-7-sharp-divisions-lower-expectations-for-cop-outcome/"
     },
     {
-     "name": "UN News",
-     "url": "https://news.un.org/en/story/2026/11/1168802"
+     "name": "Anadolu",
+     "url": "https://www.aa.com.tr/en/turkiye/cop31-draft-decision-calls-for-tripling-adaptation-finance-to-120b-speeding-shift-away-from-fossil-fuels/4126715"
     }
    ]
   },
@@ -519,69 +715,6 @@
    ]
   },
   {
-   "section": "sport",
-   "published": "2026-11-14T12:15:00Z",
-   "title": "Japan beat Brazil 3-2 with stoppage-time winner in Singapore",
-   "why": "Japan beat Brazil 3-2 in a friendly at Singapore's National Stadium on Saturday in front of 38,688 fans. Substitute Tatsuhiro Sakamoto scored the winner in stoppage time; Brazil coach Carlo Ancelotti and captain Raphinha were sent off after protesting. Brazil had knocked Japan out of the World Cup in June.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/sports/2026/11/15/japan-stun-brazil-3-2-in-stoppage-time-as-ancelotti-raphinha-sent-off"
-    },
-    {
-     "name": "ESPN",
-     "url": "https://www.espn.com/soccer/story/_/id/50479233/japan-revenge-brazil-dramatic-late-win"
-    },
-    {
-     "name": "The Rio Times",
-     "url": "https://www.riotimesonline.com/japan-beat-brazil-3-2-singapore-friendly-late-goal"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-14T10:59:00Z",
-   "title": "Xi, Trump and Putin to hold first three-way summit in China",
-   "why": "The White House and the Kremlin say the three leaders will meet on Thursday 19 November in Shenzhen, China, during the APEC summit. The White House says Trump wants to discuss cutting nuclear arsenals and the Iran war; a US official said Ukraine will not be discussed.",
-   "matters": "A senior US official told Al Jazeera they expect no agreement, calling it the start of a conversation.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china"
-    },
-    {
-     "name": "Anadolu",
-     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-putin-xi-trump-to-hold-trilateral-meeting-in-shenzhen-on-nov-19/4125290"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/trump-putin-xi-jinping-meeting-china-us-russia-talks/"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "published": "2026-11-14T09:00:00Z",
-   "title": "Nigeria warns travellers with health conditions about high-altitude Addis Ababa",
-   "why": "Nigeria's foreign ministry says 16 Nigerians died this year while transiting through Ethiopia's capital, Addis Ababa, deaths it links to the city's altitude of about 2,350 metres. It urged people with heart or lung conditions to seek medical advice before travelling via the city.",
-   "matters": "Addis Ababa's airport is a major hub used by millions of passengers each year, many connecting across Africa.",
-   "sources": [
-    {
-     "name": "Voice of Nigeria",
-     "url": "https://von.gov.ng/nigeria-reports-16-deaths-linked-to-addis-ababa-altitude/"
-    },
-    {
-     "name": "Tribune Online",
-     "url": "https://tribuneonlineng.com/fg-raises-alarm-over-16-nigerian-deaths-linked-to-addis-ababa-transit/"
-    },
-    {
-     "name": "MyJoyOnline",
-     "url": "https://myjoyonline.com/nigeria-cautions-against-travel-via-ethiopias-main-airport-due-to-altitude"
-    }
-   ]
-  },
-  {
    "section": "health",
    "serious": true,
    "developing": true,
@@ -650,53 +783,26 @@
   },
   {
    "section": "world",
+   "lead": true,
    "serious": true,
    "developing": true,
-   "changed": "Updated 15 Nov: Bahrain says it intercepted fresh Iranian attacks; Iran says it targeted a US radar.",
+   "changed": "Updated 16 Nov: Gulf states condemn the attack on Bahrain; Iran says a supertanker sank after hitting a mine.",
    "published": "2026-11-13T02:27:00Z",
-   "title": "Bahrain intercepts new Iranian attacks; Iran says it targeted US radar",
-   "why": "Bahrain says its air defences destroyed several Iranian aerial attacks on Sunday 15 November, its first such interceptions since September. Iran's Revolutionary Guards say six drones targeted a US radar at Riffa air base. On Friday the US said it downed two Iranian drones aimed at Bahrain.",
-   "matters": "Bahrain hosts the US Navy's Fifth Fleet; Iran also says two tankers hit mines near Hormuz, which Reuters could not verify.",
+   "title": "Gulf states condemn Iran's attack on Bahrain; Iran says a tanker sank",
+   "why": "Gulf Cooperation Council chief Jasem Al Budaiwi called Sunday's Iranian drone attack on Bahrain a \"blatant challenge\" to peace efforts; mediator Qatar called it a \"dangerous escalation\". Iran's Revolutionary Guards say a supertanker carrying over 2 million barrels sank after hitting a mine near Hormuz; this is unverified.",
+   "matters": "Bahrain, home to the US Navy's Fifth Fleet, says it destroyed the drones; Iran says it targeted a US radar.",
    "sources": [
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us"
+     "name": "The National",
+     "url": "https://thenationalnews.com/news/gulf/2026/11/16/iran-attacks-bahrain-in-blatant-challenge-to-peace-push"
     },
     {
      "name": "Anadolu",
-     "url": "https://aa.com.tr/en/middle-east/bahrain-says-its-air-defenses-intercepted-several-iranian-attacks/4125551"
+     "url": "https://www.aa.com.tr/en/middle-east/iran-says-2-oil-tankers-hit-mines-near-strait-of-hormuz-1-sinks/4125887"
     },
     {
-     "name": "CNBC / Reuters",
-     "url": "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html"
-    },
-    {
-     "name": "RFE/RL",
-     "url": "https://www.rferl.org/a/bahrain-said-its-air-defenses-intercepted-and-destroyed-several-iranian-aerial-attacks/33898951.html"
-    }
-   ],
-   "lead": true
-  },
-  {
-   "section": "world",
-   "developing": true,
-   "changed": "Updated 14 Nov: Europe picks its five negotiating countries; Zelensky says the US floated NATO membership for the Donbas.",
-   "published": "2026-11-12T23:35:00Z",
-   "title": "Europe names five countries for Ukraine talks; Zelensky reports NATO-for-Donbas idea",
-   "why": "EU leaders meeting in Dublin on Friday chose Britain, France, Germany, Italy and Poland to represent Europe at the next round of US-mediated talks. Zelensky says US negotiators asked whether Ukraine would leave the Donbas in exchange for NATO membership; the US has not publicly confirmed it.",
-   "matters": "Zelensky says Ukraine won't withdraw, but could put a deal to a referendum if given firm security guarantees and funding.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-15/us-idea-of-ukraine-ceding-donbas-to-join-nato-zelenskyy/107386558"
-    },
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/us-floats-nato-membership-for-ukraine-in-exchange-for-donbas-withdrawal-zelensky-says/"
+     "name": "AFP (via Arab News)",
+     "url": "https://www.arabnews.com/middle-east/iran-says-supertanker-with-2-million-barrels-of-oil-sank-in-gulf-3012053"
     }
    ]
   }
