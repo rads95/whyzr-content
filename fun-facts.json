@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-16",
   "facts": [
     {
       "date": "2026-09-20",
@@ -1400,6 +1400,80 @@
         {
           "name": "Sci.News",
           "url": "https://www.sci.news/biology/greenland-sharks-longest-lived-vertebrates-04099.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "kind": "fact",
+      "category": "Weird but true",
+      "emoji": "🪞",
+      "title": "The town lit by giant mirrors",
+      "text": "Rjukan in Norway sits so deep in a valley that the mountains block the sun for about six months a year. So in 2013 it put three huge computer-steered mirrors high on the mountainside to bounce sunlight onto the town square. The idea was first suggested in 1913, a century earlier.",
+      "sources": [
+        {
+          "name": "Phys.org (AFP)",
+          "url": "https://phys.org/news/2013-10-norwegian-village-giant-mirrors-capture.html"
+        },
+        {
+          "name": "Optica – Optics & Photonics News",
+          "url": "https://www.optica-opn.org/home/newsroom/2013/november/mirrors_convey_sunshine_to_dark_valley_town"
+        },
+        {
+          "name": "Visit Rjukan (official tourist board)",
+          "url": "https://visitrjukan.com/en/things-to-do/the-giant-sun-mirrors-in-rjukan-p517953"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "kind": "tale",
+      "emoji": "🐺",
+      "title": "Romulus and Remus",
+      "story": "Twin sons of the war god Mars were thrown into the River Tiber by a king who feared they would take his throne. A she-wolf found and fed them, and a shepherd raised them. Grown up, they set out to build a city, quarrelled over where, and Romulus killed Remus, naming the new city Rome after himself.",
+      "origin": "It is Rome’s founding legend, not history: historians treat the twins as legendary. The famous founding date, 753 BC, was worked out centuries later by the Roman scholar Varro.",
+      "sources": [
+        {
+          "name": "National Geographic",
+          "url": "https://www.nationalgeographic.com/history/article/romulus-and-remus-rome-empire"
+        },
+        {
+          "name": "History.com",
+          "url": "https://www.history.com/this-day-in-history/april-21/rome-founded"
+        },
+        {
+          "name": "The Conversation (Laura Swift, The Open University)",
+          "url": "https://theconversation.com/archaeology-adds-another-twist-to-romes-foundation-story-by-ageing-it-100-years-25727"
+        },
+        {
+          "name": "JSTOR Daily / About JSTOR",
+          "url": "https://about.jstor.org/blog/on-this-day-the-founding-of-rome/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "kind": "fact",
+      "category": "Animals",
+      "emoji": "🦎",
+      "title": "The salamander that regrows legs",
+      "text": "If an axolotl loses a leg, it simply grows a new one. This Mexican salamander can also repair its spinal cord and even parts of its heart, without leaving scars. In the wild it lives only in a few canals and lakes around Mexico City, and it is now endangered there.",
+      "sources": [
+        {
+          "name": "National Geographic",
+          "url": "https://www.nationalgeographic.com/animals/amphibians/facts/axolotl"
+        },
+        {
+          "name": "Gaceta UNAM (National Autonomous University of Mexico)",
+          "url": "https://www.gaceta.unam.mx/investigaciones-universitarias-para-preservar-el-ajolote/"
+        },
+        {
+          "name": "Harvard University – Science in the News",
+          "url": "https://sites.harvard.edu/sitn/2018/01/12/regeneration-axolotl-can-teach-us-regrowing-human-limbs"
+        },
+        {
+          "name": "Earth.org",
+          "url": "https://earth.org/?p=34419"
         }
       ]
     }
