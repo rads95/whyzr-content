@@ -1,497 +1,562 @@
 {
- "updated": "2026-11-13T23:07:18Z",
+ "updated": "2026-11-16T07:09:08Z",
  "items": [
   {
-   "section": "world",
-   "published": "2026-11-13T12:00:00Z",
-   "title": "UN nuclear watchdog “increasingly concerned” about Iran’s uninspected Isfahan plant",
-   "why": "A confidential report by the International Atomic Energy Agency, seen by news agencies on Friday, says it does not know the location or status of an enrichment plant Iran declared in Isfahan in 2025. It calls this a serious proliferation concern. Iran says inspections cannot resume amid US threats.",
-   "matters": "The agency says it cannot confirm Iran has not diverted nuclear material, including near-weapons-grade uranium.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection"
-    },
-    {
-     "name": "Cyprus Mail (Reuters)",
-     "url": "https://cyprus-mail.com/2026/11/13/iaea-increasingly-concerned-about-iranian-enrichment-plant"
-    },
-    {
-     "name": "The Times of Israel",
-     "url": "https://www.timesofisrael.com/un-agency-cant-confirm-iran-hasnt-diverted-nuclear-material-from-peaceful-activity/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "developing": true,
-   "published": "2026-11-13T06:00:00Z",
-   "title": "Building under construction collapses near Nairobi, Kenya, killing at least six",
-   "why": "Part of an eight-storey building under construction collapsed on Friday morning in Syokimau, on the outskirts of Kenya’s capital, Nairobi. Public broadcaster KBC and Reuters report six dead and five rescued; another outlet reported five dead and one missing. Preliminary reports point to a failure during concreting.",
-   "matters": "It comes three weeks after a collapse in Nairobi’s Eastleigh district, renewing calls for tighter building safety checks.",
-   "sources": [
-    {
-     "name": "Al Jazeera (Reuters)",
-     "url": "https://www.aljazeera.com/news/2026/11/13/kenyan-building-collapse-near-nairobi-kills-six-people"
-    },
-    {
-     "name": "KBC",
-     "url": "https://www.kbc.co.ke/six-dead-five-rescued-after-syokimau-building-collapse/"
-    },
-    {
-     "name": "Capital FM Kenya",
-     "url": "https://capitalfm.africa/5-killed-1-missing-after-building-collapses-near-syokimau-sgr-road/"
-    }
-   ]
-  },
-  {
    "section": "culture",
-   "published": "2026-11-13T04:15:00Z",
-   "title": "Rosalía wins album of the year at the Latin Grammys for Lux",
-   "why": "Spanish singer Rosalía won album of the year for Lux and song of the year for “La Perla” at the 27th Latin Grammy Awards in Las Vegas on Thursday. Milo J took record of the year for “Niño”, and Colombian singer Aria Vega was named best new artist.",
-   "matters": "Daddy Yankee was honoured as the Latin Recording Academy’s person of the year.",
+   "published": "2026-11-16T04:57:00Z",
+   "title": "Glenn Close receives honorary Oscar after eight nominations without a win",
+   "why": "Actor Glenn Close received an honorary Oscar at the Academy's Governors Awards in Los Angeles on Sunday, her first Oscar after eight nominations. Director Ridley Scott and Disney animator Floyd Norman, 91, also received honorary Oscars.",
+   "matters": "Honorary Oscars recognise whole careers; Close had been nominated eight times since 1983 without winning one.",
    "sources": [
     {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261113-superstars-karol-g-rosalia-compete-at-latin-grammys"
+     "name": "The Hollywood Reporter (via Yahoo)",
+     "url": "https://www.yahoo.com/entertainment/movies/articles/governors-awards-glenn-close-ridley-045713079.html"
     },
     {
-     "name": "ABC News (AP)",
-     "url": "https://abcnews.com/Entertainment/wireStory/rosalas-lux-wins-album-year-2026-latin-grammy-138069383"
+     "name": "WION",
+     "url": "https://www.wionews.com/entertainment/hollywood/glenn-close-finally-wins-an-oscar-after-8-snubs-ridley-scott-also-honoured-at-governors-awards-1794803896906"
     },
     {
-     "name": "Yahoo Entertainment (Cover Media)",
-     "url": "https://www.yahoo.com/entertainment/music/articles/rosal-wins-top-gong-2026-041532503.html"
+     "name": "Anadolu",
+     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-16T02:00:00Z",
+   "title": "China's factory output and shop sales slow more than expected",
+   "why": "China's statistics bureau said on Monday that retail sales grew just 0.4% in October from a year earlier, down from 1.1% in September, despite a week-long national holiday. Industrial output rose 4.8%, below forecasts of 5.3%, and investment fell 8.1% over ten months.",
+   "matters": "Weak spending in the world's second-largest economy affects demand for goods and commodities everywhere.",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
+    },
+    {
+     "name": "AFP via Free Malaysia Today",
+     "url": "https://www.freemalaysiatoday.com/category/business/2026/11/16/china-retail-sales-growth-slows-in-october"
+    },
+    {
+     "name": "Reuters via The Standard",
+     "url": "https://www.thestandard.com.hk/finance/article/348591/Chinas-economy-falters-in-October-as-factory-output-retail-sales-miss-forecasts"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-11-16T00:49:00Z",
+   "title": "US and nine partners sign declaration to protect AI supply chains",
+   "why": "The US State Department says ten countries, including India, Japan, South Korea, Australia, Israel, Qatar, the UAE, Singapore and the UK, signed the 'San Francisco Declaration' on 15 November. It sets up working groups on chips, minerals, energy and AI security. It is not a trade deal.",
+   "matters": "Governments are grouping together to control who makes the chips and parts that AI depends on.",
+   "sources": [
+    {
+     "name": "ANI via The Tribune",
+     "url": "https://www.tribuneindia.com/news/usa-news/us-india-and-8-other-nations-sign-san-francisco-declaration-to-secure-super-intelligence-supply-chains-ahead-of-quad-summit"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://za.investing.com/news/world-news/us-nine-nations-sign-san-francisco-declaration-on-ai-security-4576808"
+    },
+    {
+     "name": "Anadolu via TRT World",
+     "url": "https://www.trtworld.com/article/bae20f6b5c22"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-15T23:50:00Z",
+   "title": "Japan's economy shrinks slightly as high oil prices hit spending",
+   "why": "Japan's economy contracted at an annualised 0.1% in July to September, government figures showed on Monday, when economists had expected growth. Household spending fell as food and energy prices rose; Japan imports almost all its oil, and the yen is near 160 to the dollar.",
+   "matters": "It shows how the Middle East war's oil shock is squeezing households even in rich economies.",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html"
+    },
+    {
+     "name": "AP via WSLS",
+     "url": "https://www.wsls.com/business/2026/11/16/japans-economy-contracts-slightly-in-the-latest-quarter-as-oil-prices-remain-high/"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/economy/japan-s-q3-gdp-drops-an-annualized-0.1-below-market-expectations"
     }
    ]
   },
   {
    "section": "world",
-   "serious": true,
-   "developing": true,
-   "published": "2026-11-13T02:27:00Z",
-   "title": "US says it shot down two Iranian drones aimed at Bahrain",
-   "why": "Iran’s Revolutionary Guards said on Friday they destroyed a US early-warning radar in Bahrain, in retaliation for a strike on a telecoms tower in Sirik, southern Iran. US Central Command called the claim false, saying it shot down two Iranian drones and there was no damage or injury.",
-   "matters": "Reuters says it is Iran’s first claimed attack on US forces in a Gulf country since early September.",
+   "published": "2026-11-15T22:50:00Z",
+   "title": "Cape Verde's President Neves wins second term, provisional results show",
+   "why": "José Maria Neves won about 63.8% of Sunday's presidential vote in Cape Verde, off West Africa, provisional results show. Joana Rosa, a former justice minister and the first woman to run for president there, took 31.6% and conceded. Only about a third of voters took part.",
+   "matters": "Official results from the electoral commission are expected this week.",
    "sources": [
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain"
+     "name": "Reuters (via Yahoo)",
+     "url": "https://www.yahoo.com/news/world/articles/cape-verde-president-neves-wins-060110534.html"
     },
     {
-     "name": "Middle East Monitor",
-     "url": "https://www.middleeastmonitor.com/20261113-centcom-denies-iranian-claim-of-attack-on-us-radar-in-bahrain-says-2-drones-shot-down"
-    },
-    {
-     "name": "Shafaq News",
-     "url": "https://shafaq.com/en/Middle-East/CENTCOM-denies-Iran-destroyed-US-radar-in-Bahrain"
-    },
-    {
-     "name": "Middle East Eye",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-says-it-targeted-us-radar-bahrain"
-    }
-   ],
-   "changed": "Updated: the US denies the radar was hit and says it downed two drones"
-  },
-  {
-   "section": "world",
-   "lead": true,
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: after Moscow and Dublin meetings, the US says Europe will join the talks",
-   "published": "2026-11-12T23:35:00Z",
-   "title": "Europe to join next round of Ukraine peace talks, US envoys say",
-   "why": "After meeting Vladimir Putin in Moscow on Thursday, US envoys Steve Witkoff and Jared Kushner briefed Volodymyr Zelensky near Dublin and said Europe would join the next round of talks. Zelensky confirmed this. The Kremlin says the EU must first name one representative. No date is set.",
-   "matters": "Kushner says the US is also working towards the largest prisoner exchange of the war.",
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261113-live-zelensky-and-kushner-confirm-that-europe-will-join-next-round-of-russia-ukraine-talks"
-    },
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/zelensky-meets-with-trumps-envoys-in-dublin-after-their-summit-with-putin/"
+     "name": "Lusa (via Observador)",
+     "url": "https://observador.pt/2026/11/15/joana-rosa-reconhece-derrota-eleitoral-nas-presidenciais-de-cabo-verde/"
     },
     {
      "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/12/russia-plays-down-peace-talks-with-europe-after-witkoff-raises-hopes-of-breakthrough"
+     "url": "https://pt.euronews.com/2026/11/15/cabo-verde-vai-hoje-a-votos-e-pode-ter-a-primeira-mulher-eleita-presidente-da-republica"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys"
+     "name": "The Rio Times",
+     "url": "https://www.riotimesonline.com/cabo-verde-neves-reelected-president/"
     }
    ]
   },
   {
    "section": "world",
    "serious": true,
-   "published": "2026-11-12T23:00:00Z",
-   "title": "Haiti’s police retake the national football stadium, held by gangs since 2024",
-   "why": "Haitian police said on Thursday they had taken full control of the Sylvio Cator stadium in the capital, Port-au-Prince, working with a government security task force and Salvadoran troops. Gangs had held it since 2024. El Salvador’s president, Nayib Bukele, says the forces will use it as a base.",
-   "matters": "Haiti’s national team has had to play home qualifiers in Curaçao; about 2,000 Salvadoran soldiers operate outside the UN-backed force.",
+   "published": "2026-11-15T22:00:00Z",
+   "title": "Pope Leo demands justice for murdered defenders of Peru's Amazon",
+   "why": "Pope Leo XIV, on the second-to-last day of his South America tour, told Indigenous people in Pucallpa, in Peru's Amazon, that the blood of murdered forest defenders \"demands justice\". Campaign groups estimate 57 environmental defenders were killed in Peru between 2010 and 2024.",
+   "matters": "He also warned at Mass against an \"insatiable thirst for domination\", linking the region's poverty to threats to its forests.",
    "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261113-haitian-police-retake-national-stadium-from-gangs-after-two-years"
-    },
-    {
-     "name": "The Haitian Times",
-     "url": "https://haitiantimes.com/2026/11/12/haiti-el-salvador-forces-retake-sylvio-cator-stadium/"
-    },
-    {
-     "name": "Radio-Canada",
-     "url": "https://ici.radio-canada.ca/article/info/2300301/haiti-forces-gangs-reprise-stade-soccer"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "published": "2026-11-12T22:00:00Z",
-   "title": "El Niño and global warming drove Indonesia’s worst fires in a decade",
-   "why": "World Weather Attribution scientists say El Niño roughly halved rainfall from July to October, while human-caused warming made the season about 1.6°C hotter and fire weather three times more likely. Drained peatland and deforestation added to the risk; nearly 3 million hectares have burned, monitors estimate.",
-   "matters": "Smoke from the fires has reached millions of people in Indonesia, Malaysia, Singapore and Timor-Leste.",
-   "sources": [
-    {
-     "name": "World Weather Attribution",
-     "url": "https://www.worldweatherattribution.org/climate-change-is-increasing-the-severity-of-el-nino-driven-fire-weather-across-rapidly-degrading-peatlands-and-forests-in-indonesia/"
-    },
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261112-el-nino-mostly-to-blame-for-indonesian-wildfires-research"
-    },
-    {
-     "name": "The Guardian (via AOL)",
-     "url": "https://www.aol.co.uk/articles/el-ni-o-turned-off-040008000.html"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "developing": true,
-   "published": "2026-11-12T16:17:00Z",
-   "title": "Microsoft restores Outlook and Teams gradually after day-long global outage",
-   "why": "An outage that began at about 16:15 UTC on Thursday disrupted Outlook, Teams and Copilot in at least 74 countries. By Friday Microsoft reported improving server stability and a gradual recovery, though some restored servers briefly failed again. It says it saw no sign of a cyber attack.",
-   "matters": "Governments and businesses rely on it; an adviser in Australia estimates the cost to businesses there at billions of dollars.",
-   "sources": [
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-13/microsoft-outlook-outage/107380958"
-    },
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users"
+     "url": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon"
     },
     {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries"
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/16/pope-leo-xiv-in-visit-to-peruvian-rainforest-demands-justice-for-slain-amazon-defenders"
     },
     {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/future/technology/2026/11/13/microsoft-outlook-outage-update/"
-    }
-   ],
-   "changed": "Updated: services are gradually coming back, but recovery is uneven"
-  },
-  {
-   "section": "tech",
-   "changed": "Updated: Huang has resigned; finance chief Colette Kress is interim chief executive",
-   "published": "2026-11-12T14:06:00Z",
-   "title": "Jensen Huang resigns as Nvidia chief after affair raises security concerns",
-   "why": "Jensen Huang resigned as Nvidia’s chief executive and left its board on Thursday after 33 years, following reports of extramarital affairs, one with a woman reportedly suspected by US intelligence of working for China. Beijing denies this. Finance chief Colette Kress is interim chief executive. Shares fell over 10%.",
-   "matters": "Nvidia makes most of the world’s AI chips, so its leadership affects the whole AI industry.",
-   "sources": [
-    {
-     "name": "France 24 (AFP/Reuters)",
-     "url": "https://www.france24.com/en/asia-pacific/20261112-nvidia-ceo-jensen-huang-to-step-down-after-affair"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-13/nvidia-scandal-china-spy-network/107381704"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "published": "2026-11-12T12:00:00Z",
-   "title": "UN food agency chief says 900,000 people in Sudan lost food aid",
-   "why": "On his first field trip, the World Food Programme’s new head, Luke Lindberg, met displaced families in Kosti, Sudan, and called for an end to the war: “We cannot outfeed the war.” Funding cuts have shrunk WFP’s reach from over 4 million people in August to just over 3 million.",
-   "matters": "WFP says it needs $520 million to feed 5.4 million people in Sudan through April 2027.",
-   "sources": [
-    {
-     "name": "WFP",
-     "url": "https://www.wfp.org/news/world-food-programme-executive-director-calls-end-fighting-sudan"
-    },
-    {
-     "name": "UN News",
-     "url": "https://news.un.org/en/story/2026/11/1168793"
-    },
-    {
-     "name": "Africanews",
-     "url": "https://www.africanews.com/2026/11/13/un-food-agency-chief-calls-for-end-to-sudan-war-as-famine-crisis-deepens/"
+     "name": "America Magazine",
+     "url": "https://www.americamagazine.org/vatican-dispatch/2026/11/15/pope-leo-pucallpa-indigenous-leaders-amazon-mass/"
     }
    ]
   },
   {
    "section": "sport",
-   "published": "2026-11-12T11:30:00Z",
-   "title": "Manchester United and Crystal Palace both sack their managers",
-   "why": "Manchester United sacked Michael Carrick on Thursday with the club 18th in the Premier League after one league win in ten games. Later that day, bottom club Crystal Palace parted with Pierre Sage after five months. Sky Sports reports Mauricio Pochettino has verbally agreed to take the United job.",
+   "published": "2026-11-15T21:45:00Z",
+   "title": "England beat Spain 3-2 in Madrid, ending 43-match unbeaten run",
+   "why": "England won 3-2 away to world champions Spain in the UEFA Nations League in Madrid on Sunday, despite playing the last half-hour with ten men. Harry Kane, Ezri Konsa and Ben White scored. The result ended Spain's 43-match unbeaten run and put England top of their group.",
    "sources": [
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/soccer/story/_/id/50494867/england-spain-nations-league-win-tuchel"
+    },
     {
      "name": "Sky Sports",
-     "url": "https://www.skysports.com/football/news/13606106/man-utd-sack-michael-carrick-with-mauricio-pochettino-set-to-be-appointed-after-worst-start-to-premier-league-season"
+     "url": "https://www.skysports.com/football/news/13612611/spain-2-3-england-talking-points-thomas-tuchel-learns-lessons-from-argentina-as-harry-kane-ben-white-and-lewis-hall-shine"
     },
     {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-12/michael-carrick-sacked-as-manchester-united-manager/107380482"
+     "name": "TNT Sports",
+     "url": "https://www.tntsports.co.uk/football/uefa-nations-league/2026-2027/live-spain-england_mtc20005878/live-commentary.shtml"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-11-15T18:30:00Z",
+   "title": "Vulcan rocket fails, losing 40 Amazon internet satellites",
+   "why": "A United Launch Alliance Vulcan rocket launched from Cape Canaveral, Florida, on Sunday but failed to reach orbit after a problem about 10 minutes into flight. All 40 Amazon Leo satellites on board were lost. It is ULA's first outright failure since the company was formed in 2006.",
+   "matters": "It sets back Amazon's plan for worldwide satellite internet, as Amazon must wait for the investigation before flying Vulcan again.",
+   "sources": [
+    {
+     "name": "Spaceflight Now",
+     "url": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/sports/2026/11/12/manchester-united-sack-michael-carrick-as-manager"
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/vulcan-rocket-40-amazon-leo-internet-satellites-launch-mishap/"
     },
     {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261112-crystal-palace-sack-manager-sage-after-just-five-months"
-    },
-    {
-     "name": "Crystal Palace FC",
-     "url": "https://www.cpfc.co.uk/news/announcement/statement-pierre-sage/"
+     "name": "SpaceNews",
+     "url": "https://spacenews.com/vulcan-launch-of-amazon-leo-satellites-fails/"
     }
    ]
   },
   {
    "section": "world",
-   "serious": true,
-   "published": "2026-11-12T08:00:00Z",
-   "title": "Amnesty says South Sudan and UN failed to prevent village massacre",
-   "why": "Amnesty International says South Sudan’s authorities and the UN mission had about two weeks’ warning before armed men attacked Abiemnom, near the Sudan border, on 1 March. Authorities say at least 213 people were killed. The UN mission says it did its best with limited resources.",
-   "matters": "Amnesty is calling for independent inquiries; South Sudan is due to hold elections on 22 December.",
+   "published": "2026-11-15T16:00:00Z",
+   "title": "Estonia to close all border crossings with Russia from 1 December",
+   "why": "Foreign Minister Margus Tsahkna said on Sunday Estonia will shut its three crossings after a foiled arson attack on drone maker Threod Systems near Tallinn on Saturday. Estonia says Russia's GRU military intelligence ordered it; eight suspects were detained. Moscow said the plan, if confirmed, would be \"Russophobia\".",
+   "matters": "Estonia, a NATO and EU member, says closing the border will curb Russian hostile activity and sanctions evasion.",
    "sources": [
     {
-     "name": "Amnesty International",
-     "url": "https://www.amnesty.org/en/latest/news/2026/11/south-sudan-authorities-un-must-investigate-failure-to-protect-victims-of-abiemnom-massacre/"
+     "name": "Anadolu",
+     "url": "https://www.aa.com.tr/en/europe/estonia-to-close-all-border-crossings-with-russia-from-dec-1-foreign-minister/4125957"
     },
     {
-     "name": "Al Jazeera (AP)",
-     "url": "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre"
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/16/estonia-to-close-russia-border-after-sabotage-bid-on-drone-maker-foreign-minister-says"
     },
     {
-     "name": "Africanews",
-     "url": "https://www.africanews.com/2026/11/12/south-sudan-and-un-failed-to-heed-massacre-warnings-amnesty-international/"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-12T07:30:00Z",
-   "title": "Pakistan debutant Saqib Khan takes seven wickets against Sri Lanka",
-   "why": "Fast bowler Saqib Khan took 7 for 130 on his Test debut as Sri Lanka were bowled out for 446 on day four of the first Test in Rawalpindi, Pakistan. Sri Lanka lost their last six wickets for 42 runs but still lead by 12 on first innings.",
-   "matters": "He is only the fourth Pakistani to take seven wickets in an innings on Test debut.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261112-pakistan-s-saqib-takes-seven-on-debut-to-spark-sri-lanka-collapse"
-    },
-    {
-     "name": "AP (via Yahoo Sports)",
-     "url": "https://sports.yahoo.com/articles/saqibs-7-wicket-total-debut-073233064.html"
-    },
-    {
-     "name": "Dawn",
-     "url": "https://www.dawn.com/news/2044023/debutant-saqib-khan-takes-seven-as-pakistan-restrict-sri-lanka-to-slender-lead"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-12T06:00:00Z",
-   "title": "Finland says it detected a strike on a Russian warship nearby",
-   "why": "Finland’s military says it detected a strike on a Russian warship in the Gulf of Finland on Wednesday. Ukraine’s security service says its drones hit the small missile ship Naro-Fominsk; Estonia’s defence minister says smoke was seen and the ship returned towards St Petersburg.",
-   "matters": "Yle reports the strike was near Gogland island, about 40 km from Finland and 55 km from Estonia, both NATO members.",
-   "sources": [
-    {
-     "name": "Yle",
-     "url": "https://yle.fi/a/74-20256496"
-    },
-    {
-     "name": "Defense News (Reuters)",
-     "url": "https://www.defensenews.com/global/europe/2026/11/12/finland-says-it-detects-strike-on-russian-warship-in-baltic-sea/"
-    },
-    {
-     "name": "BBC (via Yahoo)",
-     "url": "https://ca.news.yahoo.com/russian-warship-hit-ukrainian-drone-200921912.html"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-12T02:00:00Z",
-   "title": "Israeli strike on Gaza’s Nasser Hospital kills a surgeon and five others",
-   "why": "An Israeli air strike hit the surgery department of Nasser Hospital in Khan Younis, southern Gaza, early on Thursday, killing at least six people including a surgeon, Gaza’s health ministry says. Israel’s military says Hamas was using the hospital as a command centre.",
-   "matters": "Palestinian health authorities say more than 1,600 people have been killed in Gaza since the October 2025 ceasefire.",
-   "sources": [
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-12/deadly-israeli-air-strike-nasser-hospital-gaza/107379926"
-    },
-    {
-     "name": "The National (Reuters)",
-     "url": "https://www.thenationalnews.com/news/mena/2026/11/12/israeli-strike-on-gaza-hospital-kills-surgeon-and-at-least-five-others/"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-11T23:30:00Z",
-   "title": "Democrat Scott Colom unseats Senator Cindy Hyde-Smith in Mississippi",
-   "why": "Scott Colom, a 43-year-old Democratic prosecutor, defeated Republican Senator Cindy Hyde-Smith in Mississippi after more than a week of counting postal and provisional ballots from the 3 November election. AP called the race on Wednesday evening and Hyde-Smith conceded.",
-   "matters": "He will be Mississippi’s first Black senator since 1881; Democrats have flipped at least eight Republican-held Senate seats.",
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261111-democrat-scott-colom-wins-historic-senate-race-in-mississippi"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi"
-    },
-    {
-     "name": "Mississippi Free Press",
-     "url": "https://www.mississippifreepress.org/scott-colom-wins-mississippi-us-senate-race-will-be-states-first-black-senator-in-146-years/"
+     "name": "Newsweek",
+     "url": "https://www.newsweek.com/nato-member-estonia-to-shut-russia-border-after-sabotage-attack-12717506"
     }
    ]
   },
   {
    "section": "curious",
-   "published": "2026-11-11T23:00:00Z",
-   "title": "Record-breaking liner SS United States sunk to make world’s largest reef",
-   "why": "The SS United States, a 302-metre ocean liner that still holds the transatlantic speed record set in 1952, was deliberately flooded and sunk in the Gulf of Mexico off Florida on Wednesday. It will become the world’s largest artificial reef, about 55 metres down.",
-   "matters": "Florida’s Okaloosa County bought the ship, out of service since 1969, hoping the wreck will draw divers.",
+   "published": "2026-11-15T16:00:00Z",
+   "title": "Ronaldinho, 46, plays his first competitive match in 11 years",
+   "why": "Brazilian football star Ronaldinho, 46, played the first half for Italian third-tier club Ravenna in a 2-0 derby win over Forlì on Sunday, his first competitive match since 2015. Nearly 7,000 fans watched. Asked if he would play again, he said it was up to the club's president.",
    "sources": [
     {
-     "name": "AFP (France 24)",
-     "url": "https://www.france24.com/en/live-news/20261111-sunken-treasure-historic-us-ocean-liner-reborn-as-artifical-reef"
+     "name": "il Resto del Carlino",
+     "url": "https://www.ilrestodelcarlino.it/ravenna/cronaca/ronaldinho-derby-forli-aiuqhn0t"
     },
     {
-     "name": "PBS NewsHour",
-     "url": "https://www.pbs.org/newshour/nation/watch-live-ss-united-states-once-worlds-fastest-ocean-liner-sinks-to-become-reef-off-florida"
+     "name": "Football Italia",
+     "url": "https://football-italia.net/live-ronaldinho-returns-playing-with-ravenna/"
     },
     {
-     "name": "6abc",
-     "url": "https://6abc.com/live-updates/ss-united-states-live-stream-historic-vessel-sunk-become-worlds-largest-artificial-reef-off-florida-coast/20033077/"
+     "name": "AFP (via Kuwait Times)",
+     "url": "https://kuwaittimes.com/article/53714/sports/icon-ronaldinho-makes-winning-return-to-pro-football-in-italys-third-tier/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-15T13:38:00Z",
+   "title": "ASEAN and China miss deadline for South China Sea code of conduct",
+   "why": "Talks on rules for the disputed South China Sea did not conclude at the ASEAN summit in Manila, the Philippines said on Sunday. Foreign Secretary Theresa Lazaro said about 80% of the draft is agreed; whether it will be legally binding is unresolved. Singapore, next year's chair, takes over.",
+   "matters": "About half the world's merchant ships pass through the sea, where China and the Philippines have clashed repeatedly since 2022.",
+   "sources": [
+    {
+     "name": "Reuters (via Yahoo)",
+     "url": "https://www.yahoo.com/news/articles/asean-china-fail-conclude-south-133848738.html"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather"
+    },
+    {
+     "name": "The Philippine Star",
+     "url": "https://www.philstar.com/headlines/2026/11/16/2570417/no-final-code-conduct-south-china-sea-dfa"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-15T12:20:00Z",
+   "title": "Rory McIlroy equals record with eighth Race to Dubai title",
+   "why": "England's Tyrrell Hatton won the DP World Tour Championship in Dubai, United Arab Emirates, on Sunday by five shots. Runner-up Rory McIlroy overtook Spain's Eugenio Chacarra on the final day to win the season-long Race to Dubai for the eighth time, equalling Colin Montgomerie's record.",
+   "sources": [
+    {
+     "name": "AP (via ESPN)",
+     "url": "https://www.espn.com/golf/story/_/id/50489716/rory-mcilroy-wins-season-long-race-dubai-title"
+    },
+    {
+     "name": "CBS Sports",
+     "url": "https://www.cbssports.com/golf/news/rory-mcilroy-record-race-to-dubai-tyrrell-hatton-dp-world-tour-championship/"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/sport/2026/11/15/emotional-rory-mcilroy-dedicates-record-equalling-race-to-dubai-title-to-hospitalised-father-gerry/"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "serious": true,
+   "published": "2026-11-15T12:00:00Z",
+   "title": "Indonesia's president apologises to Malaysia and Singapore over wildfire haze",
+   "why": "Speaking at the ASEAN summit in Manila on 15 November, President Prabowo Subianto apologised for smoke from nearly four months of fires on Sumatra, Borneo and Papua. He said 17 company concessions had been revoked and that 16 firefighters had died fighting the blazes.",
+   "matters": "Smoke from Indonesia's forest and peatland fires regularly harms air quality and health across Southeast Asia.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/16/indonesian-president-apologises-to-singapore-malaysia-for-wildfire-haze"
+    },
+    {
+     "name": "The Star (Malaysia)",
+     "url": "https://www.thestar.com.my/news/nation/2026/11/16/prabowo-apologises-to-malaysia-and-singapore-over-transboundary-haze"
+    },
+    {
+     "name": "Philstar",
+     "url": "https://www.philstar.com/world/2026/11/16/2570486/indonesia-apologises-malaysia-singapore-over-wildfire-haze"
     }
    ]
   },
   {
    "section": "world",
    "serious": true,
-   "developing": true,
-   "changed": "Updated: the death toll has risen to eight",
-   "published": "2026-11-11T21:01:00Z",
-   "title": "Building collapse in Brooklyn, New York, kills eight and injures 17",
-   "why": "A three-storey building on Flatbush Avenue in Brooklyn, New York, collapsed into a neighbouring excavation site on Wednesday afternoon. At least eight people died and 17 were hurt, including three firefighters, Mayor Zohran Mamdani said on Thursday. The cause is being investigated.",
+   "published": "2026-11-15T10:01:00Z",
+   "title": "Yemen government forces pull back from Bab el-Mandeb, leaving Houthis in control",
+   "why": "Saudi-backed Yemeni government forces said on Sunday they were withdrawing from the area around the Bab el-Mandeb Strait, at the mouth of the Red Sea, to defend their base in Aden. Reuters says it ends a six-week counteroffensive. Saudi Arabia's coalition said it intercepted Houthi missiles aimed at Riyadh.",
+   "matters": "Analysts quoted by The New Arab say the retreat gives the Houthis more leverage over a key shipping chokepoint.",
    "sources": [
     {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/news/us-news/new-york-brooklyn-building-collapse-rcna608909"
+     "name": "Reuters (via Al-Monitor)",
+     "url": "https://www.al-monitor.com/originals/2026/11/yemeni-government-force-retreats-strait-major-setback-war-against-houthis"
     },
     {
-     "name": "CBS New York",
-     "url": "https://www.cbsnews.com/newyork/news/building-collapse-nyc-brooklyn-flatbush-rescue-operation/"
+     "name": "The New Arab",
+     "url": "https://www.newarab.com/news/iran-targets-bahrain-yemen-forces-withdraw-strait"
     },
     {
-     "name": "ABC7 New York",
-     "url": "https://abc7ny.com/post/flatbush-brooklyn-building-collapse-leaves-2-dead-17-injured-search-continues/20035354/"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/12/building-collapse-in-brooklyn-kills-two-injures-more-than-a-dozen"
+     "name": "Daily Sabah",
+     "url": "https://www.dailysabah.com/world/mid-east/yemen-govt-forces-retreat-leaves-bab-el-mandeb-control-to-houthis"
     }
    ]
   },
   {
-   "section": "world",
-   "published": "2026-11-11T21:00:00Z",
-   "title": "Pope Leo XIV arrives in Peru, his adopted home, for six-day visit",
-   "why": "Pope Leo XIV landed near Lima on Wednesday and was welcomed by President Keiko Fujimori, starting the final leg of a 12-day South American tour after Uruguay and Argentina. He will visit Chiclayo, where he was bishop from 2015 to 2023, Cusco and Pucallpa before leaving on Monday.",
+   "section": "climate",
+   "developing": true,
+   "published": "2026-11-15T10:00:00Z",
+   "title": "COP31 climate talks in Türkiye enter final week as ministers take over",
+   "why": "Ministers at the UN climate summit in Antalya, Türkiye, now tackle the hardest questions: money for poorer countries and moving away from fossil fuels. A first draft of the main decision is due early this week, and the talks are scheduled to end on 20 November.",
+   "matters": "The deal will shape how fast countries cut emissions and how much help vulnerable nations get to adapt.",
    "sources": [
     {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261111-pope-leo-xiv-returns-to-second-homeland-peru-to-a-nationwide-welcome"
+     "name": "Hürriyet Daily News",
+     "url": "https://www.hurriyetdailynews.com/cop31-turns-to-ministers-for-deal-on-finance-energy-229443"
     },
     {
-     "name": "Vatican News",
-     "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-arrives-in-peru-for-final-leg-of-apostolic-journey.html"
+     "name": "Climate Home News",
+     "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/"
     },
     {
-     "name": "Andina",
-     "url": "https://andina.pe/agencia/noticia-president-keiko-fujimori-welcomes-pope-leo-xiv-upon-arrival-in-peru-1099566.aspx"
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168802"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-15T08:00:00Z",
+   "title": "South-east Asian nations sign a regional digital trade pact",
+   "why": "ASEAN economic ministers meeting in Manila, the Philippines, signed a Digital Economy Framework Agreement covering e-commerce, online payments and data flows across the ten-member bloc.",
+   "matters": "Shared online trade rules could make cross-border shopping and payments across the region easier and safer.",
+   "sources": [
+    {
+     "name": "Anadolu",
+     "url": "https://aa.com.tr/en/asia-pacific/asean-signs-power-grid-mou-and-discusses-regional-oil-stockpiling/4126092"
+    },
+    {
+     "name": "The Manila Times",
+     "url": "https://www.manilatimes.net/2026/11/16/business/top-business/asean-ministers-sign-landmark-digital-economy-pact/2470381"
+    },
+    {
+     "name": "The Daily Chronicle",
+     "url": "https://thechronicle.com.ph/asean-signs-power-grid-agreement-explores-regional-oil-stockpiling/"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "published": "2026-11-15T07:00:00Z",
+   "title": "Wu-Tang Clan and Phil Collins join the Rock Hall of Fame",
+   "why": "The Rock & Roll Hall of Fame inducted its 2026 class at the Peacock Theater in Los Angeles on Saturday. Wu-Tang Clan performed a medley and Phil Collins gave a tearful speech; Cuban singer Celia Cruz and Nigeria's Fela Kuti were honoured posthumously. Oasis, Sade and Iron Maiden stayed away.",
+   "sources": [
+    {
+     "name": "Rolling Stone",
+     "url": "https://au.rollingstone.com/music/music-news/rock-hall-2026-induction-ceremony-recap-103374"
+    },
+    {
+     "name": "Variety",
+     "url": "https://au.variety.com/2026/music/news/rock-roll-hall-fame-induction-ceremony-2026-performances-42608"
+    },
+    {
+     "name": "Stereogum",
+     "url": "https://stereogum.com/2518032/deftones-lauren-mayberry-cover-joy-division-new-order-with-peter-hook-at-rock-roll-hall-of-fame-2026/news"
     }
    ]
   },
   {
    "section": "world",
    "serious": true,
-   "developing": true,
-   "published": "2026-11-11T20:00:00Z",
-   "title": "Israel’s cabinet orders preparations for possible strike on Iran, media report",
-   "why": "Israel’s security cabinet, chaired by caretaker Prime Minister Benjamin Netanyahu, told the military on Wednesday to step up preparations for a possible attack on Iran, Israeli media reported. Iran’s security chief Mohsen Rezaei warned that bases used against Iran, “from West Asia to Europe”, would be targets.",
-   "matters": "Opposition leader Gadi Eisenkot, who is trying to form a government, urged Netanyahu to avoid military action without an immediate threat.",
+   "published": "2026-11-14T22:31:00Z",
+   "title": "Israeli strike kills Hamas Rafah commander as allies urge tents for Gaza",
+   "why": "Israel's military and Hamas say Samir Abu Younis, commander of Hamas's Rafah brigade, was killed in a strike in al-Mawasi, southern Gaza, overnight into Sunday. Separately, the UK, Australia, Canada and Italy urged Israel to let in 150,000 tents they say are held at the border as winter begins.",
+   "matters": "Gaza's health ministry says at least 1,600 Palestinians have been killed since the October 2025 ceasefire took effect.",
    "sources": [
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack"
+     "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza"
     },
     {
-     "name": "Middle East Eye",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-orders-israeli-army-prepare-possible-attack-iran"
+     "name": "RTÉ / Reuters",
+     "url": "https://www.rte.ie/news/middle-east/2026/1115/1599265-hamas-commander-killed/"
     },
     {
-     "name": "The Times of Israel",
-     "url": "https://www.timesofisrael.com/liveblog_entry/amid-talk-of-iran-action-eisenkot-implores-netanyahu-to-hold-off-on-security-moves-during-transitional-period/"
+     "name": "Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog-november-15-2026/"
     },
     {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/france/20261111-tehran-will-strike-us-bases-in-europe-if-used-to-attack-iran-security-chief-says"
+     "name": "DPA (via Yahoo)",
+     "url": "https://www.yahoo.com/news/world/articles/uk-allies-urge-israel-let-220329813.html"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/176965"
+    }
+   ]
+  },
+  {
+   "section": "science",
+   "published": "2026-11-14T21:20:00Z",
+   "title": "SpaceX catches a returning Starship upper stage with its launch tower",
+   "why": "SpaceX's tower at Starbase, Texas, caught the Starship upper stage with its mechanical arms on 14 November, about 22 hours and 14 orbits after launch. It is the first such catch. The Super Heavy booster was not caught and was destroyed over the Gulf of Mexico.",
+   "matters": "Catching both stages would let the rocket fly again quickly; NASA plans to use Starship to land astronauts on the Moon.",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first"
+    },
+    {
+     "name": "Fox Business",
+     "url": "https://www.foxbusiness.com/technology/spacex-makes-history-starship-spacecraft-caught-launch-tower-first-time"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-11-14T19:35:00Z",
+   "title": "Data of 22 million people stolen in attack on French postal firm",
+   "why": "La Poste says hackers stole names and postal addresses of about 22 million people from Maileva, its business mailing subsidiary, in mid-September. Bank details were not affected, it says. Maileva has told France's data protection authority and a judicial investigation is under way.",
+   "matters": "Leaked names and addresses are often used for scam letters, texts and calls, so people should be wary.",
+   "sources": [
+    {
+     "name": "franceinfo",
+     "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/victime-d-une-cyberattaque-maileva-une-filiale-du-groupe-la-poste-annonce-un-vol-de-donnees-touchant-22-millions-de-personnes_8282825.html"
+    },
+    {
+     "name": "AFP via France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20261114-une-filiale-de-la-poste-victime-d-un-vol-de-donn%C3%A9es-massif-22-millions-de-personnes-concern%C3%A9es"
+    },
+    {
+     "name": "Anadolu",
+     "url": "https://www.aa.com.tr/en/science-technology/-cyberattack-on-french-postal-operator-subsidiary-exposes-data-of-22m-people/4125835"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-11-14T17:53:00Z",
+   "title": "Italy fines Meta €805 million over Facebook access to phone photos",
+   "why": "Italy's data protection authority fined Meta €805 million, saying a Facebook feature reached into Android users' photo galleries by default without specific consent. About 20 million Italians use Android. Meta says the fine is 'disproportionate' and it will appeal.",
+   "matters": "It tests how far apps may go in reading the private photos stored on your phone.",
+   "sources": [
+    {
+     "name": "AP via ABC News",
+     "url": "https://abcnews.com/Technology/wireStory/meta-fined-887-million-italy-android-gallery-photos-138145127"
+    },
+    {
+     "name": "The Hacker News",
+     "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html"
+    },
+    {
+     "name": "MediaNama",
+     "url": "https://www.medianama.com/2026/11/223-italy-fines-meta-accessing-without-permission/"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-14T16:21:00Z",
+   "title": "Wales beat New Zealand's All Blacks for the first time since 1953",
+   "why": "Wales beat New Zealand 35-28 at the Principality Stadium in Cardiff on Saturday, scoring five tries to four in the Nations Championship. It was their first win over the All Blacks in 73 years and ended a run of 34 straight defeats against them.",
+   "matters": "Wales were rank outsiders; New Zealand must now beat England at Twickenham to keep their hopes of reaching the final.",
+   "sources": [
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/rugby/story/_/id/50480374/wales-new-zealand-all-blacks-historic-victory"
+    },
+    {
+     "name": "NZ Herald",
+     "url": "https://www.nzherald.co.nz/sport/rugby/all-blacks/all-blacks-v-wales-welsh-beat-new-zealand-for-first-time-in-73-years-in-cardiff-shock/IS7F2KS5NNGJFPMSPTG3OP2TSU/"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-15/all-blacks-beaten-by-wales-for-first-time-in-73-years/107387094"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "published": "2026-11-14T16:00:00Z",
+   "title": "Philippines' Carmelle wins the first Eurovision Song Contest Asia in Bangkok",
+   "why": "Carmelle Collado, 19, won the first Eurovision Song Contest Asia in Bangkok, Thailand, on Saturday with \"Sobra-Sobra\", sung in Tagalog and English. She scored 211 points from juries and viewers, ahead of hosts Thailand and Vietnam. Eleven countries took part.",
+   "matters": "Eurovision's first Asian edition gives singers from smaller music markets a stage, with viewers voting from 183 countries and territories.",
+   "sources": [
+    {
+     "name": "EBU",
+     "url": "https://www.ebu.ch/news/2026/11/winner-inaugural-eurovision-song-contest-asia-2026-in-bangkok"
+    },
+    {
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/entertainment/2026/1114/1599232-philippines-win-inaugural-eurovision-song-contest-asia/"
+    },
+    {
+     "name": "Philstar",
+     "url": "https://www.philstar.com/entertainment/music/2026/11/15/2570281/filipina-singer-carmelle-collado-wins-1st-eurovision-asia"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-14T12:15:00Z",
+   "title": "Japan beat Brazil 3-2 with stoppage-time winner in Singapore",
+   "why": "Japan beat Brazil 3-2 in a friendly at Singapore's National Stadium on Saturday in front of 38,688 fans. Substitute Tatsuhiro Sakamoto scored the winner in stoppage time; Brazil coach Carlo Ancelotti and captain Raphinha were sent off after protesting. Brazil had knocked Japan out of the World Cup in June.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/sports/2026/11/15/japan-stun-brazil-3-2-in-stoppage-time-as-ancelotti-raphinha-sent-off"
+    },
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/soccer/story/_/id/50479233/japan-revenge-brazil-dramatic-late-win"
+    },
+    {
+     "name": "The Rio Times",
+     "url": "https://www.riotimesonline.com/japan-beat-brazil-3-2-singapore-friendly-late-goal"
     }
    ]
   },
   {
    "section": "world",
-   "serious": true,
-   "developing": true,
-   "published": "2026-11-11T15:07:00Z",
-   "title": "Saudi Arabia says it intercepted Houthi missiles aimed at Riyadh and Mecca",
-   "why": "The Saudi-led coalition said on Wednesday it destroyed three cruise missiles heading for Riyadh and drones aimed at Mecca and southern regions, the second day of interceptions over the capital. The Houthis denied targeting Mecca. Fighting inside Yemen has also intensified.",
-   "matters": "The WHO says more than 320,000 people in Yemen have been displaced by the fighting since August.",
+   "published": "2026-11-14T10:59:00Z",
+   "title": "Xi, Trump and Putin to hold first three-way summit in China",
+   "why": "The White House and the Kremlin say the three leaders will meet on Thursday 19 November in Shenzhen, China, during the APEC summit. The White House says Trump wants to discuss cutting nuclear arsenals and the Iran war; a US official said Ukraine will not be discussed.",
+   "matters": "A senior US official told Al Jazeera they expect no agreement, calling it the start of a conversation.",
    "sources": [
     {
-     "name": "Al-Monitor (Reuters)",
-     "url": "https://www.al-monitor.com/originals/2026/11/saudi-arabia-intercepts-houthi-missiles-drones-group-denies-targeting-mecca"
-    },
-    {
-     "name": "Middle East Eye",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-air-defences-intercept-houthi-cruise-missiles-launched-toward"
-    },
-    {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca"
+     "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china"
+    },
+    {
+     "name": "Anadolu",
+     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-putin-xi-trump-to-hold-trilateral-meeting-in-shenzhen-on-nov-19/4125290"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/trump-putin-xi-jinping-meeting-china-us-russia-talks/"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "serious": true,
+   "published": "2026-11-14T09:00:00Z",
+   "title": "Nigeria warns travellers with health conditions about high-altitude Addis Ababa",
+   "why": "Nigeria's foreign ministry says 16 Nigerians died this year while transiting through Ethiopia's capital, Addis Ababa, deaths it links to the city's altitude of about 2,350 metres. It urged people with heart or lung conditions to seek medical advice before travelling via the city.",
+   "matters": "Addis Ababa's airport is a major hub used by millions of passengers each year, many connecting across Africa.",
+   "sources": [
+    {
+     "name": "Voice of Nigeria",
+     "url": "https://von.gov.ng/nigeria-reports-16-deaths-linked-to-addis-ababa-altitude/"
+    },
+    {
+     "name": "Tribune Online",
+     "url": "https://tribuneonlineng.com/fg-raises-alarm-over-16-nigerian-deaths-linked-to-addis-ababa-transit/"
+    },
+    {
+     "name": "MyJoyOnline",
+     "url": "https://myjoyonline.com/nigeria-cautions-against-travel-via-ethiopias-main-airport-due-to-altitude"
     }
    ]
   },
@@ -499,27 +564,66 @@
    "section": "health",
    "serious": true,
    "developing": true,
-   "changed": "Updated: Kenya has discharged its last Ebola patient",
-   "published": "2026-11-11T06:17:00Z",
-   "title": "Congo’s Ebola cases pass 11,000 as Kenya discharges its last patient",
-   "why": "Ebola has infected 11,042 people and killed at least 5,387 in the Democratic Republic of the Congo, its government says. The Bundibugyo strain has no approved vaccine. Neighbouring Kenya discharged its last patient on Wednesday and could be declared Ebola-free on 23 December, Health Minister Aden Duale said.",
-   "matters": "It is the second-largest Ebola outbreak on record; Kenya had nine cases and two deaths, all linked to one traveller.",
+   "published": "2026-11-13T23:00:00Z",
+   "title": "US reportedly loses measles elimination status after 26 years",
+   "why": "A Pan American Health Organization panel has concluded that measles has spread continuously in the United States for more than a year, KFF Health News and AP report. The US declared measles eliminated in 2000. More than 5,400 cases have been confirmed this year, the most since 1991.",
+   "matters": "Regaining the status needs at least 12 months without sustained spread; a formal announcement is expected on 17 November.",
    "sources": [
     {
-     "name": "AP (via WSLS)",
-     "url": "https://www.wsls.com/news/world/2026/11/11/congos-ebola-outbreak-tops-11000-cases-as-disease-keeps-spreading/"
+     "name": "KFF Health News (via LAist)",
+     "url": "https://laist.com/news/health/us-has-lost-measles-elimination-status-global-health-authorities-say"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/11/kenya-discharges-last-ebola-patient"
+     "name": "AP (via AZFamily)",
+     "url": "https://azfamily.com/2026/11/15/us-reportedly-loses-measles-elimination-status-maricopa-county-cases-hit-30-year-high"
     },
     {
-     "name": "Africanews",
-     "url": "https://www.africanews.com/2026/11/11/kenya-discharges-last-ebola-patient-begins-42-day-countdown-to-being-declared-ebola-free/"
+     "name": "Türkiye Today",
+     "url": "https://turkiyetoday.com/world/us-loses-measles-elimination-status-after-year-of-outbreaks-3232468"
+    }
+   ]
+  },
+  {
+   "section": "science",
+   "published": "2026-11-13T15:00:00Z",
+   "title": "Voyager 1 to become first spacecraft one light-day from Earth",
+   "why": "NASA says Voyager 1, launched in 1977, will be one light-day from Earth, about 25.9 billion kilometres, on Wednesday 18 November at about 10:16 GMT. A command from Earth now takes a full day to reach it, and the reply another day.",
+   "matters": "No other human-made object has travelled so far; its power supply is expected to run out within about a decade.",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/"
     },
     {
-     "name": "CDC",
-     "url": "https://www.cdc.gov/ebola/situation-summary/index.html"
+     "name": "Science News",
+     "url": "https://sciencenews.org/article/voyager-1-light-day-exploration"
+    },
+    {
+     "name": "Popular Science",
+     "url": "https://www.popsci.com/science/voyager-1-one-light-day-away/"
+    }
+   ],
+   "developing": true
+  },
+  {
+   "section": "culture",
+   "developing": true,
+   "published": "2026-11-13T12:00:00Z",
+   "title": "Heirs ask Sotheby's to halt $180m Van Gogh sale over Nazi-era claim",
+   "why": "Heirs of German Jewish publisher Samuel Fischer say Van Gogh's \"Chestnut Trees in Blossom\", estimated at $180m, was sold under duress in 1936 and want it withdrawn from Sotheby's New York sale on Wednesday. Sotheby's says its research has not shown duress but it is talking to the family.",
+   "matters": "The case tests how auction houses handle art that Jewish families sold while escaping Nazi persecution.",
+   "sources": [
+    {
+     "name": "BBC (via Yahoo)",
+     "url": "https://www.yahoo.com/news/world/articles/sothebys-auction-180m-van-gogh-180014137.html"
+    },
+    {
+     "name": "The Jewish Chronicle",
+     "url": "https://www.thejc.com/news/usa/jewish-heirs-seek-to-halt-135m-van-gogh-auction-at-sothebys-over-nazi-persecution-claim-prg5zi21"
+    },
+    {
+     "name": "JNS",
+     "url": "https://www.jns.org/news/culture-and-society/jewish-heirs-seek-to-halt-sothebys-sale-of-180-million-van-gogh"
     }
    ]
   },
@@ -527,44 +631,51 @@
    "section": "world",
    "serious": true,
    "developing": true,
-   "published": "2026-11-10T18:00:00Z",
-   "title": "Former Iraqi MP found dead in Beirut; Lebanon investigates killing",
-   "why": "Ahmed al-Alwani, a former Iraqi lawmaker from Anbar and a critic of Iran’s influence in Iraq, was found dead in a flat in Beirut, Lebanon, on Tuesday evening. A judicial source told AFP he was killed; one Lebanese suspect has been arrested and two Syrians are being sought.",
+   "changed": "Updated 15 Nov: Bahrain says it intercepted fresh Iranian attacks; Iran says it targeted a US radar.",
+   "published": "2026-11-13T02:27:00Z",
+   "title": "Bahrain intercepts new Iranian attacks; Iran says it targeted US radar",
+   "why": "Bahrain says its air defences destroyed several Iranian aerial attacks on Sunday 15 November, its first such interceptions since September. Iran's Revolutionary Guards say six drones targeted a US radar at Riffa air base. On Friday the US said it downed two Iranian drones aimed at Bahrain.",
+   "matters": "Bahrain hosts the US Navy's Fifth Fleet; Iran also says two tankers hit mines near Hormuz, which Reuters could not verify.",
    "sources": [
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/11/former-iraqi-awmaker-ahmed-al-alwani-found-dead-in-beirut"
+     "url": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us"
     },
     {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/news/mena/2026/11/11/former-iraqi-legislator-found-dead-in-beirut-in-suspected-assassination/"
+     "name": "Anadolu",
+     "url": "https://aa.com.tr/en/middle-east/bahrain-says-its-air-defenses-intercepted-several-iranian-attacks/4125551"
     },
     {
-     "name": "Arab News",
-     "url": "https://www.arabnews.com/middle-east/former-iraqi-mp-found-dead-in-beirut-suspect-arrested-3011016"
+     "name": "CNBC / Reuters",
+     "url": "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html"
+    },
+    {
+     "name": "RFE/RL",
+     "url": "https://www.rferl.org/a/bahrain-said-its-air-defenses-intercepted-and-destroyed-several-iranian-aerial-attacks/33898951.html"
     }
-   ]
+   ],
+   "lead": true
   },
   {
    "section": "world",
    "developing": true,
-   "changed": "Updated: Gibran has formally submitted his resignation",
-   "published": "2026-11-10T08:36:00Z",
-   "title": "Indonesia’s vice-president Gibran formally resigns over diploma ruling",
-   "why": "Vice-President Gibran Rakabuming Raka handed his resignation to the People’s Consultative Assembly in Jakarta on Thursday, its speaker Ahmad Muzani said, after courts found his school qualification did not meet election rules. The assembly has up to 60 days to choose a replacement.",
-   "matters": "Gibran is the son of former president Joko Widodo; his case has widened a rift between Prabowo and Widodo, ABC reports.",
+   "changed": "Updated 14 Nov: Europe picks its five negotiating countries; Zelensky says the US floated NATO membership for the Donbas.",
+   "published": "2026-11-12T23:35:00Z",
+   "title": "Europe names five countries for Ukraine talks; Zelensky reports NATO-for-Donbas idea",
+   "why": "EU leaders meeting in Dublin on Friday chose Britain, France, Germany, Italy and Poland to represent Europe at the next round of US-mediated talks. Zelensky says US negotiators asked whether Ukraine would leave the Donbas in exchange for NATO membership; the US has not publicly confirmed it.",
+   "matters": "Zelensky says Ukraine won't withdraw, but could put a deal to a referendum if given firm security guarantees and funding.",
    "sources": [
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility"
+     "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine"
     },
     {
      "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-12/indonesia-vice-president-gibran-rakabuming-raka-resigns/107370802"
+     "url": "https://www.abc.net.au/news/2026-11-15/us-idea-of-ukraine-ceding-donbas-to-join-nato-zelenskyy/107386558"
     },
     {
-     "name": "Bernama",
-     "url": "https://www.bernama.com/en/world/news.php?id=2633270"
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/us-floats-nato-membership-for-ukraine-in-exchange-for-donbas-withdrawal-zelensky-says/"
     }
    ]
   }
