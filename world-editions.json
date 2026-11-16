@@ -5600,5 +5600,473 @@
         ]
       }
     ]
+  },
+  {
+    "id": "055",
+    "published": "2026-11-16",
+    "title": "A spaceship caught by its tower, Rosalía’s Latin Grammy hat-trick and the Rubik’s Cube comes home",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Did this actually happen?",
+        "claim": "For the first time, SpaceX caught the top part of its Starship rocket – the spaceship itself – with the giant arms of its launch tower after a trip to orbit.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this happened. On Saturday 14 November, at SpaceX’s Starbase site in Texas, the launch tower’s mechanical arms (nicknamed “chopsticks”) caught the spaceship as it came back down, after about 22 hours and 14 trips around Earth. SpaceX had caught the rocket’s lower stage, the booster, three times before, but never the spaceship. This time the booster itself did not make it back and came down in the Gulf of Mexico. Catching both parts so they can fly again is key to making space launches much cheaper.",
+        "sources": [
+          [
+            "Euronews · SpaceX catches part of its Starship rocket in historic first",
+            "https://www.euronews.com/2026/11/15/spacex-catches-part-of-its-starship-rocket-in-historic-first"
+          ],
+          [
+            "International Business Times Australia · SpaceX catches Starship with chopsticks for first time after 14 orbits",
+            "https://www.ibtimes.com.au/spacex-catches-starship-upper-stage-orbit-1878608"
+          ],
+          [
+            "LEO.space · Starship upper stage caught by launch tower arms for first time",
+            "https://leo.space/articles/starship-upper-stage-caught-by-launch-tower-arms-for-first-time"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three names from the Latin Grammys. Find their partners.",
+        "pairs": [
+          [
+            "Rosalía",
+            "Won album of the year for “Lux” – her third time"
+          ],
+          [
+            "Las Vegas",
+            "City that hosted this year’s ceremony"
+          ],
+          [
+            "Daddy Yankee",
+            "Honoured as the Latin Recording Academy’s person of the year"
+          ]
+        ],
+        "why": "The pairs are: Rosalía – album of the year for “Lux”, her third win in that category; Las Vegas – the host city; Daddy Yankee – person of the year. The 27th Latin Grammy Awards were held on Thursday 12 November at the MGM Grand Garden Arena in Las Vegas. The Spanish singer Rosalía also won song of the year for “La Perla”. Daddy Yankee, one of reggaeton’s biggest stars, became the first artist from Latin urban music (reggaeton and similar styles) to be named person of the year.",
+        "sources": [
+          [
+            "Euronews · Rosalía’s ‘Lux’ dominates Latin Grammys as Argentine artists shine",
+            "https://www.euronews.com/2026/11/13/rosalias-lux-dominates-latin-grammys-as-argentine-artists-shine"
+          ],
+          [
+            "ABC News (AP) · Rosalía’s ‘Lux’ wins album of the year at the 2026 Latin Grammys",
+            "https://abcnews.com/US/wireStory/rosalas-lux-wins-album-year-2026-latin-grammys-138100309"
+          ],
+          [
+            "NBC News · Rosalía wins album of the year for ‘Lux’ at an electrifying Latin Grammy Awards",
+            "https://www.nbcnews.com/pop-culture/pop-culture-news/rosali-wins-album-year-lux-electrifying-latin-grammy-awards-rcna609115"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "An 82-year-old inventor signs the first one off a new production line",
+          "Robot arms put together and test up to a million a year",
+          "It was first sold in 1977 under the name “Magic Cube”"
+        ],
+        "options": [
+          "Denmark brings LEGO brick making back to its first factory",
+          "Japan restarts production of the original Game Boy",
+          "The Rubik’s Cube is made in Hungary again",
+          "Germany builds new Enigma machines for museums"
+        ],
+        "correct": 2,
+        "why": "It was: the Rubik’s Cube is being made in Hungary again. Its inventor, Ernő Rubik, now 82, opened a new automated production line in the Hungarian town of Jászberény this week and signed the first cube. He designed the puzzle in 1974 while teaching in Budapest, and it went on sale in Hungary in 1977 as the “Magic Cube”. Making it later moved abroad, so this is the first time in more than 40 years that it is produced in its home country.",
+        "sources": [
+          [
+            "Euronews · Rubik’s Cube production returns to Hungary more than 50 years after invention",
+            "https://www.euronews.com/video/2026/11/14/rubiks-cube-production-returns-to-hungary-more-than-50-years-after-invention"
+          ],
+          [
+            "ABC News (AP) · An iconic puzzle comes home as production of the Rubik’s Cube returns to Hungary",
+            "https://abcnews.com/Business/wireStory/iconic-puzzle-home-production-rubiks-cube-returns-hungary-138101478"
+          ],
+          [
+            "International Business Times UK · First Rubik’s Cube made in Hungary after over 40 years to be auctioned for hospital",
+            "https://www.ibtimes.co.uk/rubiks-cube-production-returns-hungary-charity-auction-1832136"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "A new trade deal between Canada and the Philippines: put these steps in order, earliest first.",
+        "items": [
+          "Canada’s Mark Carney and the Philippines’ Ferdinand Marcos Jr. sign a document in Manila ending the talks",
+          "The deal is due to be formally signed and come into force",
+          "Formal negotiations on a Canada–Philippines free trade deal begin"
+        ],
+        "correctOrder": [
+          2,
+          0,
+          1
+        ],
+        "why": "The right order is: formal negotiations begin (2025), then the two leaders end the talks in Manila (Saturday 14 November, at a summit of Southeast Asian nations), then the deal is signed and comes into force (planned for 2027). A free trade deal cuts taxes and other barriers on goods and services sold between two countries. Canada says it is part of its push to rely less on selling to the United States, and farm, forestry and technology businesses are expected to benefit.",
+        "sources": [
+          [
+            "Euronews · Canada and the Philippines conclude talks on free trade deal, Mark Carney says",
+            "https://www.euronews.com/2026/11/14/canada-and-the-philippines-conclude-talks-on-free-trade-deal-mark-carney-says"
+          ],
+          [
+            "Global News · Canada, Philippines conclude negotiations for free-trade agreement, aiming for 2027",
+            "https://globalnews.ca/news/12150796/canada-philippines-trade-deal/"
+          ],
+          [
+            "CP24 · Carney says Canada, Philippines conclude free-trade talks, target deal by 2027",
+            "https://www.cp24.com/news/canada/2026/11/14/carney-says-canada-philippines-conclude-free-trade-talks-target-deal-by-2027/"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "Donald Trump, Xi Jinping and Vladimir Putin plan the first ever three-way meeting between the leaders of the US, China and Russia this week. Where?",
+        "options": [
+          "In Beijing, during a military parade",
+          "In Shenzhen, China, at the Asia-Pacific APEC summit",
+          "In Manila, at the Southeast Asian ASEAN summit",
+          "In Geneva, at the United Nations"
+        ],
+        "correct": 1,
+        "why": "It is in Shenzhen, in southern China, on the sidelines of the APEC summit. APEC (Asia-Pacific Economic Cooperation) is a yearly meeting of 21 economies around the Pacific Ocean. The White House says the three-way meeting is planned for Thursday 19 November and that Mr Trump wants to talk about reducing nuclear weapons. US officials have said they do not expect an agreement and see it as the start of a conversation.",
+        "sources": [
+          [
+            "Euronews · Trump, Xi and Putin to meet in China, White House says",
+            "https://www.euronews.com/2026/11/14/trump-xi-and-putin-to-meet-in-china-white-house-says"
+          ],
+          [
+            "Al Jazeera · Trump, Xi and Putin to hold first three-way summit in China",
+            "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china"
+          ],
+          [
+            "CBS News · Trump, Putin and Xi Jinping expected to meet in first-ever trilateral of its kind",
+            "https://www.cbsnews.com/news/trump-putin-xi-jinping-meeting-china-us-russia-talks/"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "056",
+    "published": "2026-11-17",
+    "title": "Wales stun the All Blacks, a near-$5 million lightsaber and China’s electric plane takes a crew",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Did this actually happen?",
+        "claim": "Wales beat New Zealand’s All Blacks at rugby for the first time since 1953.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this is true. Wales beat New Zealand 35–28 at the Principality Stadium in Cardiff on Saturday 14 November, in the new Nations Championship. Before this match Wales had won only four of their 39 games against the All Blacks, and the last of those wins was in 1953 – a wait of 73 years. New Zealand are one of the strongest teams in world rugby, which is why the result was called historic.",
+        "sources": [
+          [
+            "ABC News (Australia) · All Blacks beaten by Wales for first time in 73 years",
+            "https://www.abc.net.au/news/2026-11-15/all-blacks-beaten-by-wales-for-first-time-in-73-years/107387094"
+          ],
+          [
+            "NZ Herald · All Blacks v Wales: World reacts to New Zealand’s historic loss in Cardiff",
+            "https://www.nzherald.co.nz/sport/rugby/all-blacks/all-blacks-v-wales-world-reacts-to-new-zealands-historic-loss-in-cardiff/QHQLHQMUKNBW5ILVPBTDDW5TVM/"
+          ],
+          [
+            "Yahoo Sports (FloSports) · Wales stuns All Blacks 35-28 to end 73-year wait in Cardiff",
+            "https://sports.yahoo.com/articles/wales-stuns-blacks-35-28-025556473.html"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three terms from China’s new electric plane. Find their partners.",
+        "pairs": [
+          [
+            "CE-25A",
+            "Battery-powered passenger plane that flew with people on board for the first time"
+          ],
+          [
+            "COMAC",
+            "China’s state-owned aircraft maker that built it"
+          ],
+          [
+            "Type certificate",
+            "Safety approval it still needs before it can carry paying passengers"
+          ]
+        ],
+        "why": "The pairs are: CE-25A – the electric plane; COMAC – its maker; type certificate – the official safety approval it still needs. On Saturday 14 November the CE-25A took off and landed at Binzhou in eastern China with two pilots and a flight engineer on board, after earlier test flights with no one on board. It is designed to carry up to 19 passengers on short trips between cities. China’s aviation authority has started reviewing it, but it is not yet allowed to fly paying passengers.",
+        "sources": [
+          [
+            "Euronews · Chinese electric passenger plane completes first crewed flight",
+            "https://www.euronews.com/2026/11/15/chinese-electric-passenger-plane-completes-first-crewed-flight"
+          ],
+          [
+            "Time 4 Avia · The COMAC CE-25A regional electric aircraft successfully completes its first crewed flight in China",
+            "https://www.time4avia.com/en/news/industry/the-comac-ce-25a-regional-electric-aircraft-successfully-completes-its-first-crewed-flight-in-china/"
+          ],
+          [
+            "EVs and Beyond · COMAC CE-25A electric airliner makes first crewed flight",
+            "https://evsandbeyond.co.nz/comac-ce-25a-electric-airliner-first-crewed-flight/"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "Sold for $4.875 million (about €4.4 million) at Heritage Auctions",
+          "Experts had expected it to fetch about $1 million",
+          "Used in a famous duel in “The Empire Strikes Back”"
+        ],
+        "options": [
+          "Indiana Jones’s hat sets a film auction record",
+          "A Harry Potter wand becomes the priciest movie prop ever",
+          "James Bond’s Aston Martin is sold to a museum",
+          "Darth Vader’s lightsaber sets a Star Wars auction record"
+        ],
+        "correct": 3,
+        "why": "It was: Darth Vader’s lightsaber set a Star Wars auction record. The prop, used in the films “The Empire Strikes Back” (1980) and “Return of the Jedi” (1983), sold at Heritage Auctions in the US for $4.875 million, almost five times its estimate. That makes it the most expensive Star Wars item ever sold at auction, beating a $3.875 million poster painting and a Luke Skywalker lightsaber prop sold for $3.75 million in July.",
+        "sources": [
+          [
+            "Euronews · Darth Vader’s lightsaber breaks Star Wars auction record by selling for nearly €4.5 million",
+            "https://www.euronews.com/2026/11/13/darth-vaders-lightsaber-breaks-star-wars-auction-record-by-selling-for-nearly-45-million"
+          ],
+          [
+            "IGN (via Yahoo) · Darth Vader’s actual lightsaber just sold for $4.875 million, breaking Star Wars auction records",
+            "https://www.yahoo.com/entertainment/movies/articles/darth-vaders-actual-lightsaber-just-194121729.html"
+          ],
+          [
+            "Reality Tea (via Yahoo) · Darth Vader’s lightsaber smashes ‘Star Wars’ record with $4.9M sale",
+            "https://www.yahoo.com/entertainment/articles/darth-vader-lightsaber-smashes-star-215801821.html"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "Cape Verde’s president, José Maria Neves: put these steps in his career in order, earliest first.",
+        "items": [
+          "He wins a second term as president, with almost two-thirds of the vote",
+          "He serves as the country’s prime minister",
+          "He is first elected president"
+        ],
+        "correctOrder": [
+          1,
+          2,
+          0
+        ],
+        "why": "The right order is: prime minister (2001 to 2016), then first elected president (2021), then re-elected (Sunday 15 November 2026). Provisional results gave him about 64% of the vote against about 32% for former justice minister Joana Rosa Amado, the country’s first woman presidential candidate, who accepted defeat. Because he won more than half the votes, no second round is needed. Cape Verde is a group of islands off West Africa.",
+        "sources": [
+          [
+            "Euronews · Cape Verde heads to the polls in presidential election",
+            "https://www.euronews.com/2026/11/15/cape-verde-heads-to-the-polls-in-presidential-election"
+          ],
+          [
+            "TimesLIVE (Reuters) · Cape Verde president Neves wins second term, provisional election results show",
+            "https://www.timeslive.co.za/news/africa/2026-11-16-cape-verde-president-neves-wins-second-term-provisional-election-results-show/"
+          ],
+          [
+            "France 24 (AFP) · Cape Verde’s President Jose Maria Neves re-elected: provisional election results",
+            "https://www.france24.com/en/live-news/20261115-cape-verde-s-president-jose-maria-neves-re-elected-provisional-election-results"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "The 11 countries of Southeast Asia’s ASEAN group signed what they call the first region-wide agreement of its kind. What is it about?",
+        "options": [
+          "A single shared currency",
+          "Digital trade – online payments, e-invoices and data",
+          "Visa-free travel for all citizens",
+          "Shared fishing limits in the South China Sea"
+        ],
+        "correct": 1,
+        "why": "It is about digital trade. The Digital Economy Framework Agreement, signed by ASEAN ministers in Manila on Saturday 14 November, sets shared rules so electronic invoices, shipping papers and signatures are accepted across borders, payment systems work together, and business data can move between countries with protections for privacy. It is the group’s first stand-alone, legally binding deal on the digital economy and takes effect 180 days after signing, around May 2027.",
+        "sources": [
+          [
+            "Euronews · Southeast Asian nations sign digital trade deal to ease payments and cut paperwork",
+            "https://www.euronews.com/2026/11/15/southeast-asian-nations-sign-digital-trade-deal-to-ease-payments-and-cut-paperwork"
+          ],
+          [
+            "The Star (Malaysia) · Asean states sign Digital Economy Framework Agreement",
+            "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/14/asean-states-sign-digital-economy-framework-agreement-which-kicks-in-from-early-2027"
+          ],
+          [
+            "Philstar · ASEAN ministers sign digital economy pact",
+            "https://www.philstar.com/headlines/2026/11/15/2570252/asean-ministers-sign-digital-economy-pact"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "057",
+    "published": "2026-11-18",
+    "title": "Shooting stars tonight, a sea of protesters in Prague and a French honour for Nicole Kidman",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Is this true?",
+        "claim": "The Leonid meteor shower, which peaks around the night of 17–18 November, is made of dust left behind by a comet.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this is true. The Leonids are tiny bits of dust shed by comet Tempel-Tuttle, which circles the Sun about every 33 years. Each November Earth passes through its trail, and the specks burn up high in the air as shooting stars. They seem to come from the constellation Leo, which gives them their name. This year should be a quiet show of about 10 to 15 an hour at best, seen most easily after midnight, away from city lights.",
+        "sources": [
+          [
+            "EarthSky · Leonid meteor shower: All you need to know in 2026",
+            "https://earthsky.org/astronomy-essentials/everything-you-need-to-know-leonid-meteor-shower/"
+          ],
+          [
+            "BBC Sky at Night Magazine · How to see the Leonid meteor shower",
+            "https://www.skyatnightmagazine.com/advice/skills/leonid-meteor-shower-when-how-see"
+          ],
+          [
+            "The Old Farmer’s Almanac · Leonid Meteor Shower 2026: Peak date and viewing tips",
+            "https://www.almanac.com/leonids-meteor-shower"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three terms from a day US flights stood still. Find their partners.",
+        "pairs": [
+          [
+            "FAA",
+            "US agency that stopped all flights from taking off on 13 November"
+          ],
+          [
+            "Ground stop",
+            "Order that keeps planes on the ground until a problem is fixed"
+          ],
+          [
+            "Routers",
+            "Network equipment that was overloaded with data, cutting communications"
+          ]
+        ],
+        "why": "The pairs are: FAA – the Federal Aviation Administration, which runs US air traffic control; ground stop – the order keeping planes on the ground; routers – the overloaded network equipment. On Friday 13 November the FAA halted departures across the whole US for more than four hours after a telecommunications failure while old cables were being replaced. Officials said it was not a cyberattack and the public was never in danger, but thousands of flights were cancelled and the government is now asking Congress for $50 billion to modernise air traffic control.",
+        "sources": [
+          [
+            "CNBC · FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend",
+            "https://www.cnbc.com/2026/11/13/faa-ground-stop.html"
+          ],
+          [
+            "Al Jazeera · FAA ground stop lifted: Why were US flights grounded, and what’s next?",
+            "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next"
+          ],
+          [
+            "Euronews · Trump administration presses for $50bn to fix air traffic control after nationwide grounding",
+            "https://www.euronews.com/2026/11/16/trump-presses-for-50bn-to-fix-air-traffic-control-after-nationwide-grounding"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "Hundreds of thousands of people fill Letná park in Prague",
+          "A bill would scrap a monthly household fee of 205 crowns",
+          "Czech Television and Czech Radio are at the centre of the row"
+        ],
+        "options": [
+          "Czechs celebrate their football team qualifying for a tournament",
+          "Czechs protest a plan to change how public TV and radio are paid for",
+          "Czechs vote to join the euro",
+          "Czechs mark 1,000 years of Prague Castle"
+        ],
+        "correct": 1,
+        "why": "It was: a huge protest against a plan to change how Czech public TV and radio are funded. On Sunday 15 November organisers estimated around 400,000 people in Prague’s Letná park. The government of Prime Minister Andrej Babiš wants to end the licence fee that households pay and fund Czech Television and Czech Radio from the state budget instead, with less money overall. Protesters fear this would leave public media with less money and make them easier to pressure politically.",
+        "sources": [
+          [
+            "France 24 (AFP) · Hundreds of thousands of Czechs protest in Prague over public media funding plan",
+            "https://www.france24.com/en/europe/20261116-czechs-protest-prague-public-media-funding-plan"
+          ],
+          [
+            "Euronews · Hundreds of thousands in Prague protest Czech government’s public media funding plans",
+            "https://www.euronews.com/2026/11/15/hundreds-of-thousands-in-prague-protest-czech-governments-public-media-funding-plans"
+          ],
+          [
+            "Al Jazeera · Thousands rally in Czech Republic against state media funding changes",
+            "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "Nicole Kidman’s big honours: put these in order, earliest first.",
+        "items": [
+          "She becomes the first Australian to receive the American Film Institute’s Life Achievement Award",
+          "She wins the Oscar for best actress for “The Hours”",
+          "She receives an honorary César, France’s top film award, in Paris"
+        ],
+        "correctOrder": [
+          1,
+          0,
+          2
+        ],
+        "why": "The right order is: the Oscar for “The Hours” (2003), then the AFI Life Achievement Award (2024), then the honorary César (to be presented on 25 February 2027). France’s film academy announced on 12 November that Kidman will be honoured at the 52nd César Awards at the Olympia concert hall in Paris. The Césars are often called the French Oscars, and the academy praised her for never letting fame decide which roles she chose.",
+        "sources": [
+          [
+            "Euronews · Nicole Kidman to receive honorary César Award from French film academy",
+            "https://www.euronews.com/2026/11/13/nicole-kidman-to-receive-honorary-cesar-award-from-french-film-academy"
+          ],
+          [
+            "Variety Australia · Nicole Kidman to receive honorary Cesar from French film academy",
+            "https://au.variety.com/2026/film/news/nicole-kidman-honorary-cesar-french-film-academy-42517/"
+          ],
+          [
+            "Cover Media (via Yahoo) · Nicole Kidman to receive honorary prize at 2027 César Awards",
+            "https://www.yahoo.com/entertainment/movies/articles/nicole-kidman-receive-honorary-prize-131138776.html"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "Danish scientists tracked volunteers’ insides with a swallowable sensor capsule. What did they find in regular coffee drinkers?",
+        "options": [
+          "Fewer kinds of gut bacteria",
+          "Food moved much more slowly through the gut",
+          "More kinds of gut bacteria and more muscle squeezes in the large intestine",
+          "No difference at all from non-coffee drinkers"
+        ],
+        "correct": 2,
+        "why": "They found more kinds of gut bacteria and more muscle contractions in the colon (the large intestine). Researchers at the University of Copenhagen had healthy adults swallow a small wireless capsule that measured acidity, temperature and movement as it travelled through the gut. The scientists stress the study shows a link, not proof that coffee causes these changes, and it is not yet clear whether they are good or bad for health.",
+        "sources": [
+          [
+            "Euronews · Regular coffee drinking linked to changes in gut motility and microbiome",
+            "https://www.euronews.com/2026/11/14/regular-coffee-drinking-linked-to-changes-in-gut-motility-and-microbiome"
+          ],
+          [
+            "EurekAlert! (University of Copenhagen) · Coffee appears to change how your gut functions",
+            "https://www.eurekalert.org/news-releases/1151101"
+          ],
+          [
+            "Gizmodo · Scientists have a new explanation for why coffee makes you poop",
+            "https://gizmodo.com/scientists-have-a-new-explanation-for-why-coffee-makes-you-poop-2000839324"
+          ]
+        ]
+      }
+    ]
   }
 ]
