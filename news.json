@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-17T07:49:52Z",
+ "updated": "2026-11-17T13:52:28Z",
  "items": [
+  {
+   "section": "world",
+   "developing": true,
+   "published": "2026-11-17T10:04:00Z",
+   "title": "Trump meets Quad leaders in Manila on first stop of Asia trip",
+   "why": "US President Donald Trump arrived in the Philippine capital, Manila, on Tuesday for an ASEAN summit and met the leaders of Japan, India and Australia, the first Quad summit in two years. He announced an AI fund of over $85m, critical-minerals deals and joint patrol-aircraft exercises.",
+   "matters": "He goes on to China, where he is due to meet Xi Jinping and Vladimir Putin on Thursday.",
+   "sources": [
+    {
+     "name": "AP (via ABC7)",
+     "url": "https://abc7chicago.com/story/trump-arrives-philippines-kick-off-asia-trip-economic-deals-talks-allies/20047637/"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://nbcnews.com/politics/trump-administration/live-blog/trump-xi-putin-summit-asia-trip-asean-live-updates-rcna609690"
+    },
+    {
+     "name": "ThePrint",
+     "url": "https://theprint.in/diplomacy/trump-pushes-ai-military-cooperation-at-quad-summit-india-pushes-safety-of-seafarers/3101276/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "developing": true,
+   "published": "2026-11-17T04:00:00Z",
+   "title": "Mongolia's president says he will resign over corruption allegations",
+   "why": "President Khurelsukh Ukhnaa said on Tuesday he will step down after a former mayor of the capital, Ulaanbaatar, accused him of receiving $25m linked to a 2019 railway contract, AP reports. He denies wrongdoing and says he will cooperate with investigators.",
+   "matters": "Parliament must accept the resignation; its speaker would then act as president, with an election due within four months.",
+   "sources": [
+    {
+     "name": "AP (via ABC News)",
+     "url": "https://abcnews.com/International/wireStory/mongolias-president-step-after-facing-accusations-corruption-138199346"
+    },
+    {
+     "name": "Anadolu",
+     "url": "https://www.aa.com.tr/en/eurasia/mongolian-president-says-he-will-step-down-amid-corruption-allegations/4127270"
+    },
+    {
+     "name": "Xinhua (via Bernama)",
+     "url": "https://www.bernama.com/en/world/news.php?id=2635605"
+    }
+   ]
+  },
   {
    "section": "world",
    "published": "2026-11-17T02:35:00Z",
@@ -313,27 +357,31 @@
    "section": "world",
    "serious": true,
    "developing": true,
-   "changed": "Updated 17 Nov: Russian strikes hit Kyiv's North and South bridges, cutting heating and water in parts of the city.",
+   "changed": "Updated 17 Nov: Ukraine says it brought down part of the road bridge to Crimea.",
    "published": "2026-11-16T10:25:00Z",
-   "title": "Russian strikes hit two Kyiv bridges, cutting heating and water",
-   "why": "Kyiv's mayor, Vitali Klitschko, said Russian strikes hit the North and South bridges over the Dnipro River late on Monday, damaging infrastructure and disrupting heating and water in parts of Ukraine's capital. Ukraine hit the bridge to annexed Crimea for a second day, Russian-installed officials said.",
-   "matters": "Zelensky says European negotiators joined talks with US envoys Steve Witkoff and Jared Kushner on ending the war for the first time.",
+   "title": "Ukraine collapses part of Crimea bridge after Russia hits Kyiv bridges",
+   "why": "A road span of the Kerch Bridge, linking Russia to annexed Crimea, fell into the sea after Ukrainian missile and drone strikes overnight on Tuesday, Ukraine says; traffic is suspended. Russia says it will rebuild it. Russian strikes had hit two Kyiv bridges, cutting heating and water.",
+   "matters": "The bridge is Russia's main supply route to Crimea. Crimea's Russian-installed governor says two people were killed in drone attacks there.",
    "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge"
+    },
+    {
+     "name": "RFE/RL",
+     "url": "https://www.rferl.org/a/russia-ukraine-trade-strikes-on-key-bridges/33900167.html"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html"
+    },
+    {
+     "name": "UPI (via Yahoo)",
+     "url": "https://www.yahoo.com/news/world/articles/crimea-cut-off-ukraine-strikes-132229253.html"
+    },
     {
      "name": "France 24 / Reuters",
      "url": "https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine"
-    },
-    {
-     "name": "AFP (via Gulf News)",
-     "url": "https://gulfnews.com/world/europe/russian-strikes-hit-major-bridges-in-kyiv-mayor-1.500749826"
-    },
-    {
-     "name": "DPA (via Yahoo)",
-     "url": "https://www.yahoo.com/news/world/articles/russian-missiles-hit-two-bridges-011835847.html"
-    },
-    {
-     "name": "Anadolu",
-     "url": "https://www.aa.com.tr/en/europe/zelenskyy-says-europe-joins-ukraine-settlement-negotiations-for-1st-time/4127079"
     }
    ]
   },
@@ -369,27 +417,31 @@
    "lead": true,
    "serious": true,
    "developing": true,
-   "changed": "Updated 17 Nov: Iran bars UN nuclear inspectors until the war ends; another tanker is disabled in Hormuz.",
+   "changed": "Updated 17 Nov: Iran fires drones at a US radar in Bahrain for the third time in five days.",
    "published": "2026-11-16T09:00:00Z",
-   "title": "Iran bars UN nuclear inspectors as another tanker is hit near Hormuz",
-   "why": "Iran will not let the IAEA, the UN nuclear watchdog, visit its damaged nuclear sites until the war has permanently ended, Deputy Foreign Minister Kazem Gharibabadi said on Sunday. Britain's maritime agency UKMTO says an attack disabled a tanker near Oman's port of Khasab late Monday; the crew are safe.",
-   "matters": "Iran's Revolutionary Guards claim six tankers have hit mines and caught fire since Sunday; this cannot be independently verified.",
+   "title": "Bahrain intercepts Iranian drones aimed at US radar as Hormuz attacks continue",
+   "why": "Iran's Revolutionary Guards say they fired drones at a US radar at Bahrain's Sheikh Isa air base on Tuesday, the third such attack in five days. Bahrain says it intercepted them; the US military says nothing was damaged. Near Oman, the crew of a hit gas tanker abandoned ship.",
+   "matters": "Iran has also barred UN nuclear inspectors until the war ends, and a third US aircraft carrier has entered the region.",
    "sources": [
     {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/asia-pacific/20261116-iran-blocks-un-nuclear-site-visits-until-war-ends"
+     "name": "Reuters (via The Irish Times)",
+     "url": "https://www.irishtimes.com/world/middle-east/2026/11/17/iran-attacks-us-military-radar-system-in-bahrain-with-drones/"
     },
     {
      "name": "Anadolu",
-     "url": "https://www.aa.com.tr/en/middle-east/attack-disables-tanker-in-strait-of-hormuz-uk-maritime-agency/4127173"
+     "url": "https://aa.com.tr/en/middle-east/bahrain-says-air-defenses-intercept-aerial-iranian-attacks/4127308"
     },
     {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/news/gulf/2026/11/16/iran-escalates-threats-against-us-forces-and-gulf-states-as-third-american-carrier-arrives/"
+     "name": "Gulf News",
+     "url": "https://gulfnews.com/world/mena/middle-east-conflict-tanker-incident-near-hormuz-as-vance-rules-out-forever-war-1.500749924"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz"
+     "name": "ABC News (US)",
+     "url": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/asia-pacific/20261116-iran-blocks-un-nuclear-site-visits-until-war-ends"
     }
    ]
   },
@@ -707,50 +759,6 @@
     {
      "name": "KFF Health News (via LAist)",
      "url": "https://laist.com/news/health/us-has-lost-measles-elimination-status-global-health-authorities-say"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "developing": true,
-   "published": "2026-11-13T15:00:00Z",
-   "title": "Voyager 1 to become first spacecraft one light-day from Earth",
-   "why": "NASA says Voyager 1, launched in 1977, will be one light-day from Earth, about 25.9 billion kilometres, on Wednesday 18 November at about 10:16 GMT. A command from Earth now takes a full day to reach it, and the reply another day.",
-   "matters": "No other human-made object has travelled so far; its power supply is expected to run out within about a decade.",
-   "sources": [
-    {
-     "name": "NASA",
-     "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/"
-    },
-    {
-     "name": "Science News",
-     "url": "https://sciencenews.org/article/voyager-1-light-day-exploration"
-    },
-    {
-     "name": "Popular Science",
-     "url": "https://www.popsci.com/science/voyager-1-one-light-day-away/"
-    }
-   ]
-  },
-  {
-   "section": "culture",
-   "developing": true,
-   "published": "2026-11-13T12:00:00Z",
-   "title": "Heirs ask Sotheby's to halt $180m Van Gogh sale over Nazi-era claim",
-   "why": "Heirs of German Jewish publisher Samuel Fischer say Van Gogh's \"Chestnut Trees in Blossom\", estimated at $180m, was sold under duress in 1936 and want it withdrawn from Sotheby's New York sale on Wednesday. Sotheby's says its research has not shown duress but it is talking to the family.",
-   "matters": "The case tests how auction houses handle art that Jewish families sold while escaping Nazi persecution.",
-   "sources": [
-    {
-     "name": "BBC (via Yahoo)",
-     "url": "https://www.yahoo.com/news/world/articles/sothebys-auction-180m-van-gogh-180014137.html"
-    },
-    {
-     "name": "The Jewish Chronicle",
-     "url": "https://www.thejc.com/news/usa/jewish-heirs-seek-to-halt-135m-van-gogh-auction-at-sothebys-over-nazi-persecution-claim-prg5zi21"
-    },
-    {
-     "name": "JNS",
-     "url": "https://www.jns.org/news/culture-and-society/jewish-heirs-seek-to-halt-sothebys-sale-of-180-million-van-gogh"
     }
    ]
   }
