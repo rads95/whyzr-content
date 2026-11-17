@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-17T02:35:59Z",
+ "updated": "2026-11-17T07:49:52Z",
  "items": [
+  {
+   "section": "world",
+   "published": "2026-11-17T02:35:00Z",
+   "title": "Japan protests after suspected Russian planes enter its airspace",
+   "why": "Two aircraft believed to be Russian entered Japanese airspace near Okinoshima island, off Fukuoka in south-western Japan, just after 4am on Tuesday, Japan's government says. Fighter jets were scrambled to warn them, and Tokyo lodged a strong protest with Moscow.",
+   "matters": "It is the first such violation Japan has reported since September 2024, ahead of a summit in China this week.",
+   "sources": [
+    {
+     "name": "Reuters (via Yahoo)",
+     "url": "https://www.yahoo.com/news/world/articles/tokyo-lodges-protest-aircraft-believed-023524905.html"
+    },
+    {
+     "name": "AFP (via The Standard)",
+     "url": "https://www.thestandard.com.hk/world/article/348723/Japan-scrambles-jets-after-suspected-Russian-planes-enter-airspace"
+    },
+    {
+     "name": "Jiji Press (via Nippon.com)",
+     "url": "https://www.nippon.com/en/articles/-/57542"
+    }
+   ]
+  },
   {
    "section": "science",
    "published": "2026-11-17T02:00:00Z",
@@ -491,10 +512,14 @@
    "serious": true,
    "developing": true,
    "published": "2026-11-16T00:52:00Z",
-   "title": "Storm Akvan forecast to hit India's Andhra Pradesh coast this week",
-   "why": "A deep depression in the Bay of Bengal was expected to become Cyclone Akvan on Monday evening, India's weather department (IMD) said. It forecasts a very severe cyclonic storm reaching the coast between Nellore and Tuni around 19–20 November, with gusts up to 145 km/h.",
-   "matters": "Heavy rain is also forecast for Tamil Nadu, including Chennai, and fishermen have been told to stay off the sea.",
+   "title": "Cyclone Akvan expected to hit India's Andhra Pradesh coast on Friday",
+   "why": "Cyclone Akvan formed over the Bay of Bengal and could become a severe cyclonic storm by Tuesday evening, India's weather department (IMD) says. It expects the storm to cross the coast between Nellore and Tuni around midday on Friday 20 November, with winds of up to 130–145 km/h.",
+   "matters": "Extremely heavy rain is forecast for coastal Andhra Pradesh on 19–20 November, and fishermen have been told to stay off the sea.",
    "sources": [
+    {
+     "name": "The Hans India",
+     "url": "https://www.thehansindia.com/andhra-pradesh/cyclone-akvan-approaches-ap-coast-rains-expected-for-three-days-1142924"
+    },
     {
      "name": "Down To Earth",
      "url": "https://www.downtoearth.org.in/climate-change/daily-weather-tracker-bay-of-bengal-depression-set-to-become-cyclone-akvan-andhra-pradesh-on-alert"
@@ -507,28 +532,8 @@
      "name": "The Week",
      "url": "https://www.theweek.in/news/india/2026/11/16/imd-alert-deep-depression-intensifies-over-bay-of-bengal-landfall-likely-in-andhra-pradesh.html"
     }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-11-16T00:49:00Z",
-   "title": "US and nine partners sign declaration to protect AI supply chains",
-   "why": "The US State Department says ten countries, including India, Japan, South Korea, Australia, Israel, Qatar, the UAE, Singapore and the UK, signed the 'San Francisco Declaration' on 15 November. It sets up working groups on chips, minerals, energy and AI security. It is not a trade deal.",
-   "matters": "Governments are grouping together to control who makes the chips and parts that AI depends on.",
-   "sources": [
-    {
-     "name": "ANI via The Tribune",
-     "url": "https://www.tribuneindia.com/news/usa-news/us-india-and-8-other-nations-sign-san-francisco-declaration-to-secure-super-intelligence-supply-chains-ahead-of-quad-summit"
-    },
-    {
-     "name": "Investing.com",
-     "url": "https://za.investing.com/news/world-news/us-nine-nations-sign-san-francisco-declaration-on-ai-security-4576808"
-    },
-    {
-     "name": "Anadolu via TRT World",
-     "url": "https://www.trtworld.com/article/bae20f6b5c22"
-    }
-   ]
+   ],
+   "changed": "Updated 17 Nov: Akvan is now a cyclone; landfall is forecast for midday on 20 November."
   },
   {
    "section": "money",
@@ -548,31 +553,6 @@
     {
      "name": "Nikkei Asia",
      "url": "https://asia.nikkei.com/economy/japan-s-q3-gdp-drops-an-annualized-0.1-below-market-expectations"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-15T22:50:00Z",
-   "title": "Cape Verde's President Neves wins second term, provisional results show",
-   "why": "José Maria Neves won about 63.8% of Sunday's presidential vote in Cape Verde, off West Africa, provisional results show. Joana Rosa, a former justice minister and the first woman to run for president there, took 31.6% and conceded. Only about a third of voters took part.",
-   "matters": "Official results from the electoral commission are expected this week.",
-   "sources": [
-    {
-     "name": "Reuters (via Yahoo)",
-     "url": "https://www.yahoo.com/news/world/articles/cape-verde-president-neves-wins-060110534.html"
-    },
-    {
-     "name": "Lusa (via Observador)",
-     "url": "https://observador.pt/2026/11/15/joana-rosa-reconhece-derrota-eleitoral-nas-presidenciais-de-cabo-verde/"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://pt.euronews.com/2026/11/15/cabo-verde-vai-hoje-a-votos-e-pode-ter-a-primeira-mulher-eleita-presidente-da-republica"
-    },
-    {
-     "name": "The Rio Times",
-     "url": "https://www.riotimesonline.com/cabo-verde-neves-reelected-president/"
     }
    ]
   },
@@ -640,48 +620,6 @@
    ]
   },
   {
-   "section": "tech",
-   "published": "2026-11-15T18:30:00Z",
-   "title": "Vulcan rocket fails, losing 40 Amazon internet satellites",
-   "why": "A United Launch Alliance Vulcan rocket launched from Cape Canaveral, Florida, on Sunday but failed to reach orbit after a problem about 10 minutes into flight. All 40 Amazon Leo satellites on board were lost. It is ULA's first outright failure since the company was formed in 2006.",
-   "matters": "It sets back Amazon's plan for worldwide satellite internet, as Amazon must wait for the investigation before flying Vulcan again.",
-   "sources": [
-    {
-     "name": "Spaceflight Now",
-     "url": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/vulcan-rocket-40-amazon-leo-internet-satellites-launch-mishap/"
-    },
-    {
-     "name": "SpaceNews",
-     "url": "https://spacenews.com/vulcan-launch-of-amazon-leo-satellites-fails/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-15T16:00:00Z",
-   "title": "Estonia to close all border crossings with Russia from 1 December",
-   "why": "Foreign Minister Margus Tsahkna said on Sunday Estonia will shut its three crossings after a foiled arson attack on drone maker Threod Systems near Tallinn on Saturday. Estonia says Russia's GRU military intelligence ordered it; eight suspects were detained. Moscow said the plan, if confirmed, would be \"Russophobia\".",
-   "matters": "Estonia, a NATO and EU member, says closing the border will curb Russian hostile activity and sanctions evasion.",
-   "sources": [
-    {
-     "name": "Anadolu",
-     "url": "https://www.aa.com.tr/en/europe/estonia-to-close-all-border-crossings-with-russia-from-dec-1-foreign-minister/4125957"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/16/estonia-to-close-russia-border-after-sabotage-bid-on-drone-maker-foreign-minister-says"
-    },
-    {
-     "name": "Newsweek",
-     "url": "https://www.newsweek.com/nato-member-estonia-to-shut-russia-border-after-sabotage-attack-12717506"
-    }
-   ]
-  },
-  {
    "section": "curious",
    "published": "2026-11-15T16:00:00Z",
    "title": "Ronaldinho, 46, plays his first competitive match in 11 years",
@@ -698,135 +636,6 @@
     {
      "name": "AFP (via Kuwait Times)",
      "url": "https://kuwaittimes.com/article/53714/sports/icon-ronaldinho-makes-winning-return-to-pro-football-in-italys-third-tier/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-15T15:00:00Z",
-   "title": "Huge Prague rally opposes plan to change public media funding",
-   "why": "Organisers say about 350,000 to 450,000 people gathered on Letná plain in Prague, the Czech capital, on 15 November. They oppose a government bill to scrap the licence fee and fund Czech Television and Czech Radio from the state budget. Police gave no count.",
-   "matters": "Critics fear state funding could weaken the broadcasters’ independence; Prime Minister Andrej Babiš says it will not and plans to proceed.",
-   "sources": [
-    {
-     "name": "AP",
-     "url": "https://abcnews.com/Business/wireStory/czechs-gather-big-numbers-reject-governments-plan-overhaul-138158819"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/15/hundreds-of-thousands-in-prague-protest-czech-governments-public-media-funding-plans"
-    },
-    {
-     "name": "EUalive",
-     "url": "https://eualive.net/hundreds-of-thousands-gather-against-changes-to-czech-public-media-funding/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-15T13:38:00Z",
-   "title": "ASEAN and China miss deadline for South China Sea code of conduct",
-   "why": "Talks on rules for the disputed South China Sea did not conclude at the ASEAN summit in Manila, the Philippines said on Sunday. Foreign Secretary Theresa Lazaro said about 80% of the draft is agreed; whether it will be legally binding is unresolved. Singapore, next year's chair, takes over.",
-   "matters": "About half the world's merchant ships pass through the sea, where China and the Philippines have clashed repeatedly since 2022.",
-   "sources": [
-    {
-     "name": "Reuters (via Yahoo)",
-     "url": "https://www.yahoo.com/news/articles/asean-china-fail-conclude-south-133848738.html"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather"
-    },
-    {
-     "name": "The Philippine Star",
-     "url": "https://www.philstar.com/headlines/2026/11/16/2570417/no-final-code-conduct-south-china-sea-dfa"
-    }
-   ]
-  },
-  {
-   "section": "curious",
-   "published": "2026-11-15T12:45:00Z",
-   "title": "Thousands of Konkani singers set record with 12-day singing marathon",
-   "why": "More than 6,700 singers performed over 4,500 Konkani songs without stopping for 12 days, 12 hours and 12 minutes in Mangaluru, southern India, ending on Sunday. Organisers Mandd Sobhann say Guinness World Records certified it as the longest singing marathon by multiple singers.",
-   "matters": "Konkani, spoken mainly along India's west coast, is one of the country's 22 officially recognised languages.",
-   "sources": [
-    {
-     "name": "ETV Bharat",
-     "url": "https://www.etvbharat.com/en/state/mangaluru-konkani-singing-marathon-guinness-world-record-enn26111603898"
-    },
-    {
-     "name": "ANI (Asianet Newsable)",
-     "url": "https://newsable.asianetnews.com/entertainment/konkani-music-marathon-enters-guinness-world-records-in-mangaluru-articleshow-7dcrtwz"
-    },
-    {
-     "name": "The Goan",
-     "url": "https://www.thegoan.net/goa-news/historic-konkani-sings-its-way-into-guinness-record/157139.html"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-15T12:20:00Z",
-   "title": "Rory McIlroy equals record with eighth Race to Dubai title",
-   "why": "England's Tyrrell Hatton won the DP World Tour Championship in Dubai, United Arab Emirates, on Sunday by five shots. Runner-up Rory McIlroy overtook Spain's Eugenio Chacarra on the final day to win the season-long Race to Dubai for the eighth time, equalling Colin Montgomerie's record.",
-   "sources": [
-    {
-     "name": "AP (via ESPN)",
-     "url": "https://www.espn.com/golf/story/_/id/50489716/rory-mcilroy-wins-season-long-race-dubai-title"
-    },
-    {
-     "name": "CBS Sports",
-     "url": "https://www.cbssports.com/golf/news/rory-mcilroy-record-race-to-dubai-tyrrell-hatton-dp-world-tour-championship/"
-    },
-    {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/sport/2026/11/15/emotional-rory-mcilroy-dedicates-record-equalling-race-to-dubai-title-to-hospitalised-father-gerry/"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "serious": true,
-   "published": "2026-11-15T12:00:00Z",
-   "title": "Indonesia's president apologises to Malaysia and Singapore over wildfire haze",
-   "why": "Speaking at the ASEAN summit in Manila on 15 November, President Prabowo Subianto apologised for smoke from nearly four months of fires on Sumatra, Borneo and Papua. He said 17 company concessions had been revoked and that 16 firefighters had died fighting the blazes.",
-   "matters": "Smoke from Indonesia's forest and peatland fires regularly harms air quality and health across Southeast Asia.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/16/indonesian-president-apologises-to-singapore-malaysia-for-wildfire-haze"
-    },
-    {
-     "name": "The Star (Malaysia)",
-     "url": "https://www.thestar.com.my/news/nation/2026/11/16/prabowo-apologises-to-malaysia-and-singapore-over-transboundary-haze"
-    },
-    {
-     "name": "Philstar",
-     "url": "https://www.philstar.com/world/2026/11/16/2570486/indonesia-apologises-malaysia-singapore-over-wildfire-haze"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-15T11:40:00Z",
-   "title": "Australia beat New Zealand 32-12 to win Rugby League World Cup",
-   "why": "Australia's Kangaroos beat New Zealand 32-12 in the men's Rugby League World Cup final in Brisbane on Sunday, their fourth title in a row and 13th in all. Earlier, Australia's women beat New Zealand 34-10 to keep their own world title.",
-   "sources": [
-    {
-     "name": "RNZ",
-     "url": "https://www.rnz.co.nz/news/sport/2610905/kiwis-crushed-by-kangaroos-in-rugby-league-world-cup-final"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-15/kangaroos-jillaroos-live-rugby-league-world-cup-finals/107376474"
-    },
-    {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/rugby-league/news/13612427/mens-rugby-league-world-cup-final-australia-32-12-new-zealand-kangaroos-brush-off-kiwis-to-win-fourth-straight-world-title"
-    },
-    {
-     "name": "1News",
-     "url": "https://www.1news.co.nz/2026/11/16/clinical-kangaroos-thrash-kiwis-to-clinch-fourth-straight-cup-win/"
     }
    ]
   },
@@ -874,27 +683,6 @@
     {
      "name": "Anadolu",
      "url": "https://www.aa.com.tr/en/turkiye/cop31-draft-decision-calls-for-tripling-adaptation-finance-to-120b-speeding-shift-away-from-fossil-fuels/4126715"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-11-15T08:00:00Z",
-   "title": "South-east Asian nations sign a regional digital trade pact",
-   "why": "ASEAN economic ministers meeting in Manila, the Philippines, signed a Digital Economy Framework Agreement covering e-commerce, online payments and data flows across the ten-member bloc.",
-   "matters": "Shared online trade rules could make cross-border shopping and payments across the region easier and safer.",
-   "sources": [
-    {
-     "name": "Anadolu",
-     "url": "https://aa.com.tr/en/asia-pacific/asean-signs-power-grid-mou-and-discusses-regional-oil-stockpiling/4126092"
-    },
-    {
-     "name": "The Manila Times",
-     "url": "https://www.manilatimes.net/2026/11/16/business/top-business/asean-ministers-sign-landmark-digital-economy-pact/2470381"
-    },
-    {
-     "name": "The Daily Chronicle",
-     "url": "https://thechronicle.com.ph/asean-signs-power-grid-agreement-explores-regional-oil-stockpiling/"
     }
    ]
   },
