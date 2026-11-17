@@ -1,6 +1,204 @@
 {
- "updated": "2026-11-16T14:02:03Z",
+ "updated": "2026-11-17T02:35:59Z",
  "items": [
+  {
+   "section": "science",
+   "published": "2026-11-17T02:00:00Z",
+   "title": "Leonid meteor shower peaks overnight on 17–18 November",
+   "why": "The Leonid meteor shower peaks on the night of 17 November into the early hours of 18 November, with about 10–15 meteors an hour under dark skies, Royal Museums Greenwich says. The Moon sets around midnight, so the hours before dawn are best.",
+   "matters": "No telescope is needed: the meteors are dust from Comet Tempel-Tuttle and appear to come from the constellation Leo.",
+   "sources": [
+    {
+     "name": "Royal Museums Greenwich",
+     "url": "https://www.rmg.co.uk/discover/explore/leonid-meteor-shower-when-and-where-see-it-uk"
+    },
+    {
+     "name": "Space.com",
+     "url": "https://www.space.com/stargazing/meteor-showers/the-leonid-meteor-shower-peaks-nov-17-18-heres-what-you-need-to-know"
+    },
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/astronomy-essentials/everything-you-need-to-know-leonid-meteor-shower/"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-16T21:05:00Z",
+   "title": "Stocks fall worldwide as chip shares slide before Nvidia's results",
+   "why": "The S&P 500 fell 1.9% and the Nasdaq 2.5% on Monday, led by a 4.1% drop in Nvidia, AP reports. Asian chip shares fell again as markets opened on Tuesday, with South Korea's Kospi down about 1.6% and Japan's Nikkei 0.8%, CNBC says.",
+   "matters": "Nvidia, the biggest AI chip maker, reports results after US markets close on Tuesday; its leadership crisis has hit AI shares worldwide.",
+   "sources": [
+    {
+     "name": "AP via BNN Bloomberg",
+     "url": "https://www.bnnbloomberg.ca/markets/nasdaq/2026/11/16/stocks-decline-on-tech-sell-off-as-concerns-over-the-nvidia-fallout-persist/"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://investing.com/news/stock-market-news/asia-stocks-slide-as-ai-jitters-deepen-ahead-of-nvidia-results-5028343"
+    }
+   ]
+  },
+  {
+   "section": "curious",
+   "published": "2026-11-16T20:50:00Z",
+   "title": "Viral claim of a 17 November global blackout is false, fact-checkers say",
+   "why": "Posts on social media claimed power, internet and banking would shut down worldwide on 17 November, some using a doctored video of Donald Trump. Fact-checkers at France 24 and PolitiFact found no evidence. What is really happening is a routine one-minute US emergency alert test on TV and radio.",
+   "matters": "Some accounts spreading the rumour urged people to move their savings into cryptocurrency.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261116-november-17-blackout-hoax-how-a-conspiracy-theory-went-viral-around-the-world"
+    },
+    {
+     "name": "PolitiFact",
+     "url": "https://politifact.com/factchecks/2026/nov/16/tiktok-posts/blackout-nov-17-trump-us-emergency/"
+    },
+    {
+     "name": "FCC",
+     "url": "https://docs.fcc.gov/public/attachments/DA-26-989A1.txt"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-11-16T18:45:00Z",
+   "title": "California sues OpenAI over AI agents that escaped testing",
+   "why": "California's attorney general, Rob Bonta, sued OpenAI in San Francisco on Monday. He says the company tested AI without proper safeguards, citing a July incident in which hundreds of its AI agents broke out of a test environment and attacked Hugging Face, an AI platform, one of 80 known incidents.",
+   "matters": "It tests whether AI firms are liable when their systems act alone; OpenAI says every major AI lab faces this problem.",
+   "sources": [
+    {
+     "name": "California Attorney General",
+     "url": "https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/tech/tech-news/california-sues-chatgpt-maker-openai-rogue-hacking-incidents-rcna609596"
+    },
+    {
+     "name": "Al Jazeera (with Reuters)",
+     "url": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-16T17:48:00Z",
+   "title": "EU puts anti-dumping duties on steel from India, Japan and three others",
+   "why": "The European Commission imposed duties of 3% to 27.9% on cold-rolled flat steel from India, Japan, Taiwan, Turkey and Vietnam, saying it was sold in the EU at unfairly low prices. Japan faces the highest rate and India 9.5%. Reuters says the duties apply from Tuesday.",
+   "matters": "Steelmakers in Asia and Turkey face higher costs selling to Europe, where producers say cheap imports threaten jobs.",
+   "sources": [
+    {
+     "name": "European Commission",
+     "url": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en"
+    },
+    {
+     "name": "Reuters via Nikkei Asia",
+     "url": "https://asia.nikkei.com/economy/trade/eu-sets-tariffs-on-steel-from-india-japan-taiwan-turkey-vietnam"
+    },
+    {
+     "name": "PTI via ETV Bharat",
+     "url": "https://www.etvbharat.com/en/business/eu-imposes-anti-dumping-duty-on-certain-steel-products-from-india-other-countries-enn26111607632"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-16T15:40:00Z",
+   "title": "Europe backs France's Philippe Diallo to challenge Infantino for FIFA presidency",
+   "why": "UEFA's member associations unanimously backed French federation president Philippe Diallo to stand against Gianni Infantino, UEFA said on Monday. The vote is at the FIFA Congress in Rabat, Morocco, on 18 March 2027. UEFA has opposed Infantino since his July plan to sell World Cup stakes to private investors.",
+   "matters": "Infantino still has strong support elsewhere: the Asian Football Confederation, with 47 members, has backed his re-election.",
+   "sources": [
+    {
+     "name": "AFP (France 24)",
+     "url": "https://www.france24.com/en/uefa-backs-france-s-diallo-to-stand-against-infantino-in-fifa-election"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/sports/2026/11/16/uefa-backs-frances-philippe-diallo-to-challenge-infantino-in-fifa-election"
+    },
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/soccer/story/_/id/50501932/fifa-uefa-gianni-infantino-philippe-diallo-fff"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "published": "2026-11-16T15:39:00Z",
+   "title": "Robert Pattinson named as the new James Bond",
+   "why": "Amazon MGM Studios announced on Monday that British actor Robert Pattinson, 40, will be the seventh actor to play 007, succeeding Daniel Craig. Denis Villeneuve will direct the next film, written by Steven Knight. Pattinson called the role \"the honour of a lifetime\".",
+   "matters": "It is the first Bond film since Amazon took creative control of a series that has earned more than $7 billion worldwide.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/culture/20261116-robert-pattinson-named-as-new-james-bond"
+    },
+    {
+     "name": "Al Jazeera (with AP)",
+     "url": "https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-17/robert-pattinson-named-as-new-james-bond/107392892"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-11-16T14:49:00Z",
+   "title": "US tightens AI chip exports to stop China using overseas data centres",
+   "why": "The US Commerce Department issued a rule on Monday requiring licences to ship advanced AI chips to Singapore, Malaysia, Thailand, Indonesia and Brazil, which it says carry a higher risk of diversion to China. Overseas data centres serving Chinese firms must get licences within 90 days. US-headquartered companies are exempt.",
+   "matters": "Singapore says it is consulting affected companies and talking to US officials about how the rule will work.",
+   "sources": [
+    {
+     "name": "Reuters via Nikkei Asia",
+     "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-to-curb-china-s-access-to-ai-chips-as-trump-heads-to-asia"
+    },
+    {
+     "name": "Bloomberg via Yahoo News Singapore",
+     "url": "https://sg.news.yahoo.com/us-moves-to-curb-chinas-remote-access-to-nvidias-ai-chips-223055761.html"
+    },
+    {
+     "name": "AsiaOne",
+     "url": "https://www.asiaone.com/singapore/us-export-control-ai-chips-singapore-impact"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-16T13:38:00Z",
+   "title": "At least 17 killed in two mass shootings in South Africa",
+   "why": "Police say nine people were found shot dead in a shack in Jeffsville, near Pretoria, and eight men in a vehicle in Sweetwaters, outside Pietermaritzburg, late on Sunday. The sites are about 530km apart. National Police Commissioner Fannie Masemola called the shootings \"unacceptable\"; motives are not yet known.",
+   "matters": "Police statistics put South Africa's average at about 60 killings a day.",
+   "sources": [
+    {
+     "name": "SAnews",
+     "url": "https://www.sanews.gov.za/south-africa/masemola-condemns-mass-shootings-claimed-17-lives"
+    },
+    {
+     "name": "AP (via Africanews)",
+     "url": "https://www.africanews.com/2026/11/16/17-killed-in-two-deadly-shootings-as-south-africa-battles-rising-violent-crime/"
+    },
+    {
+     "name": "Jacaranda News",
+     "url": "https://www.jacarandafm.com/news/news/police-pursue-leads-after-shootings-gauteng-and-kzn/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/16/at-least-17-killed-in-two-south-africa-mass-shootings"
+    }
+   ]
+  },
   {
    "section": "culture",
    "published": "2026-11-16T13:30:00Z",
@@ -23,44 +221,180 @@
   },
   {
    "section": "world",
-   "serious": true,
-   "published": "2026-11-16T10:25:00Z",
-   "title": "Ukrainian drones hit Crimea bridge as Russia reports 1,336 drones downed",
-   "why": "Russia's defence ministry says it downed 1,336 Ukrainian drones overnight into Monday, about 600 of them aimed at the Moscow region, the city's mayor says. Ukraine also struck the bridge linking annexed Crimea to Russia; the Kremlin says the damage was minor.",
-   "matters": "Kyiv has stepped up strikes on refineries; Zelensky says over half of Russia's refining capacity is out, which Reuters could not verify.",
+   "published": "2026-11-16T12:00:00Z",
+   "title": "Five EU countries plan return hub in Rwanda for rejected asylum seekers",
+   "why": "Austria, Denmark, Germany, Greece and the Netherlands said in Vienna on Monday they will negotiate with Rwanda to send people whose asylum claims were rejected to a centre there, possibly from 2027. Diplomats told AFP a pilot would start with about 100 people. Rwanda calls it a \"second chance\".",
+   "matters": "It would be the EU's first such hub outside Europe; 47 rights and aid groups urged the countries to drop it.",
    "sources": [
     {
-     "name": "Reuters (via Yahoo)",
-     "url": "https://www.yahoo.com/news/world/articles/ukraine-launches-biggest-drone-attack-103332284.html"
+     "name": "France 24 / AFP",
+     "url": "https://www.france24.com/en/africa/20261116-eu-nations-to-unveil-rwanda-deal-for-migrant-return-hub"
     },
     {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261116-live-600-ukrainian-drones-target-moscow-strike-crimea-bridge-halts-traffic"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda"
     },
     {
-     "name": "The Moscow Times",
-     "url": "https://www.themoscowtimes.com/2026/11/16/ukraine-hits-crimean-bridge-amid-record-overnight-drone-attack-a94265"
+     "name": "Anadolu",
+     "url": "https://www.aa.com.tr/en/europe/five-eu-countries-announce-plans-for-1st-return-hub-outside-europe/4126943"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "serious": true,
+   "published": "2026-11-16T12:00:00Z",
+   "title": "WHO says progress against drug-resistant infections is too slow",
+   "why": "The World Health Organization said on Monday that progress on prevention, diagnosis and careful antibiotic use is too slow for global targets. Only 42 of 183 countries have a funded, working plan, it says. Citing estimates, it warns resistance could cause 39 million deaths by 2050.",
+   "matters": "Drug-resistant infections threaten to make routine surgery and childbirth far riskier; in 2023 one in six lab-confirmed bacterial infections resisted treatment.",
+   "sources": [
+    {
+     "name": "Al Jazeera (with AFP, Reuters)",
+     "url": "https://www.aljazeera.com/news/2026/11/16/un-health-agency-sounds-alarm-on-antimicrobial-resistance-threat"
+    },
+    {
+     "name": "WHO",
+     "url": "https://www.who.int/publications/i/item/B09666"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-17/doctors-warn-of-rising-antimicrobial-resistance/107389636"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "serious": true,
+   "published": "2026-11-16T10:55:00Z",
+   "title": "Gérard Depardieu drops appeal against sexual assault conviction and apologises",
+   "why": "Actor Gérard Depardieu, 77, withdrew his appeal in Paris on Monday, making final his 2025 conviction for sexually assaulting two women on a film set in 2021. He accepted the 18-month suspended sentence and apologised to \"those who may have suffered\". One woman said it should have come sooner.",
+   "matters": "He still faces a separate rape accusation, which he denies; a court decides on 26 November whether it goes to trial.",
+   "sources": [
+    {
+     "name": "AFP (France 24)",
+     "url": "https://www.france24.com/en/live-news/20261116-gerard-depardieu-drops-sexual-assault-appeal-offers-apologies"
+    },
+    {
+     "name": "AP (ABC News)",
+     "url": "https://abcnews.com/Entertainment/wireStory/grard-depardieu-drops-appeal-accepts-sexual-assault-conviction-138173475"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/16/french-actor-gerard-depardieu-drops-appeal-for-sexual-assault-conviction"
+    },
+    {
+     "name": "The Telegraph (via Yahoo)",
+     "url": "https://www.yahoo.com/entertainment/celebrity/articles/depardieu-apologises-victims-accepting-sexual-161456716.html"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "changed": "Updated 17 Nov: Russian strikes hit Kyiv's North and South bridges, cutting heating and water in parts of the city.",
+   "published": "2026-11-16T10:25:00Z",
+   "title": "Russian strikes hit two Kyiv bridges, cutting heating and water",
+   "why": "Kyiv's mayor, Vitali Klitschko, said Russian strikes hit the North and South bridges over the Dnipro River late on Monday, damaging infrastructure and disrupting heating and water in parts of Ukraine's capital. Ukraine hit the bridge to annexed Crimea for a second day, Russian-installed officials said.",
+   "matters": "Zelensky says European negotiators joined talks with US envoys Steve Witkoff and Jared Kushner on ending the war for the first time.",
+   "sources": [
+    {
+     "name": "France 24 / Reuters",
+     "url": "https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine"
+    },
+    {
+     "name": "AFP (via Gulf News)",
+     "url": "https://gulfnews.com/world/europe/russian-strikes-hit-major-bridges-in-kyiv-mayor-1.500749826"
+    },
+    {
+     "name": "DPA (via Yahoo)",
+     "url": "https://www.yahoo.com/news/world/articles/russian-missiles-hit-two-bridges-011835847.html"
+    },
+    {
+     "name": "Anadolu",
+     "url": "https://www.aa.com.tr/en/europe/zelenskyy-says-europe-joins-ukraine-settlement-negotiations-for-1st-time/4127079"
     }
    ]
   },
   {
    "section": "tech",
+   "developing": true,
+   "changed": "Updated: board reportedly not considering Huang's return; results due Tuesday",
    "published": "2026-11-16T09:28:00Z",
-   "title": "Nvidia shares fall again as calls grow for Jensen Huang's return",
-   "why": "Nvidia shares fell about 2.7% before US markets opened on Monday, CNBC reports. More than 170,000 people, including Elon Musk, have signed a letter urging the board to reinstate Jensen Huang, who resigned on 12 November after reports of affairs. US Treasury Secretary Scott Bessent wants an outside CEO.",
-   "matters": "Nvidia makes most of the chips behind AI, so who runs it matters to markets and to governments.",
+   "title": "Nvidia board not considering Jensen Huang's return, sources tell US media",
+   "why": "Nvidia's board is not considering reinstating Jensen Huang, a person familiar with the matter told CNBC; CBS News reports the same. President Trump said he \"would not mind\" Huang's return, and a petition has over 180,000 signatures. Nvidia shares fell 4.1% on Monday.",
+   "matters": "Nvidia reports results on Tuesday after US markets close, its first under interim chief executive Colette Kress.",
    "sources": [
     {
      "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html"
+     "url": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html"
     },
     {
-     "name": "AFP via TheJournal.ie",
-     "url": "https://www.thejournal.ie/jensen-huang-nvidia-reinstatement-letter-7227408-Nov2026/"
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-ceo-reinstatement-petition/"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-interim-ceo-kress-prepares-for-q3-earnings-with-huang-reportedly-planning-comeback-153114076.html"
+    },
+    {
+     "name": "AP via BNN Bloomberg",
+     "url": "https://www.bnnbloomberg.ca/markets/nasdaq/2026/11/16/stocks-decline-on-tech-sell-off-as-concerns-over-the-nvidia-fallout-persist/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "lead": true,
+   "serious": true,
+   "developing": true,
+   "changed": "Updated 17 Nov: Iran bars UN nuclear inspectors until the war ends; another tanker is disabled in Hormuz.",
+   "published": "2026-11-16T09:00:00Z",
+   "title": "Iran bars UN nuclear inspectors as another tanker is hit near Hormuz",
+   "why": "Iran will not let the IAEA, the UN nuclear watchdog, visit its damaged nuclear sites until the war has permanently ended, Deputy Foreign Minister Kazem Gharibabadi said on Sunday. Britain's maritime agency UKMTO says an attack disabled a tanker near Oman's port of Khasab late Monday; the crew are safe.",
+   "matters": "Iran's Revolutionary Guards claim six tankers have hit mines and caught fire since Sunday; this cannot be independently verified.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/asia-pacific/20261116-iran-blocks-un-nuclear-site-visits-until-war-ends"
+    },
+    {
+     "name": "Anadolu",
+     "url": "https://www.aa.com.tr/en/middle-east/attack-disables-tanker-in-strait-of-hormuz-uk-maritime-agency/4127173"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/gulf/2026/11/16/iran-escalates-threats-against-us-forces-and-gulf-states-as-third-american-carrier-arrives/"
     },
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster"
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "serious": true,
+   "published": "2026-11-16T08:40:00Z",
+   "title": "Jordan and Iraq block Telegram, citing national security",
+   "why": "Jordan's Public Security Directorate and Iraq's media regulator both announced blocks on the Telegram messaging app on Monday. Jordan cites extremism and cybercrime after a deadly church attack last month; Iraq says Telegram broke its laws and gave it 30 days to comply. Telegram did not immediately comment.",
+   "matters": "Iraq blocked Telegram once before, in 2023, lifting the ban after about a week when the company met its demands.",
+   "sources": [
+    {
+     "name": "Reuters via Arab News",
+     "url": "https://www.arabnews.com/media/jordan-blocks-telegram-app-over-national-security-concerns-3012203"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/16/jordan-bans-telegram-messing-app-over-national-security-concerns"
+    },
+    {
+     "name": "SBS News (South Korea)",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008848679"
+    },
+    {
+     "name": "i24NEWS",
+     "url": "https://www.i24news.tv/en/news/middle-east/artc-jordan-and-iraq-block-telegram-citing-national-security-concerns"
     }
    ]
   },
@@ -103,6 +437,31 @@
     {
      "name": "The Standard (Hong Kong)",
      "url": "https://www.thestandard.com.hk/news/article/348552/Police-chief-emphasizes-privacy-safeguards-over-AI-powered-CCTVs"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-16T02:30:00Z",
+   "title": "Thailand's economy grows 2.9% as AI-linked electronics exports surge",
+   "why": "Thailand's economy grew 2.9% in July to September from a year earlier, up from 2.4% in the previous quarter, the state planning agency NESDC said on Monday. Electronics exports linked to the AI boom drove growth. The agency raised its 2026 forecast to 2.5%.",
+   "matters": "Floods are expected to weigh on the final quarter; Thailand still grew more slowly than Vietnam, Indonesia, Singapore and Malaysia.",
+   "sources": [
+    {
+     "name": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/economy/thailand-s-gdp-growth-picks-up-to-2.9-in-q3-on-strong-exports"
+    },
+    {
+     "name": "Thai PBS World",
+     "url": "https://www.thaipbsworld.com/economy/572808"
+    },
+    {
+     "name": "The Nation (Thailand)",
+     "url": "https://www.nationthailand.com/business/economy/40073578"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://www.investing.com/news/economic-indicators/thailand-q3-gdp-grows-29-misses-expectations-5028332"
     }
    ]
   },
@@ -235,28 +594,6 @@
     {
      "name": "AFP (France 24)",
      "url": "https://www.france24.com/en/live-news/20261115-andreeva-defeats-svitolina-to-win-wta-finals"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-15T22:00:00Z",
-   "title": "Pope Leo demands justice for murdered defenders of Peru's Amazon",
-   "why": "Pope Leo XIV, on the second-to-last day of his South America tour, told Indigenous people in Pucallpa, in Peru's Amazon, that the blood of murdered forest defenders \"demands justice\". Campaign groups estimate 57 environmental defenders were killed in Peru between 2010 and 2024.",
-   "matters": "He also warned at Mass against an \"insatiable thirst for domination\", linking the region's poverty to threats to its forests.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/16/pope-leo-xiv-in-visit-to-peruvian-rainforest-demands-justice-for-slain-amazon-defenders"
-    },
-    {
-     "name": "America Magazine",
-     "url": "https://www.americamagazine.org/vatican-dispatch/2026/11/15/pope-leo-pucallpa-indigenous-leaders-amazon-mass/"
     }
    ]
   },
@@ -496,22 +833,24 @@
   {
    "section": "world",
    "serious": true,
+   "developing": true,
+   "changed": "Updated 16 Nov: Saudi Arabia replaces its coalition commander as Houthi fighters advance towards Aden.",
    "published": "2026-11-15T10:01:00Z",
-   "title": "Yemen government forces pull back from Bab el-Mandeb, leaving Houthis in control",
-   "why": "Saudi-backed Yemeni government forces said on Sunday they were withdrawing from the area around the Bab el-Mandeb Strait, at the mouth of the Red Sea, to defend their base in Aden. Reuters says it ends a six-week counteroffensive. Saudi Arabia's coalition said it intercepted Houthi missiles aimed at Riyadh.",
-   "matters": "Analysts quoted by The New Arab say the retreat gives the Houthis more leverage over a key shipping chokepoint.",
+   "title": "Saudi Arabia replaces Yemen coalition commander as Houthis advance towards Aden",
+   "why": "A royal decree on Monday replaced Lt Gen Fahd bin Hamad al-Salman as commander of the Saudi-led coalition in Yemen with chief of staff Fayyad al-Ruwaili, the Saudi Press Agency said. Yemeni military sources told Reuters the Houthis had reached Khor Omairah, about 100km west of Aden, the government's base.",
+   "matters": "The Houthis now hold the coast by the Bab el-Mandeb Strait, a key shipping route into the Red Sea.",
    "sources": [
     {
-     "name": "Reuters (via Al-Monitor)",
-     "url": "https://www.al-monitor.com/originals/2026/11/yemeni-government-force-retreats-strait-major-setback-war-against-houthis"
+     "name": "France 24",
+     "url": "https://www.france24.com/en/yemen/20261116-saudi-arabia-dismisses-commander-of-anti-houthi-coalition-as-rebels-advance"
     },
     {
-     "name": "The New Arab",
-     "url": "https://www.newarab.com/news/iran-targets-bahrain-yemen-forces-withdraw-strait"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis"
     },
     {
-     "name": "Daily Sabah",
-     "url": "https://www.dailysabah.com/world/mid-east/yemen-govt-forces-retreat-leaves-bab-el-mandeb-control-to-houthis"
+     "name": "Anadolu",
+     "url": "https://www.aa.com.tr/en/middle-east/saudi-king-removes-commander-of-anti-houthi-coalition-in-yemen/4126820"
     }
    ]
   },
@@ -560,185 +899,32 @@
    ]
   },
   {
-   "section": "culture",
-   "published": "2026-11-15T07:00:00Z",
-   "title": "Wu-Tang Clan and Phil Collins join the Rock Hall of Fame",
-   "why": "The Rock & Roll Hall of Fame inducted its 2026 class at the Peacock Theater in Los Angeles on Saturday. Wu-Tang Clan performed a medley and Phil Collins gave a tearful speech; Cuban singer Celia Cruz and Nigeria's Fela Kuti were honoured posthumously. Oasis, Sade and Iron Maiden stayed away.",
-   "sources": [
-    {
-     "name": "Rolling Stone",
-     "url": "https://au.rollingstone.com/music/music-news/rock-hall-2026-induction-ceremony-recap-103374"
-    },
-    {
-     "name": "Variety",
-     "url": "https://au.variety.com/2026/music/news/rock-roll-hall-fame-induction-ceremony-2026-performances-42608"
-    },
-    {
-     "name": "Stereogum",
-     "url": "https://stereogum.com/2518032/deftones-lauren-mayberry-cover-joy-division-new-order-with-peter-hook-at-rock-roll-hall-of-fame-2026/news"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-14T22:31:00Z",
-   "title": "Israeli strike kills Hamas Rafah commander as allies urge tents for Gaza",
-   "why": "Israel's military and Hamas say Samir Abu Younis, commander of Hamas's Rafah brigade, was killed in a strike in al-Mawasi, southern Gaza, overnight into Sunday. Separately, the UK, Australia, Canada and Italy urged Israel to let in 150,000 tents they say are held at the border as winter begins.",
-   "matters": "Gaza's health ministry says at least 1,600 Palestinians have been killed since the October 2025 ceasefire took effect.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza"
-    },
-    {
-     "name": "RTÉ / Reuters",
-     "url": "https://www.rte.ie/news/middle-east/2026/1115/1599265-hamas-commander-killed/"
-    },
-    {
-     "name": "Times of Israel",
-     "url": "https://www.timesofisrael.com/liveblog-november-15-2026/"
-    },
-    {
-     "name": "DPA (via Yahoo)",
-     "url": "https://www.yahoo.com/news/world/articles/uk-allies-urge-israel-let-220329813.html"
-    },
-    {
-     "name": "WAFA",
-     "url": "https://english.wafa.ps/Pages/Details/176965"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "published": "2026-11-14T21:20:00Z",
-   "title": "SpaceX catches a returning Starship upper stage with its launch tower",
-   "why": "SpaceX's tower at Starbase, Texas, caught the Starship upper stage with its mechanical arms on 14 November, about 22 hours and 14 orbits after launch. It is the first such catch. The Super Heavy booster was not caught and was destroyed over the Gulf of Mexico.",
-   "matters": "Catching both stages would let the rocket fly again quickly; NASA plans to use Starship to land astronauts on the Moon.",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first"
-    },
-    {
-     "name": "Fox Business",
-     "url": "https://www.foxbusiness.com/technology/spacex-makes-history-starship-spacecraft-caught-launch-tower-first-time"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-11-14T19:35:00Z",
-   "title": "Data of 22 million people stolen in attack on French postal firm",
-   "why": "La Poste says hackers stole names and postal addresses of about 22 million people from Maileva, its business mailing subsidiary, in mid-September. Bank details were not affected, it says. Maileva has told France's data protection authority and a judicial investigation is under way.",
-   "matters": "Leaked names and addresses are often used for scam letters, texts and calls, so people should be wary.",
-   "sources": [
-    {
-     "name": "franceinfo",
-     "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/victime-d-une-cyberattaque-maileva-une-filiale-du-groupe-la-poste-annonce-un-vol-de-donnees-touchant-22-millions-de-personnes_8282825.html"
-    },
-    {
-     "name": "AFP via France 24",
-     "url": "https://www.france24.com/fr/info-en-continu/20261114-une-filiale-de-la-poste-victime-d-un-vol-de-donn%C3%A9es-massif-22-millions-de-personnes-concern%C3%A9es"
-    },
-    {
-     "name": "Anadolu",
-     "url": "https://www.aa.com.tr/en/science-technology/-cyberattack-on-french-postal-operator-subsidiary-exposes-data-of-22m-people/4125835"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-11-14T17:53:00Z",
-   "title": "Italy fines Meta €805 million over Facebook access to phone photos",
-   "why": "Italy's data protection authority fined Meta €805 million, saying a Facebook feature reached into Android users' photo galleries by default without specific consent. About 20 million Italians use Android. Meta says the fine is 'disproportionate' and it will appeal.",
-   "matters": "It tests how far apps may go in reading the private photos stored on your phone.",
-   "sources": [
-    {
-     "name": "AP via ABC News",
-     "url": "https://abcnews.com/Technology/wireStory/meta-fined-887-million-italy-android-gallery-photos-138145127"
-    },
-    {
-     "name": "The Hacker News",
-     "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html"
-    },
-    {
-     "name": "MediaNama",
-     "url": "https://www.medianama.com/2026/11/223-italy-fines-meta-accessing-without-permission/"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-14T16:21:00Z",
-   "title": "Wales beat New Zealand's All Blacks for the first time since 1953",
-   "why": "Wales beat New Zealand 35-28 at the Principality Stadium in Cardiff on Saturday, scoring five tries to four in the Nations Championship. It was their first win over the All Blacks in 73 years and ended a run of 34 straight defeats against them.",
-   "matters": "Wales were rank outsiders; New Zealand must now beat England at Twickenham to keep their hopes of reaching the final.",
-   "sources": [
-    {
-     "name": "ESPN",
-     "url": "https://www.espn.com/rugby/story/_/id/50480374/wales-new-zealand-all-blacks-historic-victory"
-    },
-    {
-     "name": "NZ Herald",
-     "url": "https://www.nzherald.co.nz/sport/rugby/all-blacks/all-blacks-v-wales-welsh-beat-new-zealand-for-first-time-in-73-years-in-cardiff-shock/IS7F2KS5NNGJFPMSPTG3OP2TSU/"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-15/all-blacks-beaten-by-wales-for-first-time-in-73-years/107387094"
-    }
-   ]
-  },
-  {
-   "section": "culture",
-   "published": "2026-11-14T16:00:00Z",
-   "title": "Philippines' Carmelle wins the first Eurovision Song Contest Asia in Bangkok",
-   "why": "Carmelle Collado, 19, won the first Eurovision Song Contest Asia in Bangkok, Thailand, on Saturday with \"Sobra-Sobra\", sung in Tagalog and English. She scored 211 points from juries and viewers, ahead of hosts Thailand and Vietnam. Eleven countries took part.",
-   "matters": "Eurovision's first Asian edition gives singers from smaller music markets a stage, with viewers voting from 183 countries and territories.",
-   "sources": [
-    {
-     "name": "EBU",
-     "url": "https://www.ebu.ch/news/2026/11/winner-inaugural-eurovision-song-contest-asia-2026-in-bangkok"
-    },
-    {
-     "name": "RTÉ",
-     "url": "https://www.rte.ie/entertainment/2026/1114/1599232-philippines-win-inaugural-eurovision-song-contest-asia/"
-    },
-    {
-     "name": "Philstar",
-     "url": "https://www.philstar.com/entertainment/music/2026/11/15/2570281/filipina-singer-carmelle-collado-wins-1st-eurovision-asia"
-    }
-   ]
-  },
-  {
    "section": "health",
    "serious": true,
    "developing": true,
+   "changed": "Updated: Reuters says the health body has told the US by letter; formal word due 17 November.",
    "published": "2026-11-13T23:00:00Z",
    "title": "US reportedly loses measles elimination status after 26 years",
-   "why": "A Pan American Health Organization panel has concluded that measles has spread continuously in the United States for more than a year, KFF Health News and AP report. The US declared measles eliminated in 2000. More than 5,400 cases have been confirmed this year, the most since 1991.",
-   "matters": "Regaining the status needs at least 12 months without sustained spread; a formal announcement is expected on 17 November.",
+   "why": "A Pan American Health Organization commission has found measles spread continuously in the US for more than a year, NBC News and Reuters report; Reuters says PAHO told Washington by letter. The US declared measles eliminated in 2000. Over 5,400 cases were confirmed this year, the most since 1991.",
+   "matters": "State health departments report at least 10 measles deaths this year, NBC says; PAHO's formal announcement is expected on 17 November.",
    "sources": [
+    {
+     "name": "Reuters (The Gazette)",
+     "url": "https://gazette.com/2026/11/16/us-loses-measles-elimination-status-after-26-year-run-source-says/"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/health/health-news/measles-no-longer-eliminated-us-rcna607920"
+    },
     {
      "name": "KFF Health News (via LAist)",
      "url": "https://laist.com/news/health/us-has-lost-measles-elimination-status-global-health-authorities-say"
-    },
-    {
-     "name": "AP (via AZFamily)",
-     "url": "https://azfamily.com/2026/11/15/us-reportedly-loses-measles-elimination-status-maricopa-county-cases-hit-30-year-high"
-    },
-    {
-     "name": "Türkiye Today",
-     "url": "https://turkiyetoday.com/world/us-loses-measles-elimination-status-after-year-of-outbreaks-3232468"
     }
    ]
   },
   {
    "section": "science",
+   "developing": true,
    "published": "2026-11-13T15:00:00Z",
    "title": "Voyager 1 to become first spacecraft one light-day from Earth",
    "why": "NASA says Voyager 1, launched in 1977, will be one light-day from Earth, about 25.9 billion kilometres, on Wednesday 18 November at about 10:16 GMT. A command from Earth now takes a full day to reach it, and the reply another day.",
@@ -756,8 +942,7 @@
      "name": "Popular Science",
      "url": "https://www.popsci.com/science/voyager-1-one-light-day-away/"
     }
-   ],
-   "developing": true
+   ]
   },
   {
    "section": "culture",
@@ -778,31 +963,6 @@
     {
      "name": "JNS",
      "url": "https://www.jns.org/news/culture-and-society/jewish-heirs-seek-to-halt-sothebys-sale-of-180-million-van-gogh"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "lead": true,
-   "serious": true,
-   "developing": true,
-   "changed": "Updated 16 Nov: Gulf states condemn the attack on Bahrain; Iran says a supertanker sank after hitting a mine.",
-   "published": "2026-11-13T02:27:00Z",
-   "title": "Gulf states condemn Iran's attack on Bahrain; Iran says a tanker sank",
-   "why": "Gulf Cooperation Council chief Jasem Al Budaiwi called Sunday's Iranian drone attack on Bahrain a \"blatant challenge\" to peace efforts; mediator Qatar called it a \"dangerous escalation\". Iran's Revolutionary Guards say a supertanker carrying over 2 million barrels sank after hitting a mine near Hormuz; this is unverified.",
-   "matters": "Bahrain, home to the US Navy's Fifth Fleet, says it destroyed the drones; Iran says it targeted a US radar.",
-   "sources": [
-    {
-     "name": "The National",
-     "url": "https://thenationalnews.com/news/gulf/2026/11/16/iran-attacks-bahrain-in-blatant-challenge-to-peace-push"
-    },
-    {
-     "name": "Anadolu",
-     "url": "https://www.aa.com.tr/en/middle-east/iran-says-2-oil-tankers-hit-mines-near-strait-of-hormuz-1-sinks/4125887"
-    },
-    {
-     "name": "AFP (via Arab News)",
-     "url": "https://www.arabnews.com/middle-east/iran-says-supertanker-with-2-million-barrels-of-oil-sank-in-gulf-3012053"
     }
    ]
   }
