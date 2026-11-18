@@ -1,6 +1,92 @@
 {
- "updated": "2026-11-18T09:11:00Z",
+ "updated": "2026-11-18T13:42:00Z",
  "items": [
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "published": "2026-11-18T12:00:00Z",
+   "title": "Israel launches new military operation in central Gaza despite ceasefire",
+   "why": "Israel's military said on Wednesday it had begun an operation in three areas of central Gaza against what it calls Hamas infrastructure, closing parts of the main Salah al-Din road. Hamas calls it a blatant violation of the October 2025 ceasefire. Palestinian medics say Israeli strikes killed three people.",
+   "matters": "It comes a day after the US-backed Board of Peace warned the ceasefire could collapse without urgent action.",
+   "sources": [
+    {
+     "name": "Reuters (via Taylorville Daily News)",
+     "url": "https://www.taylorvilledailynews.com/israeli-military-begins-a-new-thrust-in-gaza-kills-three-people/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks"
+    },
+    {
+     "name": "Türkiye Today",
+     "url": "https://www.turkiyetoday.com/region/israel-launches-new-military-operation-in-central-gaza-despite-ceasefire-3232699"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-18T11:42:00Z",
+   "title": "EU proposes €45bn loan for Ukraine, repayable only from Russian reparations",
+   "why": "European Commission President Ursula von der Leyen proposed on Wednesday a €45bn loan to Ukraine for 2027: €20bn for its budget and €25bn for military needs. Ukraine would repay it only once Russia pays for war damage. EU member states must approve it.",
+   "matters": "It would cover about two-thirds of Ukraine's expected €70bn funding gap next year; EU leaders discuss it at next week's summit.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/europe/20261118-eu-proposes-new-%E2%82%AC45-billion-ukraine-loan-to-be-repaid-by-russia"
+    },
+    {
+     "name": "DPA (via Yahoo)",
+     "url": "https://www.yahoo.com/news/world/articles/eu-commission-proposes-additional-45-121844397.html"
+    },
+    {
+     "name": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-polytics/4185974-european-commission-unveils-plan-for-additional-support-to-ukraine-in-2027.html"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-18T09:30:00Z",
+   "title": "Germany cuts electricity tax and plans fuel price cap from January",
+   "why": "Germany's governing coalition agreed on Wednesday, after overnight talks, to cut electricity tax for households and small businesses from 2.05 cents to 0.1 cents per kWh for 2027. It also plans a three-month cap on petrol and diesel prices from 1 January.",
+   "matters": "Energy prices rose after the Iran war disrupted Gulf shipping; the tax cut costs about €5bn a year.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261118-germany-to-cut-electricity-tax-cap-fuel-prices"
+    },
+    {
+     "name": "DPA (via Yahoo)",
+     "url": "https://www.yahoo.com/news/politics/articles/merz-clinches-deal-cut-electricity-110352774.html"
+    },
+    {
+     "name": "Reuters (via Global Banking & Finance Review)",
+     "url": "https://www.globalbankingandfinance.com/germany-agrees-power-tax-cut-consumers-economists-warn/"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-11-18T08:00:00Z",
+   "title": "US says string of tech outages is unrelated and not a cyberattack",
+   "why": "US Secretary of State Marco Rubio said on Wednesday there is \"zero evidence\" that recent outages are linked or caused by hackers or foreign actors. They include a worldwide Microsoft outage, a nationwide flight ground stop, problems at big US banks and a classified government network going offline.",
+   "matters": "Microsoft and the US aviation regulator blamed technical faults during upgrades and found no sign of malicious activity.",
+   "sources": [
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/marco-rubio-tech-outages-not-connected/"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261118-banks-flights-email-what-s-behind-series-of-us-tech-outages"
+    },
+    {
+     "name": "AP (via Korea Times)",
+     "url": "https://www.koreatimes.co.kr/world/20261117/could-everything-be-broken-grounded-jets-microsoft-outage-ai-chaos-make-some-wonder"
+    }
+   ]
+  },
   {
    "section": "world",
    "published": "2026-11-18T07:37:00Z",
@@ -40,6 +126,27 @@
     {
      "name": "PA (EADT)",
      "url": "https://www.eadt.co.uk/news/national/26739309.inflation-hits-12-month-high-rise-petrol-prices/"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "published": "2026-11-18T06:00:00Z",
+   "title": "Arsenic in river from Myanmar mines cuts water to Thai villages",
+   "why": "Thailand's prime minister has ordered officials to find new water sources for more than 20,000 households in Mae Sai, in northern Chiang Rai province. Arsenic in the Sai River has reached up to 28 times the safe limit; researchers link much of it to mining across the border in Myanmar.",
+   "matters": "Officials fear the pollution is spreading into the Mekong, which millions of people in several countries rely on.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/18/arsenic-pollution-linked-to-myanmar-mining-prompts-water-alert-in-thailand"
+    },
+    {
+     "name": "The Nation (Thailand)",
+     "url": "https://www.nationthailand.com/news/general/40073611"
+    },
+    {
+     "name": "Thairath",
+     "url": "https://en.thairath.co.th/scoop/theissue/2972825"
     }
    ]
   },
@@ -130,23 +237,24 @@
   {
    "section": "science",
    "published": "2026-11-18T01:50:00Z",
-   "title": "Voyager 1 to become first spacecraft a light-day from Earth today",
-   "why": "At 10:16 UTC on Wednesday, NASA's Voyager 1, launched in 1977, will be about 25.9 billion km away, so far that its radio signals take a full day to reach us. It has been the most distant human-made object since 1998.",
+   "title": "Voyager 1 becomes the first spacecraft one light-day from Earth",
+   "why": "NASA's Voyager 1, launched in 1977, reached a distance of one light-day from Earth early on Wednesday: about 26 billion km, so far that its radio signals take a full day to reach us. A command and its reply now take two days.",
    "matters": "Its power is fading, and NASA's antennas are expected to lose its signal by about 2036.",
    "sources": [
     {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261118-voyager-1-spacecraft-reaches-one-light-day-milestone"
+    },
+    {
+     "name": "Scientific American",
+     "url": "https://www.scientificamerican.com/article/voyager-1-reaches-one-light-day-milestone/"
+    },
+    {
      "name": "Al Jazeera (with AP, Reuters)",
      "url": "https://aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day"
-    },
-    {
-     "name": "BBC Sky at Night Magazine",
-     "url": "https://www.skyatnightmagazine.com/news/nasa-voyager-1-light-day-milestone"
-    },
-    {
-     "name": "EarthSky",
-     "url": "https://earthsky.org/space/voyager-1-1-light-day-from-earth-november-17-18-2026/"
     }
-   ]
+   ],
+   "changed": "Updated 18 Nov: Voyager 1 has now passed the one light-day mark."
   },
   {
    "section": "world",
@@ -344,24 +452,28 @@
    "section": "world",
    "developing": true,
    "published": "2026-11-17T10:04:00Z",
-   "title": "Xi and Putin meet in China before three-way summit with Trump",
-   "why": "China's Xi Jinping and Russia's Vladimir Putin held talks on Wednesday in Shenzhen, China, where both are attending the APEC summit. Donald Trump, who met Quad leaders in Manila this week, joins them on Thursday 19 November for the first ever three-way summit of the three leaders.",
-   "matters": "Washington says nuclear arms control and the Iran war are on the agenda; Trump says Ukraine will be discussed too.",
+   "title": "Trump lands in China for first three-way summit with Xi and Putin",
+   "why": "Donald Trump arrived in Shenzhen, China, on Wednesday for the APEC summit and was greeted on the tarmac by Xi Jinping, who held talks with Vladimir Putin earlier in the day. The three leaders meet together on Thursday 19 November, the first such summit.",
+   "matters": "The Iran war, Ukraine and nuclear arms control are expected on the agenda; Chinese officials play down hopes of a concrete outcome.",
    "sources": [
     {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html"
+    },
+    {
      "name": "France 24",
-     "url": "https://www.france24.com/en/asia-pacific/20261118-xi-putin-meet-ahead-of-historic-trump-trilateral-summit"
+     "url": "https://www.france24.com/en/video/20261118-trump-arrives-in-china-ahead-of-trilateral-summit-with-putin-and-xi"
+    },
+    {
+     "name": "European Pravda (via Yahoo)",
+     "url": "https://www.yahoo.com/news/politics/articles/trump-arrives-china-ahead-meeting-093900616.html"
     },
     {
      "name": "Euronews (with AP, AFP)",
      "url": "https://www.euronews.com/2026/11/18/chinas-xi-jinping-and-putin-hold-talks-in-shenzhen-on-eve-of-three-way-summit-with-trump"
-    },
-    {
-     "name": "Government of China",
-     "url": "https://english.www.gov.cn/news/202611/18/content_WS6afd2bebc6d00ca5f9a0e61d.html"
     }
    ],
-   "changed": "Updated 18 Nov: Xi and Putin met in Shenzhen ahead of Thursday's three-way summit with Trump."
+   "changed": "Updated 18 Nov: Trump has arrived in Shenzhen and was met by Xi at the airport."
   },
   {
    "section": "money",
@@ -602,121 +714,6 @@
   {
    "section": "world",
    "serious": true,
-   "published": "2026-11-16T13:38:00Z",
-   "title": "At least 17 killed in two mass shootings in South Africa",
-   "why": "Police say nine people were found shot dead in a shack in Jeffsville, near Pretoria, and eight men in a vehicle in Sweetwaters, outside Pietermaritzburg, late on Sunday. The sites are about 530km apart. National Police Commissioner Fannie Masemola called the shootings \"unacceptable\"; motives are not yet known.",
-   "matters": "Police statistics put South Africa's average at about 60 killings a day.",
-   "sources": [
-    {
-     "name": "SAnews",
-     "url": "https://www.sanews.gov.za/south-africa/masemola-condemns-mass-shootings-claimed-17-lives"
-    },
-    {
-     "name": "AP (via Africanews)",
-     "url": "https://www.africanews.com/2026/11/16/17-killed-in-two-deadly-shootings-as-south-africa-battles-rising-violent-crime/"
-    },
-    {
-     "name": "Jacaranda News",
-     "url": "https://www.jacarandafm.com/news/news/police-pursue-leads-after-shootings-gauteng-and-kzn/"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/16/at-least-17-killed-in-two-south-africa-mass-shootings"
-    }
-   ]
-  },
-  {
-   "section": "culture",
-   "published": "2026-11-16T13:30:00Z",
-   "title": "Raye and Rosalía lead nominations for the 2027 Grammy Awards",
-   "why": "British singer Raye leads the nominations for the 69th Grammy Awards with 11, and Spain's Rosalía has nine, NPR reports. Both are up for album of the year alongside Taylor Swift, Olivia Rodrigo and Bruno Mars. The ceremony is in Los Angeles on 7 February 2027.",
-   "sources": [
-    {
-     "name": "NPR",
-     "url": "https://www.nprillinois.org/classic-91-9-hd2/2026-11-16/raye-and-rosalia-lead-the-2027-grammy-nominations"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://abcnews.com/GMA/Culture/grammy-nominations-2027-full-list/story?id=138113372"
-    },
-    {
-     "name": "The Independent",
-     "url": "https://uk.news.yahoo.com/grammy-nominations-2027-full-olivia-123955944.html"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-16T12:00:00Z",
-   "title": "Five EU countries plan return hub in Rwanda for rejected asylum seekers",
-   "why": "Austria, Denmark, Germany, Greece and the Netherlands said in Vienna on Monday they will negotiate with Rwanda to send people whose asylum claims were rejected to a centre there, possibly from 2027. Diplomats told AFP a pilot would start with about 100 people. Rwanda calls it a \"second chance\".",
-   "matters": "It would be the EU's first such hub outside Europe; 47 rights and aid groups urged the countries to drop it.",
-   "sources": [
-    {
-     "name": "France 24 / AFP",
-     "url": "https://www.france24.com/en/africa/20261116-eu-nations-to-unveil-rwanda-deal-for-migrant-return-hub"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda"
-    },
-    {
-     "name": "Anadolu",
-     "url": "https://www.aa.com.tr/en/europe/five-eu-countries-announce-plans-for-1st-return-hub-outside-europe/4126943"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "published": "2026-11-16T12:00:00Z",
-   "title": "WHO says progress against drug-resistant infections is too slow",
-   "why": "The World Health Organization said on Monday that progress on prevention, diagnosis and careful antibiotic use is too slow for global targets. Only 42 of 183 countries have a funded, working plan, it says. Citing estimates, it warns resistance could cause 39 million deaths by 2050.",
-   "matters": "Drug-resistant infections threaten to make routine surgery and childbirth far riskier; in 2023 one in six lab-confirmed bacterial infections resisted treatment.",
-   "sources": [
-    {
-     "name": "Al Jazeera (with AFP, Reuters)",
-     "url": "https://www.aljazeera.com/news/2026/11/16/un-health-agency-sounds-alarm-on-antimicrobial-resistance-threat"
-    },
-    {
-     "name": "WHO",
-     "url": "https://www.who.int/publications/i/item/B09666"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-17/doctors-warn-of-rising-antimicrobial-resistance/107389636"
-    }
-   ]
-  },
-  {
-   "section": "culture",
-   "serious": true,
-   "published": "2026-11-16T10:55:00Z",
-   "title": "Gérard Depardieu drops appeal against sexual assault conviction and apologises",
-   "why": "Actor Gérard Depardieu, 77, withdrew his appeal in Paris on Monday, making final his 2025 conviction for sexually assaulting two women on a film set in 2021. He accepted the 18-month suspended sentence and apologised to \"those who may have suffered\". One woman said it should have come sooner.",
-   "matters": "He still faces a separate rape accusation, which he denies; a court decides on 26 November whether it goes to trial.",
-   "sources": [
-    {
-     "name": "AFP (France 24)",
-     "url": "https://www.france24.com/en/live-news/20261116-gerard-depardieu-drops-sexual-assault-appeal-offers-apologies"
-    },
-    {
-     "name": "AP (ABC News)",
-     "url": "https://abcnews.com/Entertainment/wireStory/grard-depardieu-drops-appeal-accepts-sexual-assault-conviction-138173475"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/16/french-actor-gerard-depardieu-drops-appeal-for-sexual-assault-conviction"
-    },
-    {
-     "name": "The Telegraph (via Yahoo)",
-     "url": "https://www.yahoo.com/entertainment/celebrity/articles/depardieu-apologises-victims-accepting-sexual-161456716.html"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
    "developing": true,
    "changed": "Updated 17 Nov: Ukraine says it brought down part of the road bridge to Crimea.",
    "published": "2026-11-16T10:25:00Z",
@@ -774,23 +771,23 @@
    "lead": true,
    "serious": true,
    "developing": true,
-   "changed": "Updated 18 Nov: the US struck Iran's Qeshm Island and Kuwait and Bahrain report new drone attacks.",
+   "changed": "Updated 18 Nov: Iran says it targeted a US base in Kuwait; Houthi missiles were fired at Riyadh.",
    "published": "2026-11-16T09:00:00Z",
-   "title": "US strikes Iran's Qeshm Island as Kuwait and Bahrain report drone attacks",
-   "why": "A US official says American jets hit a Revolutionary Guards missile site on Iran's Qeshm Island, in the Strait of Hormuz, on Tuesday; Iran says no civilian areas were hit. On Wednesday Kuwait and Bahrain said their air defences were countering drone attacks.",
-   "matters": "Trump, Xi and Putin are due to discuss the Iran war at their summit in China on Thursday.",
+   "title": "Iran targets US base in Kuwait after American strike on Qeshm Island",
+   "why": "Iran's army says its drones targeted US air-defence systems at Kuwait's Ali Al Salem air base on Wednesday, after US jets hit a missile site on Iran's Qeshm Island on Tuesday. Kuwait and Bahrain say they intercepted the attacks. Saudi Arabia says it intercepted Houthi cruise missiles fired at Riyadh.",
+   "matters": "Qatar, a mediator, calls it a dangerous escalation; Trump, Xi and Putin are due to discuss the Iran war on Thursday.",
    "sources": [
     {
+     "name": "AP (via myMotherLode)",
+     "url": "https://mymotherlode.com/news/world/11320133/iran-widens-gulf-attacks-by-targeting-a-us-air-base-in-kuwait-and-sites-in-bahrain.html"
+    },
+    {
      "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261118-gulf-nations-on-alert-after-us-strikes-iranian-island"
+     "url": "https://www.france24.com/en/live-news/20261118-gulf-countries-under-fire-after-us-hits-iran-island"
     },
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain"
-    },
-    {
-     "name": "Gulf News",
-     "url": "https://gulfnews.com/world/mena/middle-east-war-iran-attacks-bahrain-kuwait-drone-threats-keep-gulf-on-high-alert-as-us-hits-irans-qeshm-1.500751444"
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks"
     }
    ]
   },
@@ -822,19 +819,23 @@
    "section": "world",
    "serious": true,
    "developing": true,
-   "changed": "Updated 16 Nov: Saudi Arabia replaces its coalition commander as Houthi fighters advance towards Aden.",
+   "changed": "Updated 18 Nov: the coalition launched new air strikes as the Houthis advance towards Aden.",
    "published": "2026-11-15T10:01:00Z",
-   "title": "Saudi Arabia replaces Yemen coalition commander as Houthis advance towards Aden",
-   "why": "A royal decree on Monday replaced Lt Gen Fahd bin Hamad al-Salman as commander of the Saudi-led coalition in Yemen with chief of staff Fayyad al-Ruwaili, the Saudi Press Agency said. Yemeni military sources told Reuters the Houthis had reached Khor Omairah, about 100km west of Aden, the government's base.",
+   "title": "Saudi-led coalition strikes Houthi sites as rebels push towards Aden",
+   "why": "The Saudi-led coalition says it hit 60 Houthi military targets in Sanaa, Hodeidah, Amran and Saada on Tuesday; the Houthis say at least 17 people were killed. Houthi forces are advancing towards Aden, the Yemeni government's base, and fighting continues around Taiz.",
    "matters": "The Houthis now hold the coast by the Bab el-Mandeb Strait, a key shipping route into the Red Sea.",
    "sources": [
     {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/yemen/20261116-saudi-arabia-dismisses-commander-of-anti-houthi-coalition-as-rebels-advance"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis"
+     "name": "AP (via myMotherLode)",
+     "url": "https://mymotherlode.com/news/world/11320133/iran-widens-gulf-attacks-by-targeting-a-us-air-base-in-kuwait-and-sites-in-bahrain.html"
+    },
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261118-gulf-countries-under-fire-after-us-hits-iran-island"
     },
     {
      "name": "Anadolu",
@@ -845,15 +846,15 @@
   {
    "section": "climate",
    "developing": true,
-   "changed": "Updated: first draft of the main deal published.",
+   "changed": "Updated 18 Nov: AFP reports deep divisions remain as the summit enters its final days.",
    "published": "2026-11-15T10:00:00Z",
-   "title": "COP31 draft deal calls for faster exit from fossil fuels",
-   "why": "The first draft of the main decision at the UN climate summit in Antalya, Türkiye, was released on Monday. It calls for accelerated action to move away from fossil fuels and for adaptation finance for poorer countries to triple to at least $120 billion a year by 2035.",
-   "matters": "Australia's Chris Bowen, who leads the negotiations, says not all countries will agree; talks are due to end on 20 November.",
+   "title": "COP31 talks deadlocked over fossil fuels and money as deadline nears",
+   "why": "Ministers at the UN climate summit in Antalya, Türkiye, remain split over a draft deal published on Monday that calls for faster action to move away from fossil fuels and for adaptation finance to triple to at least $120 billion a year by 2035.",
+   "matters": "Talks are due to end on Friday 20 November; any deal needs the agreement of nearly 200 countries.",
    "sources": [
     {
      "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261116-cop31-draft-deal-calls-for-accelerated-action-to-exit-fossil-fuels"
+     "url": "https://www.france24.com/en/live-news/20261118-fault-lines-widen-as-cop31-struggles-for-climate-deal"
     },
     {
      "name": "Climate Home News",
