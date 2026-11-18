@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T07:50:00Z",
+ "updated": "2026-11-18T09:11:00Z",
  "items": [
   {
    "section": "world",
@@ -19,6 +19,27 @@
     {
      "name": "The Times of Israel",
      "url": "https://www.timesofisrael.com/liveblog_entry/italy-approves-law-to-combat-antisemitism-that-references-ihra-definition-of-antisemitism/"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-18T07:00:00Z",
+   "title": "UK inflation rises to 3.6% as diesel prices hit a record",
+   "why": "Consumer prices in the UK rose 3.6% in the year to October, up from 3.5% in September, the Office for National Statistics said on Wednesday. Motor fuel was 33.2% dearer than a year earlier, with diesel averaging a record 199.5p a litre.",
+   "matters": "Petrol and diesel drove the rise; the ONS says pump prices have eased in November as oil prices fell.",
+   "sources": [
+    {
+     "name": "ONS",
+     "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2026"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://uk.investing.com/news/economic-indicators/uk-october-inflation-hits-36-as-record-diesel-prices-drive-fuel-costs-higher-4989614"
+    },
+    {
+     "name": "PA (EADT)",
+     "url": "https://www.eadt.co.uk/news/national/26739309.inflation-hits-12-month-high-rise-petrol-prices/"
     }
    ]
   },
@@ -191,6 +212,27 @@
    ]
   },
   {
+   "section": "world",
+   "published": "2026-11-17T16:20:00Z",
+   "title": "Paraguay's attorney general resigns as lawmakers prepare to impeach him",
+   "why": "Emiliano Rolón stepped down on Tuesday as opposition lawmakers moved to impeach him over his handling of investigations into the collapsed Ueno Bank and former president Santiago Peña. His office denies inaction or political interference.",
+   "matters": "The bank's state takeover left hundreds of thousands of people locked out of their accounts, AFP reports.",
+   "sources": [
+    {
+     "name": "AFP (Insider Paper)",
+     "url": "https://insiderpaper.com/paraguay-attorney-general-facing-impeachment-over-bank-crisis-resigns/"
+    },
+    {
+     "name": "Anadolu",
+     "url": "https://www.aa.com.tr/en/americas/paraguays-attorney-general-resigns-amid-impeachment-pressure/4128229"
+    },
+    {
+     "name": "Ámbito",
+     "url": "https://ambito.com/mundo/crisis-politica-paraguay-renuncio-el-fiscal-general-acorralado-el-caso-ueno-bank-y-un-inminente-juicio-politico-n6346213"
+    }
+   ]
+  },
+  {
    "section": "health",
    "serious": true,
    "published": "2026-11-17T16:00:00Z",
@@ -253,6 +295,27 @@
     {
      "name": "Kyiv Post",
      "url": "https://www.kyivpost.com/post/90400"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-17T12:00:00Z",
+   "title": "Quad leaders meet in Manila and plan first joint patrol-aircraft exercise",
+   "why": "Donald Trump met the leaders of Australia, India and Japan in the Philippine capital, Manila, on Tuesday, his first Quad meeting since returning to office. They agreed a joint maritime patrol-aircraft exercise in 2027 and an AI accelerator for the Indo-Pacific.",
+   "matters": "The four countries voiced concern about \"economic coercion\" without naming China, as tensions continue in the South China Sea.",
+   "sources": [
+    {
+     "name": "AP (ABC7)",
+     "url": "https://abc7.com/story/trump-arrives-philippines-kick-off-asia-trip-economic-deals-talks-allies/20047637/"
+    },
+    {
+     "name": "Philstar",
+     "url": "https://www.philstar.com/headlines/2026/11/18/2570964/what-trump-said-and-did-his-first-hours-manila"
+    },
+    {
+     "name": "SunStar",
+     "url": "https://www.sunstar.com.ph/manila/quad-leaders-discuss-indo-pacific-security-ai"
     }
    ]
   },
@@ -382,27 +445,6 @@
     {
      "name": "Jiji Press (via Nippon.com)",
      "url": "https://www.nippon.com/en/articles/-/57542"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "published": "2026-11-17T02:00:00Z",
-   "title": "Leonid meteor shower peaks overnight on 17–18 November",
-   "why": "The Leonid meteor shower peaks on the night of 17 November into the early hours of 18 November, with about 10–15 meteors an hour under dark skies, Royal Museums Greenwich says. The Moon sets around midnight, so the hours before dawn are best.",
-   "matters": "No telescope is needed: the meteors are dust from Comet Tempel-Tuttle and appear to come from the constellation Leo.",
-   "sources": [
-    {
-     "name": "Royal Museums Greenwich",
-     "url": "https://www.rmg.co.uk/discover/explore/leonid-meteor-shower-when-and-where-see-it-uk"
-    },
-    {
-     "name": "Space.com",
-     "url": "https://www.space.com/stargazing/meteor-showers/the-leonid-meteor-shower-peaks-nov-17-18-heres-what-you-need-to-know"
-    },
-    {
-     "name": "EarthSky",
-     "url": "https://earthsky.org/astronomy-essentials/everything-you-need-to-know-leonid-meteor-shower/"
     }
    ]
   },
@@ -749,32 +791,6 @@
     {
      "name": "Gulf News",
      "url": "https://gulfnews.com/world/mena/middle-east-war-iran-attacks-bahrain-kuwait-drone-threats-keep-gulf-on-high-alert-as-us-hits-irans-qeshm-1.500751444"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "serious": true,
-   "published": "2026-11-16T08:40:00Z",
-   "title": "Jordan and Iraq block Telegram, citing national security",
-   "why": "Jordan's Public Security Directorate and Iraq's media regulator both announced blocks on the Telegram messaging app on Monday. Jordan cites extremism and cybercrime after a deadly church attack last month; Iraq says Telegram broke its laws and gave it 30 days to comply. Telegram did not immediately comment.",
-   "matters": "Iraq blocked Telegram once before, in 2023, lifting the ban after about a week when the company met its demands.",
-   "sources": [
-    {
-     "name": "Reuters via Arab News",
-     "url": "https://www.arabnews.com/media/jordan-blocks-telegram-app-over-national-security-concerns-3012203"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/16/jordan-bans-telegram-messing-app-over-national-security-concerns"
-    },
-    {
-     "name": "SBS News (South Korea)",
-     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008848679"
-    },
-    {
-     "name": "i24NEWS",
-     "url": "https://www.i24news.tv/en/news/middle-east/artc-jordan-and-iraq-block-telegram-citing-national-security-concerns"
     }
    ]
   },
