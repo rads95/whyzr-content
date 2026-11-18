@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-18",
   "facts": [
     {
       "date": "2026-09-20",
@@ -1474,6 +1474,58 @@
         {
           "name": "Earth.org",
           "url": "https://earth.org/?p=34419"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "kind": "fact",
+      "category": "Food",
+      "emoji": "🍍",
+      "title": "Pineapple nibbles you back",
+      "text": "Fresh pineapple contains bromelain, a mix of enzymes that break down protein, which is why it is used to tenderise meat. When you eat it, the bromelain also works on the protective lining of your mouth, letting the fruit’s acid sting. That tingle is the pineapple digesting you, just a tiny bit.",
+      "sources": [
+        {
+          "name": "Science Meets Food (Institute of Food Technologists)",
+          "url": "https://sciencemeetsfood.org/bromelain-pineapples/"
+        },
+        {
+          "name": "Science Learning Hub, University of Waikato",
+          "url": "https://www.sciencelearn.org.nz/resources/1944-fruit-enzyme-uses"
+        },
+        {
+          "name": "IFLScience",
+          "url": "https://www.iflscience.com/tingly-mouth-when-you-eat-pineapple-thats-the-fruit-digesting-you-82639"
+        },
+        {
+          "name": "Dole",
+          "url": "https://www.dole.com/en-gb/blog/why-pineapples-burn-your-tongue"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "kind": "folklore",
+      "emoji": "🐸",
+      "title": "Touch a toad, get warts",
+      "myth": "Pick up a toad and its bumpy skin will give you warts.",
+      "truth": "Toad bumps aren’t warts at all: they are glands that make a bad-tasting defence liquid. Human warts are caused by a human virus, which toads don’t pass on, though it is still wise to wash your hands after holding one.",
+      "sources": [
+        {
+          "name": "Burke Museum, University of Washington",
+          "url": "https://www.burkemuseum.org/collections-and-research/biology/herpetology/all-about-amphibians/frog-myths"
+        },
+        {
+          "name": "Cleveland Zoological Society",
+          "url": "https://www.clevelandzoosociety.org/Z/2021/03/22/truth-or-tail-toads-can-give-you-warts"
+        },
+        {
+          "name": "Forest Preserve District of Will County",
+          "url": "https://www.reconnectwithnature.org/headlines/news/myth-buster-frogs-and-toad-don-t-cause-warts"
+        },
+        {
+          "name": "Farm and Dairy",
+          "url": "https://www.farmanddairy.com/?p=824641"
         }
       ]
     }
