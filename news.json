@@ -1,6 +1,91 @@
 {
- "updated": "2026-11-17T13:52:28Z",
+ "updated": "2026-11-18T01:50:00Z",
  "items": [
+  {
+   "section": "science",
+   "published": "2026-11-18T01:50:00Z",
+   "title": "Voyager 1 to become first spacecraft a light-day from Earth today",
+   "why": "At 10:16 UTC on Wednesday, NASA's Voyager 1, launched in 1977, will be about 25.9 billion km away, so far that its radio signals take a full day to reach us. It has been the most distant human-made object since 1998.",
+   "matters": "Its power is fading, and NASA's antennas are expected to lose its signal by about 2036.",
+   "sources": [
+    {
+     "name": "Al Jazeera (with AP, Reuters)",
+     "url": "https://aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day"
+    },
+    {
+     "name": "BBC Sky at Night Magazine",
+     "url": "https://www.skyatnightmagazine.com/news/nasa-voyager-1-light-day-milestone"
+    },
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/space/voyager-1-1-light-day-from-earth-november-17-18-2026/"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-17T21:40:00Z",
+   "title": "Haaland's late penalty sends Norway past Denmark into Nations League quarter-finals",
+   "why": "Norway came from 2-0 down to win 3-2 in Copenhagen on Tuesday, with Erling Haaland scoring twice, including a penalty in the 96th minute. Norway finish second in their group behind Portugal; the quarter-final draw is on Friday 20 November.",
+   "sources": [
+    {
+     "name": "UEFA",
+     "url": "https://www.uefa.com/uefanationsleague/news/02ab-22146db70e40-12d581ab82a9-1000--uefa-nations-league-matchday-6-highlights-germany-nether/"
+    },
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/soccer/story/_/id/50513761/erling-haaland-sends-norway-nations-league-quarterfinals"
+    },
+    {
+     "name": "Reuters (via Arab News)",
+     "url": "https://www.arabnews.com/football/haalands-late-penalty-sends-norway-into-nations-league-quarters-portugal-top-group-3012617"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "serious": true,
+   "developing": true,
+   "published": "2026-11-17T12:00:00Z",
+   "title": "WHO says Congo's Ebola outbreak has more than doubled in three months",
+   "why": "WHO head Tedros Adhanom Ghebreyesus said on Tuesday that more than 11,000 cases and 5,400 deaths have been reported in eight provinces of the Democratic Republic of the Congo, with 400 to 500 new cases a week. There is no approved vaccine for this Bundibugyo strain.",
+   "matters": "It is the second-largest Ebola outbreak on record; two candidate vaccines are due to join a trial within weeks.",
+   "sources": [
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168827"
+    },
+    {
+     "name": "WHO",
+     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625"
+    },
+    {
+     "name": "Reuters (via Yahoo)",
+     "url": "https://www.yahoo.com/news/world/articles/congos-ebola-cases-surpass-11-231348548.html"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-17T11:00:00Z",
+   "title": "Kosovo's former president Thaçi convicted of trying to obstruct justice",
+   "why": "A Kosovo court sitting in The Hague found Hashim Thaçi guilty on Tuesday of trying to influence witnesses in his war crimes case and sentenced him to 17 months. He is already serving 25 years, handed down in September, for war crimes in the 1998–99 war; he is appealing.",
+   "matters": "Thaçi called the verdict \"politics, not justice\"; prosecutors had asked for six years.",
+   "sources": [
+    {
+     "name": "Balkan Insight",
+     "url": "https://balkaninsight.com/2026/11/17/kosovos-thaci-found-guilty-of-trying-to-obstruct-justice-in-war-crimes-case/btj/"
+    },
+    {
+     "name": "DPA (via Yahoo)",
+     "url": "https://www.yahoo.com/news/world/articles/ex-kosovo-leader-thaci-found-130325095.html"
+    },
+    {
+     "name": "Tirana Times",
+     "url": "https://www.tiranatimes.com/hague-court-adds-17-months-to-kosovos-ex-president-thacis-25-year-sentence/"
+    }
+   ]
+  },
   {
    "section": "world",
    "developing": true,
@@ -24,6 +109,27 @@
    ]
   },
   {
+   "section": "money",
+   "published": "2026-11-17T08:00:00Z",
+   "title": "China cuts tariffs on Canadian pork and seafood after Xi–Carney talks",
+   "why": "Meeting in Shenzhen, China, on Tuesday, President Xi Jinping and Canada's Prime Minister Mark Carney agreed to widen a January trade deal. China will cut tariffs on about C$400m (US$280m) of Canadian exports, including frozen pork and seafood; Canada extends exemptions for some Chinese steel and aluminium.",
+   "matters": "Canada is deepening trade with China while its trade talks with the US remain unresolved.",
+   "sources": [
+    {
+     "name": "Reuters (via Investing.com)",
+     "url": "https://www.investing.com/news/forex-news/canada-and-china-extend-trade-deals-as-xi-meets-carney-ahead-of-apec-summit-5031875"
+    },
+    {
+     "name": "AP (via PBS)",
+     "url": "https://www.pbs.org/newshour/world/china-and-canada-expand-tariff-relief-while-relations-with-the-u-s-are-strained"
+    },
+    {
+     "name": "Radio Canada International",
+     "url": "https://ici.radio-canada.ca/rci/en/news/2301219/canada-and-china-announce-new-trade-measures-and-cultural-partnerships-on-carneys-1st-day-in-shenzhen"
+    }
+   ]
+  },
+  {
    "section": "world",
    "developing": true,
    "published": "2026-11-17T04:00:00Z",
@@ -42,6 +148,27 @@
     {
      "name": "Xinhua (via Bernama)",
      "url": "https://www.bernama.com/en/world/news.php?id=2635605"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-17T03:30:00Z",
+   "title": "Turkey takes opposition-leaning Sözcü TV off air and appoints state trustee",
+   "why": "Police raided Sözcü TV's Istanbul offices before dawn on Tuesday and a state fund was appointed to run the channel and its website. Prosecutors say its owner is under investigation over alleged links to the Gülen network, blamed by Ankara for the 2016 coup attempt; the channel's lawyer disputes this.",
+   "matters": "Opposition leader Özgür Özel called it intolerance of criticism; the government says Turkey's judiciary is independent.",
+   "sources": [
+    {
+     "name": "Reuters (via Al-Monitor)",
+     "url": "https://www.al-monitor.com/originals/2026/11/turkey-takes-pro-opposition-tv-channel-sozcu-air-raid-appoints-trustee"
+    },
+    {
+     "name": "AFP (via Yahoo)",
+     "url": "https://uk.finance.yahoo.com/news/police-raid-turkeys-pro-opposition-064308016.html"
+    },
+    {
+     "name": "Hürriyet Daily News",
+     "url": "https://www.hurriyetdailynews.com/sozcu-tv-placed-under-trustee-control-after-police-raid-229507"
     }
    ]
   },
@@ -388,27 +515,23 @@
   {
    "section": "tech",
    "developing": true,
-   "changed": "Updated: board reportedly not considering Huang's return; results due Tuesday",
+   "changed": "Updated: results are out and the board says Huang will not return.",
    "published": "2026-11-16T09:28:00Z",
-   "title": "Nvidia board not considering Jensen Huang's return, sources tell US media",
-   "why": "Nvidia's board is not considering reinstating Jensen Huang, a person familiar with the matter told CNBC; CBS News reports the same. President Trump said he \"would not mind\" Huang's return, and a petition has over 180,000 signatures. Nvidia shares fell 4.1% on Monday.",
-   "matters": "Nvidia reports results on Tuesday after US markets close, its first under interim chief executive Colette Kress.",
+   "title": "Nvidia revenue doubles in first results since Jensen Huang quit",
+   "why": "Nvidia said on Tuesday its quarterly revenue rose 103% to $115.8bn, beating forecasts, and it expects about $130bn next quarter. Its board said it does not intend to reinstate Jensen Huang, who resigned as chief executive last week; finance chief Colette Kress is interim boss.",
+   "matters": "Nvidia makes most of the chips used for AI, so its sales are watched as a gauge of the AI boom.",
    "sources": [
     {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-ceo-reinstatement-petition/"
+     "name": "NVIDIA (results release)",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
     },
     {
      "name": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-interim-ceo-kress-prepares-for-q3-earnings-with-huang-reportedly-planning-comeback-153114076.html"
+     "url": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html"
     },
     {
-     "name": "AP via BNN Bloomberg",
-     "url": "https://www.bnnbloomberg.ca/markets/nasdaq/2026/11/16/stocks-decline-on-tech-sell-off-as-concerns-over-the-nvidia-fallout-persist/"
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261117-nvidia-doubles-revenue-in-third-quarter-exceeding-expectations"
     }
    ]
   },
@@ -468,6 +591,27 @@
     {
      "name": "i24NEWS",
      "url": "https://www.i24news.tv/en/news/middle-east/artc-jordan-and-iraq-block-telegram-citing-national-security-concerns"
+    }
+   ]
+  },
+  {
+   "section": "curious",
+   "published": "2026-11-16T06:00:00Z",
+   "title": "Millions of red crabs begin yearly migration on Australia's Christmas Island",
+   "why": "The first wet-season rains have set off the annual march of red crabs from the forest to the sea to mate and spawn on Christmas Island, an Australian territory about 2,600km north-west of Perth. Some roads are closed and a \"crab bridge\" helps them cross.",
+   "matters": "Parks Australia is livestreaming the migration online for the first time this year.",
+   "sources": [
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-18/christmas-island-crab-migration-underway/107394872"
+    },
+    {
+     "name": "UPI",
+     "url": "https://www.upi.com/Odd_News/2026/11/16/australia-christmas-island-national-park-crab-migration/4821794854991/"
+    },
+    {
+     "name": "Fox Weather",
+     "url": "https://www.foxweather.com/earth-space/video-millions-crabs-australia-christmas-island-begin-mass-migration"
     }
    ]
   },
@@ -588,110 +732,6 @@
    "changed": "Updated 17 Nov: Akvan is now a cyclone; landfall is forecast for midday on 20 November."
   },
   {
-   "section": "money",
-   "published": "2026-11-15T23:50:00Z",
-   "title": "Japan's economy shrinks slightly as high oil prices hit spending",
-   "why": "Japan's economy contracted at an annualised 0.1% in July to September, government figures showed on Monday, when economists had expected growth. Household spending fell as food and energy prices rose; Japan imports almost all its oil, and the yen is near 160 to the dollar.",
-   "matters": "It shows how the Middle East war's oil shock is squeezing households even in rich economies.",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html"
-    },
-    {
-     "name": "AP via WSLS",
-     "url": "https://www.wsls.com/business/2026/11/16/japans-economy-contracts-slightly-in-the-latest-quarter-as-oil-prices-remain-high/"
-    },
-    {
-     "name": "Nikkei Asia",
-     "url": "https://asia.nikkei.com/economy/japan-s-q3-gdp-drops-an-annualized-0.1-below-market-expectations"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-15T22:40:00Z",
-   "title": "Mirra Andreeva, 19, wins WTA Finals without dropping a set",
-   "why": "Russia's Mirra Andreeva beat Ukraine's Elina Svitolina 7-5, 6-3 in the final at Indian Wells, California, on Sunday. The event was moved from Riyadh, Saudi Arabia, because of the war with Iran, Reuters says. Andreeva won all five matches and rises to world number two.",
-   "matters": "She is the youngest WTA Finals champion since Maria Sharapova in 2004.",
-   "sources": [
-    {
-     "name": "Reuters (Cyprus Mail)",
-     "url": "https://cyprus-mail.com/2026/11/16/unbeaten-andreeva-captures-wta-finals-crown-on-debut"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/sports/2026/11/16/russias-andreeva-defeats-ukraines-svitolina-7-5-6-3-to-win-wta-finals"
-    },
-    {
-     "name": "AFP (France 24)",
-     "url": "https://www.france24.com/en/live-news/20261115-andreeva-defeats-svitolina-to-win-wta-finals"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-15T21:45:00Z",
-   "title": "England beat Spain 3-2 in Madrid, ending 43-match unbeaten run",
-   "why": "England won 3-2 away to world champions Spain in the UEFA Nations League in Madrid on Sunday, despite playing the last half-hour with ten men. Harry Kane, Ezri Konsa and Ben White scored. The result ended Spain's 43-match unbeaten run and put England top of their group.",
-   "sources": [
-    {
-     "name": "ESPN",
-     "url": "https://www.espn.com/soccer/story/_/id/50494867/england-spain-nations-league-win-tuchel"
-    },
-    {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/football/news/13612611/spain-2-3-england-talking-points-thomas-tuchel-learns-lessons-from-argentina-as-harry-kane-ben-white-and-lewis-hall-shine"
-    },
-    {
-     "name": "TNT Sports",
-     "url": "https://www.tntsports.co.uk/football/uefa-nations-league/2026-2027/live-spain-england_mtc20005878/live-commentary.shtml"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "published": "2026-11-15T21:07:00Z",
-   "title": "Africa CDC says Congo's Ebola outbreak still not under control",
-   "why": "Six months after it was declared, the Bundibugyo Ebola outbreak in the Democratic Republic of Congo has passed 11,000 cases and 5,500 deaths, government data show. Africa CDC says over 80% of new cases come from outside known contact lists.",
-   "matters": "There is no approved vaccine or treatment for this strain; WHO expects trial results for two vaccines in early 2027.",
-   "sources": [
-    {
-     "name": "AP (via PBS NewsHour)",
-     "url": "https://pbs.org/newshour/world/ebola-outbreak-remains-out-of-control-in-congo-6-months-into-response"
-    },
-    {
-     "name": "Al Jazeera (with Reuters)",
-     "url": "https://aljazeera.com/amp/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control"
-    },
-    {
-     "name": "UN News",
-     "url": "https://news.un.org/en/story/2026/11/1168797"
-    }
-   ]
-  },
-  {
-   "section": "curious",
-   "published": "2026-11-15T16:00:00Z",
-   "title": "Ronaldinho, 46, plays his first competitive match in 11 years",
-   "why": "Brazilian football star Ronaldinho, 46, played the first half for Italian third-tier club Ravenna in a 2-0 derby win over Forlì on Sunday, his first competitive match since 2015. Nearly 7,000 fans watched. Asked if he would play again, he said it was up to the club's president.",
-   "sources": [
-    {
-     "name": "il Resto del Carlino",
-     "url": "https://www.ilrestodelcarlino.it/ravenna/cronaca/ronaldinho-derby-forli-aiuqhn0t"
-    },
-    {
-     "name": "Football Italia",
-     "url": "https://football-italia.net/live-ronaldinho-returns-playing-with-ravenna/"
-    },
-    {
-     "name": "AFP (via Kuwait Times)",
-     "url": "https://kuwaittimes.com/article/53714/sports/icon-ronaldinho-makes-winning-return-to-pro-football-in-italys-third-tier/"
-    }
-   ]
-  },
-  {
    "section": "world",
    "serious": true,
    "developing": true,
@@ -735,30 +775,6 @@
     {
      "name": "Anadolu",
      "url": "https://www.aa.com.tr/en/turkiye/cop31-draft-decision-calls-for-tripling-adaptation-finance-to-120b-speeding-shift-away-from-fossil-fuels/4126715"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: Reuters says the health body has told the US by letter; formal word due 17 November.",
-   "published": "2026-11-13T23:00:00Z",
-   "title": "US reportedly loses measles elimination status after 26 years",
-   "why": "A Pan American Health Organization commission has found measles spread continuously in the US for more than a year, NBC News and Reuters report; Reuters says PAHO told Washington by letter. The US declared measles eliminated in 2000. Over 5,400 cases were confirmed this year, the most since 1991.",
-   "matters": "State health departments report at least 10 measles deaths this year, NBC says; PAHO's formal announcement is expected on 17 November.",
-   "sources": [
-    {
-     "name": "Reuters (The Gazette)",
-     "url": "https://gazette.com/2026/11/16/us-loses-measles-elimination-status-after-26-year-run-source-says/"
-    },
-    {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/health/health-news/measles-no-longer-eliminated-us-rcna607920"
-    },
-    {
-     "name": "KFF Health News (via LAist)",
-     "url": "https://laist.com/news/health/us-has-lost-measles-elimination-status-global-health-authorities-say"
     }
    ]
   }
