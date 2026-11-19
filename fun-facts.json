@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "facts": [
     {
       "date": "2026-09-20",
@@ -1526,6 +1526,28 @@
         {
           "name": "Farm and Dairy",
           "url": "https://www.farmanddairy.com/?p=824641"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "kind": "fact",
+      "category": "Everyday",
+      "emoji": "👟",
+      "title": "Your shoelace tips have a name",
+      "text": "That little plastic tip on the end of a shoelace is called an aglet. The word comes from Old French for \"little needle\", and English has used it since the Middle Ages. Fancy aglets were once worn as ornaments on clothing.",
+      "sources": [
+        {
+          "name": "Merriam-Webster",
+          "url": "https://www.merriam-webster.com/dictionary/aglet"
+        },
+        {
+          "name": "American Heritage Dictionary",
+          "url": "https://www.ahdictionary.com/word/search.html?q=aglet"
+        },
+        {
+          "name": "Dictionary.com",
+          "url": "https://www.dictionary.com/browse/aglet"
         }
       ]
     }
