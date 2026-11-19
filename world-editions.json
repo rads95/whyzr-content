@@ -6380,5 +6380,173 @@
         ]
       }
     ]
+  },
+  {
+    "id": "060",
+    "published": "2026-11-21",
+    "title": "A record-breaking Van Gogh, planes grounded for an exam and early humans in the rainforest",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Is this true?",
+        "claim": "On 18 November a painting by Vincent van Gogh sold for more than $190 million in New York, a new auction record for the artist.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this is true. Van Gogh’s “Chestnut Trees in Blossom”, painted in 1890, the last year of his life, sold for $190.4 million at Sotheby’s in New York on Wednesday 18 November. The old record for a Van Gogh at auction was $117.2 million, paid in 2022 for “Orchard with Cypresses”, so this sale beat it by more than $70 million.",
+        "sources": [
+          [
+            "France 24 (AFP) · Van Gogh painting sells for record $190.4 mn after dispute",
+            "https://www.france24.com/en/live-news/20261118-van-gogh-painting-sells-for-record-190-4-mn-after-dispute"
+          ],
+          [
+            "BBC (via Yahoo News) · Van Gogh painting sells for record $190.4m",
+            "https://www.yahoo.com/news/world/articles/van-gogh-painting-sells-record-004924549.html"
+          ],
+          [
+            "CNN (via Local News 8) · Vincent van Gogh painting sells for $190 million, smashing auction record",
+            "https://localnews8.com/life/cnn-style/2026/11/18/vincent-van-gogh-painting-sells-for-190-million-smashing-auction-record/"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three terms from Europe’s new trade deal with Indonesia. Find their partners.",
+        "pairs": [
+          [
+            "Tariffs",
+            "Taxes on imported goods, mostly being scrapped"
+          ],
+          [
+            "EU governments",
+            "Gave the go-ahead to sign on 18 November"
+          ],
+          [
+            "European Parliament",
+            "Must still approve the deal"
+          ]
+        ],
+        "why": "The pairs are: tariffs – taxes on imported goods, which the deal mostly removes; EU governments – they approved signing it on 18 November; European Parliament – it still has to give its approval. Indonesia, the Southeast Asian country of thousands of islands, and the European Union agreed to drop import taxes on more than 90% of the goods they trade with each other. That makes it cheaper for businesses to sell to each other. Once both sides sign, the deal goes to the European Parliament, Europe’s elected assembly, for the next vote.",
+        "sources": [
+          [
+            "Reuters (via ThePrint) · EU governments authorise signature of trade deal agreement with Indonesia",
+            "https://theprint.in/world/eu-governments-authorise-signature-of-trade-deal-agreement-with-indonesia/3102592/"
+          ],
+          [
+            "Al Jazeera · EU governments approve trade deal with Indonesia to offset Trump tariffs",
+            "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs"
+          ],
+          [
+            "RTÉ · EU agrees new trade deal with Indonesia",
+            "https://www.rte.ie/news/business/2026/1118/1599646-eu-agrees-new-trade-deal-with-indonesia/"
+          ],
+          [
+            "European Commission · Commission presents to Council ambitious agreements with Indonesia",
+            "https://policy.trade.ec.europa.eu/news/commission-presents-council-ambitious-indonesia-agreements-2026-06-29_en"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "About half a million young people, one nine-hour day",
+          "Planes stop taking off and landing for about 25 minutes",
+          "Offices open late so the roads stay clear in the morning"
+        ],
+        "options": [
+          "A national holiday in Japan",
+          "South Korea’s big university entrance exam",
+          "A royal wedding in Thailand",
+          "China’s first day of school"
+        ],
+        "correct": 1,
+        "why": "It was: South Korea’s big university entrance exam. On Thursday 19 November about half a million students sat the Suneung, a nine-hour test that largely decides which university they can go to. During the English listening section, planes and helicopters were not allowed to take off or land so nobody would miss a word, and offices were asked to start late so students could get to their exam halls on time. This year there were also extra-strict checks against cheating with AI tools.",
+        "sources": [
+          [
+            "AFP (via The Star) · South Koreans sit key college exam mired in cheating scandal",
+            "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/19/south-koreans-sit-key-college-exam-mired-in-cheating-scandal"
+          ],
+          [
+            "Al Jazeera · South Korea cheating scandal: Are AI smart glasses a threat to exams?",
+            "https://www.aljazeera.com/news/2026/11/17/south-korea-cheating-scandal-are-ai-smart-glasses-a-threat-to-exams"
+          ],
+          [
+            "Korea JoongAng Daily · Korea to adjust work hours and flights for 2026 CSAT",
+            "https://www.koreajoongangdaily.com/korea/korea-to-pause-flights-adjust-work-hours-for-nov-19-college-entrance-exam/12930136"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "Hakeem Jeffries’ path to leading the US House: put these steps in order, earliest first.",
+        "items": [
+          "The full House of Representatives votes for its new speaker",
+          "Nancy Pelosi steps aside and Jeffries becomes the Democrats’ leader in the House",
+          "House Democrats choose Jeffries as their candidate for speaker"
+        ],
+        "correctOrder": [
+          1,
+          2,
+          0
+        ],
+        "why": "The right order is: Jeffries becomes the Democrats’ House leader (2022), then Democrats choose him as their candidate for speaker (18 November 2026), then the full House votes (3 January 2027). The speaker runs the House of Representatives, one of the two parts of the US Congress. Democrats won control of the House in this month’s midterm elections, so their candidate is expected to win the January vote. If he does, Jeffries, a New York congressman, will be the first Black speaker in US history.",
+        "sources": [
+          [
+            "Al Jazeera · Hakeem Jeffries becomes first Black nominee for US House speaker",
+            "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker"
+          ],
+          [
+            "PBS NewsHour · Democrats nominate Hakeem Jeffries to become House speaker, a historic first",
+            "https://www.pbs.org/newshour/politics/democrats-nominate-hakeem-jeffries-to-become-house-speaker-a-historic-first"
+          ],
+          [
+            "CBS News · House Democrats nominate Hakeem Jeffries for speaker",
+            "https://www.cbsnews.com/news/house-democrats-hakeem-jeffries-speaker-nomination-progressives/"
+          ],
+          [
+            "AP (via Anchorage Daily News) · Democrat Hakeem Jeffries poised to make history as the first Black speaker of the House",
+            "https://www.adn.com/nation-world/2026/11/04/democrat-hakeem-jeffries-poised-to-make-history-as-the-first-black-speaker-of-the-house/"
+          ],
+          [
+            "AFP (via Prothom Alo) · Democrats eye first Black US House speaker in leadership vote",
+            "https://en.prothomalo.com/international/americas/vftfhdv4v4"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "Fossil teeth from two caves in southern China, described in the journal Nature on 18 November, revealed something new about Homo erectus, an early human species. What?",
+        "options": [
+          "It could live in dense rainforest",
+          "It cooked food in clay pots",
+          "It crossed the sea to Japan in boats",
+          "It kept wolves as pets"
+        ],
+        "correct": 0,
+        "why": "It could live in dense rainforest. Chemical traces in eight Homo erectus teeth, between about 184,000 and 324,000 years old, showed these early humans ate and drank in a dense rainforest, a kind of home scientists had not seen them in before. Scientists had thought Homo erectus died out in mainland Asia about 400,000 years ago because it could not cope as forests grew thicker. The teeth, from the Baxian and Naxian caves in Guangxi, suggest it was more adaptable and survived there much longer than thought.",
+        "sources": [
+          [
+            "Reuters (via Yahoo News) · Archaic human species Homo erectus mastered the rainforest in China",
+            "https://www.yahoo.com/news/science/articles/archaic-human-species-homo-erectus-160226003.html"
+          ],
+          [
+            "National Geographic · Homo erectus may have survived in China 200,000 years longer than we thought",
+            "https://www.nationalgeographic.com/history/article/homo-erectus-china-rainforest"
+          ],
+          [
+            "ABC News (Australia) · Fossil teeth discovery in China is evidence more than one human species lived in rainforests",
+            "https://www.abc.net.au/news/science/2026-11-19/other-ancient-humans-may-have-adapted-to-rainforests/107394402"
+          ]
+        ]
+      }
+    ]
   }
 ]
