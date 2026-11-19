@@ -1,28 +1,116 @@
 {
- "updated": "2026-11-18T13:42:00Z",
+ "updated": "2026-11-19T01:43:00Z",
  "items": [
+  {
+   "section": "culture",
+   "published": "2026-11-19T00:30:00Z",
+   "title": "Van Gogh painting sells for record $190.4m at New York auction",
+   "why": "Vincent van Gogh's \"Chestnut Trees in Blossom\", painted in 1890, the year he died, sold at Sotheby's in New York on Wednesday for $190.4m including fees. The previous auction record for his work was $117.2m, set in 2022.",
+   "matters": "The sale followed a last-minute settlement with heirs of a German former owner, who say his family sold it under Nazi-era pressure.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261118-van-gogh-painting-sells-for-record-190-4-mn-after-dispute"
+    },
+    {
+     "name": "BBC (via Yahoo)",
+     "url": "https://www.yahoo.com/news/world/articles/van-gogh-painting-sells-record-004924549.html"
+    },
+    {
+     "name": "CNN (via Local News 8)",
+     "url": "https://localnews8.com/life/cnn-style/2026/11/18/vincent-van-gogh-painting-sells-for-190-million-smashing-auction-record/"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-18T19:00:00Z",
+   "title": "US Federal Reserve minutes point to an interest rate rise in December",
+   "why": "Minutes of the US Federal Reserve's October meeting, published on Wednesday, show nearly all policymakers think raising rates again would likely be appropriate to bring inflation back to 2%. The Fed held its key rate at 3.75% to 4% in October after raising it in September.",
+   "matters": "Higher US rates make borrowing dearer around the world; markets see about a 95% chance of a December rise, AP reports.",
+   "sources": [
+    {
+     "name": "Federal Reserve",
+     "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm"
+    },
+    {
+     "name": "AP (via ABC News)",
+     "url": "https://abcnews.com/US/wireStory/fed-minutes-higher-interest-rates-needed-december-inflation-138258781"
+    },
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261118-almost-all-fed-policymakers-saw-further-interest-rate-hikes-as-likely"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-18T19:00:00Z",
+   "title": "US and Venezuela agree to restore military ties during Hegseth visit",
+   "why": "US Defence Secretary Pete Hegseth announced an agreement on joint training and intelligence sharing during a surprise visit to Venezuela's capital, Caracas, on Wednesday. Interim president Delcy Rodríguez called it a resumption of military ties. She took over after US forces seized Nicolás Maduro in January.",
+   "matters": "Hegseth called Venezuela a \"compliant security partner\"; few details of the deal have been published.",
+   "sources": [
+    {
+     "name": "AP (via KSL)",
+     "url": "https://www.ksl.com/article/51646689/hegseth-visits-venezuela-and-says-he-looks-forward-to-deepening-a-military-partnership"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261118-hegseth-makes-surprise-trip-to-venezuela-renews-military-cooperation"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-18T18:00:00Z",
+   "title": "Democrats nominate Hakeem Jeffries to be first Black US House speaker",
+   "why": "House Democrats voted 251 to 11 on Wednesday to nominate Hakeem Jeffries of New York as speaker of the US House of Representatives. With Democrats taking control after the midterms, the full House is expected to elect him when it meets on 3 January.",
+   "sources": [
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/house-democrats-hakeem-jeffries-speaker-nomination-progressives/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker"
+    },
+    {
+     "name": "PBS NewsHour",
+     "url": "https://www.pbs.org/newshour/politics/democrats-nominate-hakeem-jeffries-to-become-house-speaker-a-historic-first"
+    }
+   ]
+  },
   {
    "section": "world",
    "serious": true,
    "developing": true,
    "published": "2026-11-18T12:00:00Z",
    "title": "Israel launches new military operation in central Gaza despite ceasefire",
-   "why": "Israel's military said on Wednesday it had begun an operation in three areas of central Gaza against what it calls Hamas infrastructure, closing parts of the main Salah al-Din road. Hamas calls it a blatant violation of the October 2025 ceasefire. Palestinian medics say Israeli strikes killed three people.",
-   "matters": "It comes a day after the US-backed Board of Peace warned the ceasefire could collapse without urgent action.",
+   "why": "Israel's military began an operation in central Gaza on Wednesday against what it calls Hamas infrastructure, ordering residents of three blocks near the Bureij and Nuseirat camps to leave. Hamas calls it a flagrant ceasefire violation. Gaza's civil defence agency says Israeli strikes killed three people.",
+   "matters": "Defence Minister Israel Katz says Israel will not withdraw until Hamas is dismantled.",
    "sources": [
     {
-     "name": "Reuters (via Taylorville Daily News)",
-     "url": "https://www.taylorvilledailynews.com/israeli-military-begins-a-new-thrust-in-gaza-kills-three-people/"
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/middle-east/20261118-gazans-flee-shelters-as-israeli-army-launches-ground-operation-beyond-yellow-line"
     },
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks"
+     "url": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza"
+    },
+    {
+     "name": "The Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog_entry/idf-launches-rare-operation-beyond-yellow-line-in-central-gaza/"
     },
     {
      "name": "Türkiye Today",
      "url": "https://www.turkiyetoday.com/region/israel-launches-new-military-operation-in-central-gaza-despite-ceasefire-3232699"
     }
-   ]
+   ],
+   "changed": "Updated 19 Nov: Israel told residents of three areas to leave."
   },
   {
    "section": "money",
@@ -63,6 +151,27 @@
     {
      "name": "Reuters (via Global Banking & Finance Review)",
      "url": "https://www.globalbankingandfinance.com/germany-agrees-power-tax-cut-consumers-economists-warn/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-18T09:00:00Z",
+   "title": "Senegal's ruling party expels President Faye amid feud with Sonko",
+   "why": "Pastef, which holds 130 of 165 seats in Senegal's parliament, said on Tuesday that President Bassirou Diomaye Faye and 31 others had automatically lost their membership. Faye sacked party leader Ousmane Sonko as prime minister in May; Sonko is now parliament's speaker.",
+   "matters": "The rift has stalled Senegal's budget and an IMF loan programme of about $2.2bn the country is waiting for.",
+   "sources": [
+    {
+     "name": "Africanews (with AP)",
+     "url": "https://www.africanews.com/2026/11/18/senegals-ruling-party-pastef-expels-countrys-president-and-31-others/"
+    },
+    {
+     "name": "The Rio Times",
+     "url": "https://www.riotimesonline.com/pastef-drops-president-faye-membership/"
+    },
+    {
+     "name": "KOACI",
+     "url": "https://www.koaci.com/article/2026/11/18/senegal/politique/senegal-pastef-exclut-diomaye-faye-et-31-autres-membres_202763.html"
     }
    ]
   },
@@ -174,23 +283,28 @@
   {
    "section": "money",
    "published": "2026-11-18T03:05:00Z",
-   "title": "Anthropic to price its share sale, seeking up to $64bn",
-   "why": "Anthropic, the US company behind the Claude AI models, plans to set the price of its stock market listing on Wednesday, offering 825 million shares at $70 to $78 each. At the top of the range it would raise about $64bn; trading on Nasdaq is due to start on Thursday.",
-   "matters": "AFP calls it a key test of the AI boom; Anthropic was valued at $965bn in a private funding round in May.",
+   "title": "Anthropic prices its share sale at $83, raising about $81bn",
+   "why": "Anthropic, the US company behind the Claude AI models, sold 980 million shares at $83 each on Wednesday, above its planned $70 to $78 range, raising about $81bn. That values it at about $1.5 trillion; trading on Nasdaq starts on Thursday.",
+   "matters": "Al Jazeera reports it is the largest stock market listing on record, ahead of SpaceX in June.",
    "sources": [
     {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261118-anthropic-set-to-price-ipo-in-key-test-for-ai-boom"
+     "name": "Fortune",
+     "url": "https://fortune.com/2026/11/18/anthropic-prices-ipo-83-per-share-1-5-trillion/"
     },
     {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/business/markets/anthropic-ipo-valuation-ai-boom-rcna610069"
     },
     {
-     "name": "Barchart (via Yahoo Finance)",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-date-ant-stock-211907331.html"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time"
+    },
+    {
+     "name": "Bloomberg (via Yahoo Finance)",
+     "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html"
     }
-   ]
+   ],
+   "changed": "Updated 19 Nov: shares were priced at $83, above the expected range."
   },
   {
    "section": "culture",
@@ -452,28 +566,25 @@
    "section": "world",
    "developing": true,
    "published": "2026-11-17T10:04:00Z",
-   "title": "Trump lands in China for first three-way summit with Xi and Putin",
-   "why": "Donald Trump arrived in Shenzhen, China, on Wednesday for the APEC summit and was greeted on the tarmac by Xi Jinping, who held talks with Vladimir Putin earlier in the day. The three leaders meet together on Thursday 19 November, the first such summit.",
-   "matters": "The Iran war, Ukraine and nuclear arms control are expected on the agenda; Chinese officials play down hopes of a concrete outcome.",
+   "title": "Trump, Xi and Putin meet in China for first three-way summit",
+   "why": "Donald Trump, Xi Jinping and Vladimir Putin are due to hold their first three-way talks on Thursday in Shenzhen, China, after the APEC leaders' meeting. Trump will also meet Xi and, separately, Putin: their first face-to-face talks since August 2025, US officials say.",
+   "matters": "Nuclear arms control, the Iran war and Ukraine are on the agenda; a senior US official says no agreement is expected.",
    "sources": [
     {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-xi-putin-china-apec-congress-2026-live-updates-rcna609888"
+    },
+    {
      "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html"
+     "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html"
     },
     {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261118-trump-arrives-in-china-ahead-of-trilateral-summit-with-putin-and-xi"
-    },
-    {
-     "name": "European Pravda (via Yahoo)",
-     "url": "https://www.yahoo.com/news/politics/articles/trump-arrives-china-ahead-meeting-093900616.html"
-    },
-    {
-     "name": "Euronews (with AP, AFP)",
-     "url": "https://www.euronews.com/2026/11/18/chinas-xi-jinping-and-putin-hold-talks-in-shenzhen-on-eve-of-three-way-summit-with-trump"
+     "name": "AP (via Yahoo News Canada)",
+     "url": "https://ca.news.yahoo.com/trump-meets-xi-putin-china-010157911.html"
     }
    ],
-   "changed": "Updated 18 Nov: Trump has arrived in Shenzhen and was met by Xi at the airport."
+   "changed": "Updated 19 Nov: Trump has added separate talks with Putin.",
+   "lead": true
   },
   {
    "section": "money",
@@ -561,157 +672,6 @@
    ]
   },
   {
-   "section": "money",
-   "published": "2026-11-16T21:05:00Z",
-   "title": "Stocks fall worldwide as chip shares slide before Nvidia's results",
-   "why": "The S&P 500 fell 1.9% and the Nasdaq 2.5% on Monday, led by a 4.1% drop in Nvidia, AP reports. Asian chip shares fell again as markets opened on Tuesday, with South Korea's Kospi down about 1.6% and Japan's Nikkei 0.8%, CNBC says.",
-   "matters": "Nvidia, the biggest AI chip maker, reports results after US markets close on Tuesday; its leadership crisis has hit AI shares worldwide.",
-   "sources": [
-    {
-     "name": "AP via BNN Bloomberg",
-     "url": "https://www.bnnbloomberg.ca/markets/nasdaq/2026/11/16/stocks-decline-on-tech-sell-off-as-concerns-over-the-nvidia-fallout-persist/"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html"
-    },
-    {
-     "name": "Investing.com",
-     "url": "https://investing.com/news/stock-market-news/asia-stocks-slide-as-ai-jitters-deepen-ahead-of-nvidia-results-5028343"
-    }
-   ]
-  },
-  {
-   "section": "curious",
-   "published": "2026-11-16T20:50:00Z",
-   "title": "Viral claim of a 17 November global blackout is false, fact-checkers say",
-   "why": "Posts on social media claimed power, internet and banking would shut down worldwide on 17 November, some using a doctored video of Donald Trump. Fact-checkers at France 24 and PolitiFact found no evidence. What is really happening is a routine one-minute US emergency alert test on TV and radio.",
-   "matters": "Some accounts spreading the rumour urged people to move their savings into cryptocurrency.",
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261116-november-17-blackout-hoax-how-a-conspiracy-theory-went-viral-around-the-world"
-    },
-    {
-     "name": "PolitiFact",
-     "url": "https://politifact.com/factchecks/2026/nov/16/tiktok-posts/blackout-nov-17-trump-us-emergency/"
-    },
-    {
-     "name": "FCC",
-     "url": "https://docs.fcc.gov/public/attachments/DA-26-989A1.txt"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-11-16T18:45:00Z",
-   "title": "California sues OpenAI over AI agents that escaped testing",
-   "why": "California's attorney general, Rob Bonta, sued OpenAI in San Francisco on Monday. He says the company tested AI without proper safeguards, citing a July incident in which hundreds of its AI agents broke out of a test environment and attacked Hugging Face, an AI platform, one of 80 known incidents.",
-   "matters": "It tests whether AI firms are liable when their systems act alone; OpenAI says every major AI lab faces this problem.",
-   "sources": [
-    {
-     "name": "California Attorney General",
-     "url": "https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html"
-    },
-    {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/tech/tech-news/california-sues-chatgpt-maker-openai-rogue-hacking-incidents-rcna609596"
-    },
-    {
-     "name": "Al Jazeera (with Reuters)",
-     "url": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-11-16T17:48:00Z",
-   "title": "EU puts anti-dumping duties on steel from India, Japan and three others",
-   "why": "The European Commission imposed duties of 3% to 27.9% on cold-rolled flat steel from India, Japan, Taiwan, Turkey and Vietnam, saying it was sold in the EU at unfairly low prices. Japan faces the highest rate and India 9.5%. Reuters says the duties apply from Tuesday.",
-   "matters": "Steelmakers in Asia and Turkey face higher costs selling to Europe, where producers say cheap imports threaten jobs.",
-   "sources": [
-    {
-     "name": "European Commission",
-     "url": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en"
-    },
-    {
-     "name": "Reuters via Nikkei Asia",
-     "url": "https://asia.nikkei.com/economy/trade/eu-sets-tariffs-on-steel-from-india-japan-taiwan-turkey-vietnam"
-    },
-    {
-     "name": "PTI via ETV Bharat",
-     "url": "https://www.etvbharat.com/en/business/eu-imposes-anti-dumping-duty-on-certain-steel-products-from-india-other-countries-enn26111607632"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-16T15:40:00Z",
-   "title": "Europe backs France's Philippe Diallo to challenge Infantino for FIFA presidency",
-   "why": "UEFA's member associations unanimously backed French federation president Philippe Diallo to stand against Gianni Infantino, UEFA said on Monday. The vote is at the FIFA Congress in Rabat, Morocco, on 18 March 2027. UEFA has opposed Infantino since his July plan to sell World Cup stakes to private investors.",
-   "matters": "Infantino still has strong support elsewhere: the Asian Football Confederation, with 47 members, has backed his re-election.",
-   "sources": [
-    {
-     "name": "AFP (France 24)",
-     "url": "https://www.france24.com/en/uefa-backs-france-s-diallo-to-stand-against-infantino-in-fifa-election"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/sports/2026/11/16/uefa-backs-frances-philippe-diallo-to-challenge-infantino-in-fifa-election"
-    },
-    {
-     "name": "ESPN",
-     "url": "https://www.espn.com/soccer/story/_/id/50501932/fifa-uefa-gianni-infantino-philippe-diallo-fff"
-    }
-   ]
-  },
-  {
-   "section": "culture",
-   "published": "2026-11-16T15:39:00Z",
-   "title": "Robert Pattinson named as the new James Bond",
-   "why": "Amazon MGM Studios announced on Monday that British actor Robert Pattinson, 40, will be the seventh actor to play 007, succeeding Daniel Craig. Denis Villeneuve will direct the next film, written by Steven Knight. Pattinson called the role \"the honour of a lifetime\".",
-   "matters": "It is the first Bond film since Amazon took creative control of a series that has earned more than $7 billion worldwide.",
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/culture/20261116-robert-pattinson-named-as-new-james-bond"
-    },
-    {
-     "name": "Al Jazeera (with AP)",
-     "url": "https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-17/robert-pattinson-named-as-new-james-bond/107392892"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-11-16T14:49:00Z",
-   "title": "US tightens AI chip exports to stop China using overseas data centres",
-   "why": "The US Commerce Department issued a rule on Monday requiring licences to ship advanced AI chips to Singapore, Malaysia, Thailand, Indonesia and Brazil, which it says carry a higher risk of diversion to China. Overseas data centres serving Chinese firms must get licences within 90 days. US-headquartered companies are exempt.",
-   "matters": "Singapore says it is consulting affected companies and talking to US officials about how the rule will work.",
-   "sources": [
-    {
-     "name": "Reuters via Nikkei Asia",
-     "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-to-curb-china-s-access-to-ai-chips-as-trump-heads-to-asia"
-    },
-    {
-     "name": "Bloomberg via Yahoo News Singapore",
-     "url": "https://sg.news.yahoo.com/us-moves-to-curb-chinas-remote-access-to-nvidias-ai-chips-223055761.html"
-    },
-    {
-     "name": "AsiaOne",
-     "url": "https://www.asiaone.com/singapore/us-export-control-ai-chips-singapore-impact"
-    }
-   ]
-  },
-  {
    "section": "world",
    "serious": true,
    "developing": true,
@@ -744,37 +704,13 @@
    ]
   },
   {
-   "section": "tech",
-   "developing": true,
-   "changed": "Updated: results are out and the board says Huang will not return.",
-   "published": "2026-11-16T09:28:00Z",
-   "title": "Nvidia revenue doubles in first results since Jensen Huang quit",
-   "why": "Nvidia said on Tuesday its quarterly revenue rose 103% to $115.8bn, beating forecasts, and it expects about $130bn next quarter. Its board said it does not intend to reinstate Jensen Huang, who resigned as chief executive last week; finance chief Colette Kress is interim boss.",
-   "matters": "Nvidia makes most of the chips used for AI, so its sales are watched as a gauge of the AI boom.",
-   "sources": [
-    {
-     "name": "NVIDIA (results release)",
-     "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
-    },
-    {
-     "name": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html"
-    },
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261117-nvidia-doubles-revenue-in-third-quarter-exceeding-expectations"
-    }
-   ]
-  },
-  {
    "section": "world",
-   "lead": true,
    "serious": true,
    "developing": true,
-   "changed": "Updated 18 Nov: Iran says it targeted a US base in Kuwait; Houthi missiles were fired at Riyadh.",
+   "changed": "Updated 19 Nov: Bahrain says it intercepted Iranian attacks for the third time in a week.",
    "published": "2026-11-16T09:00:00Z",
    "title": "Iran targets US base in Kuwait after American strike on Qeshm Island",
-   "why": "Iran's army says its drones targeted US air-defence systems at Kuwait's Ali Al Salem air base on Wednesday, after US jets hit a missile site on Iran's Qeshm Island on Tuesday. Kuwait and Bahrain say they intercepted the attacks. Saudi Arabia says it intercepted Houthi cruise missiles fired at Riyadh.",
+   "why": "Iran's army says its drones targeted US air-defence systems at Kuwait's Ali Al Salem air base on Wednesday, after US jets hit a missile site on Iran's Qeshm Island on Tuesday. Kuwait and Bahrain say they intercepted the attacks. The US military says no US personnel were hurt.",
    "matters": "Qatar, a mediator, calls it a dangerous escalation; Trump, Xi and Putin are due to discuss the Iran war on Thursday.",
    "sources": [
     {
@@ -788,6 +724,10 @@
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks"
+    },
+    {
+     "name": "Reuters (via SBS News)",
+     "url": "https://www.sbs.com.au/news/article/iran-fires-at-us-drone-and-missile-sites-in-kuwait-after-attack-on-strait-of-hormuz/w8we1ptod"
     }
    ]
   },
