@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-19T01:43:00Z",
+ "updated": "2026-11-19T07:44:00Z",
  "items": [
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-19T03:46:00Z",
+   "title": "US jury convicts pastor over 2021 killing of Haiti's president",
+   "why": "A federal jury in Miami found Haitian-American pastor Christian Emmanuel Sanon guilty on Wednesday on all eight charges over the plot to kill Haiti's President Jovenel Moïse, shot dead at home in July 2021. He faces up to life in prison; sentencing is on 10 February.",
+   "matters": "His lawyer says he will appeal. US prosecutors have charged more than 40 people over the killing.",
+   "sources": [
+    {
+     "name": "AP (via WLRN)",
+     "url": "https://www.wlrn.org/americas/2026-11-18/florida-pastor-convicted-of-us-charges-related-to-assassination-of-haitian-president-jovenel-moise"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president"
+    },
+    {
+     "name": "USA Today (via Yahoo)",
+     "url": "https://www.yahoo.com/news/us/articles/haitian-american-pastor-convicted-plot-051515579.html"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "developing": true,
+   "published": "2026-11-19T03:07:00Z",
+   "title": "UN's top court rules on Thursday on Myanmar Rohingya genocide case",
+   "why": "The International Court of Justice in The Hague is due to say from 09:00 GMT on Thursday whether Myanmar committed genocide against its Rohingya minority. The Gambia brought the case in 2019 after a 2017 army offensive drove at least 730,000 Rohingya into Bangladesh. Myanmar denies genocide.",
+   "matters": "The ruling is final and cannot be appealed; about 1.2 million Rohingya live in refugee camps in Bangladesh.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar"
+    },
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261119-top-un-court-to-rule-if-myanmar-s-rohingya-crackdown-was-genocide"
+    },
+    {
+     "name": "Reuters (via Al-Monitor)",
+     "url": "https://www.al-monitor.com/originals/2026/11/top-un-court-ruling-myanmar-genocide-be-watched-clues-gaza"
+    }
+   ]
+  },
   {
    "section": "culture",
    "published": "2026-11-19T00:30:00Z",
@@ -19,6 +63,27 @@
     {
      "name": "CNN (via Local News 8)",
      "url": "https://localnews8.com/life/cnn-style/2026/11/18/vincent-van-gogh-painting-sells-for-190-million-smashing-auction-record/"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-18T21:23:00Z",
+   "title": "Bancroft says whole Australian team knew of 2018 ball-tampering plot",
+   "why": "Former Australia batter Cameron Bancroft wrote in The West Australian on Wednesday that \"the whole team\" knew sandpaper was being used on the ball in South Africa in 2018, not only the three players punished. Captain Pat Cummins has called such claims \"complete and utter nonsense\".",
+   "matters": "Cricket Australia says it will consider his account but will not reopen its investigation.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261118-cummins-defiant-as-sandpapergate-roils-australian-cricket-1"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-19/cameron-bancroft-sandpaper-breakdown/107403066"
+    },
+    {
+     "name": "AAP (via 1News)",
+     "url": "https://www.1news.co.nz/2026/11/19/bancroft-drops-bomb-in-crickets-ball-tampering-war/"
     }
    ]
   },
@@ -81,6 +146,27 @@
     {
      "name": "PBS NewsHour",
      "url": "https://www.pbs.org/newshour/politics/democrats-nominate-hakeem-jeffries-to-become-house-speaker-a-historic-first"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-18T13:00:00Z",
+   "title": "Ghana's central bank cuts its main interest rate from 14% to 11%",
+   "why": "The Bank of Ghana lowered its policy rate by three percentage points on Wednesday, to its lowest level in decades. Governor Johnson Pandit Asiama called it \"a realignment, not a reduction\", because market rates had already fallen below 14%. Inflation was 5.5% in October.",
+   "matters": "Cheaper borrowing could ease costs for Ghanaian households and businesses; average bank lending rates have already fallen to about 16%.",
+   "sources": [
+    {
+     "name": "Graphic Online",
+     "url": "https://www.graphic.com.gh/business/business-news/bank-of-ghana-cuts-monetary-policy-rate-to-11.html"
+    },
+    {
+     "name": "Citi Newsroom",
+     "url": "https://www.citinewsroom.com/2026/11/bog-cuts-policy-rate-by-300-basis-points-to-11/"
+    },
+    {
+     "name": "GBC",
+     "url": "https://www.gbcghanaonline.com/general-news/bog-cuts-policy-rate-by-300-basis-points-to-11-0-reaching-multi-decade-low/2026/"
     }
    ]
   },
@@ -371,6 +457,27 @@
    "changed": "Updated 18 Nov: Voyager 1 has now passed the one light-day mark."
   },
   {
+   "section": "climate",
+   "published": "2026-11-17T23:00:00Z",
+   "title": "Fiji and Tonga declare drought emergencies as El Niño dries the Pacific",
+   "why": "Fiji declared a nationwide state of disaster on Wednesday, with Prime Minister Sitiveni Rabuka saying the El Niño drought has reached crisis levels. The government has set aside FJ$20m for emergency water. Tonga has declared a 27-day state of emergency over water shortages.",
+   "matters": "Fiji's weather service expects below-normal rain until April; experts say this El Niño could be among the strongest on record.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261119-tropical-fiji-declares-el-nino-drought-crisis"
+    },
+    {
+     "name": "RNZ",
+     "url": "https://www.rnz.co.nz/news/pacific/2660183/fiji-declares-state-of-national-disaster-over-el-nino-drought"
+    },
+    {
+     "name": "1News",
+     "url": "https://www.1news.co.nz/2026/11/18/fiji-declares-nationwide-state-of-disaster-as-el-nino-drought-worsens/"
+    }
+   ]
+  },
+  {
    "section": "world",
    "serious": true,
    "published": "2026-11-17T22:00:00Z",
@@ -459,7 +566,7 @@
    "serious": true,
    "published": "2026-11-17T16:00:00Z",
    "title": "US, Mexico and Bolivia lose measles-free status",
-   "why": "The Pan American Health Organization (PAHO) said on Tuesday that measles is again spreading continuously in the United States, Mexico and Bolivia, ending their elimination status. The US had held it since 2000. PAHO counts more than 58,000 confirmed cases and 82 deaths in the Americas this year.",
+   "why": "The Pan American Health Organization (PAHO) said on Tuesday that measles is again spreading continuously in the United States, Mexico and Bolivia, ending their elimination status. A day later, Pennsylvania reported its eighth measles death this year, an unvaccinated person; the state has 1,589 cases.",
    "matters": "PAHO says the setback can be reversed; the US must now send it a plan to stop the spread.",
    "sources": [
     {
@@ -473,8 +580,21 @@
     {
      "name": "NBC News",
      "url": "https://www.nbcnews.com/health/health-news/measles-no-longer-eliminated-us-rcna607920"
+    },
+    {
+     "name": "Pennsylvania Department of Health",
+     "url": "https://www.pa.gov/agencies/health/newsroom/pa-department-of-health-confirms-eighth-measles-associated-death"
+    },
+    {
+     "name": "WPSU",
+     "url": "https://radio.wpsu.org/2026-11-18/pa-health-department-measles-death-clinton-county"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/19/unvaccinated-pennsylvania-resident-dies-amid-historic-us-measles-resurgence"
     }
-   ]
+   ],
+   "changed": "Updated 19 Nov: Pennsylvania reported its eighth measles death of the year."
   },
   {
    "section": "health",
@@ -567,23 +687,27 @@
    "developing": true,
    "published": "2026-11-17T10:04:00Z",
    "title": "Trump, Xi and Putin meet in China for first three-way summit",
-   "why": "Donald Trump, Xi Jinping and Vladimir Putin are due to hold their first three-way talks on Thursday in Shenzhen, China, after the APEC leaders' meeting. Trump will also meet Xi and, separately, Putin: their first face-to-face talks since August 2025, US officials say.",
-   "matters": "Nuclear arms control, the Iran war and Ukraine are on the agenda; a senior US official says no agreement is expected.",
+   "why": "Donald Trump held separate talks with Vladimir Putin and Xi Jinping in Shenzhen, China, on Thursday, ahead of the three leaders' first three-way meeting at the APEC summit. Trump called Putin his \"friend\", saying \"wonderful things can come out of this\". It is their first meeting since August 2025.",
+   "matters": "Ukraine, the Iran war, nuclear arms control, trade and AI are on the agenda; analysts expect few concrete agreements.",
    "sources": [
     {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-xi-putin-china-apec-congress-2026-live-updates-rcna609888"
+     "name": "France 24",
+     "url": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit"
+    },
+    {
+     "name": "The New Arab",
+     "url": "https://www.newarab.com/news/china-us-and-russia-meet-tensions-soar-middle-east"
     },
     {
      "name": "CNBC",
      "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html"
-    },
-    {
-     "name": "AP (via Yahoo News Canada)",
-     "url": "https://ca.news.yahoo.com/trump-meets-xi-putin-china-010157911.html"
     }
    ],
-   "changed": "Updated 19 Nov: Trump has added separate talks with Putin.",
+   "changed": "Updated 19 Nov: Trump met Putin and Xi separately ahead of the three-way talks.",
    "lead": true
   },
   {
@@ -626,48 +750,6 @@
     {
      "name": "Xinhua (via Bernama)",
      "url": "https://www.bernama.com/en/world/news.php?id=2635605"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-17T03:30:00Z",
-   "title": "Turkey takes opposition-leaning Sözcü TV off air and appoints state trustee",
-   "why": "Police raided Sözcü TV's Istanbul offices before dawn on Tuesday and a state fund was appointed to run the channel and its website. Prosecutors say its owner is under investigation over alleged links to the Gülen network, blamed by Ankara for the 2016 coup attempt; the channel's lawyer disputes this.",
-   "matters": "Opposition leader Özgür Özel called it intolerance of criticism; the government says Turkey's judiciary is independent.",
-   "sources": [
-    {
-     "name": "Reuters (via Al-Monitor)",
-     "url": "https://www.al-monitor.com/originals/2026/11/turkey-takes-pro-opposition-tv-channel-sozcu-air-raid-appoints-trustee"
-    },
-    {
-     "name": "AFP (via Yahoo)",
-     "url": "https://uk.finance.yahoo.com/news/police-raid-turkeys-pro-opposition-064308016.html"
-    },
-    {
-     "name": "Hürriyet Daily News",
-     "url": "https://www.hurriyetdailynews.com/sozcu-tv-placed-under-trustee-control-after-police-raid-229507"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-17T02:35:00Z",
-   "title": "Japan protests after suspected Russian planes enter its airspace",
-   "why": "Two aircraft believed to be Russian entered Japanese airspace near Okinoshima island, off Fukuoka in south-western Japan, just after 4am on Tuesday, Japan's government says. Fighter jets were scrambled to warn them, and Tokyo lodged a strong protest with Moscow.",
-   "matters": "It is the first such violation Japan has reported since September 2024, ahead of a summit in China this week.",
-   "sources": [
-    {
-     "name": "Reuters (via Yahoo)",
-     "url": "https://www.yahoo.com/news/world/articles/tokyo-lodges-protest-aircraft-believed-023524905.html"
-    },
-    {
-     "name": "AFP (via The Standard)",
-     "url": "https://www.thestandard.com.hk/world/article/348723/Japan-scrambles-jets-after-suspected-Russian-planes-enter-airspace"
-    },
-    {
-     "name": "Jiji Press (via Nippon.com)",
-     "url": "https://www.nippon.com/en/articles/-/57542"
     }
    ]
   },
@@ -736,24 +818,24 @@
    "serious": true,
    "developing": true,
    "published": "2026-11-16T00:52:00Z",
-   "title": "Cyclone Akvan expected to hit India's Andhra Pradesh coast on Friday",
-   "why": "Akvan strengthened into a severe cyclonic storm over the Bay of Bengal early on Wednesday, India's weather department (IMD) says. It expects the storm to cross the Andhra Pradesh coast between Nellore and Visakhapatnam around midday on Friday 20 November. Neighbouring Odisha plans to move more than 200,000 people.",
-   "matters": "Heavy rain alerts cover parts of Andhra Pradesh, Odisha and Telangana, and fishermen have been told to stay off the sea.",
+   "title": "Cyclone Akvan to hit India's Andhra Pradesh and Odisha coast on Friday",
+   "why": "India's weather department (IMD) expects severe cyclonic storm Akvan to cross the coast between Narsapur in Andhra Pradesh and Puri in Odisha by Friday afternoon, with winds of 90 to 100 km/h gusting to 110 km/h. Odisha's chief minister, Mohan Charan Majhi, says about 50,000 people have been evacuated.",
+   "matters": "Odisha has issued red warnings for 13 districts and closed schools in six until Saturday; extremely heavy rain is forecast.",
    "sources": [
     {
-     "name": "Down To Earth",
-     "url": "https://www.downtoearth.org.in/climate-change/daily-weather-tracker-severe-cyclonic-storm-akvan-approaches-andhra-pradesh-coast"
+     "name": "Deccan Chronicle",
+     "url": "https://www.deccanchronicle.com/nation/current-affairs/live-cyclone-akvan-to-cross-ap-odisha-coasts-today-red-alert-issued-2005764"
+    },
+    {
+     "name": "Outlook India",
+     "url": "https://www.outlookindia.com/national/odisha-evacuates-nearly-47000-as-severe-cyclonic-storm-akvan-nears-puri-narsapur-coast"
     },
     {
      "name": "The Federal",
-     "url": "https://thefederal.com/category/states/south/andhra-pradesh/andhra-odisha-brace-as-akvan-turns-severe-may-not-become-very-severe-263268"
-    },
-    {
-     "name": "Deccan Chronicle",
-     "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/cyclone-akvan-to-make-landfall-between-nellore-and-visakhapatnam-on-november-20-2005434"
+     "url": "https://thefederal.com/category/states/east/odisha/odisha-ramps-up-evacuations-as-cyclone-akvan-alters-course-50000-moved-to-safety-263371"
     }
    ],
-   "changed": "Updated 18 Nov: Akvan is now a severe cyclonic storm; Odisha plans evacuations."
+   "changed": "Updated 19 Nov: the forecast landfall moved north towards Odisha; about 50,000 people evacuated."
   },
   {
    "section": "world",
