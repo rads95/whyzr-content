@@ -6548,5 +6548,161 @@
         ]
       }
     ]
+  },
+  {
+    "id": "061",
+    "published": "2026-11-22",
+    "title": "Morocco’s best-ever ranking, 100 million marching crabs and a record stock market debut",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Is this true?",
+        "claim": "In the men’s football world ranking published by FIFA on 18 November, Morocco climbed to fifth place, their best position since the ranking began in 1993.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this is true. Morocco moved up two places to fifth in FIFA’s men’s world ranking, released on Wednesday 18 November, after winning both of their qualifying matches for the 2027 Africa Cup of Nations. It is their highest place since FIFA started the ranking in 1993, and it equals the best ever by an African team (Nigeria were also fifth, in 1994). Spain, the world champions, stay top, ahead of Argentina, France and England.",
+        "sources": [
+          [
+            "FIFA · “Atlas Lions” roar in November’s FIFA/Coca-Cola Men’s World Ranking",
+            "https://inside.fifa.com/en/news/coca-cola-mens-world-rankings-november-2026-morocco-canada"
+          ],
+          [
+            "France 24 · FIFA rankings: France finish the year on the podium, Morocco break into the top five",
+            "https://www.france24.com/en/tv-shows/sports/20261119-fifa-rankings-france-finish-the-year-on-the-podium-morocco-break-into-the-top-five"
+          ],
+          [
+            "Goal · Morocco climb to highest-ever position in FIFA world rankings",
+            "https://www.goal.com/en/news/morocco-climb-to-highest-ever-position-in-fifa-world-rankings/bltc31a4305e78ef89f"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three words from the Cambridge Dictionary’s word of the year list. Find their partners.",
+        "pairs": [
+          [
+            "Human",
+            "The Cambridge Dictionary’s word of the year for 2026"
+          ],
+          [
+            "Agent",
+            "An AI system that makes decisions on its own"
+          ],
+          [
+            "Analogue",
+            "Things done without the internet or digital technology"
+          ]
+        ],
+        "why": "The pairs are: human – the word of the year; agent – an AI system that acts without a person controlling it; analogue – experiences or objects with no internet or digital technology. On 17 November the Cambridge Dictionary, one of the best-known English dictionaries, chose “human” as its word of the year. It said 2026 was full of debate about what it means to be human now that AI is blurring the line between people and machines, which also made words like “human-made” more common. “Agent” and “analogue” were among the other words it considered.",
+        "sources": [
+          [
+            "University of Cambridge · Cambridge Dictionary reveals Word of the Year 2026",
+            "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026"
+          ],
+          [
+            "Euronews (via Yahoo News) · ‘Human’: Cambridge Dictionary’s Word of the Year 2026 tackles ongoing AI fears",
+            "https://www.yahoo.com/news/us/articles/human-cambridge-dictionarys-word-2026-101638601.html"
+          ],
+          [
+            "WSOC-TV (Cox Media Group) · Cambridge Dictionary selects human as word of the year",
+            "https://www.wsoctv.com/news/trending/cambridge-dictionary-selects-human-word-year/644YUO7IVZFNLBTFY3C4U4EPH4/"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "More than 100 million travellers, all of them red",
+          "Roads close and park rangers gently rake them out of the way",
+          "The trip from the forest to the sea is timed by the rain and the Moon"
+        ],
+        "options": [
+          "Flamingos gathering on a lake in Kenya",
+          "Red crabs marching to the sea on Australia’s Christmas Island",
+          "Ladybirds swarming across southern England",
+          "Salmon swimming up rivers in Canada"
+        ],
+        "correct": 1,
+        "why": "It was: red crabs marching to the sea on Australia’s Christmas Island. Every year, when the rainy season starts, the island’s red crabs leave the forest and walk to the coast to breed, and the females release their eggs into the ocean at a moment set by the tides and the phase of the Moon. This year’s march began in mid-November, with park staff estimating more than 100 million crabs on the move. Roads are closed, special crab bridges and barriers help them cross safely, and rangers rake them off the roads. Christmas Island is a small Australian territory in the Indian Ocean, south of Indonesia.",
+        "sources": [
+          [
+            "France 24 (AFP) · Red crabs begin annual march to sea on Australia’s Christmas Island",
+            "https://france24.com/en/live-news/20261119-red-crabs-begin-annual-march-to-sea-on-australia-s-christmas-island"
+          ],
+          [
+            "ABC News (Australia) · More than 100 million red crabs begin annual migration across Christmas Island",
+            "https://www.abc.net.au/news/2026-11-20/christmas-island-red-crab-migration-park-manager/107408112"
+          ],
+          [
+            "Euronews · Millions of red crabs begin annual migration on Australia’s Christmas Island",
+            "https://www.euronews.com/video/2026/11/16/millions-of-red-crabs-begin-annual-migration-on-australias-christmas-island"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "Three of the biggest stock market debuts ever: put them in order, earliest first.",
+        "items": [
+          "Anthropic, maker of the Claude AI assistant, raises about $81 billion",
+          "Saudi Aramco, the Saudi oil giant, raises about $25.6 billion",
+          "SpaceX, Elon Musk’s rocket company, raises about $75 billion"
+        ],
+        "correctOrder": [
+          1,
+          2,
+          0
+        ],
+        "why": "The right order is: Saudi Aramco (December 2019), then SpaceX (June 2026), then Anthropic (November 2026). When a company first sells its shares to the public on a stock market, it is called an IPO, or initial public offering. Aramco held the record for years, until SpaceX raised far more in June. Then on Thursday 19 November Anthropic, an artificial intelligence company, began trading on the Nasdaq exchange in New York after raising about $81 billion, the biggest IPO in history.",
+        "sources": [
+          [
+            "Al Jazeera · Charting the world’s biggest IPOs as Anthropic overtakes SpaceX",
+            "https://www.aljazeera.com/news/2026/11/19/charting-the-worlds-biggest-ipos-as-anthropic-overtakes-spacex"
+          ],
+          [
+            "CNBC · Anthropic IPO takeaways: ANT debuts in landmark moment for AI",
+            "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html"
+          ],
+          [
+            "AP (via Korea JoongAng Daily) · Anthropic pulled off the biggest IPO ever. What that means, by the numbers",
+            "https://www.koreajoongangdaily.com/world/anthropic-pulled-off-the-biggest-ipo-ever-what-that-means-by-the-numbers/12982251"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "On 18 November Germany’s governing parties agreed a plan to help households and businesses with high energy costs. What does it do?",
+        "options": [
+          "Cuts the tax on electricity and caps fuel prices",
+          "Gives every household a free solar panel",
+          "Reopens Germany’s closed nuclear power stations",
+          "Makes all trains free for a year"
+        ],
+        "correct": 0,
+        "why": "It cuts the tax on electricity and caps fuel prices. Chancellor Friedrich Merz’s conservatives and their partners, the centre-left SPD, agreed after about eight hours of talks to cut the electricity tax to the lowest level EU rules allow for all of 2027, and to put a limit on petrol and diesel prices from January, at first for three months. Energy prices rose this year after disruption to oil and gas shipments through the Strait of Hormuz, a key sea route in the Middle East. The government says an average family will save only about 6 to 8 euros a month, while businesses save more.",
+        "sources": [
+          [
+            "AFP (via France 24) · Germany strikes deal to ease energy costs after stormy talks",
+            "https://www.france24.com/en/live-news/20261118-germany-to-cut-electricity-tax-cap-fuel-prices"
+          ],
+          [
+            "dpa (via Yahoo News) · German coalition agrees to cap fuel prices from January",
+            "https://www.yahoo.com/news/world/articles/german-coalition-agrees-cap-fuel-093336229.html"
+          ],
+          [
+            "Euronews (via Yahoo News) · Germany cuts energy tax and extends fuel price cap in 2027",
+            "https://ca.news.yahoo.com/germany-cuts-energy-tax-extends-100540893.html"
+          ]
+        ]
+      }
+    ]
   }
 ]
