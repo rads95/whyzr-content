@@ -1,35 +1,83 @@
 {
- "updated": "2026-11-20T07:43:00Z",
+ "updated": "2026-11-20T13:55:00Z",
  "items": [
+  {
+   "section": "world",
+   "published": "2026-11-20T12:30:00Z",
+   "title": "EU and UK agree post-Brexit reset on youth mobility and trade",
+   "why": "At a summit in Brussels on Friday, UK Prime Minister Andy Burnham and EU leaders agreed a youth scheme letting up to 100,000 young people from each side live and work in the other for up to three years, plus deals on food standards and linking carbon markets.",
+   "matters": "EU officials say the deal depends on Britain agreeing lower university fees for EU students within six months.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/20/young-europeans-win-a-route-back-to-the-uk-but-not-cheaper-university-fees-yet"
+    },
+    {
+     "name": "UPI (via Yahoo)",
+     "url": "https://www.yahoo.com/news/politics/articles/european-union-britain-ink-reset-132036225.html"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "lead": true,
+   "developing": true,
+   "published": "2026-11-20T10:30:00Z",
+   "title": "Poland says Russian missile crashed on its soil during attack on Ukraine",
+   "why": "Poland's defence minister says a Russian Kh-101 cruise missile came down near Nowy Lipowiec, in Lublin province, about 60km from the Ukrainian border, on Friday; a second missile and a drone fell elsewhere. Nobody was hurt. Prime Minister Donald Tusk called it a deliberate provocation.",
+   "matters": "Poland is a NATO member; NATO chief Mark Rutte called the airspace violations \"grave\" and jets were scrambled.",
+   "sources": [
+    {
+     "name": "France 24 (with Reuters, AFP)",
+     "url": "https://www.france24.com/en/europe/20261120-poland-says-russian-missile-hit-its-territory-during-attack-on-ukraine"
+    },
+    {
+     "name": "AP (via CP24)",
+     "url": "https://www.cp24.com/news/world/2026/11/20/russian-missiles-crash-in-poland-was-likely-an-intentional-provocation-polish-prime-minister-says/"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/20/unidentified-object-falls-in-eastern-poland-amid-major-russian-attack-on-ukraine"
+    }
+   ]
+  },
   {
    "section": "world",
    "serious": true,
    "developing": true,
    "published": "2026-11-20T05:00:00Z",
-   "title": "Russian missile attack damages three bridges in Kyiv, killing three",
-   "why": "A Russian ballistic missile attack overnight into Friday damaged the Podilsko-Voskresenskyi and Darnytskyi bridges over the Dnipro in Ukraine's capital, Kyiv, and struck the Southern Bridge, Mayor Vitali Klitschko says. City officials say three people were killed and about 15 injured.",
-   "matters": "The bridges link the two halves of the city; Putin had vowed retaliation for Ukraine's strikes on the Crimea bridge.",
+   "title": "Russian barrage damages three Kyiv bridges; at least eight killed in Ukraine",
+   "why": "Russia fired more than 110 missiles and over 400 drones at Ukraine overnight into Friday, President Zelensky says. Prime Minister Sergii Koretskyi says at least eight people were killed, six in Kyiv, and 28 injured. Three bridges over the Dnipro in Kyiv were damaged.",
+   "matters": "Russia says it targeted bridges used to move weapons; France has asked for an emergency UN Security Council meeting.",
    "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges"
+    },
     {
      "name": "AFP (via France 24)",
      "url": "https://www.france24.com/en/europe/20261120-live-deadly-russian-attacks-damage-two-bridges-in-kyiv-mayor-says"
     },
     {
-     "name": "RTÉ",
-     "url": "https://www.rte.ie/news/ukraine/2026/1120/1599948-ukraine-russia/"
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/20/unidentified-object-falls-in-eastern-poland-amid-major-russian-attack-on-ukraine"
     },
     {
-     "name": "Kyiv Post",
-     "url": "https://www.kyivpost.com/post/90668"
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/news/ukraine/2026/1120/1599948-ukraine-russia/"
     }
-   ]
+   ],
+   "changed": "Updated: the death toll rose and France asked for a UN Security Council meeting"
   },
   {
    "section": "money",
-   "lead": true,
    "published": "2026-11-20T01:30:00Z",
    "title": "Asian shares tumble as AI sell-off deepens despite Anthropic's debut",
-   "why": "Stock markets across Asia fell sharply on Friday, after heavy losses on Wall Street. Japan's Nikkei 225 and South Korea's Kospi fell by around 5%, and Taiwan's main index by about 6%, heading for its worst week since 1991.",
+   "why": "Stock markets across Asia fell sharply on Friday after heavy losses on Wall Street. South Korea's Kospi closed 5.2% lower and Japan's Nikkei 225 5.1% lower. Taiwan's main index fell about 6%, and European shares also opened lower.",
    "matters": "Analysts say investors increasingly doubt that the huge spending on artificial intelligence will pay off.",
    "sources": [
     {
@@ -47,19 +95,27 @@
     {
      "name": "Free Press Journal",
      "url": "https://www.freepressjournal.in/business/asian-stock-markets-crash-kospi-plunges-47-nikkei-tumbles-48-as-ai-selloff-deepens-despite-anthropics-81-billion-ipo"
+    },
+    {
+     "name": "Euronews (via Yahoo Finance)",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-gold-silver-fall-blockbuster-054838505.html"
     }
-   ]
+   ],
+   "changed": "Updated: closing figures added; European shares also fell"
   },
   {
    "section": "climate",
    "serious": true,
-   "developing": true,
-   "changed": "Updated 20 Nov: Akvan made landfall near Gopalpur on Friday morning.",
+   "changed": "Updated: officials say no deaths or major damage were reported",
    "published": "2026-11-20T00:30:00Z",
-   "title": "Cyclone Akvan makes landfall near Gopalpur in Odisha; 300,000 evacuated",
-   "why": "Akvan, weakened to a cyclonic storm, crossed the coast near Gopalpur in India's Odisha state on Friday morning with winds of 70 to 90 km/h, India's weather department (IMD) says. Odisha's government says more than 300,000 people were moved to safety.",
-   "matters": "Extremely heavy rain is forecast in north Andhra Pradesh and south Odisha; dozens of trains have been cancelled.",
+   "title": "Cyclone Akvan hits Odisha coast; officials report no deaths so far",
+   "why": "Akvan crossed the coast near Gopalpur in India's Odisha state on Friday morning with winds of 70 to 90 km/h, India's weather department says. Odisha officials say about 370,000 people were evacuated and no deaths or major damage have been reported so far.",
+   "matters": "Heavy rain continues in south Odisha and north Andhra Pradesh; more than 65 trains were cancelled.",
    "sources": [
+    {
+     "name": "DD News",
+     "url": "https://ddnews.gov.in/en/cyclone-akvan-makes-landfall-along-odisha-coast-brings-in-heavy-rain/"
+    },
     {
      "name": "The Tribune (PTI)",
      "url": "https://www.tribuneindia.com/news/india/landfall-process-of-cyclone-akvan-commences-near-gopalpur-in-odisha/"
@@ -383,12 +439,16 @@
   {
    "section": "climate",
    "developing": true,
-   "changed": "Updated 20 Nov: a new draft dropped all mention of fossil fuels.",
+   "changed": "Updated: talks look set to run past Friday's deadline",
    "published": "2026-11-19T12:00:00Z",
-   "title": "COP31 draft deal drops mention of fossil fuels on eve of deadline",
-   "why": "A shorter draft deal published on Thursday at the UN climate summit in Antalya, Türkiye, no longer mentions fossil fuels and drops a $120bn-a-year target for adaptation finance, Reuters reports. Talks are due to end on Friday; talks leader Chris Bowen says he will consult through the night.",
-   "matters": "Campaigners say the text goes backwards; any deal needs the agreement of nearly 200 countries, and summits often overrun.",
+   "title": "COP31 climate talks set to overrun amid row over fossil fuels",
+   "why": "The UN climate summit in Antalya, Türkiye, was due to end on Friday but looks likely to run into the weekend. Thursday's draft deal dropped all mention of fossil fuels and a $120bn adaptation finance target; small island states say the text is weak without them.",
+   "matters": "The draft would be the first summit text to accept that the world will overshoot the 1.5C warming limit.",
    "sources": [
+    {
+     "name": "The Independent (via Yahoo)",
+     "url": "https://www.yahoo.com/news/science/articles/cop31-heading-towards-overtime-thanks-125933463.html"
+    },
     {
      "name": "Reuters (via TimesLIVE)",
      "url": "https://www.timeslive.co.za/news/world/2026-11-19-cop31-negotiators-strip-out-mention-of-fossil-fuels-in-draft-deal-text/"
@@ -400,6 +460,27 @@
     {
      "name": "DPA (via Yahoo)",
      "url": "https://www.yahoo.com/news/science/articles/cop31-draft-declaration-avoids-mention-143340237.html"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-19T12:00:00Z",
+   "title": "Xi, Trump and Putin hold first three-way summit in China's Shenzhen",
+   "why": "The leaders of China, the US and Russia met for about 90 minutes in Shenzhen on Thursday, at the APEC summit. Their joint statement says a nuclear war cannot be won, backs more oil and gas output and criticises the International Criminal Court. Analysts say little concrete was agreed.",
+   "matters": "Afterwards Putin ruled out direct talks with Ukraine, citing its strike on the Crimea bridge.",
+   "sources": [
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/"
+    },
+    {
+     "name": "RFE/RL",
+     "url": "https://www.rferl.org/a/trump-xi-putin-summit-four-key-takeaways/33902100.html"
+    },
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261120-xi-putin-trump-summit-what-comes-next"
     }
    ]
   },
@@ -748,178 +829,7 @@
    ]
   },
   {
-   "section": "money",
-   "published": "2026-11-18T13:00:00Z",
-   "title": "Ghana's central bank cuts its main interest rate from 14% to 11%",
-   "why": "The Bank of Ghana lowered its policy rate by three percentage points on Wednesday, to its lowest level in decades. Governor Johnson Pandit Asiama called it \"a realignment, not a reduction\", because market rates had already fallen below 14%. Inflation was 5.5% in October.",
-   "matters": "Cheaper borrowing could ease costs for Ghanaian households and businesses; average bank lending rates have already fallen to about 16%.",
-   "sources": [
-    {
-     "name": "Graphic Online",
-     "url": "https://www.graphic.com.gh/business/business-news/bank-of-ghana-cuts-monetary-policy-rate-to-11.html"
-    },
-    {
-     "name": "Citi Newsroom",
-     "url": "https://www.citinewsroom.com/2026/11/bog-cuts-policy-rate-by-300-basis-points-to-11/"
-    },
-    {
-     "name": "GBC",
-     "url": "https://www.gbcghanaonline.com/general-news/bog-cuts-policy-rate-by-300-basis-points-to-11-0-reaching-multi-decade-low/2026/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "changed": "Updated 20 Nov: Israel says the operation has ended.",
-   "published": "2026-11-18T12:00:00Z",
-   "title": "Israel ends one-day ground operation in central Gaza beyond ceasefire line",
-   "why": "Israel's military said on Thursday it had ended a raid near the Bureij and Nuseirat camps and destroyed part of a Hamas tunnel. Hamas called the incursion a flagrant ceasefire violation. Gaza's Hamas-run health ministry says at least 1,662 people have been killed since the October 2025 truce.",
-   "matters": "Residents ordered out during the raid have returned; Israel says the tunnel threatened its troops.",
-   "sources": [
-    {
-     "name": "BBC (via Yahoo)",
-     "url": "https://au.news.yahoo.com/israeli-military-launches-rare-ground-201502983.html"
-    },
-    {
-     "name": "Reuters (via CP24)",
-     "url": "https://www.cp24.com/news/world/2026/11/19/israel-says-it-concludes-gaza-tank-raid/"
-    },
-    {
-     "name": "The Times of Israel",
-     "url": "https://www.timesofisrael.com/idf-ends-one-day-tunnel-demolition-operation-inside-hamas-controlled-part-of-gaza/"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-11-18T12:00:00Z",
-   "title": "EU governments approve trade deal removing most tariffs with Indonesia",
-   "why": "EU member states approved on Wednesday the signing of a trade and investment deal with Indonesia, after talks that began in 2016. Indonesia is to remove 98.5% of its tariffs on EU goods, saving EU exporters more than €600m a year, the Irish Times reports.",
-   "matters": "Both sides want it in force quickly, as Indonesia loses its existing EU tariff preferences on 1 January.",
-   "sources": [
-    {
-     "name": "Al Jazeera (with Reuters)",
-     "url": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs"
-    },
-    {
-     "name": "The Irish Times",
-     "url": "https://www.irishtimes.com/business/2026/11/18/eu-moves-to-sign-indonesia-trade-deal-after-decade-of-talks/"
-    },
-    {
-     "name": "Eunews",
-     "url": "https://www.eunews.it/en/2026/11/18/eu-council-gives-provisional-approval-to-economic-partnership-agreements-with-indonesia/"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-11-18T11:42:00Z",
-   "title": "EU proposes €45bn loan for Ukraine, repayable only from Russian reparations",
-   "why": "European Commission President Ursula von der Leyen proposed on Wednesday a €45bn loan to Ukraine for 2027: €20bn for its budget and €25bn for military needs. Ukraine would repay it only once Russia pays for war damage. EU member states must approve it.",
-   "matters": "It would cover about two-thirds of Ukraine's expected €70bn funding gap next year; EU leaders discuss it at next week's summit.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/europe/20261118-eu-proposes-new-%E2%82%AC45-billion-ukraine-loan-to-be-repaid-by-russia"
-    },
-    {
-     "name": "DPA (via Yahoo)",
-     "url": "https://www.yahoo.com/news/world/articles/eu-commission-proposes-additional-45-121844397.html"
-    },
-    {
-     "name": "Ukrinform",
-     "url": "https://www.ukrinform.net/rubric-polytics/4185974-european-commission-unveils-plan-for-additional-support-to-ukraine-in-2027.html"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "published": "2026-11-18T10:16:00Z",
-   "title": "Voyager 1 becomes first spacecraft to reach one light-day from Earth",
-   "why": "NASA says its Voyager 1 probe, launched in 1977, reached one light-day from Earth at 10:16 UTC on Wednesday, about 25.9 billion km away. A signal sent from Earth now takes a whole day to reach it.",
-   "sources": [
-    {
-     "name": "NASA",
-     "url": "https://science.nasa.gov/resource/voyager-one-light-day-downloads/"
-    },
-    {
-     "name": "Space.com",
-     "url": "https://www.space.com/space-exploration/voyager/1-light-day-from-earth-nasas-voyager-1-probe-hits-huge-milestone-in-interstellar-space"
-    },
-    {
-     "name": "EarthSky",
-     "url": "https://earthsky.org/space/voyager-1-1-light-day-from-earth-november-17-18-2026/"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "published": "2026-11-18T10:00:00Z",
-   "title": "Antibiotics failing against more hospital infections in Europe, WHO and ECDC warn",
-   "why": "Bloodstream infections with Klebsiella pneumoniae bacteria resistant to last-resort carbapenem antibiotics rose 72% in the EU, Norway, Iceland and Liechtenstein between 2019 and 2025, the EU's disease agency ECDC said on Wednesday. The target was a 5% fall. WHO says first-line antibiotics are failing in many countries.",
-   "matters": "Patients whose first antibiotic does not work are more likely to die in hospital, WHO's Marc-Alain Widdowson says.",
-   "sources": [
-    {
-     "name": "ECDC",
-     "url": "https://www.ecdc.europa.eu/en/news-events/urgent-action-needed-safeguard-effectiveness-antibiotics"
-    },
-    {
-     "name": "UN News",
-     "url": "https://news.un.org/en/story/2026/11/1168832"
-    },
-    {
-     "name": "European Medical Journal",
-     "url": "https://www.emjreviews.com/general-healthcare/news/europe-faces-threat-from-drug-resistant-infections-who-warns/"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-11-18T09:30:00Z",
-   "title": "Germany cuts electricity tax and plans fuel price cap from January",
-   "why": "Germany's governing coalition agreed on Wednesday, after overnight talks, to cut electricity tax for households and small businesses from 2.05 cents to 0.1 cents per kWh for 2027. It also plans a three-month cap on petrol and diesel prices from 1 January.",
-   "matters": "Energy prices rose after the Iran war disrupted Gulf shipping; the tax cut costs about €5bn a year.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261118-germany-to-cut-electricity-tax-cap-fuel-prices"
-    },
-    {
-     "name": "DPA (via Yahoo)",
-     "url": "https://www.yahoo.com/news/politics/articles/merz-clinches-deal-cut-electricity-110352774.html"
-    },
-    {
-     "name": "Reuters (via Global Banking & Finance Review)",
-     "url": "https://www.globalbankingandfinance.com/germany-agrees-power-tax-cut-consumers-economists-warn/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-18T09:00:00Z",
-   "title": "Senegal's ruling party expels President Faye amid feud with Sonko",
-   "why": "Pastef, which holds 130 of 165 seats in Senegal's parliament, said on Tuesday that President Bassirou Diomaye Faye and 31 others had automatically lost their membership. Faye sacked party leader Ousmane Sonko as prime minister in May; Sonko is now parliament's speaker.",
-   "matters": "The rift has stalled Senegal's budget and an IMF loan programme of about $2.2bn the country is waiting for.",
-   "sources": [
-    {
-     "name": "Africanews (with AP)",
-     "url": "https://www.africanews.com/2026/11/18/senegals-ruling-party-pastef-expels-countrys-president-and-31-others/"
-    },
-    {
-     "name": "The Rio Times",
-     "url": "https://www.riotimesonline.com/pastef-drops-president-faye-membership/"
-    },
-    {
-     "name": "KOACI",
-     "url": "https://www.koaci.com/article/2026/11/18/senegal/politique/senegal-pastef-exclut-diomaye-faye-et-31-autres-membres_202763.html"
-    }
-   ]
-  },
-  {
    "section": "tech",
-   "developing": true,
    "changed": "Updated 20 Nov: the national cyber director was removed after the outages.",
    "published": "2026-11-18T08:00:00Z",
    "title": "White House removes cyber chief after week of US tech outages",
@@ -973,34 +883,6 @@
     {
      "name": "RFI (via AllAfrica)",
      "url": "https://allafrica.com/stories/202611190001.html"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated 20 Nov: the bridge was hit again on Thursday, halting trains.",
-   "published": "2026-11-16T10:25:00Z",
-   "title": "Ukraine strikes Crimea bridge for a third time in a week",
-   "why": "Russia suspended trains on the Kerch Bridge to annexed Crimea after another overnight drone attack on Thursday, its transport ministry says; Crimea's Russian-installed governor said service would resume that afternoon. A road span collapsed after Ukrainian strikes on Tuesday, and road traffic remains halted.",
-   "matters": "Putin has vowed to retaliate; Russia's deputy prime minister says some sections may reopen within one or two months.",
-   "sources": [
-    {
-     "name": "UPI",
-     "url": "https://www.upi.com/Top_News/World-News/2026/11/19/Ukraine-strikes-Kerch-Bridge-again/4411795088239"
-    },
-    {
-     "name": "Ukrainska Pravda (via Yahoo)",
-     "url": "https://www.yahoo.com/news/world/articles/kerch-bridge-attacked-third-time-063400255.html"
-    },
-    {
-     "name": "Kyiv Post",
-     "url": "https://www.kyivpost.com/post/90603"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine"
     }
    ]
   }
