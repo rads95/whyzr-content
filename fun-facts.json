@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "facts": [
     {
       "date": "2026-09-20",
@@ -1548,6 +1548,40 @@
         {
           "name": "Dictionary.com",
           "url": "https://www.dictionary.com/browse/aglet"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "kind": "fact",
+      "category": "Weird but true",
+      "emoji": "🌳",
+      "title": "More trees than galaxy stars",
+      "text": "A 2015 study in the journal Nature estimated that Earth has about 3 trillion trees. Astronomers usually put the Milky Way at 100 to 400 billion stars. So our one planet has several times more trees than our whole galaxy has stars.",
+      "sources": [
+        {
+          "name": "Yale News",
+          "url": "https://news.yale.edu/2015/09/02/seeing-forest-and-trees-all-3-trillion-them"
+        },
+        {
+          "name": "Yale School of the Environment",
+          "url": "https://environment.yale.edu/news/article/Yale-study-reveals-there-are-3-trillion-trees-on-earth"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/tree-census-three-trillion-trees-on-earth"
+        },
+        {
+          "name": "Space.com",
+          "url": "https://www.space.com/25959-how-many-stars-are-in-the-milky-way.html"
+        },
+        {
+          "name": "BBC Science Focus",
+          "url": "https://www.sciencefocus.com/space/how-many-stars-are-in-the-milky-way"
+        },
+        {
+          "name": "Universe Today",
+          "url": "https://www.universetoday.com/articles/how-many-stars-are-in-the-milky-way-2"
         }
       ]
     }
