@@ -1,6 +1,508 @@
 {
- "updated": "2026-11-19T07:44:00Z",
+ "updated": "2026-11-20T01:55:00Z",
  "items": [
+  {
+   "section": "climate",
+   "serious": true,
+   "developing": true,
+   "changed": "Updated 20 Nov: Akvan weakened before landfall; more than 300,000 people evacuated.",
+   "published": "2026-11-20T00:30:00Z",
+   "title": "Cyclone Akvan weakens as it nears Odisha coast; 300,000 evacuated",
+   "why": "India's weather department (IMD) says Akvan weakened early on Friday to a cyclonic storm, with winds of 80 to 90 km/h, as it neared Gopalpur in Odisha. Landfall is expected by midday. Odisha's chief minister, Mohan Charan Majhi, says more than 300,000 people have been moved to safety.",
+   "matters": "Extremely heavy rain is forecast in north Andhra Pradesh and south Odisha; dozens of trains have been cancelled.",
+   "sources": [
+    {
+     "name": "ETV Bharat",
+     "url": "https://www.etvbharat.com/en/bharat/live-blog--cyclone-akvan-live-updates-november-20-landfall-odisha-andhra-pradesh-wind-speed-rainfall-ndrf-evacuation-rescue-enn26112000397"
+    },
+    {
+     "name": "Asianet Newsable",
+     "url": "https://newsable.asianetnews.com/india/cyclone-akvan-weakens-as-it-nears-the-andhra-pradesh-odisha-coast-articleshow-d07cwu8"
+    },
+    {
+     "name": "India.com",
+     "url": "https://www.india.com/news/india/cyclone-akvan-live-over-3-lakh-evacuated-storm-to-make-landfall-close-to-odishas-gopalpur-today-69-trains-cancelled-imd-update-andhra-pradesh-rainfall-update-8546411/"
+    },
+    {
+     "name": "OdishaTV",
+     "url": "https://odishatv.in/weather/cyclone-akvan-live-update-odisha-on-alert-as-storm-likely-to-cross-state-after-andhra-landfall-12818804"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-19T23:30:00Z",
+   "title": "Japan's core inflation rises to 2.2% in October, above central bank target",
+   "why": "Consumer prices in Japan excluding fresh food rose 2.2% in the year to October, up from 2.1% in September but just below the 2.3% economists expected, government data showed on Friday. Headline inflation rose to 2.3% after household energy subsidies ended in September.",
+   "matters": "Many investors expect the Bank of Japan to raise its 1.25% interest rate in December, making borrowing dearer.",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html"
+    },
+    {
+     "name": "Reuters (via Investing.com)",
+     "url": "https://www.investing.com/news/economy-news/japans-core-inflation-accelerates-in-october-cementing-rate-hike-expectations-5040357"
+    },
+    {
+     "name": "investingLive",
+     "url": "https://investinglive.com/central-banks/japan-cpi-misses-on-all-three-measures-but-core-stays-above-2-ahead-of-a-boj-hike-call/"
+    }
+   ]
+  },
+  {
+   "section": "curious",
+   "serious": true,
+   "published": "2026-11-19T21:15:00Z",
+   "title": "Fiona, Cincinnati Zoo's famous hippo, dies after swallowing a visitor's hat",
+   "why": "Cincinnati Zoo, in the US state of Ohio, said on Thursday that Fiona, its nine-year-old Nile hippo, had died. A knitted hat thrown by a visitor was blown into her enclosure by a ceiling fan; vets spent about 11 days trying to help her pass it.",
+   "matters": "Born six weeks early in 2017, she became an internet sensation as people around the world followed her fight to survive.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261119-fiona-the-hippo-dies-after-failed-effort-to-remove-swallowed-hat"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/fiona-hippo-dies-cincinnati-zoo-rcna610297"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-20/fiona-the-hippo-dies-at-cincinnati-zoo-after-eating-hat/107407952"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-19T20:46:00Z",
+   "title": "Ben Shelton reaches ATP Finals semi-finals for the first time",
+   "why": "American Ben Shelton beat Spain's Rafael Jodar 7-6, 7-5 in Turin, Italy, on Thursday, then went through as runner-up in his group when Alexander Zverev beat France's Arthur Fils. Shelton, 24, will face Carlos Alcaraz in the semi-finals.",
+   "matters": "He is the youngest American to reach the last four since Andy Roddick in 2004, the ATP says.",
+   "sources": [
+    {
+     "name": "ATP Tour",
+     "url": "https://www.atptour.com/en/news/shelton-jodar-nitto-atp-finals-2026-thursday"
+    },
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261119-shelton-reaches-atp-finals-last-four-france-s-fils-eliminated"
+    },
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/tennis/news/13614067/atp-finals-ben-shelton-beats-rafael-jodar-to-book-carlos-alcaraz-semi-final-as-alexander-zverev-secures-group-victory"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-11-19T19:55:00Z",
+   "title": "House panel says US approved over 879,000 AI chips for China",
+   "why": "The US House Foreign Affairs Committee released licence records on Thursday showing the Commerce Department approved more than 879,000 of 3.4 million requested Nvidia H200 and AMD chips for Chinese firms between December 2025 and May 2026. Buyers included Tencent and Alibaba.",
+   "matters": "It is unclear how many licences led to shipments; Nvidia says it has since stopped sending H200 chips to China.",
+   "sources": [
+    {
+     "name": "Reuters (via Al Jazeera)",
+     "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html"
+    },
+    {
+     "name": "House Foreign Affairs Committee",
+     "url": "https://foreignaffairs.house.gov/news/press-releases/chairman-brian-mast-exercises-legislative-authority-to-publicly-release-ai-chip-license-information-for-china"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-19T19:40:00Z",
+   "title": "Somalia expels UAE ambassador, accusing Abu Dhabi of interference",
+   "why": "Somalia's government gave the United Arab Emirates' ambassador 72 hours to leave on Thursday and recalled its own envoy, accusing the UAE of \"blatant aggression\" and of backing regional states that oppose the federal government. The UAE called the move escalatory and hostile.",
+   "matters": "The UAE runs ports at Berbera, Bosaso and Kismayo, in regions where Somalia's federal government has little control.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261119-somalia-expels-uae-ambassador-alleging-interference-1"
+    },
+    {
+     "name": "The New Arab",
+     "url": "https://www.newarab.com/news/somalia-expels-uae-ambassador-deepening-diplomatic-crisis"
+    },
+    {
+     "name": "Middle East Eye",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/somalia-expels-emirati-envoy-recalls-own-ambassador-over-open-invasion"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-19T19:28:00Z",
+   "title": "Haiti police say raid killed at least 34 suspected gang members",
+   "why": "Haiti's national police say an operation on Thursday in Martissant, a gang-held district of the capital, Port-au-Prince, killed at least 34 suspected gang members, with no officers or civilians hurt. It involved a government task force supported by a private firm founded by Erik Prince.",
+   "matters": "The UN says more than 2,250 people were killed in security operations in Haiti in the first nine months of 2026.",
+   "sources": [
+    {
+     "name": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/haiti-police-operation-kills-34-suspected-gang-members-in-capital/3103758/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261119-major-anti-gang-offensive-in-haiti-kills-34-suspected-gang-members"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-19T19:00:00Z",
+   "title": "Kushner says Russia 'comfortable' with NATO-style guarantees for Ukraine",
+   "why": "US envoy Jared Kushner said during a \"Coalition of the Willing\" meeting of more than 25 leaders in the German capital, Berlin, on Thursday that Russia is comfortable with post-war guarantees for Ukraine based on NATO's Article 5. Russia has not commented. Trump joined by phone after meeting Putin.",
+   "matters": "Zelensky wants Europe in US-led talks with Russia; France's Macron urged allies to \"reopen the question\" of Ukraine joining NATO.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine"
+    },
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/europe/20261119-macron-urges-ukraine-allies-reopen-question-nato-membership"
+    },
+    {
+     "name": "DPA (via Yahoo)",
+     "url": "https://www.yahoo.com/news/politics/articles/diplomacy-only-way-forward-merz-213339088.html"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "published": "2026-11-19T19:00:00Z",
+   "title": "Brazil recognises Indigenous land of Amazon chief Raoni",
+   "why": "President Luiz Inácio Lula da Silva visited 94-year-old Kayapó leader Raoni Metuktire in Mato Grosso state on Thursday as Brazil declared the 362,000-hectare Kapôt Nhinore territory the permanent possession of the Mẽbêngôkre and Yudjá peoples. The Indigenous peoples minister says about 84% of it is forest.",
+   "matters": "It is a step towards full legal protection; more than 200 farms overlap the land, and rural producers oppose it.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261119-lula-visits-ailing-amazon-defender-raoni-as-brazil-recognizes-territory-1"
+    },
+    {
+     "name": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/politica/lula-assina-portaria-para-demarcacao-de-terra-indigena-de-cacique-raoni/"
+    },
+    {
+     "name": "((o))eco",
+     "url": "https://oeco.org.br/noticias/nos-estamos-legalizando-a-sua-terra-diz-lula-ao-assinar-demarcacao-da-terra-de-raoni/"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "published": "2026-11-19T18:56:00Z",
+   "title": "US sells first deep-sea mining leases off American Samoa despite court ruling",
+   "why": "The US Interior Department auctioned two areas covering about 31 million acres (12.5 million hectares) of Pacific seabed off American Samoa on Thursday, for $6m in total. A federal judge ruled on Monday that a US fisheries agency broke endangered species law in approving the sale.",
+   "matters": "Miners want nodules rich in nickel and cobalt for batteries; conservation groups say mining could harm whales, turtles and corals.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261119-us-auctions-first-ever-deep-sea-mining-leases-despite-court-ruling"
+    },
+    {
+     "name": "Washington Post (via Yahoo)",
+     "url": "https://www.yahoo.com/news/us/articles/u-sells-first-ever-leases-221137454.html"
+    },
+    {
+     "name": "US Bureau of Ocean Energy Management",
+     "url": "https://www.boem.gov/newsroom/press-releases/department-interior-completes-first-ever-offshore-critical-minerals-lease"
+    }
+   ]
+  },
+  {
+   "section": "curious",
+   "published": "2026-11-19T16:00:00Z",
+   "title": "Blackpool sack head coach hours after wishing him happy birthday",
+   "why": "English third-tier club Blackpool wished head coach Ian Evatt a happy 45th birthday on social media at 9:08am on Thursday, then announced his departure at 4pm. The team is 20th of 24 in League One after one win in its last 10 league games.",
+   "sources": [
+    {
+     "name": "BBC (via Yahoo)",
+     "url": "https://sports.yahoo.com/articles/struggling-blackpool-sack-head-coach-161854662.html"
+    },
+    {
+     "name": "The Independent (via AOL)",
+     "url": "https://www.aol.co.uk/articles/blackpool-boss-ian-evatt-sacked-211519000.html"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-20/blackpool-fc-sack-manager-on-his-45th-birthday/107407378"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-11-19T15:32:00Z",
+   "title": "UK tribunal rules government must confirm secret encryption order to Apple",
+   "why": "Britain's Investigatory Powers Tribunal ruled on Thursday that the Home Office must confirm it issued Apple a secret notice seeking access to encrypted user data. It rejected the government's claim that confirming this would harm national security, calling that \"fanciful\".",
+   "matters": "Apple withdrew its strongest iCloud encryption option for UK users in 2025 over the dispute; a fuller hearing is due in 2027.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/"
+    },
+    {
+     "name": "City AM",
+     "url": "https://www.cityam.com/uk-government-loses-bid-to-keep-apple-surveillance-order-secret/"
+    },
+    {
+     "name": "The Telegraph (via Yahoo)",
+     "url": "https://www.yahoo.com/news/world/articles/britain-forced-admit-secret-apple-163037190.html"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-19T14:30:00Z",
+   "title": "Russian drone attack on Kyiv kills one and damages two embassies",
+   "why": "Russian drones struck Ukraine's capital, Kyiv, on Thursday, killing a 26-year-old man and injuring at least four people, Ukrainian officials say. The Dutch and Austrian embassies were damaged and windows broke at St Volodymyr's Cathedral; embassy staff were unhurt.",
+   "matters": "Russia's embassy in the Netherlands says it was \"not a targeted attack\".",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261119-russian-strikes-on-kyiv-kill-one-damage-dutch-and-austrian-embassies"
+    },
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://kyivindependent.com/breaking-dutch-embassy-damaged-in-russian-drone-strike-on-kyiv/"
+    },
+    {
+     "name": "NL Times (ANP)",
+     "url": "https://nltimes.nl/2026/11/19/russian-drone-crashes-behind-dutch-embassy-kyiv-causing-damage"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-19T13:00:00Z",
+   "title": "South Africa's central bank holds interest rate at 7.25% in split vote",
+   "why": "The South African Reserve Bank kept its main rate at 7.25% on Thursday, with four policy committee members voting to hold and three for a rise. Governor Lesetja Kganyago said inflation rose to 5.2% in October, driven mainly by fuel costs.",
+   "matters": "Banks' prime lending rate stays at 10.75%; the governor says the bank will not hesitate to raise rates if needed.",
+   "sources": [
+    {
+     "name": "Mail & Guardian",
+     "url": "https://mg.co.za/news/south-africa/2026-11-19-reserve-bank-holds-rates-at-7-25-as-mpc-split-over-possible-hike/"
+    },
+    {
+     "name": "SAnews",
+     "url": "https://www.sanews.gov.za/south-africa/interest-rate-stays-unchanged-725"
+    },
+    {
+     "name": "EWN",
+     "url": "https://www.ewn.co.za/reserve-bank-keeps-rates-on-hold-but-warns-its-a-pause-for-now"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "published": "2026-11-19T12:00:00Z",
+   "title": "Houthi attack damages Riyadh skyscraper as rebels push towards Aden",
+   "why": "Saudi Arabia says a Houthi attack on Thursday damaged several floors of the Public Investment Fund tower in Riyadh, with no injuries. The Saudi-led coalition says it dealt with a missile threat and initial checks point to falling debris. Houthi forces are advancing on Aden, Yemen's government base.",
+   "matters": "The Houthis claim cruise-missile strikes on Riyadh's airport and financial district; Saudi Arabia calls it a terrorist attack.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/middle-east/20261119-skyscraper-in-riyadh-damaged-as-saudi-arabia-reports-surge-in-new-houthi-attacks"
+    },
+    {
+     "name": "Al Jazeera (with Reuters)",
+     "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/gulf/2026/11/19/saudi-sovereign-wealth-fund-tower-in-riyadh-damaged-in-houthi-strike/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "developing": true,
+   "changed": "Updated 20 Nov: a new draft dropped all mention of fossil fuels.",
+   "published": "2026-11-19T12:00:00Z",
+   "title": "COP31 draft deal drops mention of fossil fuels on eve of deadline",
+   "why": "A shorter draft deal published on Thursday at the UN climate summit in Antalya, Türkiye, no longer mentions fossil fuels and drops a $120bn-a-year target for adaptation finance, Reuters reports. Talks are due to end on Friday; talks leader Chris Bowen says he will consult through the night.",
+   "matters": "Campaigners say the text goes backwards; any deal needs the agreement of nearly 200 countries, and summits often overrun.",
+   "sources": [
+    {
+     "name": "Reuters (via TimesLIVE)",
+     "url": "https://www.timeslive.co.za/news/world/2026-11-19-cop31-negotiators-strip-out-mention-of-fossil-fuels-in-draft-deal-text/"
+    },
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168839"
+    },
+    {
+     "name": "DPA (via Yahoo)",
+     "url": "https://www.yahoo.com/news/science/articles/cop31-draft-declaration-avoids-mention-143340237.html"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-11-19T10:02:00Z",
+   "title": "Alibaba's AI cloud sales jump 53% but adjusted profit misses forecasts",
+   "why": "China's Alibaba said on Thursday that revenue from its AI cloud and computing unit rose 53% to 61bn yuan (about $9.1bn) in the July–September quarter. Group revenue rose 10% to 271.5bn yuan, while sales in its China e-commerce business fell 5%.",
+   "matters": "Adjusted earnings per share were below analysts' forecasts as Alibaba spends heavily on AI computing.",
+   "sources": [
+    {
+     "name": "Alibaba Group",
+     "url": "https://www.financialcontent.com/article/bizwire-2026-11-19-alibaba-group-announces-september-quarter-2026-results-and-interim-results-for-the-six-months-ended-september-30-2026"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-ai-cloud-revenue-surges-120043208.html"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://www.investing.com/news/earnings/alibaba-ai-cloud-revenue-jumps-53-but-earnings-fall-short-of-estimates-5038288"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-19T09:39:00Z",
+   "title": "Infantino to face France's Diallo and Japan's Tashima in FIFA election",
+   "why": "FIFA said on Thursday it has received three candidacies for its presidency: Gianni Infantino, in office since 2016, French federation head Philippe Diallo and Japan's Kohzo Tashima. Its 211 member associations vote in Rabat, Morocco, on 18 March 2027.",
+   "matters": "It is Infantino's first contested election since 2016; an electoral committee will now check whether the candidates are eligible.",
+   "sources": [
+    {
+     "name": "FIFA",
+     "url": "https://inside.fifa.com/organisation/media-releases/three-candidatures-for-next-years-presidential-election"
+    },
+    {
+     "name": "AP (via France 24)",
+     "url": "https://www.france24.com/en/sport/20261119-infantino-to-face-france-s-diallo-and-japan-s-tashima-in-fifa-presidential-election"
+    },
+    {
+     "name": "Reuters (via Al Jazeera)",
+     "url": "https://www.aljazeera.com/sports/2026/11/19/fifa-confirms-diallo-tashima-as-infantinos-challengers-at-2027-election"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "serious": true,
+   "published": "2026-11-19T09:15:00Z",
+   "title": "Bangladesh measles deaths pass 1,330 as outbreak continues among children",
+   "why": "Seven more children died with measles-like symptoms in the 24 hours to Thursday morning, taking the toll since 15 March to 1,336, Bangladesh's health directorate says; 105 deaths are laboratory-confirmed. More than 253,000 suspected cases have been reported, most in Dhaka division.",
+   "matters": "Officials say limited testing makes the true number of infections hard to know; most figures come from hospital admissions.",
+   "sources": [
+    {
+     "name": "The Business Standard",
+     "url": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1336-7-more-children-die-1607756"
+    },
+    {
+     "name": "bdnews24",
+     "url": "https://bdnews24.com/health/7fnqmmelcw"
+    },
+    {
+     "name": "Bangladesh Post",
+     "url": "https://bangladeshpost.net/posts/measles-outbreak-seven-more-children-die-in-bangladesh-175734"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-19T09:06:00Z",
+   "title": "South Korea's top court orders retrial of ex-PM Han over martial law",
+   "why": "South Korea's Supreme Court on Thursday overturned former prime minister Han Duck-soo's 15-year prison sentence for his role in ex-president Yoon Suk Yeol's December 2024 martial law bid, and sent the case back to the Seoul High Court. Han remains in custody.",
+   "matters": "The court found too little evidence he meant to subvert the constitution before the decree, but upheld findings on his later actions.",
+   "sources": [
+    {
+     "name": "Yonhap (via Korea Times)",
+     "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261119/top-court-overturns-15-year-prison-term-for-ex-pm-han-over-martial-law-role"
+    },
+    {
+     "name": "The Korea Herald",
+     "url": "https://www.koreaherald.com/article/10943172"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/19/south-korean-court-orders-retrial-for-ex-pm-han-over-martial-law-attempt"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-19T08:00:00Z",
+   "title": "Yunus's family home set on fire as Hasina's party holds Bangladesh shutdown",
+   "why": "Police say the ancestral home of former interim leader Muhammad Yunus in Bangladesh's port city of Chittagong was set alight late on Wednesday; no one was hurt. On Thursday, Sheikh Hasina's banned Awami League held a nationwide \"lockdown\"; police say two ruling-party members were killed.",
+   "matters": "Hasina, sentenced to death in absentia, says she will return from India in December; the government refused her a passport.",
+   "sources": [
+    {
+     "name": "Al Jazeera (with AFP, AP)",
+     "url": "https://www.aljazeera.com/news/2026/11/19/home-of-bangladeshs-former-leader-muhammad-yunus-set-on-fire"
+    },
+    {
+     "name": "Reuters (via Express Tribune)",
+     "url": "https://tribune.com.pk/story/2641154/parts-of-bangladesh-shut-down-in-protests-by-hasinas-party-yunus-home-set-ablaze"
+    },
+    {
+     "name": "Anadolu",
+     "url": "https://www.aa.com.tr/en/asia-pacific/4-killed-nobel-laureate-yunus-ancestral-home-set-ablaze-amid-unrest-in-bangladesh/4130961"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-19T07:41:00Z",
+   "title": "Kenya's world marathon champion Peres Jepchirchir banned for three years for doping",
+   "why": "The Athletics Integrity Unit said on Thursday it had banned Peres Jepchirchir, the reigning world and former Olympic champion, after she admitted using the blood booster EPO. The ban runs from 20 October; she loses her Sydney Marathon title from August.",
+   "matters": "Her ban was cut from four years to three because she admitted the offence early, KBC reports.",
+   "sources": [
+    {
+     "name": "AP (via Al Jazeera)",
+     "url": "https://www.aljazeera.com/sports/2026/11/19/kenyas-marathon-champion-peres-jepchirchir-gets-three-year-ban-for-doping"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-19/sydney-marathon-winner-peres-jepchirchir-three-year-doping-ban/107405856"
+    },
+    {
+     "name": "KBC",
+     "url": "https://www.kbc.co.ke/jepchirchir-banned-for-three-years-stripped-of-sydney-marathon-title/"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "published": "2026-11-19T05:01:00Z",
+   "title": "Egyptian author denied US visa wins National Book Award for prison memoir",
+   "why": "Abdelrahman ElGendy won the nonfiction prize in New York on Wednesday for \"Huna\", a memoir of the more than six years he says he spent as a political prisoner in Egypt. US consular officials denied him a visitor visa, so his editor accepted it.",
+   "matters": "Hannah Lillith Assadi won fiction for \"Paradiso 17\", about an exiled Palestinian; Salman Rushdie received a lifetime achievement medal.",
+   "sources": [
+    {
+     "name": "Los Angeles Times (via Yahoo)",
+     "url": "https://www.yahoo.com/entertainment/articles/abdelrahman-elgendy-wins-national-book-050145963.html"
+    },
+    {
+     "name": "The National (UAE)",
+     "url": "https://www.thenationalnews.com/arts-culture/books/2026/11/19/arab-writers-win-two-2026-national-book-awards-in-us/"
+    },
+    {
+     "name": "Literary Hub",
+     "url": "https://lithub.com/here-are-the-winners-of-the-2026-national-book-awards/"
+    }
+   ]
+  },
   {
    "section": "world",
    "serious": true,
@@ -25,23 +527,28 @@
   },
   {
    "section": "world",
-   "developing": true,
+   "serious": true,
+   "changed": "Updated 20 Nov: the court found Myanmar responsible for genocide.",
    "published": "2026-11-19T03:07:00Z",
-   "title": "UN's top court rules on Thursday on Myanmar Rohingya genocide case",
-   "why": "The International Court of Justice in The Hague is due to say from 09:00 GMT on Thursday whether Myanmar committed genocide against its Rohingya minority. The Gambia brought the case in 2019 after a 2017 army offensive drove at least 730,000 Rohingya into Bangladesh. Myanmar denies genocide.",
-   "matters": "The ruling is final and cannot be appealed; about 1.2 million Rohingya live in refugee camps in Bangladesh.",
+   "title": "UN's top court finds Myanmar committed genocide against the Rohingya",
+   "why": "The International Court of Justice in The Hague ruled 9-6 on Thursday that Myanmar committed genocide against its Rohingya minority in a 2017 army crackdown, the first time it has found a state responsible for genocide. It ordered Myanmar to punish those responsible and compensate victims.",
+   "matters": "The ruling is final; Myanmar must report back within two years. About 1.2 million Rohingya refugees live in Bangladesh.",
    "sources": [
     {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168836"
+    },
+    {
+     "name": "CBS News (with AP)",
+     "url": "https://www.cbsnews.com/news/myanmar-genocide-rohingyas-un-top-court/"
+    },
+    {
+     "name": "RFA",
+     "url": "https://www.rfa.org/english/myanmar/2026/11/19/rohingya-genocide-icj-ruling-myanmar/"
+    },
+    {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar"
-    },
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261119-top-un-court-to-rule-if-myanmar-s-rohingya-crackdown-was-genocide"
-    },
-    {
-     "name": "Reuters (via Al-Monitor)",
-     "url": "https://www.al-monitor.com/originals/2026/11/top-un-court-ruling-myanmar-genocide-be-watched-clues-gaza"
+     "url": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya"
     }
    ]
   },
@@ -150,6 +657,48 @@
    ]
   },
   {
+   "section": "science",
+   "published": "2026-11-18T16:00:00Z",
+   "title": "Fossil teeth show Homo erectus lived in southern China's rainforests",
+   "why": "Eight teeth from two caves near Chongzuo in Guangxi, southern China, belong to Homo erectus and are 184,000 to 324,000 years old, two studies in Nature reported on Wednesday. Chemical traces suggest these early humans lived in rainforest. A ninth tooth is from another, unidentified human species.",
+   "matters": "The species was thought to have vanished from mainland Asia about 400,000 years ago and to have avoided rainforests.",
+   "sources": [
+    {
+     "name": "Reuters (via bdnews24)",
+     "url": "https://bdnews24.com/science/9yfdrwlzkb"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/science/2026-11-19/other-ancient-humans-may-have-adapted-to-rainforests/107394402"
+    },
+    {
+     "name": "China Daily",
+     "url": "https://www.chinadaily.com.cn/a/202611/19/WS6afe918ee4b03ebf8519d70c.html"
+    }
+   ]
+  },
+  {
+   "section": "science",
+   "published": "2026-11-18T16:00:00Z",
+   "title": "Astronomers watch a giant star swallow its companion for the first time",
+   "why": "A red giant about 350 times wider than the Sun, in the Andromeda galaxy 2.5 million light-years away, appears to have swallowed a smaller Sun-like star, a team led by Columbia University reported in Nature on Wednesday. NASA's Webb telescope observed the aftermath.",
+   "matters": "Astronomers say both stars may instead have survived in a tighter orbit; further observations should tell.",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/"
+    },
+    {
+     "name": "Space.com",
+     "url": "https://www.space.com/astronomy/stars/astronomers-witness-a-star-eating-its-companion-in-1st-of-its-kind-observation"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/science/2026-11-19/scientists-watch-red-giant-star-eat-another-the-size-of-our-sun/107394074"
+    }
+   ]
+  },
+  {
    "section": "money",
    "published": "2026-11-18T13:00:00Z",
    "title": "Ghana's central bank cuts its main interest rate from 14% to 11%",
@@ -173,30 +722,46 @@
   {
    "section": "world",
    "serious": true,
-   "developing": true,
+   "changed": "Updated 20 Nov: Israel says the operation has ended.",
    "published": "2026-11-18T12:00:00Z",
-   "title": "Israel launches new military operation in central Gaza despite ceasefire",
-   "why": "Israel's military began an operation in central Gaza on Wednesday against what it calls Hamas infrastructure, ordering residents of three blocks near the Bureij and Nuseirat camps to leave. Hamas calls it a flagrant ceasefire violation. Gaza's civil defence agency says Israeli strikes killed three people.",
-   "matters": "Defence Minister Israel Katz says Israel will not withdraw until Hamas is dismantled.",
+   "title": "Israel ends one-day ground operation in central Gaza beyond ceasefire line",
+   "why": "Israel's military said on Thursday it had ended a raid near the Bureij and Nuseirat camps and destroyed part of a Hamas tunnel. Hamas called the incursion a flagrant ceasefire violation. Gaza's Hamas-run health ministry says at least 1,662 people have been killed since the October 2025 truce.",
+   "matters": "Residents ordered out during the raid have returned; Israel says the tunnel threatened its troops.",
    "sources": [
     {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/middle-east/20261118-gazans-flee-shelters-as-israeli-army-launches-ground-operation-beyond-yellow-line"
+     "name": "BBC (via Yahoo)",
+     "url": "https://au.news.yahoo.com/israeli-military-launches-rare-ground-201502983.html"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza"
+     "name": "Reuters (via CP24)",
+     "url": "https://www.cp24.com/news/world/2026/11/19/israel-says-it-concludes-gaza-tank-raid/"
     },
     {
      "name": "The Times of Israel",
-     "url": "https://www.timesofisrael.com/liveblog_entry/idf-launches-rare-operation-beyond-yellow-line-in-central-gaza/"
+     "url": "https://www.timesofisrael.com/idf-ends-one-day-tunnel-demolition-operation-inside-hamas-controlled-part-of-gaza/"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-18T12:00:00Z",
+   "title": "EU governments approve trade deal removing most tariffs with Indonesia",
+   "why": "EU member states approved on Wednesday the signing of a trade and investment deal with Indonesia, after talks that began in 2016. Indonesia is to remove 98.5% of its tariffs on EU goods, saving EU exporters more than €600m a year, the Irish Times reports.",
+   "matters": "Both sides want it in force quickly, as Indonesia loses its existing EU tariff preferences on 1 January.",
+   "sources": [
+    {
+     "name": "Al Jazeera (with Reuters)",
+     "url": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs"
     },
     {
-     "name": "Türkiye Today",
-     "url": "https://www.turkiyetoday.com/region/israel-launches-new-military-operation-in-central-gaza-despite-ceasefire-3232699"
+     "name": "The Irish Times",
+     "url": "https://www.irishtimes.com/business/2026/11/18/eu-moves-to-sign-indonesia-trade-deal-after-decade-of-talks/"
+    },
+    {
+     "name": "Eunews",
+     "url": "https://www.eunews.it/en/2026/11/18/eu-council-gives-provisional-approval-to-economic-partnership-agreements-with-indonesia/"
     }
-   ],
-   "changed": "Updated 19 Nov: Israel told residents of three areas to leave."
+   ]
   },
   {
    "section": "money",
@@ -216,6 +781,28 @@
     {
      "name": "Ukrinform",
      "url": "https://www.ukrinform.net/rubric-polytics/4185974-european-commission-unveils-plan-for-additional-support-to-ukraine-in-2027.html"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "serious": true,
+   "published": "2026-11-18T10:00:00Z",
+   "title": "Antibiotics failing against more hospital infections in Europe, WHO and ECDC warn",
+   "why": "Bloodstream infections with Klebsiella pneumoniae bacteria resistant to last-resort carbapenem antibiotics rose 72% in the EU, Norway, Iceland and Liechtenstein between 2019 and 2025, the EU's disease agency ECDC said on Wednesday. The target was a 5% fall. WHO says first-line antibiotics are failing in many countries.",
+   "matters": "Patients whose first antibiotic does not work are more likely to die in hospital, WHO's Marc-Alain Widdowson says.",
+   "sources": [
+    {
+     "name": "ECDC",
+     "url": "https://www.ecdc.europa.eu/en/news-events/urgent-action-needed-safeguard-effectiveness-antibiotics"
+    },
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168832"
+    },
+    {
+     "name": "European Medical Journal",
+     "url": "https://www.emjreviews.com/general-healthcare/news/europe-faces-threat-from-drug-resistant-infections-who-warns/"
     }
    ]
   },
@@ -368,48 +955,49 @@
   },
   {
    "section": "money",
+   "changed": "Updated 20 Nov: shares closed 17% above the offer price on their first day.",
    "published": "2026-11-18T03:05:00Z",
-   "title": "Anthropic prices its share sale at $83, raising about $81bn",
-   "why": "Anthropic, the US company behind the Claude AI models, sold 980 million shares at $83 each on Wednesday, above its planned $70 to $78 range, raising about $81bn. That values it at about $1.5 trillion; trading on Nasdaq starts on Thursday.",
-   "matters": "Al Jazeera reports it is the largest stock market listing on record, ahead of SpaceX in June.",
+   "title": "Anthropic shares close 17% above their $83 offer price on debut",
+   "why": "Anthropic, the US company behind the Claude AI models, began trading on Nasdaq on Thursday. Its shares opened at $111.50, 34% above the $83 offer price, then fell back to close at $97.17, up 17%. NBC News says that values the company at about $1.76tn.",
+   "matters": "Al Jazeera calls it the biggest share sale on record; it came as major US share indexes fell about 2%.",
    "sources": [
     {
-     "name": "Fortune",
-     "url": "https://fortune.com/2026/11/18/anthropic-prices-ipo-83-per-share-1-5-trillion/"
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/business/markets/live-blog/anthropic-ipo-live-updates-rcna610159"
     },
     {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/business/markets/anthropic-ipo-valuation-ai-boom-rcna610069"
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
     },
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time"
+     "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo"
     },
     {
-     "name": "Bloomberg (via Yahoo Finance)",
-     "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html"
+     "name": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/business/20261119-anthropic-goes-public-after-blockbuster-ipo-but-fails-to-revive-ai-trade"
     }
-   ],
-   "changed": "Updated 19 Nov: shares were priced at $83, above the expected range."
+   ]
   },
   {
    "section": "culture",
+   "changed": "Updated 20 Nov: the game is out, with reviews and first sales estimates.",
    "published": "2026-11-18T02:53:00Z",
-   "title": "Grand Theft Auto VI goes on sale on Thursday after long delays",
-   "why": "Rockstar Games' Grand Theft Auto VI launches on 19 November on PlayStation 5 and Xbox Series X|S, priced at $79.99 in the US. It is the first new game in the series in 13 years.",
-   "matters": "With a budget estimated at $1bn or more, it is one of the most expensive games ever made.",
+   "title": "Grand Theft Auto VI launches to near-perfect reviews and record sales estimates",
+   "why": "Rockstar Games' Grand Theft Auto VI went on sale worldwide on Thursday on PlayStation 5 and Xbox Series X|S, 13 years after GTA V. It scored 99 out of 100 on review site Metacritic. Analytics firm Sensor Tower estimates 19.1 million copies sold by Thursday morning, Reuters reports.",
+   "matters": "Sensor Tower puts first-day revenue at about $1.84bn, more than twice GTA V's in 2013; Take-Two has not given figures.",
    "sources": [
     {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/culture/20261118-taylor-swift-of-games-grand-theft-auto-is-back-after-13-year-wait"
+     "name": "Reuters (via Euronext)",
+     "url": "https://live.euronext.com/en/financial-news/take-two-set-shatter-sales-records-gta-vi-launches-massive-fanfare"
     },
     {
-     "name": "Reuters (via Yahoo Finance)",
-     "url": "https://finance.yahoo.com/media-advertising/articles/grand-theft-auto-vi-heads-110633957.html"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait"
     },
     {
-     "name": "Take-Two Interactive",
-     "url": "https://www.take2games.com/ir/news/rockstar-games-announces-pre-orders-grand-theft-auto-vi"
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-19/gta-vi-smashes-expectations-after-overnight-launch/107401924"
     }
    ]
   },
@@ -435,175 +1023,14 @@
    ]
   },
   {
-   "section": "science",
-   "published": "2026-11-18T01:50:00Z",
-   "title": "Voyager 1 becomes the first spacecraft one light-day from Earth",
-   "why": "NASA's Voyager 1, launched in 1977, reached a distance of one light-day from Earth early on Wednesday: about 26 billion km, so far that its radio signals take a full day to reach us. A command and its reply now take two days.",
-   "matters": "Its power is fading, and NASA's antennas are expected to lose its signal by about 2036.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261118-voyager-1-spacecraft-reaches-one-light-day-milestone"
-    },
-    {
-     "name": "Scientific American",
-     "url": "https://www.scientificamerican.com/article/voyager-1-reaches-one-light-day-milestone/"
-    },
-    {
-     "name": "Al Jazeera (with AP, Reuters)",
-     "url": "https://aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day"
-    }
-   ],
-   "changed": "Updated 18 Nov: Voyager 1 has now passed the one light-day mark."
-  },
-  {
-   "section": "climate",
-   "published": "2026-11-17T23:00:00Z",
-   "title": "Fiji and Tonga declare drought emergencies as El Niño dries the Pacific",
-   "why": "Fiji declared a nationwide state of disaster on Wednesday, with Prime Minister Sitiveni Rabuka saying the El Niño drought has reached crisis levels. The government has set aside FJ$20m for emergency water. Tonga has declared a 27-day state of emergency over water shortages.",
-   "matters": "Fiji's weather service expects below-normal rain until April; experts say this El Niño could be among the strongest on record.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261119-tropical-fiji-declares-el-nino-drought-crisis"
-    },
-    {
-     "name": "RNZ",
-     "url": "https://www.rnz.co.nz/news/pacific/2660183/fiji-declares-state-of-national-disaster-over-el-nino-drought"
-    },
-    {
-     "name": "1News",
-     "url": "https://www.1news.co.nz/2026/11/18/fiji-declares-nationwide-state-of-disaster-as-el-nino-drought-worsens/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-17T22:00:00Z",
-   "title": "Gaza ceasefire body warns the truce could collapse without action",
-   "why": "The US-backed Board of Peace told the UN Security Council on Tuesday that Israel and Hamas have fallen far short of their commitments under the 2025 ceasefire. It says Israel has not let Gaza's interim administration start work, and calls for more winter shelter supplies.",
-   "matters": "The report says a ceasefire that delivers nothing visible cannot last indefinitely.",
-   "sources": [
-    {
-     "name": "AP (via Arab News)",
-     "url": "https://www.arabnews.com/middle-east/board-of-peace-delivers-bleak-report-on-gaza-warning-of-ceasefire-collapse-without-immediate-action-3012599"
-    },
-    {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/world/gaza/board-peace-delivers-bleak-report-gaza-warning-ceasefire-collapse-imme-rcna609901"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-11-17T22:00:00Z",
-   "title": "Waymo pauses driverless freeway rides across the US after California ban",
-   "why": "California's motor vehicles department has barred Waymo's driverless cars from the state's freeways, calling them an imminent hazard after vehicles drove into active construction zones. Waymo said on Tuesday it has also paused freeway rides in Phoenix, Austin and Miami; city-street rides continue.",
-   "matters": "The ban lasts until Waymo shows it has fixed the problems; no end date has been given.",
-   "sources": [
-    {
-     "name": "TechCrunch",
-     "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/"
-    },
-    {
-     "name": "Al Jazeera (with AFP, AP)",
-     "url": "https://www.aljazeera.com/news/2026/11/18/waymo-suspends-driverless-freeway-rides-across-us-after-california-ban"
-    },
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261118-waymo-pulls-self-driving-cars-from-us-freeways-after-california-ban"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-17T21:40:00Z",
-   "title": "Haaland's late penalty sends Norway past Denmark into Nations League quarter-finals",
-   "why": "Norway came from 2-0 down to win 3-2 in Copenhagen on Tuesday, with Erling Haaland scoring twice, including a penalty in the 96th minute. Norway finish second in their group behind Portugal; the quarter-final draw is on Friday 20 November.",
-   "sources": [
-    {
-     "name": "UEFA",
-     "url": "https://www.uefa.com/uefanationsleague/news/02ab-22146db70e40-12d581ab82a9-1000--uefa-nations-league-matchday-6-highlights-germany-nether/"
-    },
-    {
-     "name": "ESPN",
-     "url": "https://www.espn.com/soccer/story/_/id/50513761/erling-haaland-sends-norway-nations-league-quarterfinals"
-    },
-    {
-     "name": "Reuters (via Arab News)",
-     "url": "https://www.arabnews.com/football/haalands-late-penalty-sends-norway-into-nations-league-quarters-portugal-top-group-3012617"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-17T16:20:00Z",
-   "title": "Paraguay's attorney general resigns as lawmakers prepare to impeach him",
-   "why": "Emiliano Rolón stepped down on Tuesday as opposition lawmakers moved to impeach him over his handling of investigations into the collapsed Ueno Bank and former president Santiago Peña. His office denies inaction or political interference.",
-   "matters": "The bank's state takeover left hundreds of thousands of people locked out of their accounts, AFP reports.",
-   "sources": [
-    {
-     "name": "AFP (Insider Paper)",
-     "url": "https://insiderpaper.com/paraguay-attorney-general-facing-impeachment-over-bank-crisis-resigns/"
-    },
-    {
-     "name": "Anadolu",
-     "url": "https://www.aa.com.tr/en/americas/paraguays-attorney-general-resigns-amid-impeachment-pressure/4128229"
-    },
-    {
-     "name": "Ámbito",
-     "url": "https://ambito.com/mundo/crisis-politica-paraguay-renuncio-el-fiscal-general-acorralado-el-caso-ueno-bank-y-un-inminente-juicio-politico-n6346213"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "published": "2026-11-17T16:00:00Z",
-   "title": "US, Mexico and Bolivia lose measles-free status",
-   "why": "The Pan American Health Organization (PAHO) said on Tuesday that measles is again spreading continuously in the United States, Mexico and Bolivia, ending their elimination status. A day later, Pennsylvania reported its eighth measles death this year, an unvaccinated person; the state has 1,589 cases.",
-   "matters": "PAHO says the setback can be reversed; the US must now send it a plan to stop the spread.",
-   "sources": [
-    {
-     "name": "PAHO",
-     "url": "https://www.paho.org/en/news/17-11-2026-paho-urges-countries-step-efforts-stop-measles-outbreaks-and-move-towards"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak"
-    },
-    {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/health/health-news/measles-no-longer-eliminated-us-rcna607920"
-    },
-    {
-     "name": "Pennsylvania Department of Health",
-     "url": "https://www.pa.gov/agencies/health/newsroom/pa-department-of-health-confirms-eighth-measles-associated-death"
-    },
-    {
-     "name": "WPSU",
-     "url": "https://radio.wpsu.org/2026-11-18/pa-health-department-measles-death-clinton-county"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/19/unvaccinated-pennsylvania-resident-dies-amid-historic-us-measles-resurgence"
-    }
-   ],
-   "changed": "Updated 19 Nov: Pennsylvania reported its eighth measles death of the year."
-  },
-  {
    "section": "health",
    "serious": true,
    "developing": true,
+   "changed": "Updated 20 Nov: ECDC now counts 11,504 confirmed cases and 5,630 deaths; vaccine trials start next week.",
    "published": "2026-11-17T12:00:00Z",
    "title": "WHO says Congo's Ebola outbreak has more than doubled in three months",
-   "why": "WHO head Tedros Adhanom Ghebreyesus said on Tuesday that more than 11,000 cases and 5,400 deaths have been reported in eight provinces of the Democratic Republic of the Congo, with 400 to 500 new cases a week. There is no approved vaccine for this Bundibugyo strain.",
-   "matters": "It is the second-largest Ebola outbreak on record; two candidate vaccines are due to join a trial within weeks.",
+   "why": "WHO head Tedros Adhanom Ghebreyesus said on 17 November that more than 11,000 cases and 5,400 deaths had been reported in eight provinces of the Democratic Republic of the Congo. The EU's disease agency, ECDC, now counts 11,504 confirmed cases and 5,630 deaths.",
+   "matters": "There is no approved vaccine for this Bundibugyo strain; WHO says trials of two candidates start in Ituri province next week.",
    "sources": [
     {
      "name": "UN News",
@@ -616,140 +1043,63 @@
     {
      "name": "Reuters (via Yahoo)",
      "url": "https://www.yahoo.com/news/world/articles/congos-ebola-cases-surpass-11-231348548.html"
+    },
+    {
+     "name": "ECDC",
+     "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-eip-00026/2026-11-19"
+    },
+    {
+     "name": "RFI (via AllAfrica)",
+     "url": "https://allafrica.com/stories/202611190001.html"
     }
    ]
   },
   {
    "section": "world",
-   "serious": true,
-   "published": "2026-11-17T12:00:00Z",
-   "title": "Russian military transport plane crashes in Siberia, killing 19",
-   "why": "An Antonov An-12 transport plane crashed on Tuesday in an uninhabited area near Kemerovo, in western Siberia, killing all 19 people on board, Russia's defence ministry says. It gives a technical fault as the preliminary cause; an investigation is under way.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19"
-    },
-    {
-     "name": "Anadolu",
-     "url": "https://aa.com.tr/en/world/military-aircraft-crash-in-siberia-russia-region-kills-all-17-on-board-report/4128154"
-    },
-    {
-     "name": "Kyiv Post",
-     "url": "https://www.kyivpost.com/post/90400"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-17T12:00:00Z",
-   "title": "Quad leaders meet in Manila and plan first joint patrol-aircraft exercise",
-   "why": "Donald Trump met the leaders of Australia, India and Japan in the Philippine capital, Manila, on Tuesday, his first Quad meeting since returning to office. They agreed a joint maritime patrol-aircraft exercise in 2027 and an AI accelerator for the Indo-Pacific.",
-   "matters": "The four countries voiced concern about \"economic coercion\" without naming China, as tensions continue in the South China Sea.",
-   "sources": [
-    {
-     "name": "AP (ABC7)",
-     "url": "https://abc7.com/story/trump-arrives-philippines-kick-off-asia-trip-economic-deals-talks-allies/20047637/"
-    },
-    {
-     "name": "Philstar",
-     "url": "https://www.philstar.com/headlines/2026/11/18/2570964/what-trump-said-and-did-his-first-hours-manila"
-    },
-    {
-     "name": "SunStar",
-     "url": "https://www.sunstar.com.ph/manila/quad-leaders-discuss-indo-pacific-security-ai"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-17T11:00:00Z",
-   "title": "Kosovo's former president Thaçi convicted of trying to obstruct justice",
-   "why": "A Kosovo court sitting in The Hague found Hashim Thaçi guilty on Tuesday of trying to influence witnesses in his war crimes case and sentenced him to 17 months. He is already serving 25 years, handed down in September, for war crimes in the 1998–99 war; he is appealing.",
-   "matters": "Thaçi called the verdict \"politics, not justice\"; prosecutors had asked for six years.",
-   "sources": [
-    {
-     "name": "Balkan Insight",
-     "url": "https://balkaninsight.com/2026/11/17/kosovos-thaci-found-guilty-of-trying-to-obstruct-justice-in-war-crimes-case/btj/"
-    },
-    {
-     "name": "DPA (via Yahoo)",
-     "url": "https://www.yahoo.com/news/world/articles/ex-kosovo-leader-thaci-found-130325095.html"
-    },
-    {
-     "name": "Tirana Times",
-     "url": "https://www.tiranatimes.com/hague-court-adds-17-months-to-kosovos-ex-president-thacis-25-year-sentence/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "developing": true,
+   "changed": "Updated 20 Nov: the three leaders issued a joint declaration after their talks.",
    "published": "2026-11-17T10:04:00Z",
-   "title": "Trump, Xi and Putin meet in China for first three-way summit",
-   "why": "Donald Trump held separate talks with Vladimir Putin and Xi Jinping in Shenzhen, China, on Thursday, ahead of the three leaders' first three-way meeting at the APEC summit. Trump called Putin his \"friend\", saying \"wonderful things can come out of this\". It is their first meeting since August 2025.",
-   "matters": "Ukraine, the Iran war, nuclear arms control, trade and AI are on the agenda; analysts expect few concrete agreements.",
+   "title": "Trump, Xi and Putin pledge nuclear risk talks at first three-way summit",
+   "why": "Meeting in Shenzhen, China, on Thursday, the three leaders issued a four-point declaration promising dialogue on reducing nuclear risks, more refined oil supplies, UN reform and opposition to \"abuse\" by the International Criminal Court. It did not mention the wars in Ukraine or Iran.",
+   "matters": "The declaration set no limits on nuclear arsenals; Trump has invited Putin to next month's G20 summit in Miami, Al Jazeera reports.",
    "sources": [
     {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit"
-    },
-    {
-     "name": "The New Arab",
-     "url": "https://www.newarab.com/news/china-us-and-russia-meet-tensions-soar-middle-east"
+     "name": "AP (via Yahoo)",
+     "url": "https://ca.news.yahoo.com/takeaways-historic-summit-between-trump-154433570.html"
     },
     {
      "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html"
+     "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways"
     }
    ],
-   "changed": "Updated 19 Nov: Trump met Putin and Xi separately ahead of the three-way talks.",
    "lead": true
   },
   {
-   "section": "money",
-   "published": "2026-11-17T08:00:00Z",
-   "title": "China cuts tariffs on Canadian pork and seafood after Xi–Carney talks",
-   "why": "Meeting in Shenzhen, China, on Tuesday, President Xi Jinping and Canada's Prime Minister Mark Carney agreed to widen a January trade deal. China will cut tariffs on about C$400m (US$280m) of Canadian exports, including frozen pork and seafood; Canada extends exemptions for some Chinese steel and aluminium.",
-   "matters": "Canada is deepening trade with China while its trade talks with the US remain unresolved.",
-   "sources": [
-    {
-     "name": "Reuters (via Investing.com)",
-     "url": "https://www.investing.com/news/forex-news/canada-and-china-extend-trade-deals-as-xi-meets-carney-ahead-of-apec-summit-5031875"
-    },
-    {
-     "name": "AP (via PBS)",
-     "url": "https://www.pbs.org/newshour/world/china-and-canada-expand-tariff-relief-while-relations-with-the-u-s-are-strained"
-    },
-    {
-     "name": "Radio Canada International",
-     "url": "https://ici.radio-canada.ca/rci/en/news/2301219/canada-and-china-announce-new-trade-measures-and-cultural-partnerships-on-carneys-1st-day-in-shenzhen"
-    }
-   ]
-  },
-  {
    "section": "world",
-   "developing": true,
+   "changed": "Updated 20 Nov: parliament accepted the resignation.",
    "published": "2026-11-17T04:00:00Z",
-   "title": "Mongolia's president says he will resign over corruption allegations",
-   "why": "President Khurelsukh Ukhnaa said on Tuesday he will step down after a former mayor of the capital, Ulaanbaatar, accused him of receiving $25m linked to a 2019 railway contract, AP reports. He denies wrongdoing and says he will cooperate with investigators.",
-   "matters": "Parliament must accept the resignation; its speaker would then act as president, with an election due within four months.",
+   "title": "Mongolia's parliament accepts president's resignation over corruption allegations",
+   "why": "Mongolia's parliament voted on Thursday, by 96 of 104 members present, to accept President Khurelsukh Ukhnaa's resignation with immediate effect. A former mayor of the capital, Ulaanbaatar, accused him of receiving $25m linked to a 2019 railway contract; he denies wrongdoing.",
+   "matters": "Parliament speaker Byambatsogt Sandag acts as president; an election must be called within four months.",
    "sources": [
     {
      "name": "AP (via ABC News)",
-     "url": "https://abcnews.com/International/wireStory/mongolias-president-step-after-facing-accusations-corruption-138199346"
+     "url": "https://abcnews.com/International/wireStory/mongolias-lawmakers-accept-presidents-resignation-corruption-accusations-138282020"
+    },
+    {
+     "name": "AKIpress",
+     "url": "https://akipress.com/news:932260:Mongolian_Parliament_approves_President_Khurelsukh_Ukhnaa_s_resignation/"
+    },
+    {
+     "name": "Xinhua",
+     "url": "https://english.news.cn/asiapacific/20261119/b313cd23412a4cf896bac2380612cbb5/c.html"
     },
     {
      "name": "Anadolu",
      "url": "https://www.aa.com.tr/en/eurasia/mongolian-president-says-he-will-step-down-amid-corruption-allegations/4127270"
-    },
-    {
-     "name": "Xinhua (via Bernama)",
-     "url": "https://www.bernama.com/en/world/news.php?id=2635605"
     }
    ]
   },
@@ -757,31 +1107,27 @@
    "section": "world",
    "serious": true,
    "developing": true,
-   "changed": "Updated 17 Nov: Ukraine says it brought down part of the road bridge to Crimea.",
+   "changed": "Updated 20 Nov: the bridge was hit again on Thursday, halting trains.",
    "published": "2026-11-16T10:25:00Z",
-   "title": "Ukraine collapses part of Crimea bridge after Russia hits Kyiv bridges",
-   "why": "A road span of the Kerch Bridge, linking Russia to annexed Crimea, fell into the sea after Ukrainian missile and drone strikes overnight on Tuesday, Ukraine says; traffic is suspended. Russia says it will rebuild it. Russian strikes had hit two Kyiv bridges, cutting heating and water.",
-   "matters": "The bridge is Russia's main supply route to Crimea. Crimea's Russian-installed governor says two people were killed in drone attacks there.",
+   "title": "Ukraine strikes Crimea bridge for a third time in a week",
+   "why": "Russia suspended trains on the Kerch Bridge to annexed Crimea after another overnight drone attack on Thursday, its transport ministry says; Crimea's Russian-installed governor said service would resume that afternoon. A road span collapsed after Ukrainian strikes on Tuesday, and road traffic remains halted.",
+   "matters": "Putin has vowed to retaliate; Russia's deputy prime minister says some sections may reopen within one or two months.",
    "sources": [
     {
+     "name": "UPI",
+     "url": "https://www.upi.com/Top_News/World-News/2026/11/19/Ukraine-strikes-Kerch-Bridge-again/4411795088239"
+    },
+    {
+     "name": "Ukrainska Pravda (via Yahoo)",
+     "url": "https://www.yahoo.com/news/world/articles/kerch-bridge-attacked-third-time-063400255.html"
+    },
+    {
+     "name": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/90603"
+    },
+    {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge"
-    },
-    {
-     "name": "RFE/RL",
-     "url": "https://www.rferl.org/a/russia-ukraine-trade-strikes-on-key-bridges/33900167.html"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html"
-    },
-    {
-     "name": "UPI (via Yahoo)",
-     "url": "https://www.yahoo.com/news/world/articles/crimea-cut-off-ukraine-strikes-132229253.html"
-    },
-    {
-     "name": "France 24 / Reuters",
-     "url": "https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine"
+     "url": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine"
     }
    ]
   },
@@ -793,7 +1139,7 @@
    "published": "2026-11-16T09:00:00Z",
    "title": "Iran targets US base in Kuwait after American strike on Qeshm Island",
    "why": "Iran's army says its drones targeted US air-defence systems at Kuwait's Ali Al Salem air base on Wednesday, after US jets hit a missile site on Iran's Qeshm Island on Tuesday. Kuwait and Bahrain say they intercepted the attacks. The US military says no US personnel were hurt.",
-   "matters": "Qatar, a mediator, calls it a dangerous escalation; Trump, Xi and Putin are due to discuss the Iran war on Thursday.",
+   "matters": "Qatar, a mediator, calls it a dangerous escalation; the Trump–Xi–Putin declaration did not mention the Iran war.",
    "sources": [
     {
      "name": "AP (via myMotherLode)",
@@ -810,81 +1156,6 @@
     {
      "name": "Reuters (via SBS News)",
      "url": "https://www.sbs.com.au/news/article/iran-fires-at-us-drone-and-missile-sites-in-kuwait-after-attack-on-strait-of-hormuz/w8we1ptod"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "serious": true,
-   "developing": true,
-   "published": "2026-11-16T00:52:00Z",
-   "title": "Cyclone Akvan to hit India's Andhra Pradesh and Odisha coast on Friday",
-   "why": "India's weather department (IMD) expects severe cyclonic storm Akvan to cross the coast between Narsapur in Andhra Pradesh and Puri in Odisha by Friday afternoon, with winds of 90 to 100 km/h gusting to 110 km/h. Odisha's chief minister, Mohan Charan Majhi, says about 50,000 people have been evacuated.",
-   "matters": "Odisha has issued red warnings for 13 districts and closed schools in six until Saturday; extremely heavy rain is forecast.",
-   "sources": [
-    {
-     "name": "Deccan Chronicle",
-     "url": "https://www.deccanchronicle.com/nation/current-affairs/live-cyclone-akvan-to-cross-ap-odisha-coasts-today-red-alert-issued-2005764"
-    },
-    {
-     "name": "Outlook India",
-     "url": "https://www.outlookindia.com/national/odisha-evacuates-nearly-47000-as-severe-cyclonic-storm-akvan-nears-puri-narsapur-coast"
-    },
-    {
-     "name": "The Federal",
-     "url": "https://thefederal.com/category/states/east/odisha/odisha-ramps-up-evacuations-as-cyclone-akvan-alters-course-50000-moved-to-safety-263371"
-    }
-   ],
-   "changed": "Updated 19 Nov: the forecast landfall moved north towards Odisha; about 50,000 people evacuated."
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated 18 Nov: the coalition launched new air strikes as the Houthis advance towards Aden.",
-   "published": "2026-11-15T10:01:00Z",
-   "title": "Saudi-led coalition strikes Houthi sites as rebels push towards Aden",
-   "why": "The Saudi-led coalition says it hit 60 Houthi military targets in Sanaa, Hodeidah, Amran and Saada on Tuesday; the Houthis say at least 17 people were killed. Houthi forces are advancing towards Aden, the Yemeni government's base, and fighting continues around Taiz.",
-   "matters": "The Houthis now hold the coast by the Bab el-Mandeb Strait, a key shipping route into the Red Sea.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites"
-    },
-    {
-     "name": "AP (via myMotherLode)",
-     "url": "https://mymotherlode.com/news/world/11320133/iran-widens-gulf-attacks-by-targeting-a-us-air-base-in-kuwait-and-sites-in-bahrain.html"
-    },
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261118-gulf-countries-under-fire-after-us-hits-iran-island"
-    },
-    {
-     "name": "Anadolu",
-     "url": "https://www.aa.com.tr/en/middle-east/saudi-king-removes-commander-of-anti-houthi-coalition-in-yemen/4126820"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "developing": true,
-   "changed": "Updated 18 Nov: AFP reports deep divisions remain as the summit enters its final days.",
-   "published": "2026-11-15T10:00:00Z",
-   "title": "COP31 talks deadlocked over fossil fuels and money as deadline nears",
-   "why": "Ministers at the UN climate summit in Antalya, Türkiye, remain split over a draft deal published on Monday that calls for faster action to move away from fossil fuels and for adaptation finance to triple to at least $120 billion a year by 2035.",
-   "matters": "Talks are due to end on Friday 20 November; any deal needs the agreement of nearly 200 countries.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261118-fault-lines-widen-as-cop31-struggles-for-climate-deal"
-    },
-    {
-     "name": "Climate Home News",
-     "url": "https://www.climatechangenews.com/2026/11/16/cop31-bulletin-day-7-sharp-divisions-lower-expectations-for-cop-outcome/"
-    },
-    {
-     "name": "Anadolu",
-     "url": "https://www.aa.com.tr/en/turkiye/cop31-draft-decision-calls-for-tripling-adaptation-finance-to-120b-speeding-shift-away-from-fossil-fuels/4126715"
     }
    ]
   }
