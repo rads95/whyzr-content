@@ -1,6 +1,53 @@
 {
- "updated": "2026-11-21T07:49:00Z",
+ "updated": "2026-11-21T14:10:00Z",
  "items": [
+  {
+   "section": "world",
+   "developing": true,
+   "published": "2026-11-21T09:35:00Z",
+   "title": "Drones set Russian cargo ship on fire in Gulf of Finland",
+   "why": "Russian officials say two drones hit the Kaliningrad-bound cargo ship Sparta II in international waters on Saturday morning. The burning ship drifted into Finnish waters; Finland says other shipping is not at risk. No one has claimed the attack, and no injuries were reported.",
+   "matters": "Finland told its NATO allies and briefly restricted air and sea traffic in the eastern gulf.",
+   "sources": [
+    {
+     "name": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/russia-says-cargo-vessel-struck-by-drones-finland-says-it-is-on-fire-in-its-waters/3105196/"
+    },
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland"
+    },
+    {
+     "name": "ERR News",
+     "url": "https://news.err.ee/1610202715/russian-cargo-ship-on-fire-in-gulf-of-finland-after-reported-drone-strike"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-21T07:00:00Z",
+   "title": "Phumzile Mlambo-Ngcuka, South Africa's first woman deputy president, dies at 71",
+   "why": "Phumzile Mlambo-Ngcuka died on Friday evening of complications from a medical procedure about two weeks earlier, her family said. She was South Africa's deputy president from 2005 to 2008 and led UN Women from 2013 to 2021.",
+   "matters": "President Cyril Ramaphosa and UN chief António Guterres led tributes to a long-time campaigner for women's rights.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261121-ex-s-african-deputy-president-un-women-s-chief-dies"
+    },
+    {
+     "name": "SAnews",
+     "url": "https://www.sanews.gov.za/south-africa/south-africa-mourns-former-deputy-president-phumzile-mlambo-ngcuka"
+    },
+    {
+     "name": "Mail & Guardian",
+     "url": "https://mg.co.za/news/south-africa/2026-11-21-tributes-pour-in-for-mlambo-ngcuka/"
+    }
+   ]
+  },
   {
    "section": "sport",
    "published": "2026-11-21T05:20:00Z",
@@ -862,27 +909,6 @@
    ]
   },
   {
-   "section": "money",
-   "published": "2026-11-19T13:00:00Z",
-   "title": "South Africa's central bank holds interest rate at 7.25% in split vote",
-   "why": "The South African Reserve Bank kept its main rate at 7.25% on Thursday, with four policy committee members voting to hold and three for a rise. Governor Lesetja Kganyago said inflation rose to 5.2% in October, driven mainly by fuel costs.",
-   "matters": "Banks' prime lending rate stays at 10.75%; the governor says the bank will not hesitate to raise rates if needed.",
-   "sources": [
-    {
-     "name": "Mail & Guardian",
-     "url": "https://mg.co.za/news/south-africa/2026-11-19-reserve-bank-holds-rates-at-7-25-as-mpc-split-over-possible-hike/"
-    },
-    {
-     "name": "SAnews",
-     "url": "https://www.sanews.gov.za/south-africa/interest-rate-stays-unchanged-725"
-    },
-    {
-     "name": "EWN",
-     "url": "https://www.ewn.co.za/reserve-bank-keeps-rates-on-hold-but-warns-its-a-pause-for-now"
-    }
-   ]
-  },
-  {
    "section": "world",
    "serious": true,
    "developing": true,
@@ -921,19 +947,19 @@
   {
    "section": "climate",
    "developing": true,
-   "changed": "Updated: talks went past Friday's deadline with no deal; a new draft is expected",
+   "changed": "Updated: talks continued into Saturday; the presidency says a deal is close but not yet agreed",
    "published": "2026-11-19T12:00:00Z",
    "title": "COP31 climate talks run into overtime amid row over fossil fuels",
-   "why": "The UN climate summit in Antalya, Türkiye, missed its Friday deadline as nearly 200 countries argued over a draft deal that drops all mention of fossil fuels. The EU, Panama and others want a clear move away from them; Saudi Arabia and other oil producers object.",
-   "matters": "A third draft is expected on Saturday; the United States is staying away for a second year.",
+   "why": "The UN climate summit in Antalya, Türkiye, ran past Friday's deadline. Negotiators worked overnight on a new draft that drops all mention of fossil fuels and a $120bn adaptation goal. The EU, Panama, Ghana and others want a clear move away from fossil fuels; Saudi Arabia and other producers object.",
+   "matters": "COP31 president Murat Kurum said on Saturday: \"We are close to the finish line, but we are not there yet.\"",
    "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261121-countries-race-to-secure-cop31-deal-after-fossil-fuel-row"
+    },
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime"
-    },
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/environment/20261120-cop31-climate-talks-go-into-overtime-as-nations-wrangle-over-fossil-fuels-ommission"
     },
     {
      "name": "UN News",
@@ -942,167 +968,6 @@
     {
      "name": "Reuters (via TimesLIVE)",
      "url": "https://www.timeslive.co.za/news/world/2026-11-19-cop31-negotiators-strip-out-mention-of-fossil-fuels-in-draft-deal-text/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-19T12:00:00Z",
-   "title": "Xi, Trump and Putin hold first three-way summit in China's Shenzhen",
-   "why": "The leaders of China, the US and Russia met for about 90 minutes in Shenzhen on Thursday, at the APEC summit. Their joint statement says a nuclear war cannot be won, backs more oil and gas output and criticises the International Criminal Court. Analysts say little concrete was agreed.",
-   "matters": "Afterwards Putin ruled out direct talks with Ukraine, citing its strike on the Crimea bridge.",
-   "sources": [
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/"
-    },
-    {
-     "name": "RFE/RL",
-     "url": "https://www.rferl.org/a/trump-xi-putin-summit-four-key-takeaways/33902100.html"
-    },
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261120-xi-putin-trump-summit-what-comes-next"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-11-19T10:02:00Z",
-   "title": "Alibaba's AI cloud sales jump 53% but adjusted profit misses forecasts",
-   "why": "China's Alibaba said on Thursday that revenue from its AI cloud and computing unit rose 53% to 61bn yuan (about $9.1bn) in the July–September quarter. Group revenue rose 10% to 271.5bn yuan, while sales in its China e-commerce business fell 5%.",
-   "matters": "Adjusted earnings per share were below analysts' forecasts as Alibaba spends heavily on AI computing.",
-   "sources": [
-    {
-     "name": "Alibaba Group",
-     "url": "https://www.financialcontent.com/article/bizwire-2026-11-19-alibaba-group-announces-september-quarter-2026-results-and-interim-results-for-the-six-months-ended-september-30-2026"
-    },
-    {
-     "name": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-ai-cloud-revenue-surges-120043208.html"
-    },
-    {
-     "name": "Investing.com",
-     "url": "https://www.investing.com/news/earnings/alibaba-ai-cloud-revenue-jumps-53-but-earnings-fall-short-of-estimates-5038288"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-19T09:39:00Z",
-   "title": "Infantino to face France's Diallo and Japan's Tashima in FIFA election",
-   "why": "FIFA said on Thursday it has received three candidacies for its presidency: Gianni Infantino, in office since 2016, French federation head Philippe Diallo and Japan's Kohzo Tashima. Its 211 member associations vote in Rabat, Morocco, on 18 March 2027.",
-   "matters": "It is Infantino's first contested election since 2016; an electoral committee will now check whether the candidates are eligible.",
-   "sources": [
-    {
-     "name": "FIFA",
-     "url": "https://inside.fifa.com/organisation/media-releases/three-candidatures-for-next-years-presidential-election"
-    },
-    {
-     "name": "AP (via France 24)",
-     "url": "https://www.france24.com/en/sport/20261119-infantino-to-face-france-s-diallo-and-japan-s-tashima-in-fifa-presidential-election"
-    },
-    {
-     "name": "Reuters (via Al Jazeera)",
-     "url": "https://www.aljazeera.com/sports/2026/11/19/fifa-confirms-diallo-tashima-as-infantinos-challengers-at-2027-election"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "published": "2026-11-19T09:15:00Z",
-   "title": "Bangladesh measles deaths pass 1,340 as outbreak continues among children",
-   "why": "At least 1,341 people have died with confirmed measles or measles-like symptoms in Bangladesh since 15 March, the health directorate says; 105 of these deaths were confirmed as measles. Five more children died in the 24 hours to Friday morning.",
-   "matters": "The figures cover only patients admitted to hospital, and not everyone is tested, bdnews24 notes.",
-   "sources": [
-    {
-     "name": "bdnews24",
-     "url": "https://bdnews24.com/health/zzdnqo0738"
-    },
-    {
-     "name": "The Business Standard",
-     "url": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1341-5-more-children-die-1608781"
-    },
-    {
-     "name": "Bangladesh Post",
-     "url": "https://bangladeshpost.net/posts/5-more-children-die-with-measles-symptoms-death-toll-now-1-341-175788"
-    }
-   ],
-   "changed": "Updated: the toll rose to 1,341 in the health directorate's update to Friday morning"
-  },
-  {
-   "section": "world",
-   "published": "2026-11-19T09:06:00Z",
-   "title": "South Korea's top court orders retrial of ex-PM Han over martial law",
-   "why": "South Korea's Supreme Court on Thursday overturned former prime minister Han Duck-soo's 15-year prison sentence for his role in ex-president Yoon Suk Yeol's December 2024 martial law bid, and sent the case back to the Seoul High Court. Han remains in custody.",
-   "matters": "The court found too little evidence he meant to subvert the constitution before the decree, but upheld findings on his later actions.",
-   "sources": [
-    {
-     "name": "Yonhap (via Korea Times)",
-     "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261119/top-court-overturns-15-year-prison-term-for-ex-pm-han-over-martial-law-role"
-    },
-    {
-     "name": "The Korea Herald",
-     "url": "https://www.koreaherald.com/article/10943172"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/19/south-korean-court-orders-retrial-for-ex-pm-han-over-martial-law-attempt"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-19T08:00:00Z",
-   "title": "Yunus's family home set on fire as Hasina's party holds Bangladesh shutdown",
-   "why": "Police say the ancestral home of former interim leader Muhammad Yunus in Bangladesh's port city of Chittagong was set alight late on Wednesday; no one was hurt. On Thursday, Sheikh Hasina's banned Awami League held a nationwide \"lockdown\"; police say two ruling-party members were killed.",
-   "matters": "Hasina, sentenced to death in absentia, says she will return from India in December; the government refused her a passport.",
-   "sources": [
-    {
-     "name": "Al Jazeera (with AFP, AP)",
-     "url": "https://www.aljazeera.com/news/2026/11/19/home-of-bangladeshs-former-leader-muhammad-yunus-set-on-fire"
-    },
-    {
-     "name": "Reuters (via Express Tribune)",
-     "url": "https://tribune.com.pk/story/2641154/parts-of-bangladesh-shut-down-in-protests-by-hasinas-party-yunus-home-set-ablaze"
-    },
-    {
-     "name": "Anadolu",
-     "url": "https://www.aa.com.tr/en/asia-pacific/4-killed-nobel-laureate-yunus-ancestral-home-set-ablaze-amid-unrest-in-bangladesh/4130961"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated 20 Nov: ECDC now counts 11,504 confirmed cases and 5,630 deaths; vaccine trials start next week.",
-   "published": "2026-11-17T12:00:00Z",
-   "title": "WHO says Congo's Ebola outbreak has more than doubled in three months",
-   "why": "WHO head Tedros Adhanom Ghebreyesus said on 17 November that more than 11,000 cases and 5,400 deaths had been reported in eight provinces of the Democratic Republic of the Congo. The EU's disease agency, ECDC, now counts 11,504 confirmed cases and 5,630 deaths.",
-   "matters": "There is no approved vaccine for this Bundibugyo strain; WHO says trials of two candidates start in Ituri province next week.",
-   "sources": [
-    {
-     "name": "UN News",
-     "url": "https://news.un.org/en/story/2026/11/1168827"
-    },
-    {
-     "name": "WHO",
-     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625"
-    },
-    {
-     "name": "Reuters (via Yahoo)",
-     "url": "https://www.yahoo.com/news/world/articles/congos-ebola-cases-surpass-11-231348548.html"
-    },
-    {
-     "name": "ECDC",
-     "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-eip-00026/2026-11-19"
-    },
-    {
-     "name": "RFI (via AllAfrica)",
-     "url": "https://allafrica.com/stories/202611190001.html"
     }
    ]
   }
