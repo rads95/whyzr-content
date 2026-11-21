@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "facts": [
     {
       "date": "2026-09-20",
@@ -1582,6 +1582,36 @@
         {
           "name": "Universe Today",
           "url": "https://www.universetoday.com/articles/how-many-stars-are-in-the-milky-way-2"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "kind": "tale",
+      "emoji": "🍎",
+      "title": "William Tell and the apple",
+      "story": "Legend says a Swiss archer refused to bow to a hat on a pole set up by Gessler, the Habsburg bailiff. As punishment, he had to shoot an apple off his own son’s head. Tell hit the apple, then admitted his second arrow had been meant for Gessler if the boy was hurt.",
+      "origin": "No record shows Tell ever lived; his story first appears in the White Book of Sarnen, a Swiss manuscript from about 1470. A strikingly similar tale of a Danish archer, Toko, shooting an apple off his son’s head was written down by the monk Saxo Grammaticus around 1200.",
+      "sources": [
+        {
+          "name": "Swiss National Museum",
+          "url": "https://blog.nationalmuseum.ch/en/2019/04/tells-birth-in-the-white-book-of-sarnen/"
+        },
+        {
+          "name": "Historical Dictionary of Switzerland",
+          "url": "https://hls-dhs-dss.ch/articles/017475"
+        },
+        {
+          "name": "Swiss Federal Department of Foreign Affairs (aboutswitzerland)",
+          "url": "https://www.aboutswitzerland.eda.admin.ch/en/william-tell-a-symbol-of-switzerland-known-throughout-the-world"
+        },
+        {
+          "name": "Smithsonian Magazine",
+          "url": "https://www.smithsonianmag.com/history/in-search-of-william-tell-2198511/"
+        },
+        {
+          "name": "SWI swissinfo.ch",
+          "url": "https://www.swissinfo.ch/eng/toko--tell-s-role-model/251950"
         }
       ]
     }
