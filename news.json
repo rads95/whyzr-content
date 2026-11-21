@@ -1,6 +1,135 @@
 {
- "updated": "2026-11-21T01:47:00Z",
+ "updated": "2026-11-21T07:49:00Z",
  "items": [
+  {
+   "section": "sport",
+   "published": "2026-11-21T05:20:00Z",
+   "title": "Verstappen inherits Las Vegas pole after Antonelli engine penalty",
+   "why": "Mercedes driver Kimi Antonelli, the new world champion, set the fastest time in Las Vegas Grand Prix qualifying, 0.258 seconds ahead of Max Verstappen. A five-place grid penalty for an extra engine part drops Antonelli to sixth, so Verstappen starts on pole beside George Russell.",
+   "matters": "The race starts on Saturday at 20:00 local time in Las Vegas, early Sunday in Europe.",
+   "sources": [
+    {
+     "name": "Formula 1",
+     "url": "https://www.formula1.com/en/latest/article/antonelli-quickest-in-las-vegas-gp-qualifying-as-verstappen-inherits-pole-position.6R7udh8iYMHunSOGI6zStK"
+    },
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/f1/news/13614575/las-vegas-gp-kimi-antonelli-fastest-but-max-verstappen-on-pole-from-george-russell-after-dramatic-qualifying"
+    },
+    {
+     "name": "BBC Sport (via Yahoo Sports)",
+     "url": "https://sports.yahoo.com/articles/antonelli-fastest-penalty-leaves-verstappen-052654936.html"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-21T04:40:00Z",
+   "title": "Cricket Australia gives Pat Cummins unanimous backing as Test captain",
+   "why": "Cricket Australia's board says Pat Cummins keeps its 'unanimous support' as captain, after former teammates Usman Khawaja and Cameron Bancroft said the 2018 ball-tampering plot was widely known. Cummins denies knowing. The board ruled out a new inquiry but set up a forum for players to share accounts.",
+   "matters": "Separately, Fox Cricket says Khawaja and David Warner will be 'rested' from its commentary for the coming weeks.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261121-cummins-has-cricket-australia-s-unanimous-support-to-remain-captain"
+    },
+    {
+     "name": "AP (via Yahoo Sports)",
+     "url": "https://sports.yahoo.com/articles/cricket-australia-backs-pat-cummins-050805264.html"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-21/cricket-australia-pat-cummins-captaincy-sandpaper-ball-tampering/107412194"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "serious": true,
+   "published": "2026-11-21T00:09:00Z",
+   "title": "Magnitude 6.7 earthquake shakes central Peru; no injuries reported",
+   "why": "A magnitude 6.7 earthquake struck central Peru's Junín region on Friday evening, about 129km deep, Peru's Geophysical Institute says. Civil defence officials reported landslides on roads, damaged homes and a hospital, and power cuts, but no injuries. Shaking was felt in the capital, Lima.",
+   "matters": "Peru sits on one of the world's most active earthquake zones; deep quakes like this can be felt hundreds of kilometres away.",
+   "sources": [
+    {
+     "name": "El Comercio",
+     "url": "https://elcomercio.pe/peru/junin/temblor-de-67-en-junin-reportan-danos-en-viviendas-y-bloqueo-de-tramos-de-la-carretera-central-igp-ultimas-noticia/"
+    },
+    {
+     "name": "RPP",
+     "url": "https://rpp.pe/peru/actualidad/sismo-de-magnitud-67-junin-indeci-informa-reporte-de-danos-noticia-1718928"
+    },
+    {
+     "name": "AFP (via TRT World)",
+     "url": "https://www.trtworld.com/article/738e26219495"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "developing": true,
+   "published": "2026-11-20T23:54:00Z",
+   "title": "US media report hacks at FBI crime database and farm agency",
+   "why": "The FBI is investigating an apparent breach of its National Crime Information Center, used by police across the US, NBC News and CNN reported on Friday. Separately, a US Department of Agriculture system for paying farmers was hit by a cyberattack, officials said. It is unclear who is responsible.",
+   "matters": "The FBI database holds warrant and background-check records used by police every day.",
+   "sources": [
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/politics/justice-department/fbi-investigating-potential-breach-crime-database-rcna610536"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://abcnews.com/GMA/Food/new-government-report-sparks-concern-potential-cyberattack-us/story?id=138316014"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261121-us-agriculture-department-fbi-hit-by-cyberattacks-media-report"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-20T22:51:00Z",
+   "title": "US jury convicts man of starting deadly 2025 Palisades Fire",
+   "why": "A federal jury in Los Angeles convicted Jonathan Rinderknecht, 30, of starting the blaze that became the January 2025 Palisades Fire, which killed 12 people. His first trial ended without a verdict in June. He faces five to 40 years in prison, prosecutors say.",
+   "matters": "The fire destroyed more than 6,800 buildings in Los Angeles and Malibu, Cal Fire says.",
+   "sources": [
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/news/us-news/pacific-palisades-fire-retrial-jonathan-rinderknecht-rcna610336"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/losangeles/news/jonathan-rinderknecht-found-guilty-in-palisades-fire-case/"
+    },
+    {
+     "name": "AP (via ABC Australia)",
+     "url": "https://abc.net.au/news/2026-11-21/man-convicted-of-starting-2025-la-palisades-fire/107412326"
+    }
+   ]
+  },
+  {
+   "section": "curious",
+   "published": "2026-11-20T20:31:00Z",
+   "title": "Bolivian university holds guinea pig festival with races and fashion show",
+   "why": "Students at the Public University of El Alto, next to Bolivia's seat of government La Paz, held their second guinea pig festival on Friday. Guinea pigs raced, boxed, were weighed and paraded in costumes; the heaviest weighed 2.5 kilograms. A symbolic guinea pig wedding closed the event.",
+   "matters": "Organisers want to revive the Andean animal, domesticated there thousands of years ago, in Bolivian diets and rituals.",
+   "sources": [
+    {
+     "name": "AP (via ABC News)",
+     "url": "https://abcnews.com/International/wireStory/bolivian-festival-seeks-return-guinea-pig-nations-rituals-138333056"
+    },
+    {
+     "name": "EFE (via Infobae)",
+     "url": "https://www.infobae.com/america/agencias/2026/11/20/disfraces-competencias-investigaciones-y-una-boda-en-el-festival-del-cuy-en-bolivia/"
+    },
+    {
+     "name": "ABI (via Abya Yala TV)",
+     "url": "https://abyayala.tv.bo/la-upea-prepara-un-festival-para-mostrar-el-potencial-productivo-gastronomico-y-nutricional-del-cuy/"
+    }
+   ]
+  },
   {
    "section": "culture",
    "published": "2026-11-20T20:28:00Z",
@@ -19,6 +148,51 @@
     {
      "name": "CNBC",
      "url": "https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-20T20:00:00Z",
+   "title": "Bitcoin falls below $60,000 for first time since July",
+   "why": "The cryptocurrency bitcoin dropped below $60,000 on Friday for the first time since July, Reuters reported, as a sell-off in AI-linked shares spread to riskier assets. Bloomberg put it 5.1% lower at about $58,333 late on Friday.",
+   "sources": [
+    {
+     "name": "Reuters (via GV Wire)",
+     "url": "https://gvwire.com/2026/11/20/bitcoin-falls-below-60000-level/"
+    },
+    {
+     "name": "Bloomberg (via SWI swissinfo)",
+     "url": "https://www.swissinfo.ch/eng/nasdaq-100-has-worst-week-since-2020-on-ai-drama:-markets-wrap/92410554"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/20/stocks-moving-the-most-today-live-updates.html"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-20T19:24:00Z",
+   "title": "Nvidia shares tumble after report of US regulator accounting inquiry",
+   "why": "Shares in US chipmaker Nvidia fell about 14% on Friday, CNBC reports, after Reuters said Securities and Exchange Commission staff were examining possible accounting issues. The SEC declined to comment; an inquiry is not a finding of wrongdoing. Nvidia has had seven straight weekly losses.",
+   "matters": "Nvidia's chips power much of the AI industry, so its troubles affect the wider stock market.",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html"
+    },
+    {
+     "name": "Reuters (via Investing.com)",
+     "url": "https://www.investing.com/news/stock-market-news/nvidia-shares-fall-10-as-report-of-sec-accounting-probe-adds-to-pressure-5042464"
+    },
+    {
+     "name": "Bloomberg (via SWI swissinfo)",
+     "url": "https://www.swissinfo.ch/eng/nasdaq-100-has-worst-week-since-2020-on-ai-drama:-markets-wrap/92410554"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting"
     }
    ]
   },
@@ -45,6 +219,28 @@
   },
   {
    "section": "world",
+   "serious": true,
+   "published": "2026-11-20T17:00:00Z",
+   "title": "US court jails Indian man over plot to kill Sikh separatist",
+   "why": "A federal judge in New York sentenced Indian national Nikhil Gupta to 235 months, more than 19 years, on Friday for plotting to have Sikh separatist Gurpatwant Singh Pannun killed. US prosecutors say an Indian intelligence officer directed the plot; India denies any involvement.",
+   "matters": "The case has strained relations between the United States and India, and between India and Canada.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot"
+    },
+    {
+     "name": "AFP (via Dawn)",
+     "url": "https://www.dawn.com/news/2045944/indian-man-jailed-over-us-murder-plot-against-sikh-separatist"
+    },
+    {
+     "name": "ThePrint",
+     "url": "https://theprint.in/india/us-court-sentences-nikhil-gupta-to-19-years-7-months-prison-in-pannun-assassination-case/3104692/"
+    }
+   ]
+  },
+  {
+   "section": "world",
    "published": "2026-11-20T14:00:00Z",
    "title": "Estonia to close all road crossings with Russia from 1 December",
    "why": "Estonia's government decided on Friday to shut its five road checkpoints with Russia for six months from 1 December, citing hostile Russian activity; rail freight will continue. Russia's foreign ministry accused Estonia of trying to \"erect a new Iron Curtain\".",
@@ -66,6 +262,28 @@
   },
   {
    "section": "world",
+   "serious": true,
+   "published": "2026-11-20T13:10:00Z",
+   "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
+   "why": "Denmark ordered Russia's defence attaché to leave within seven days on Friday. Its intelligence service says Russian intelligence planned to kill Ukrainian-American rapper Kyivstoner at a September concert near Copenhagen; two Danish men are charged. Russia's embassy called the move \"vengeful\" and says no evidence was shown.",
+   "matters": "Danish intelligence says it is the first Russian assassination attempt of its kind in Denmark.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/20/two-danes-suspected-of-russian-backed-plot-to-kill-ukrainian-rapper"
+    },
+    {
+     "name": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/90775"
+    }
+   ]
+  },
+  {
+   "section": "world",
    "published": "2026-11-20T12:30:00Z",
    "title": "EU and UK agree post-Brexit reset on youth mobility and trade",
    "why": "At a summit in Brussels on Friday, UK Prime Minister Andy Burnham and EU leaders agreed a youth scheme letting up to 100,000 young people from each side live and work in the other for up to three years, plus deals on food standards and linking carbon markets.",
@@ -82,6 +300,27 @@
     {
      "name": "UPI (via Yahoo)",
      "url": "https://www.yahoo.com/news/politics/articles/european-union-britain-ink-reset-132036225.html"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "published": "2026-11-20T12:27:00Z",
+   "title": "57th International Film Festival of India opens in Goa",
+   "why": "The 57th International Film Festival of India opened on Friday in Panaji, Goa, and runs until 28 November. It is showing 159 international films from 86 countries, chosen from about 1,400 entries, opening with Polish director Paweł Pawlikowski's Cannes prize-winner Fatherland.",
+   "matters": "Its theme is 'Stories Without Borders', with Russia as partner country and Spain as country of honour.",
+   "sources": [
+    {
+     "name": "ANI (via Asianet Newsable)",
+     "url": "https://newsable.asianetnews.com/entertainment/goa-cm-pramod-sawant-welcomes-filmmakers-to-57th-iffi-opening-event-articleshow-e0i546o"
+    },
+    {
+     "name": "The Goan",
+     "url": "https://www.thegoan.net/goa-news/pawlikowski%E2%80%99s-%E2%80%98fatherland%E2%80%99-opens-57th-iffi-with-a-journey-through-postwar-germany/157385.html"
+    },
+    {
+     "name": "The Daily Star",
+     "url": "https://www.thedailystar.net/culture/tv-film/news/pawel-pawlikowskis-fatherland-open-57th-international-film-festival-india-4323546"
     }
    ]
   },
@@ -130,6 +369,28 @@
     {
      "name": "UEFA",
      "url": "https://www.uefa.com/uefanationsleague/draws/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-20T09:54:00Z",
+   "title": "Myanmar rejects UN court ruling that it committed genocide against Rohingya",
+   "why": "Myanmar's military government on Friday called \"unfair\" the International Court of Justice's ruling that its forces committed genocide against Rohingya Muslims in 2017. The court, in The Hague, ordered compensation and safe return for those displaced; it was the first time it found a state responsible for genocide.",
+   "matters": "About 1.2 million Rohingya live in camps in Bangladesh; the court has very limited means of enforcing its rulings.",
+   "sources": [
+    {
+     "name": "Reuters (via ABC Australia)",
+     "url": "https://www.abc.net.au/news/2026-11-20/myanmar-calls-icj-ruling-on-genocide-unfair/107411450"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/asia-pacific/20261119-top-un-court-to-rule-if-myanmar-s-rohingya-crackdown-was-genocide"
     }
    ]
   },
@@ -202,10 +463,18 @@
    "serious": true,
    "developing": true,
    "published": "2026-11-20T05:00:00Z",
-   "title": "Russian barrage damages three Kyiv bridges; at least eight killed in Ukraine",
-   "why": "Russia fired more than 110 missiles and over 400 drones at Ukraine overnight into Friday, President Zelensky says. Prime Minister Sergii Koretskyi says at least eight people were killed, six in Kyiv, and 28 injured. Three bridges over the Dnipro in Kyiv were damaged.",
-   "matters": "Russia says it targeted bridges used to move weapons; France has asked for an emergency UN Security Council meeting.",
+   "title": "Russian barrage damages three Kyiv bridges; at least nine killed in Ukraine",
+   "why": "Russian missiles and drones hit three bridges over the Dnipro in Kyiv overnight into Friday. Kyiv's mayor says seven people died in the capital and 17 were injured; Ukrainian officials put the national toll at at least nine. Russia says it targeted bridges used for military supplies.",
+   "matters": "France has asked for an urgent UN Security Council meeting; as of Saturday morning no date had been announced.",
    "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/"
+    },
+    {
+     "name": "Interfax-Ukraine",
+     "url": "https://en.interfax.com.ua/news/general/1239968.html"
+    },
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges"
@@ -223,13 +492,56 @@
      "url": "https://www.rte.ie/news/ukraine/2026/1120/1599948-ukraine-russia/"
     }
    ],
-   "changed": "Updated: the death toll rose and France asked for a UN Security Council meeting"
+   "changed": "Updated: officials say at least nine were killed, seven in Kyiv; no date yet for a UN Security Council meeting"
+  },
+  {
+   "section": "world",
+   "published": "2026-11-20T04:00:00Z",
+   "title": "El Salvador's Bukele registers to run for a third term",
+   "why": "President Nayib Bukele registered with El Salvador's electoral tribunal on Thursday night to seek a third consecutive term in the election on 28 February 2027. A 2025 constitutional change by his party scrapped term limits and run-off votes and lengthened terms to six years.",
+   "matters": "Polls suggest he will win; critics say he has built a de facto one-party state, which he denies.",
+   "sources": [
+    {
+     "name": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/el-salvadors-bukele-seeks-unprecedented-third-term-as-leader/3103793/"
+    },
+    {
+     "name": "UPI",
+     "url": "https://www.upi.com/Top_News/World-News/2026/11/20/latam-elsalvador-bukele-third-term/7621795196436/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "serious": true,
+   "published": "2026-11-20T01:55:00Z",
+   "title": "Guinea declares end of its mpox outbreak after 42 days without cases",
+   "why": "Guinea's health minister, Khaïté Sall, declared the West African country's mpox outbreak over, effective 17 November, after two incubation periods with no new cases. The outbreak began in September 2024 in Macenta, in the south-east; Guinee360 reports 2,395 confirmed cases and six deaths.",
+   "matters": "Guinea vaccinated 17,660 people during the response, which was supported by WHO and UNICEF.",
+   "sources": [
+    {
+     "name": "Xinhua",
+     "url": "https://english.news.cn/20261120/313bcd299ebb44658c8e24dc09c8748d/c.html"
+    },
+    {
+     "name": "Guinee360",
+     "url": "https://www.guinee360.com/20/11/2026/mpox-la-guinee-declare-officiellement-la-fin-de-lepidemie/"
+    },
+    {
+     "name": "Afrique7",
+     "url": "https://www.afrique7.com/accueil/30358-la-guinee-annonce-officiellement-la-fin-de-lepidemie-de-mpox-sur-son-territoire-national.html"
+    }
+   ]
   },
   {
    "section": "money",
    "published": "2026-11-20T01:30:00Z",
    "title": "Anthropic shares slide on second day as AI sell-off spreads",
-   "why": "Anthropic's shares fell about 11% to $86.72 in Friday trading in New York, still above their $83 listing price, as US tech stocks fell again; Nvidia dropped almost 7%. Earlier, Japan's Nikkei and South Korea's Kospi each closed more than 5% lower.",
+   "why": "Anthropic's shares closed 8.5% lower at $88.91 in New York on Friday, their second day of trading, still above their $83 listing price, CNBC and CNN report. US tech stocks fell again. Earlier, Japan's Nikkei and South Korea's Kospi each closed more than 5% lower.",
    "matters": "The S&P 500 is more than 10% below its October record, a fall markets call a correction, ABC reports.",
    "sources": [
     {
@@ -251,9 +563,13 @@
     {
      "name": "Al Jazeera (Asia markets)",
      "url": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears"
+    },
+    {
+     "name": "CNN (via Yahoo Finance)",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-wipes-gains-anthropic-ipo-173252248.html"
     }
    ],
-   "changed": "Updated: the sell-off reached Wall Street and Anthropic's shares fell on their second day"
+   "changed": "Updated: Friday closing price added; Anthropic's shares ended the day down 8.5%"
   },
   {
    "section": "climate",
@@ -333,22 +649,27 @@
    "section": "sport",
    "published": "2026-11-19T20:46:00Z",
    "title": "Ben Shelton reaches ATP Finals semi-finals for the first time",
-   "why": "American Ben Shelton beat Spain's Rafael Jodar 7-6, 7-5 in Turin, Italy, on Thursday, then went through as runner-up in his group when Alexander Zverev beat France's Arthur Fils. Shelton, 24, will face Carlos Alcaraz in the semi-finals.",
+   "why": "American Ben Shelton reached his first ATP Finals semi-final in Turin, Italy. On Saturday he plays Carlos Alcaraz, who won all three group matches without dropping a set; top seed Alexander Zverev meets Daniil Medvedev, who beat Frances Tiafoe 6-3, 6-4 on Friday.",
    "matters": "He is the youngest American to reach the last four since Andy Roddick in 2004, the ATP says.",
    "sources": [
+    {
+     "name": "Tennis Majors",
+     "url": "https://www.tennismajors.com/atp/nitto-atp-finals-atp/semis-alcaraz-shrugs-off-hamstring-scare-beats-cobolli-to-finish-his-turin-group-unbeaten-867442.html"
+    },
+    {
+     "name": "IANS",
+     "url": "https://ianslive.in/medvedev-sets-up-zverev-alcaraz-fights-shelton-in-semifinals-at-atp-finals--20261121094311"
+    },
     {
      "name": "ATP Tour",
      "url": "https://www.atptour.com/en/news/shelton-jodar-nitto-atp-finals-2026-thursday"
     },
     {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261119-shelton-reaches-atp-finals-last-four-france-s-fils-eliminated"
-    },
-    {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/tennis/news/13614067/atp-finals-ben-shelton-beats-rafael-jodar-to-book-carlos-alcaraz-semi-final-as-alexander-zverev-secures-group-victory"
+     "name": "ESPN",
+     "url": "https://www.espn.com/tennis/story/_/id/50544020/daniil-medvedev-defeats-frances-tiafoe-faces-alexander-zverev-atp-finals-semis"
     }
-   ]
+   ],
+   "changed": "Updated: Shelton will face Carlos Alcaraz in Saturday's first semi-final; Zverev plays Medvedev in the evening."
   },
   {
    "section": "tech",
@@ -566,10 +887,18 @@
    "serious": true,
    "developing": true,
    "published": "2026-11-19T12:00:00Z",
-   "title": "Saudi-led coalition strikes Yemen as Houthis fire missiles at Riyadh",
-   "why": "The Saudi-led coalition says it hit Houthi missile and drone sites in Sanaa and the port of Hodeidah on Friday, and intercepted three ballistic missiles aimed at Riyadh. The Houthis, who damaged a Riyadh skyscraper on Thursday, have threatened Jeddah and other Saudi Red Sea ports.",
-   "matters": "Houthi forces are also advancing on Aden, the Yemeni government's last major stronghold.",
+   "title": "Saudi-led coalition says it shot down Houthi missiles fired at Riyadh",
+   "why": "The Saudi-led coalition says it intercepted three Houthi ballistic missiles aimed at Riyadh early on Saturday; AFP and Reuters journalists in the city reported explosions. It followed coalition strikes on Friday on the port of Hodeidah and sites in Sanaa. No casualties were reported.",
+   "matters": "Houthi forces are also pressing towards Aden, the seat of Yemen's internationally recognised government.",
    "sources": [
+    {
+     "name": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/saudi-arabia-says-it-intercepts-three-houthi-missiles-targeting-riyadh/3104825/"
+    },
+    {
+     "name": "AFP (via Gulf News)",
+     "url": "https://gulfnews.com/world/gulf/saudi/saudi-led-coalition-says-downed-3-houthi-missiles-headed-for-riyadh-2-1.500755733"
+    },
     {
      "name": "AFP (via France 24)",
      "url": "https://www.france24.com/en/live-news/20261120-saudi-coalition-launches-special-operation-yemen-s-houthis-vow-reprisals"
@@ -587,7 +916,7 @@
      "url": "https://www.thenationalnews.com/news/gulf/2026/11/19/saudi-sovereign-wealth-fund-tower-in-riyadh-damaged-in-houthi-strike/"
     }
    ],
-   "changed": "Updated: the coalition struck Houthi targets in Yemen and the Houthis threatened Saudi ports"
+   "changed": "Updated: the coalition says it intercepted three more missiles fired at Riyadh early on Saturday"
   },
   {
    "section": "climate",
@@ -683,23 +1012,24 @@
    "section": "health",
    "serious": true,
    "published": "2026-11-19T09:15:00Z",
-   "title": "Bangladesh measles deaths pass 1,330 as outbreak continues among children",
-   "why": "Seven more children died with measles-like symptoms in the 24 hours to Thursday morning, taking the toll since 15 March to 1,336, Bangladesh's health directorate says; 105 deaths are laboratory-confirmed. More than 253,000 suspected cases have been reported, most in Dhaka division.",
-   "matters": "Officials say limited testing makes the true number of infections hard to know; most figures come from hospital admissions.",
+   "title": "Bangladesh measles deaths pass 1,340 as outbreak continues among children",
+   "why": "At least 1,341 people have died with confirmed measles or measles-like symptoms in Bangladesh since 15 March, the health directorate says; 105 of these deaths were confirmed as measles. Five more children died in the 24 hours to Friday morning.",
+   "matters": "The figures cover only patients admitted to hospital, and not everyone is tested, bdnews24 notes.",
    "sources": [
     {
-     "name": "The Business Standard",
-     "url": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1336-7-more-children-die-1607756"
+     "name": "bdnews24",
+     "url": "https://bdnews24.com/health/zzdnqo0738"
     },
     {
-     "name": "bdnews24",
-     "url": "https://bdnews24.com/health/7fnqmmelcw"
+     "name": "The Business Standard",
+     "url": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1341-5-more-children-die-1608781"
     },
     {
      "name": "Bangladesh Post",
-     "url": "https://bangladeshpost.net/posts/measles-outbreak-seven-more-children-die-in-bangladesh-175734"
+     "url": "https://bangladeshpost.net/posts/5-more-children-die-with-measles-symptoms-death-toll-now-1-341-175788"
     }
-   ]
+   ],
+   "changed": "Updated: the toll rose to 1,341 in the health directorate's update to Friday morning"
   },
   {
    "section": "world",
@@ -741,101 +1071,6 @@
     {
      "name": "Anadolu",
      "url": "https://www.aa.com.tr/en/asia-pacific/4-killed-nobel-laureate-yunus-ancestral-home-set-ablaze-amid-unrest-in-bangladesh/4130961"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-19T07:41:00Z",
-   "title": "Kenya's world marathon champion Peres Jepchirchir banned for three years for doping",
-   "why": "The Athletics Integrity Unit said on Thursday it had banned Peres Jepchirchir, the reigning world and former Olympic champion, after she admitted using the blood booster EPO. The ban runs from 20 October; she loses her Sydney Marathon title from August.",
-   "matters": "Her ban was cut from four years to three because she admitted the offence early, KBC reports.",
-   "sources": [
-    {
-     "name": "AP (via Al Jazeera)",
-     "url": "https://www.aljazeera.com/sports/2026/11/19/kenyas-marathon-champion-peres-jepchirchir-gets-three-year-ban-for-doping"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-19/sydney-marathon-winner-peres-jepchirchir-three-year-doping-ban/107405856"
-    },
-    {
-     "name": "KBC",
-     "url": "https://www.kbc.co.ke/jepchirchir-banned-for-three-years-stripped-of-sydney-marathon-title/"
-    }
-   ]
-  },
-  {
-   "section": "culture",
-   "published": "2026-11-19T05:01:00Z",
-   "title": "Egyptian author denied US visa wins National Book Award for prison memoir",
-   "why": "Abdelrahman ElGendy won the nonfiction prize in New York on Wednesday for \"Huna\", a memoir of the more than six years he says he spent as a political prisoner in Egypt. US consular officials denied him a visitor visa, so his editor accepted it.",
-   "matters": "Hannah Lillith Assadi won fiction for \"Paradiso 17\", about an exiled Palestinian; Salman Rushdie received a lifetime achievement medal.",
-   "sources": [
-    {
-     "name": "Los Angeles Times (via Yahoo)",
-     "url": "https://www.yahoo.com/entertainment/articles/abdelrahman-elgendy-wins-national-book-050145963.html"
-    },
-    {
-     "name": "The National (UAE)",
-     "url": "https://www.thenationalnews.com/arts-culture/books/2026/11/19/arab-writers-win-two-2026-national-book-awards-in-us/"
-    },
-    {
-     "name": "Literary Hub",
-     "url": "https://lithub.com/here-are-the-winners-of-the-2026-national-book-awards/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-19T03:46:00Z",
-   "title": "US jury convicts pastor over 2021 killing of Haiti's president",
-   "why": "A federal jury in Miami found Haitian-American pastor Christian Emmanuel Sanon guilty on Wednesday on all eight charges over the plot to kill Haiti's President Jovenel Moïse, shot dead at home in July 2021. He faces up to life in prison; sentencing is on 10 February.",
-   "matters": "His lawyer says he will appeal. US prosecutors have charged more than 40 people over the killing.",
-   "sources": [
-    {
-     "name": "AP (via WLRN)",
-     "url": "https://www.wlrn.org/americas/2026-11-18/florida-pastor-convicted-of-us-charges-related-to-assassination-of-haitian-president-jovenel-moise"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president"
-    },
-    {
-     "name": "USA Today (via Yahoo)",
-     "url": "https://www.yahoo.com/news/us/articles/haitian-american-pastor-convicted-plot-051515579.html"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "changed": "Updated: Myanmar's government rejected the ruling and China criticised it",
-   "published": "2026-11-19T03:07:00Z",
-   "title": "UN's top court finds Myanmar committed genocide against the Rohingya",
-   "why": "The International Court of Justice in The Hague ruled 9-6 on Thursday that Myanmar committed genocide against its Rohingya minority in a 2017 army crackdown, the first time it has found a state responsible for genocide. It ordered Myanmar to punish those responsible and compensate victims.",
-   "matters": "Myanmar's government called the ruling unfair and China criticised it; about 1.2 million Rohingya refugees live in Bangladesh.",
-   "sources": [
-    {
-     "name": "UN News",
-     "url": "https://news.un.org/en/story/2026/11/1168836"
-    },
-    {
-     "name": "CBS News (with AP)",
-     "url": "https://www.cbsnews.com/news/myanmar-genocide-rohingyas-un-top-court/"
-    },
-    {
-     "name": "RFA",
-     "url": "https://www.rfa.org/english/myanmar/2026/11/19/rohingya-genocide-icj-ruling-myanmar/"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya"
-    },
-    {
-     "name": "Al Jazeera (reaction)",
-     "url": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling"
     }
    ]
   },
