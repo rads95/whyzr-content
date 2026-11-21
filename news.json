@@ -1,6 +1,69 @@
 {
- "updated": "2026-11-20T13:55:00Z",
+ "updated": "2026-11-21T01:47:00Z",
  "items": [
+  {
+   "section": "culture",
+   "published": "2026-11-20T20:28:00Z",
+   "title": "Grand Theft Auto VI launches after 13-year wait to record sales",
+   "why": "Rockstar Games says the video game took about $3.79bn in retail sales in its first day after going on sale on Thursday, nearly five times Grand Theft Auto V's first day in 2013. Reviews have been glowing: its Metacritic score is 99 out of 100.",
+   "matters": "Rockstar calls it the biggest launch of any entertainment product in history; the game cost more than $1bn to make.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261120-grand-theft-auto-vi-takes-record-3-8-bn-on-first-day-1"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html"
+    }
+   ]
+  },
+  {
+   "section": "science",
+   "published": "2026-11-20T17:30:00Z",
+   "title": "Anthropic mathematician claims proof of Riemann hypothesis using Claude AI",
+   "why": "Levent Alpöge, a mathematician at the AI company Anthropic, said on Friday that, working with its Claude model, he had found a proof of the Riemann hypothesis, a problem about prime numbers open since 1859. He released it only in Lean, a language computers use to check proofs.",
+   "matters": "It is a $1m Millennium Prize problem; mathematicians say checking the proof and explaining it to humans will take time.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261120-anthropic-researcher-says-claude-solved-math-s-greatest-riddle"
+    },
+    {
+     "name": "Scientific American",
+     "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-20T14:00:00Z",
+   "title": "Estonia to close all road crossings with Russia from 1 December",
+   "why": "Estonia's government decided on Friday to shut its five road checkpoints with Russia for six months from 1 December, citing hostile Russian activity; rail freight will continue. Russia's foreign ministry accused Estonia of trying to \"erect a new Iron Curtain\".",
+   "matters": "About 760,000 crossings were made this year; Finland has kept its border with Russia closed since 2023.",
+   "sources": [
+    {
+     "name": "Al Jazeera (with Reuters)",
+     "url": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/20/estonia-to-shut-border-with-russia-over-gru-linked-sabotage-attack"
+    },
+    {
+     "name": "ERR News",
+     "url": "https://news.err.ee/1610201515/estonia-to-close-land-border-with-russia-from-december-1"
+    }
+   ]
+  },
   {
    "section": "world",
    "published": "2026-11-20T12:30:00Z",
@@ -27,9 +90,9 @@
    "lead": true,
    "developing": true,
    "published": "2026-11-20T10:30:00Z",
-   "title": "Poland says Russian missile crashed on its soil during attack on Ukraine",
-   "why": "Poland's defence minister says a Russian Kh-101 cruise missile came down near Nowy Lipowiec, in Lublin province, about 60km from the Ukrainian border, on Friday; a second missile and a drone fell elsewhere. Nobody was hurt. Prime Minister Donald Tusk called it a deliberate provocation.",
-   "matters": "Poland is a NATO member; NATO chief Mark Rutte called the airspace violations \"grave\" and jets were scrambled.",
+   "title": "Poland says Russian missiles crashed on its soil near European drills",
+   "why": "Poland says two Russian missiles and a drone fell on its territory on Friday during an attack on Ukraine; a Kh-101 cruise missile came down near Nowy Lipowiec, about 60km from the Ukrainian border. Nobody was hurt. Prime Minister Donald Tusk called it a likely intentional provocation.",
+   "matters": "The objects fell near drills by European troops preparing a possible Ukraine mission; NATO chief Mark Rutte visits Warsaw on Saturday.",
    "sources": [
     {
      "name": "France 24 (with Reuters, AFP)",
@@ -42,6 +105,95 @@
     {
      "name": "Euronews",
      "url": "https://www.euronews.com/2026/11/20/unidentified-object-falls-in-eastern-poland-amid-major-russian-attack-on-ukraine"
+    },
+    {
+     "name": "Al Jazeera (with AP, Reuters)",
+     "url": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations"
+    }
+   ],
+   "changed": "Updated: officials say two missiles and a drone fell near European troop drills; NATO's chief visits Warsaw on Saturday"
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-20T10:00:00Z",
+   "title": "Spain to face France in Nations League quarter-finals",
+   "why": "Friday's draw in Nyon, Switzerland, also paired England with Norway, Portugal with the Netherlands and Belgium with Germany. The two-legged ties will be played between 25 and 30 March, and the finals tournament on 9 to 13 June, at a venue not yet chosen.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals"
+    },
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261120-spain-face-france-england-take-on-norway-in-nations-league-quarters-1"
+    },
+    {
+     "name": "UEFA",
+     "url": "https://www.uefa.com/uefanationsleague/draws/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-20T08:37:00Z",
+   "title": "Iraqi forces enter Kataib Hezbollah stronghold after oil smuggling dispute",
+   "why": "Iraqi troops and police deployed on Friday in Jurf al-Sakhar, in Babil province south of Baghdad, under a deal for the Iran-backed armed group Kataib Hezbollah to leave. The government accuses the group of smuggling state oil worth hundreds of millions of dollars; it denies this.",
+   "matters": "The US has pressed Iraq to disarm Iran-aligned militias, some of which have attacked US forces this year.",
+   "sources": [
+    {
+     "name": "Al Jazeera (with Reuters)",
+     "url": "https://www.aljazeera.com/news/2026/11/20/iraqi-forces-deploy-to-jurf-al-sakhar-after-deal-with-iran-backed-group"
+    },
+    {
+     "name": "France 24 (with Reuters)",
+     "url": "https://www.france24.com/en/middle-east/20261120-iraqi-security-forces-to-deploy-in-hezbollah-stronghold-under-compromise-deal"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/19/iraq-orders-armed-factions-to-withdraw-from-strategic-area-amid-alleged-oil-smuggling-and-"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-20T08:00:00Z",
+   "title": "Young people protest over living costs in more than 25 European countries",
+   "why": "Students and workers rallied across Europe on Friday: in Italy the CGIL union held a general strike with protests in more than 100 places, and there were marches in Germany, Austria, Croatia, Spain and Britain. They want better wages, cheaper housing and more spending on education rather than defence.",
+   "matters": "Police in Vienna used pepper spray and made arrests; more protests are planned this weekend, including in France.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs"
+    },
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/europe/20261120-europe-s-youth-set-to-join-mass-cost-of-living-protests-in-25-countries"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/20/thousands-protest-across-europe-demanding-better-wages-and-services"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "serious": true,
+   "published": "2026-11-20T06:19:00Z",
+   "title": "Storm kills at least three, damages thousands of homes in southern Brazil",
+   "why": "A storm with gusts of up to 114 km/h hit the town of Tupanciretã, in Rio Grande do Sul state, early on Friday. City officials say three people died. Officials estimate that most of the town's roughly 8,600 homes were damaged, thousands of them losing their roofs.",
+   "matters": "The state released 2 million reais in emergency funds and President Lula sent federal emergency teams.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261120-severe-storm-destroys-thousands-of-homes-in-brazil"
+    },
+    {
+     "name": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/tempestade-deixa-um-morto-em-tupancireta-no-rio-grande-do-sul"
+    },
+    {
+     "name": "Rio Grande do Sul state government",
+     "url": "https://www.estado.rs.gov.br/vice-governador-acompanha-acoes-emergenciais-apos-temporal-em-tupancireta"
     }
    ]
   },
@@ -76,32 +228,32 @@
   {
    "section": "money",
    "published": "2026-11-20T01:30:00Z",
-   "title": "Asian shares tumble as AI sell-off deepens despite Anthropic's debut",
-   "why": "Stock markets across Asia fell sharply on Friday after heavy losses on Wall Street. South Korea's Kospi closed 5.2% lower and Japan's Nikkei 225 5.1% lower. Taiwan's main index fell about 6%, and European shares also opened lower.",
-   "matters": "Analysts say investors increasingly doubt that the huge spending on artificial intelligence will pay off.",
+   "title": "Anthropic shares slide on second day as AI sell-off spreads",
+   "why": "Anthropic's shares fell about 11% to $86.72 in Friday trading in New York, still above their $83 listing price, as US tech stocks fell again; Nvidia dropped almost 7%. Earlier, Japan's Nikkei and South Korea's Kospi each closed more than 5% lower.",
+   "matters": "The S&P 500 is more than 10% below its October record, a fall markets call a correction, ABC reports.",
    "sources": [
     {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-21/anthropic-ipo-fails-to-calm-ai-jitters-stock-market-debut/107412118"
+    },
+    {
      "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo"
+    },
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/business/20261120-anthropic-shares-slide-on-second-day-of-trading-as-ai-jitters-fuel-tech-sell-off"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html"
+    },
+    {
+     "name": "Al Jazeera (Asia markets)",
      "url": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears"
-    },
-    {
-     "name": "Gulf News",
-     "url": "https://gulfnews.com/business/markets/why-anthropics-ipo-failed-to-stop-asias-ai-chip-selloff-on-friday-1.500754549"
-    },
-    {
-     "name": "Asianet Newsable",
-     "url": "https://newsable.asianetnews.com/markets/ai-selloff-spreads-from-wall-street-to-asia-despite-anthropic-debut-spy-qqq-dia-asian-stocks-head-for-steep-weekly-losses-articleshow-0gmr41p"
-    },
-    {
-     "name": "Free Press Journal",
-     "url": "https://www.freepressjournal.in/business/asian-stock-markets-crash-kospi-plunges-47-nikkei-tumbles-48-as-ai-selloff-deepens-despite-anthropics-81-billion-ipo"
-    },
-    {
-     "name": "Euronews (via Yahoo Finance)",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-gold-silver-fall-blockbuster-054838505.html"
     }
    ],
-   "changed": "Updated: closing figures added; European shares also fell"
+   "changed": "Updated: the sell-off reached Wall Street and Anthropic's shares fell on their second day"
   },
   {
    "section": "climate",
@@ -414,52 +566,53 @@
    "serious": true,
    "developing": true,
    "published": "2026-11-19T12:00:00Z",
-   "title": "Houthi attack damages Riyadh skyscraper as rebels push towards Aden",
-   "why": "Saudi Arabia says a Houthi attack on Thursday damaged several floors of the Public Investment Fund tower in Riyadh, with no injuries. The Saudi-led coalition says it dealt with a missile threat and initial checks point to falling debris. Houthi forces are advancing on Aden, Yemen's government base.",
-   "matters": "The Houthis claim cruise-missile strikes on Riyadh's airport and financial district; Saudi Arabia calls it a terrorist attack.",
+   "title": "Saudi-led coalition strikes Yemen as Houthis fire missiles at Riyadh",
+   "why": "The Saudi-led coalition says it hit Houthi missile and drone sites in Sanaa and the port of Hodeidah on Friday, and intercepted three ballistic missiles aimed at Riyadh. The Houthis, who damaged a Riyadh skyscraper on Thursday, have threatened Jeddah and other Saudi Red Sea ports.",
+   "matters": "Houthi forces are also advancing on Aden, the Yemeni government's last major stronghold.",
    "sources": [
     {
      "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/middle-east/20261119-skyscraper-in-riyadh-damaged-as-saudi-arabia-reports-surge-in-new-houthi-attacks"
+     "url": "https://www.france24.com/en/live-news/20261120-saudi-coalition-launches-special-operation-yemen-s-houthis-vow-reprisals"
     },
     {
-     "name": "Al Jazeera (with Reuters)",
-     "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports"
+    },
+    {
+     "name": "Al Jazeera (live)",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles"
     },
     {
      "name": "The National",
      "url": "https://www.thenationalnews.com/news/gulf/2026/11/19/saudi-sovereign-wealth-fund-tower-in-riyadh-damaged-in-houthi-strike/"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites"
     }
-   ]
+   ],
+   "changed": "Updated: the coalition struck Houthi targets in Yemen and the Houthis threatened Saudi ports"
   },
   {
    "section": "climate",
    "developing": true,
-   "changed": "Updated: talks look set to run past Friday's deadline",
+   "changed": "Updated: talks went past Friday's deadline with no deal; a new draft is expected",
    "published": "2026-11-19T12:00:00Z",
-   "title": "COP31 climate talks set to overrun amid row over fossil fuels",
-   "why": "The UN climate summit in Antalya, Türkiye, was due to end on Friday but looks likely to run into the weekend. Thursday's draft deal dropped all mention of fossil fuels and a $120bn adaptation finance target; small island states say the text is weak without them.",
-   "matters": "The draft would be the first summit text to accept that the world will overshoot the 1.5C warming limit.",
+   "title": "COP31 climate talks run into overtime amid row over fossil fuels",
+   "why": "The UN climate summit in Antalya, Türkiye, missed its Friday deadline as nearly 200 countries argued over a draft deal that drops all mention of fossil fuels. The EU, Panama and others want a clear move away from them; Saudi Arabia and other oil producers object.",
+   "matters": "A third draft is expected on Saturday; the United States is staying away for a second year.",
    "sources": [
     {
-     "name": "The Independent (via Yahoo)",
-     "url": "https://www.yahoo.com/news/science/articles/cop31-heading-towards-overtime-thanks-125933463.html"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime"
     },
     {
-     "name": "Reuters (via TimesLIVE)",
-     "url": "https://www.timeslive.co.za/news/world/2026-11-19-cop31-negotiators-strip-out-mention-of-fossil-fuels-in-draft-deal-text/"
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/environment/20261120-cop31-climate-talks-go-into-overtime-as-nations-wrangle-over-fossil-fuels-ommission"
     },
     {
      "name": "UN News",
      "url": "https://news.un.org/en/story/2026/11/1168839"
     },
     {
-     "name": "DPA (via Yahoo)",
-     "url": "https://www.yahoo.com/news/science/articles/cop31-draft-declaration-avoids-mention-143340237.html"
+     "name": "Reuters (via TimesLIVE)",
+     "url": "https://www.timeslive.co.za/news/world/2026-11-19-cop31-negotiators-strip-out-mention-of-fossil-fuels-in-draft-deal-text/"
     }
    ]
   },
@@ -658,11 +811,11 @@
   {
    "section": "world",
    "serious": true,
-   "changed": "Updated 20 Nov: the court found Myanmar responsible for genocide.",
+   "changed": "Updated: Myanmar's government rejected the ruling and China criticised it",
    "published": "2026-11-19T03:07:00Z",
    "title": "UN's top court finds Myanmar committed genocide against the Rohingya",
    "why": "The International Court of Justice in The Hague ruled 9-6 on Thursday that Myanmar committed genocide against its Rohingya minority in a 2017 army crackdown, the first time it has found a state responsible for genocide. It ordered Myanmar to punish those responsible and compensate victims.",
-   "matters": "The ruling is final; Myanmar must report back within two years. About 1.2 million Rohingya refugees live in Bangladesh.",
+   "matters": "Myanmar's government called the ruling unfair and China criticised it; about 1.2 million Rohingya refugees live in Bangladesh.",
    "sources": [
     {
      "name": "UN News",
@@ -679,178 +832,10 @@
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya"
-    }
-   ]
-  },
-  {
-   "section": "culture",
-   "published": "2026-11-19T00:30:00Z",
-   "title": "Van Gogh painting sells for record $190.4m at New York auction",
-   "why": "Vincent van Gogh's \"Chestnut Trees in Blossom\", painted in 1890, the year he died, sold at Sotheby's in New York on Wednesday for $190.4m including fees. The previous auction record for his work was $117.2m, set in 2022.",
-   "matters": "The sale followed a last-minute settlement with heirs of a German former owner, who say his family sold it under Nazi-era pressure.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261118-van-gogh-painting-sells-for-record-190-4-mn-after-dispute"
     },
     {
-     "name": "BBC (via Yahoo)",
-     "url": "https://www.yahoo.com/news/world/articles/van-gogh-painting-sells-record-004924549.html"
-    },
-    {
-     "name": "CNN (via Local News 8)",
-     "url": "https://localnews8.com/life/cnn-style/2026/11/18/vincent-van-gogh-painting-sells-for-190-million-smashing-auction-record/"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-18T21:23:00Z",
-   "title": "Bancroft says whole Australian team knew of 2018 ball-tampering plot",
-   "why": "Former Australia batter Cameron Bancroft wrote in The West Australian on Wednesday that \"the whole team\" knew sandpaper was being used on the ball in South Africa in 2018, not only the three players punished. Captain Pat Cummins has called such claims \"complete and utter nonsense\".",
-   "matters": "Cricket Australia says it will consider his account but will not reopen its investigation.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261118-cummins-defiant-as-sandpapergate-roils-australian-cricket-1"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-19/cameron-bancroft-sandpaper-breakdown/107403066"
-    },
-    {
-     "name": "AAP (via 1News)",
-     "url": "https://www.1news.co.nz/2026/11/19/bancroft-drops-bomb-in-crickets-ball-tampering-war/"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-11-18T19:00:00Z",
-   "title": "US Federal Reserve minutes point to an interest rate rise in December",
-   "why": "Minutes of the US Federal Reserve's October meeting, published on Wednesday, show nearly all policymakers think raising rates again would likely be appropriate to bring inflation back to 2%. The Fed held its key rate at 3.75% to 4% in October after raising it in September.",
-   "matters": "Higher US rates make borrowing dearer around the world; markets see about a 95% chance of a December rise, AP reports.",
-   "sources": [
-    {
-     "name": "Federal Reserve",
-     "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm"
-    },
-    {
-     "name": "AP (via ABC News)",
-     "url": "https://abcnews.com/US/wireStory/fed-minutes-higher-interest-rates-needed-december-inflation-138258781"
-    },
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261118-almost-all-fed-policymakers-saw-further-interest-rate-hikes-as-likely"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-18T19:00:00Z",
-   "title": "US and Venezuela agree to restore military ties during Hegseth visit",
-   "why": "US Defence Secretary Pete Hegseth announced an agreement on joint training and intelligence sharing during a surprise visit to Venezuela's capital, Caracas, on Wednesday. Interim president Delcy Rodríguez called it a resumption of military ties. She took over after US forces seized Nicolás Maduro in January.",
-   "matters": "Hegseth called Venezuela a \"compliant security partner\"; few details of the deal have been published.",
-   "sources": [
-    {
-     "name": "AP (via KSL)",
-     "url": "https://www.ksl.com/article/51646689/hegseth-visits-venezuela-and-says-he-looks-forward-to-deepening-a-military-partnership"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261118-hegseth-makes-surprise-trip-to-venezuela-renews-military-cooperation"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-18T18:00:00Z",
-   "title": "Democrats nominate Hakeem Jeffries to be first Black US House speaker",
-   "why": "House Democrats voted 251 to 11 on Wednesday to nominate Hakeem Jeffries of New York as speaker of the US House of Representatives. With Democrats taking control after the midterms, the full House is expected to elect him when it meets on 3 January.",
-   "sources": [
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/house-democrats-hakeem-jeffries-speaker-nomination-progressives/"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker"
-    },
-    {
-     "name": "PBS NewsHour",
-     "url": "https://www.pbs.org/newshour/politics/democrats-nominate-hakeem-jeffries-to-become-house-speaker-a-historic-first"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "published": "2026-11-18T16:00:00Z",
-   "title": "Fossil teeth show Homo erectus lived in southern China's rainforests",
-   "why": "Eight teeth from two caves near Chongzuo in Guangxi, southern China, belong to Homo erectus and are 184,000 to 324,000 years old, two studies in Nature reported on Wednesday. Chemical traces suggest these early humans lived in rainforest. A ninth tooth is from another, unidentified human species.",
-   "matters": "The species was thought to have vanished from mainland Asia about 400,000 years ago and to have avoided rainforests.",
-   "sources": [
-    {
-     "name": "Reuters (via bdnews24)",
-     "url": "https://bdnews24.com/science/9yfdrwlzkb"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/science/2026-11-19/other-ancient-humans-may-have-adapted-to-rainforests/107394402"
-    },
-    {
-     "name": "China Daily",
-     "url": "https://www.chinadaily.com.cn/a/202611/19/WS6afe918ee4b03ebf8519d70c.html"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "published": "2026-11-18T16:00:00Z",
-   "title": "Astronomers watch a giant star swallow its companion for the first time",
-   "why": "A red giant about 350 times wider than the Sun, in the Andromeda galaxy 2.5 million light-years away, appears to have swallowed a smaller Sun-like star, a team led by Columbia University reported in Nature on Wednesday. NASA's Webb telescope observed the aftermath.",
-   "matters": "Astronomers say both stars may instead have survived in a tighter orbit; further observations should tell.",
-   "sources": [
-    {
-     "name": "NASA",
-     "url": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/"
-    },
-    {
-     "name": "Space.com",
-     "url": "https://www.space.com/astronomy/stars/astronomers-witness-a-star-eating-its-companion-in-1st-of-its-kind-observation"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/science/2026-11-19/scientists-watch-red-giant-star-eat-another-the-size-of-our-sun/107394074"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "changed": "Updated 20 Nov: the national cyber director was removed after the outages.",
-   "published": "2026-11-18T08:00:00Z",
-   "title": "White House removes cyber chief after week of US tech outages",
-   "why": "US National Cyber Director Sean Cairncross has been removed; a person close to the White House says President Trump felt he lacked strong cyber credentials. It follows outages hitting flights, banks and Microsoft, which officials say were unrelated and not a cyberattack.",
-   "matters": "Pentagon IT chief Kirsten Davies takes over for now; a permanent successor needs Senate approval.",
-   "sources": [
-    {
-     "name": "Reuters (via France 24)",
-     "url": "https://www.france24.com/en/americas/20261120-white-house-fires-national-cyber-director-over-widespread-outages"
-    },
-    {
-     "name": "CyberScoop",
-     "url": "https://cyberscoop.com/sean-cairncross-out-national-cyber-director/"
-    },
-    {
-     "name": "Fox News",
-     "url": "https://www.foxnews.com/politics/trumps-national-cyber-director-sean-cairncross-fired"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/marco-rubio-tech-outages-not-connected/"
+     "name": "Al Jazeera (reaction)",
+     "url": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling"
     }
    ]
   },
