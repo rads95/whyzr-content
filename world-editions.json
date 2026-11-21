@@ -6704,5 +6704,193 @@
         ]
       }
     ]
+  },
+  {
+    "id": "062",
+    "published": "2026-11-23",
+    "title": "Beaujolais day, a deal to mend Brexit ties and Spain v France again",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Is this true?",
+        "claim": "Beaujolais Nouveau, a young French red wine made from this year’s grapes, went on sale on Thursday 19 November, because by tradition it is released on the third Thursday of November.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this is true. Beaujolais Nouveau is a light, fruity red wine from the Beaujolais region of France, and it is sold only a few weeks after the grapes are picked, so this year’s bottles are the 2026 vintage. By tradition it goes on sale on the third Thursday of November, which this year was 19 November. The day is celebrated across France, and the wine is also enjoyed in many other countries.",
+        "sources": [
+          [
+            "Wine Spectator · Has Beaujolais Nouveau arrived?",
+            "https://www.winespectator.com/articles/beaujolais-nouveau-2026-vintage-thanksgiving-holiday-red-wine-gamay"
+          ],
+          [
+            "France 24 · Beaujolais Nouveau: A French tradition uncorked",
+            "https://www.france24.com/en/tv-shows/entre-nous/20261119-beaujolais-nouveau-a-french-tradition-uncorked"
+          ],
+          [
+            "Euronews · Beaujolais Nouveau 2026: a fresh, light vintage hopes to revive a struggling sector",
+            "https://www.euronews.com/2026/11/19/beaujolais-nouveau-2026-a-fresh-light-vintage-hopes-to-revive-a-struggling-sector"
+          ],
+          [
+            "The Connexion · From grape to glass: Beaujolais Nouveau",
+            "https://www.connexionfrance.com/magazine/from-grape-to-glass-beaujolais-nouveau/481154"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three quarter-finals from the football Nations League draw. Match each team to its opponent.",
+        "pairs": [
+          [
+            "Spain",
+            "France"
+          ],
+          [
+            "Norway",
+            "England"
+          ],
+          [
+            "Belgium",
+            "Germany"
+          ]
+        ],
+        "why": "The pairs are: Spain – France, Norway – England, Belgium – Germany. The Nations League is a competition between Europe’s national men’s football teams, and the draw for its quarter-finals was made in Nyon, Switzerland, on Friday 20 November. The fourth tie is the Netherlands against Portugal. Each tie is played over two matches, home and away, in March 2027, and the winners go through to the finals in June.",
+        "sources": [
+          [
+            "UEFA · Nations League quarter-final and play-off ties: Spain vs France, Norway vs England",
+            "https://www.uefa.com/uefanationsleague/news/02ab-221d9e23448d-d862e943f6f2-1000--uefa-nations-league-quarter-final-and-play-off-ties-spain-vs/"
+          ],
+          [
+            "Sky Sports · Nations League quarter-finals: England to face Norway in the last eight",
+            "https://www.skysports.com/football/news/13614281/nations-league-quarter-finals-england-to-face-norway-in-the-last-eight-with-a-potential-semi-final-tie-with-germany-waiting"
+          ],
+          [
+            "AFP (via France 24) · Spain face France, England take on Norway in Nations League quarters",
+            "https://www.france24.com/en/live-news/20261120-spain-face-france-england-take-on-norway-in-nations-league-quarters-1"
+          ],
+          [
+            "Al Jazeera · Nations League quarterfinal draw: Spain face France, England play Norway",
+            "https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "A factory near Toronto that sat idle for two years while it was rebuilt",
+          "It now makes big “Super Duty” pickup trucks",
+          "It reopened even though the US charges tariffs (import taxes) on cars made in Canada"
+        ],
+        "options": [
+          "Tesla opens its first factory in India",
+          "Toyota closes its oldest plant in Japan",
+          "Ford reopens its car plant in Oakville, Canada",
+          "Volkswagen builds a new electric car factory in Mexico"
+        ],
+        "correct": 2,
+        "why": "It was: Ford reopening its car plant in Oakville, Canada. On Friday 20 November the American carmaker officially relaunched the factory in Oakville, Ontario, west of Toronto, after two years of rebuilding, and it now makes F-Series Super Duty pickup trucks. The reopening stood out because the US government has put tariffs, which are taxes on imports, on cars and parts made in Canada, to push carmakers to build in the United States instead.",
+        "sources": [
+          [
+            "AFP (via France 24) · Ford reopens Canada auto plant, defying Trump tariffs",
+            "https://www.france24.com/en/live-news/20261120-ford-reopens-canada-auto-plant-defying-trump-tariffs"
+          ],
+          [
+            "The Canadian Press (via CHCH) · Ford Super Duty pickup trucks begin rolling out after retool at Oakville, Ont., plant",
+            "https://www.chch.com/chch-news/ford-super-duty-pickup-trucks-begin-rolling-out-after-retool-at-oakville-ont-plant/"
+          ],
+          [
+            "CBC (via Yahoo News Canada) · Ford Canada re-opens Oakville plant with investment from feds, province",
+            "https://ca.news.yahoo.com/ford-canada-opens-oakville-plant-214616289.html"
+          ],
+          [
+            "Toronto Sun (via Yahoo News Canada) · Ford’s Oakville plant roars back to life with Super Duty trucks",
+            "https://ca.news.yahoo.com/ford-oakville-plant-roars-back-204207319.html"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "The UK and the European Union: put these steps in order, earliest first.",
+        "items": [
+          "The UK and the EU agree a scheme letting young people live, work or study in each other’s countries for up to three years",
+          "People in the UK vote in a referendum to leave the EU",
+          "The UK officially leaves the EU"
+        ],
+        "correctOrder": [
+          1,
+          2,
+          0
+        ],
+        "why": "The right order is: the referendum (June 2016), then leaving the EU (January 2020), then the youth scheme deal (November 2026). In the 2016 vote, 52% chose to leave the European Union, and the UK formally left on 31 January 2020, a process known as Brexit. On Friday 20 November 2026, at a summit in Brussels, UK and EU leaders agreed deals to rebuild ties, including a “youth experience scheme” for up to 100,000 young people a year from each side.",
+        "sources": [
+          [
+            "AFP (via France 24) · Burnham hails ‘landmark’ EU-UK deal on trade, youth mobility",
+            "https://www.france24.com/en/europe/20261120-eu-and-uk-set-to-sign-deals-on-trade-energy-youth-mobility-at-brussels-summit"
+          ],
+          [
+            "Euronews · Young Europeans win a route back to the UK, but not cheaper university fees yet",
+            "https://www.euronews.com/2026/11/20/young-europeans-win-a-route-back-to-the-uk-but-not-cheaper-university-fees-yet"
+          ],
+          [
+            "UK Government · UK-EU Summit 2026 explainer: Youth Experience Scheme",
+            "https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-explainer-youth-experience-scheme-html"
+          ],
+          [
+            "Euronews · Brexit timeline 2016–2020: key events from referendum to EU exit",
+            "https://www.euronews.com/2020/01/30/brexit-timeline-2016-2020-key-events-in-the-uk-s-path-from-referendum-to-eu-exit"
+          ],
+          [
+            "RTÉ · Brexit timeline",
+            "https://www.rte.ie/news/brexit/2020/0131/1112109-brexit-timeline/"
+          ],
+          [
+            "Reuters (via Gulf News) · Brexit timeline: UK journey in and out of EU",
+            "https://gulfnews.com/world/europe/brexit-timeline-uk-journey-in-and-out-of-eu-1.1580418294868"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "On 19 November a second expert committee of the EU’s chemicals agency backed EU-wide limits on PFAS, known as “forever chemicals”. Where are these chemicals commonly found?",
+        "options": [
+          "In non-stick pans, stain-proof carpets and some food packaging",
+          "In petrol and diesel",
+          "In fresh fruit and vegetables",
+          "In table salt"
+        ],
+        "correct": 0,
+        "why": "They are commonly found in non-stick pans, stain-proof carpets and some food packaging. PFAS are a group of thousands of man-made chemicals; they are called “forever chemicals” because they break down extremely slowly and can build up in water, soil and wildlife, and they have been linked to health problems. On Thursday 19 November the European Chemicals Agency (ECHA) said its socio-economic committee supports a ban with exceptions for certain uses, following an earlier opinion from its risk committee. The European Commission will now propose rules for EU countries to vote on.",
+        "sources": [
+          [
+            "AFP (via France 24) · Key EU committee backs EU-wide restrictions on ‘forever chemicals’",
+            "https://www.france24.com/en/live-news/20261119-key-eu-committee-backs-eu-wide-restrictions-on-forever-chemicals"
+          ],
+          [
+            "European Coatings · ECHA backs EU-wide restrictions on PFAS and chromium VI",
+            "https://www.european-coatings.com/news/legislation/echa-backs-eu-wide-restrictions-on-pfas-and-chromium-vi/"
+          ],
+          [
+            "Health and Environment Alliance (HEAL) · Chemicals agency’s socio-economic committee finalises PFAS assessment",
+            "https://www.env-health.org/chemicals-agencys-socio-economic-committee-finalises-pfas-assessment-now-the-eu-needs-a-robust-pfas-restriction/"
+          ],
+          [
+            "Euronews · EU has failed to curb harmful ‘forever chemicals’, auditors warn",
+            "https://www.euronews.com/2026/11/18/eu-has-failed-to-curb-harmful-forever-chemicals-auditors-warn"
+          ],
+          [
+            "Euronews · ‘Forever chemicals’: What are PFAS and can we solve this persistent pollution problem?",
+            "https://www.euronews.com/2022/08/19/forever-chemicals-what-are-pfas-and-can-we-solve-this-persistent-pollution-problem"
+          ]
+        ]
+      }
+    ]
   }
 ]
