@@ -1,6 +1,158 @@
 {
- "updated": "2026-11-21T14:10:00Z",
+ "updated": "2026-11-22T01:44:00Z",
  "items": [
+  {
+   "section": "world",
+   "lead": true,
+   "serious": true,
+   "developing": true,
+   "published": "2026-11-21T20:30:00Z",
+   "title": "Bahrain says Iranian attack sparks fire; tankers hit in Strait of Hormuz",
+   "why": "Bahrain says it intercepted several Iranian missile and drone attacks late on Saturday, and one hit a civilian industrial site, causing a fire but no injuries. Iran's Revolutionary Guards say they targeted US radars at bases in Bahrain. At least three tankers were also struck in or near the strait.",
+   "matters": "The strait carries a large share of the world's oil, so attacks there affect energy prices everywhere.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade"
+    },
+    {
+     "name": "TRT World (with AFP)",
+     "url": "https://www.trtworld.com/article/1b7ac3dfdb5e"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-21T18:00:00Z",
+   "title": "England beat New Zealand 37-12 for record win over All Blacks",
+   "why": "England scored five tries to beat New Zealand 37-12 at Twickenham in London on Saturday in the Nations Championship. The 25-point margin is England's largest against the All Blacks and New Zealand's heaviest defeat in the northern hemisphere.",
+   "sources": [
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/rugby-union/news/13614346/nations-championship-england-37-12-new-zealand-most-complete-performance-under-steve-borthwick-sees-hosts-stay-in-title-hunt"
+    },
+    {
+     "name": "AP (via ABC News)",
+     "url": "https://abcnews.com/Sports/wireStory/england-rips-apart-new-zealand-37-12-twickenham-138345645"
+    },
+    {
+     "name": "The Rugby Championship (SANZAAR)",
+     "url": "https://super.rugby/therugbychampionship/news/rd6-england-37-new-zealand-12/"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-21T17:00:00Z",
+   "title": "Alcaraz fights back to beat Shelton and reach ATP Finals final",
+   "why": "Spain's Carlos Alcaraz beat Ben Shelton of the US 3-6, 6-3, 7-6 in the first semi-final of the ATP Finals in Turin, Italy, on Saturday. He meets Germany's Alexander Zverev in Sunday's final.",
+   "sources": [
+    {
+     "name": "ATP Tour",
+     "url": "https://www.atptour.com/en/scores/current/nitto-atp-finals/605/results"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-22/alcaraz-digs-deep-to-beat-shelton-and-reach-atp-finals-decider/107413742"
+    },
+    {
+     "name": "Tennis Majors",
+     "url": "https://www.tennismajors.com/atp/nitto-atp-finals-atp/alcaraz-rises-when-it-matters-turns-back-shelton-to-reach-a-second-straight-atp-finals-final-867561.html"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-21T14:00:00Z",
+   "title": "Brazil's former president Bolsonaro in intensive care with bowel blockage",
+   "why": "Jair Bolsonaro, 71, is in intensive care at a hospital in Brazil's capital, Brasília, with an intestinal obstruction, the hospital said on Saturday. It says he is stable and conscious. He is serving a 27-year sentence for a coup plot under house arrest; he denies the charges.",
+   "sources": [
+    {
+     "name": "AFP (via CP24)",
+     "url": "https://www.cp24.com/news/world/2026/11/21/brazil-ex-president-bolsonaro-in-intensive-care-over-intestinal-issue/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/21/jair-bolsonaro-hospitalised-with-abdominal-pain-while-under-house-arrest"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-21T13:00:00Z",
+   "title": "Mexico captures FBI-wanted cartel boss 'El Chapo Isidro' in Sinaloa",
+   "why": "Mexican forces captured Fausto Isidro Meza Flores, an alleged Beltrán Leyva cartel leader on the FBI's ten most wanted list, in Guasave, Sinaloa, on Friday night. Mexico's military says seven gunmen and four soldiers were killed in the firefight. Roadblocks were later set up across the state.",
+   "matters": "He faces charges in Mexico and the US, where a $5m reward had been offered for him.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/americas/20261121-mexico-captures-drug-cartel-boss-el-chapo-isidro-after-deadly-firefight"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/21/mexico-captures-fbis-most-wanted-cartel-boss-el-chapo-isidro-triggering-violence"
+    },
+    {
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/news/world/2026/1121/1600134-mexico-drugs-fbi/"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://abcnews.com/International/mexican-cartel-leader-fbis-10-wanted-fugitive-list/story?id=138346100"
+    }
+   ]
+  },
+  {
+   "section": "curious",
+   "published": "2026-11-21T12:00:00Z",
+   "title": "Swimmer braves Strait of Hormuz to highlight war's harm to wildlife",
+   "why": "British endurance swimmer Lewis Pugh, a UN Patron of the Oceans, swam about 15km in stages over three days from Oman's Musandam Peninsula around the Cape of Hormuz. He says he saw tankers hit nearby. He warns pollution could harm coral reefs, mangroves, turtles and dolphins.",
+   "sources": [
+    {
+     "name": "AP (via CBS News)",
+     "url": "https://www.cbsnews.com/news/athlete-swims-strait-of-hormuz-iran-war-wildlife/"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/video/2026/11/21/strait-of-hormuz-athlete-swims-through-war-zone-to-expose-wars-environmental-toll"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/endurance-athlete-swims-in-hormuz-strait"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-21T11:00:00Z",
+   "title": "EU budget plan proposes a 3% tax on big tech companies",
+   "why": "European Council President António Costa on Saturday proposed a 2028–2034 EU budget €204bn smaller than the Commission's plan. It includes a 3% levy on large firms' EU revenue from online advertising, digital services and user data, plus taxes on e-waste and tobacco. Several governments have criticised it.",
+   "matters": "Tax changes need every EU country to agree, and the levy could anger the US government.",
+   "sources": [
+    {
+     "name": "AFP (via Dawn)",
+     "url": "https://www.dawn.com/news/2046129/eu-proposes-tax-on-big-tech-eur200-bn-cuts-in-new-budget-draft"
+    },
+    {
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/news/europe/2026/1121/1600093-european-union-budget/"
+    },
+    {
+     "name": "TRT World",
+     "url": "https://www.trtworld.com/article/cd49c25622f1"
+    }
+   ]
+  },
   {
    "section": "world",
    "developing": true,
@@ -70,6 +222,27 @@
    ]
   },
   {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-21T05:00:00Z",
+   "title": "Russian missile strike on Zelensky's hometown kills two, wounds 60",
+   "why": "Russian ballistic missiles hit Kryvyi Rih in central Ukraine on Friday night. Local officials say a seven-year-old boy and a 20-year-old woman were killed and 60 people were wounded, including six children. About 25 apartment buildings, a hospital and schools were damaged, the city's head says.",
+   "sources": [
+    {
+     "name": "AP (via ABC News)",
+     "url": "https://abcnews.com/International/wireStory/ballistic-missile-attack-zelenskyys-hometown-central-ukraine-kills-138340723"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261121-russia-attacks-zelensky-s-hometown-ukraine-reaffirms-wish-to-join-nato"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown"
+    }
+   ]
+  },
+  {
    "section": "sport",
    "published": "2026-11-21T04:40:00Z",
    "title": "Cricket Australia gives Pat Cummins unanimous backing as Test captain",
@@ -87,6 +260,27 @@
     {
      "name": "ABC Australia",
      "url": "https://www.abc.net.au/news/2026-11-21/cricket-australia-pat-cummins-captaincy-sandpaper-ball-tampering/107412194"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-11-21T03:45:00Z",
+   "title": "Nations agree to work on rules for AI 'killer robots' by 2028",
+   "why": "At UN-backed talks in Geneva, the 128 states in the Convention on Certain Conventional Weapons agreed early on Saturday to 'elaborate' an instrument on lethal autonomous weapons over two years. Nearly 100 countries wanted binding rules sooner; campaigners say the US and Russia blocked stronger wording.",
+   "matters": "Weapons that choose and attack targets without a human decision are already being developed and tested.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/technology/20261120-countries-open-to-international-pact-on-killer-robots-after-un-talks"
+    },
+    {
+     "name": "AP (via Boston Globe)",
+     "url": "https://www.bostonglobe.com/2026/11/21/world/ai-killer-robots-un-more-talks/"
     }
    ]
   },
@@ -153,6 +347,28 @@
     {
      "name": "AP (via ABC Australia)",
      "url": "https://abc.net.au/news/2026-11-21/man-convicted-of-starting-2025-la-palisades-fire/107412326"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "serious": true,
+   "published": "2026-11-20T22:00:00Z",
+   "title": "Child dies of measles in Virginia, first such death since 1978",
+   "why": "The Virginia Department of Health says a child aged under five who tested positive for measles has died. Officials say it is the state's first measles death since 1978. Virginia has 220 cases this year; US states have reported 12 measles deaths in 2026.",
+   "matters": "Health officials say two doses of the MMR vaccine give about 97% protection.",
+   "sources": [
+    {
+     "name": "Virginia Department of Health",
+     "url": "https://www.vdh.virginia.gov/news/public-relations-contacts/2026-news-releases/vdh-1st-measles-death-2026/"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://abcnews.com/Health/child-measles-dies-virginia-marking-states-1st-measles/story?id=138330916"
+    },
+    {
+     "name": "WJLA",
+     "url": "https://wjla.com/news/local/virginia-first-measles-death-since-1978-child-dies-measle-cases-health-sickness-outbreak-deaths-virginians-fever-rash-symptoms"
     }
    ]
   },
@@ -373,12 +589,11 @@
   },
   {
    "section": "world",
-   "lead": true,
    "developing": true,
    "published": "2026-11-20T10:30:00Z",
    "title": "Poland says Russian missiles crashed on its soil near European drills",
-   "why": "Poland says two Russian missiles and a drone fell on its territory on Friday during an attack on Ukraine; a Kh-101 cruise missile came down near Nowy Lipowiec, about 60km from the Ukrainian border. Nobody was hurt. Prime Minister Donald Tusk called it a likely intentional provocation.",
-   "matters": "The objects fell near drills by European troops preparing a possible Ukraine mission; NATO chief Mark Rutte visits Warsaw on Saturday.",
+   "why": "Poland says two Russian missiles and a drone fell on its territory on Friday during an attack on Ukraine, near Nowy Lipowiec, about 60km from the Ukrainian border. Nobody was hurt. In Warsaw on Saturday, NATO chief Mark Rutte said the alliance 'will defend every inch of Polish territory'.",
+   "matters": "NATO's North Atlantic Council meets on Monday to discuss the incident, which Poland calls a deliberate provocation.",
    "sources": [
     {
      "name": "France 24 (with Reuters, AFP)",
@@ -395,9 +610,13 @@
     {
      "name": "Al Jazeera (with AP, Reuters)",
      "url": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations"
+    },
+    {
+     "name": "Reuters (via Arab News)",
+     "url": "https://www.arabnews.com/world/nato-will-defend-every-inch-of-polish-territory-rutte-says-3013390"
     }
    ],
-   "changed": "Updated: officials say two missiles and a drone fell near European troop drills; NATO's chief visits Warsaw on Saturday"
+   "changed": "Updated: NATO's chief pledged to defend Poland; NATO ambassadors meet in Brussels on Monday"
   },
   {
    "section": "sport",
@@ -563,352 +782,6 @@
    ]
   },
   {
-   "section": "health",
-   "serious": true,
-   "published": "2026-11-20T01:55:00Z",
-   "title": "Guinea declares end of its mpox outbreak after 42 days without cases",
-   "why": "Guinea's health minister, Khaïté Sall, declared the West African country's mpox outbreak over, effective 17 November, after two incubation periods with no new cases. The outbreak began in September 2024 in Macenta, in the south-east; Guinee360 reports 2,395 confirmed cases and six deaths.",
-   "matters": "Guinea vaccinated 17,660 people during the response, which was supported by WHO and UNICEF.",
-   "sources": [
-    {
-     "name": "Xinhua",
-     "url": "https://english.news.cn/20261120/313bcd299ebb44658c8e24dc09c8748d/c.html"
-    },
-    {
-     "name": "Guinee360",
-     "url": "https://www.guinee360.com/20/11/2026/mpox-la-guinee-declare-officiellement-la-fin-de-lepidemie/"
-    },
-    {
-     "name": "Afrique7",
-     "url": "https://www.afrique7.com/accueil/30358-la-guinee-annonce-officiellement-la-fin-de-lepidemie-de-mpox-sur-son-territoire-national.html"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-11-20T01:30:00Z",
-   "title": "Anthropic shares slide on second day as AI sell-off spreads",
-   "why": "Anthropic's shares closed 8.5% lower at $88.91 in New York on Friday, their second day of trading, still above their $83 listing price, CNBC and CNN report. US tech stocks fell again. Earlier, Japan's Nikkei and South Korea's Kospi each closed more than 5% lower.",
-   "matters": "The S&P 500 is more than 10% below its October record, a fall markets call a correction, ABC reports.",
-   "sources": [
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-21/anthropic-ipo-fails-to-calm-ai-jitters-stock-market-debut/107412118"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo"
-    },
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/business/20261120-anthropic-shares-slide-on-second-day-of-trading-as-ai-jitters-fuel-tech-sell-off"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html"
-    },
-    {
-     "name": "Al Jazeera (Asia markets)",
-     "url": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears"
-    },
-    {
-     "name": "CNN (via Yahoo Finance)",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-wipes-gains-anthropic-ipo-173252248.html"
-    }
-   ],
-   "changed": "Updated: Friday closing price added; Anthropic's shares ended the day down 8.5%"
-  },
-  {
-   "section": "climate",
-   "serious": true,
-   "changed": "Updated: officials say no deaths or major damage were reported",
-   "published": "2026-11-20T00:30:00Z",
-   "title": "Cyclone Akvan hits Odisha coast; officials report no deaths so far",
-   "why": "Akvan crossed the coast near Gopalpur in India's Odisha state on Friday morning with winds of 70 to 90 km/h, India's weather department says. Odisha officials say about 370,000 people were evacuated and no deaths or major damage have been reported so far.",
-   "matters": "Heavy rain continues in south Odisha and north Andhra Pradesh; more than 65 trains were cancelled.",
-   "sources": [
-    {
-     "name": "DD News",
-     "url": "https://ddnews.gov.in/en/cyclone-akvan-makes-landfall-along-odisha-coast-brings-in-heavy-rain/"
-    },
-    {
-     "name": "The Tribune (PTI)",
-     "url": "https://www.tribuneindia.com/news/india/landfall-process-of-cyclone-akvan-commences-near-gopalpur-in-odisha/"
-    },
-    {
-     "name": "The Week",
-     "url": "https://www.theweek.in/news/india/2026/11/20/cyclone-akvan-landfall-begins-along-andhra-odisha-coast-imd-issues-red-alert.html"
-    },
-    {
-     "name": "Asianet Newsable",
-     "url": "https://newsable.asianetnews.com/gallery/india/cyclone-akvan-landfall-updates-gopalpur-andhra-pradesh-odisha-weather-forecast-and-heavy-rain-alert-8201qpz"
-    },
-    {
-     "name": "ETV Bharat",
-     "url": "https://www.etvbharat.com/en/bharat/live-blog--cyclone-akvan-live-updates-november-20-landfall-odisha-andhra-pradesh-wind-speed-rainfall-ndrf-evacuation-rescue-enn26112000397"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-11-19T23:30:00Z",
-   "title": "Japan's core inflation rises to 2.2% in October, above central bank target",
-   "why": "Consumer prices in Japan excluding fresh food rose 2.2% in the year to October, up from 2.1% in September but just below the 2.3% economists expected, government data showed on Friday. Headline inflation rose to 2.3% after household energy subsidies ended in September.",
-   "matters": "Many investors expect the Bank of Japan to raise its 1.25% interest rate in December, making borrowing dearer.",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html"
-    },
-    {
-     "name": "Reuters (via Investing.com)",
-     "url": "https://www.investing.com/news/economy-news/japans-core-inflation-accelerates-in-october-cementing-rate-hike-expectations-5040357"
-    },
-    {
-     "name": "investingLive",
-     "url": "https://investinglive.com/central-banks/japan-cpi-misses-on-all-three-measures-but-core-stays-above-2-ahead-of-a-boj-hike-call/"
-    }
-   ]
-  },
-  {
-   "section": "curious",
-   "serious": true,
-   "published": "2026-11-19T21:15:00Z",
-   "title": "Fiona, Cincinnati Zoo's famous hippo, dies after swallowing a visitor's hat",
-   "why": "Cincinnati Zoo, in the US state of Ohio, said on Thursday that Fiona, its nine-year-old Nile hippo, had died. A knitted hat thrown by a visitor was blown into her enclosure by a ceiling fan; vets spent about 11 days trying to help her pass it.",
-   "matters": "Born six weeks early in 2017, she became an internet sensation as people around the world followed her fight to survive.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261119-fiona-the-hippo-dies-after-failed-effort-to-remove-swallowed-hat"
-    },
-    {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/fiona-hippo-dies-cincinnati-zoo-rcna610297"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-20/fiona-the-hippo-dies-at-cincinnati-zoo-after-eating-hat/107407952"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-19T20:46:00Z",
-   "title": "Ben Shelton reaches ATP Finals semi-finals for the first time",
-   "why": "American Ben Shelton reached his first ATP Finals semi-final in Turin, Italy. On Saturday he plays Carlos Alcaraz, who won all three group matches without dropping a set; top seed Alexander Zverev meets Daniil Medvedev, who beat Frances Tiafoe 6-3, 6-4 on Friday.",
-   "matters": "He is the youngest American to reach the last four since Andy Roddick in 2004, the ATP says.",
-   "sources": [
-    {
-     "name": "Tennis Majors",
-     "url": "https://www.tennismajors.com/atp/nitto-atp-finals-atp/semis-alcaraz-shrugs-off-hamstring-scare-beats-cobolli-to-finish-his-turin-group-unbeaten-867442.html"
-    },
-    {
-     "name": "IANS",
-     "url": "https://ianslive.in/medvedev-sets-up-zverev-alcaraz-fights-shelton-in-semifinals-at-atp-finals--20261121094311"
-    },
-    {
-     "name": "ATP Tour",
-     "url": "https://www.atptour.com/en/news/shelton-jodar-nitto-atp-finals-2026-thursday"
-    },
-    {
-     "name": "ESPN",
-     "url": "https://www.espn.com/tennis/story/_/id/50544020/daniil-medvedev-defeats-frances-tiafoe-faces-alexander-zverev-atp-finals-semis"
-    }
-   ],
-   "changed": "Updated: Shelton will face Carlos Alcaraz in Saturday's first semi-final; Zverev plays Medvedev in the evening."
-  },
-  {
-   "section": "tech",
-   "published": "2026-11-19T19:55:00Z",
-   "title": "House panel says US approved over 879,000 AI chips for China",
-   "why": "The US House Foreign Affairs Committee released licence records on Thursday showing the Commerce Department approved more than 879,000 of 3.4 million requested Nvidia H200 and AMD chips for Chinese firms between December 2025 and May 2026. Buyers included Tencent and Alibaba.",
-   "matters": "It is unclear how many licences led to shipments; Nvidia says it has since stopped sending H200 chips to China.",
-   "sources": [
-    {
-     "name": "Reuters (via Al Jazeera)",
-     "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html"
-    },
-    {
-     "name": "House Foreign Affairs Committee",
-     "url": "https://foreignaffairs.house.gov/news/press-releases/chairman-brian-mast-exercises-legislative-authority-to-publicly-release-ai-chip-license-information-for-china"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-19T19:40:00Z",
-   "title": "Somalia expels UAE ambassador, accusing Abu Dhabi of interference",
-   "why": "Somalia's government gave the United Arab Emirates' ambassador 72 hours to leave on Thursday and recalled its own envoy, accusing the UAE of \"blatant aggression\" and of backing regional states that oppose the federal government. The UAE called the move escalatory and hostile.",
-   "matters": "The UAE runs ports at Berbera, Bosaso and Kismayo, in regions where Somalia's federal government has little control.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261119-somalia-expels-uae-ambassador-alleging-interference-1"
-    },
-    {
-     "name": "The New Arab",
-     "url": "https://www.newarab.com/news/somalia-expels-uae-ambassador-deepening-diplomatic-crisis"
-    },
-    {
-     "name": "Middle East Eye",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/somalia-expels-emirati-envoy-recalls-own-ambassador-over-open-invasion"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-19T19:28:00Z",
-   "title": "Haiti police say raid killed at least 34 suspected gang members",
-   "why": "Haiti's national police say an operation on Thursday in Martissant, a gang-held district of the capital, Port-au-Prince, killed at least 34 suspected gang members, with no officers or civilians hurt. It involved a government task force supported by a private firm founded by Erik Prince.",
-   "matters": "The UN says more than 2,250 people were killed in security operations in Haiti in the first nine months of 2026.",
-   "sources": [
-    {
-     "name": "Reuters (via ThePrint)",
-     "url": "https://theprint.in/world/haiti-police-operation-kills-34-suspected-gang-members-in-capital/3103758/"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261119-major-anti-gang-offensive-in-haiti-kills-34-suspected-gang-members"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-19T19:00:00Z",
-   "title": "Kushner says Russia 'comfortable' with NATO-style guarantees for Ukraine",
-   "why": "US envoy Jared Kushner said during a \"Coalition of the Willing\" meeting of more than 25 leaders in the German capital, Berlin, on Thursday that Russia is comfortable with post-war guarantees for Ukraine based on NATO's Article 5. Russia has not commented. Trump joined by phone after meeting Putin.",
-   "matters": "Zelensky wants Europe in US-led talks with Russia; France's Macron urged allies to \"reopen the question\" of Ukraine joining NATO.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine"
-    },
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/europe/20261119-macron-urges-ukraine-allies-reopen-question-nato-membership"
-    },
-    {
-     "name": "DPA (via Yahoo)",
-     "url": "https://www.yahoo.com/news/politics/articles/diplomacy-only-way-forward-merz-213339088.html"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "published": "2026-11-19T19:00:00Z",
-   "title": "Brazil recognises Indigenous land of Amazon chief Raoni",
-   "why": "President Luiz Inácio Lula da Silva visited 94-year-old Kayapó leader Raoni Metuktire in Mato Grosso state on Thursday as Brazil declared the 362,000-hectare Kapôt Nhinore territory the permanent possession of the Mẽbêngôkre and Yudjá peoples. The Indigenous peoples minister says about 84% of it is forest.",
-   "matters": "It is a step towards full legal protection; more than 200 farms overlap the land, and rural producers oppose it.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261119-lula-visits-ailing-amazon-defender-raoni-as-brazil-recognizes-territory-1"
-    },
-    {
-     "name": "CNN Brasil",
-     "url": "https://www.cnnbrasil.com.br/politica/lula-assina-portaria-para-demarcacao-de-terra-indigena-de-cacique-raoni/"
-    },
-    {
-     "name": "((o))eco",
-     "url": "https://oeco.org.br/noticias/nos-estamos-legalizando-a-sua-terra-diz-lula-ao-assinar-demarcacao-da-terra-de-raoni/"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "published": "2026-11-19T18:56:00Z",
-   "title": "US sells first deep-sea mining leases off American Samoa despite court ruling",
-   "why": "The US Interior Department auctioned two areas covering about 31 million acres (12.5 million hectares) of Pacific seabed off American Samoa on Thursday, for $6m in total. A federal judge ruled on Monday that a US fisheries agency broke endangered species law in approving the sale.",
-   "matters": "Miners want nodules rich in nickel and cobalt for batteries; conservation groups say mining could harm whales, turtles and corals.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261119-us-auctions-first-ever-deep-sea-mining-leases-despite-court-ruling"
-    },
-    {
-     "name": "Washington Post (via Yahoo)",
-     "url": "https://www.yahoo.com/news/us/articles/u-sells-first-ever-leases-221137454.html"
-    },
-    {
-     "name": "US Bureau of Ocean Energy Management",
-     "url": "https://www.boem.gov/newsroom/press-releases/department-interior-completes-first-ever-offshore-critical-minerals-lease"
-    }
-   ]
-  },
-  {
-   "section": "curious",
-   "published": "2026-11-19T16:00:00Z",
-   "title": "Blackpool sack head coach hours after wishing him happy birthday",
-   "why": "English third-tier club Blackpool wished head coach Ian Evatt a happy 45th birthday on social media at 9:08am on Thursday, then announced his departure at 4pm. The team is 20th of 24 in League One after one win in its last 10 league games.",
-   "sources": [
-    {
-     "name": "BBC (via Yahoo)",
-     "url": "https://sports.yahoo.com/articles/struggling-blackpool-sack-head-coach-161854662.html"
-    },
-    {
-     "name": "The Independent (via AOL)",
-     "url": "https://www.aol.co.uk/articles/blackpool-boss-ian-evatt-sacked-211519000.html"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-20/blackpool-fc-sack-manager-on-his-45th-birthday/107407378"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-11-19T15:32:00Z",
-   "title": "UK tribunal rules government must confirm secret encryption order to Apple",
-   "why": "Britain's Investigatory Powers Tribunal ruled on Thursday that the Home Office must confirm it issued Apple a secret notice seeking access to encrypted user data. It rejected the government's claim that confirming this would harm national security, calling that \"fanciful\".",
-   "matters": "Apple withdrew its strongest iCloud encryption option for UK users in 2025 over the dispute; a fuller hearing is due in 2027.",
-   "sources": [
-    {
-     "name": "TechCrunch",
-     "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/"
-    },
-    {
-     "name": "City AM",
-     "url": "https://www.cityam.com/uk-government-loses-bid-to-keep-apple-surveillance-order-secret/"
-    },
-    {
-     "name": "The Telegraph (via Yahoo)",
-     "url": "https://www.yahoo.com/news/world/articles/britain-forced-admit-secret-apple-163037190.html"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-19T14:30:00Z",
-   "title": "Russian drone attack on Kyiv kills one and damages two embassies",
-   "why": "Russian drones struck Ukraine's capital, Kyiv, on Thursday, killing a 26-year-old man and injuring at least four people, Ukrainian officials say. The Dutch and Austrian embassies were damaged and windows broke at St Volodymyr's Cathedral; embassy staff were unhurt.",
-   "matters": "Russia's embassy in the Netherlands says it was \"not a targeted attack\".",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261119-russian-strikes-on-kyiv-kill-one-damage-dutch-and-austrian-embassies"
-    },
-    {
-     "name": "The Kyiv Independent",
-     "url": "https://kyivindependent.com/breaking-dutch-embassy-damaged-in-russian-drone-strike-on-kyiv/"
-    },
-    {
-     "name": "NL Times (ANP)",
-     "url": "https://nltimes.nl/2026/11/19/russian-drone-crashes-behind-dutch-embassy-kyiv-causing-damage"
-    }
-   ]
-  },
-  {
    "section": "world",
    "serious": true,
    "developing": true,
@@ -947,12 +820,20 @@
   {
    "section": "climate",
    "developing": true,
-   "changed": "Updated: talks continued into Saturday; the presidency says a deal is close but not yet agreed",
+   "changed": "Updated: the presidency put forward a revised deal text early on Sunday",
    "published": "2026-11-19T12:00:00Z",
-   "title": "COP31 climate talks run into overtime amid row over fossil fuels",
-   "why": "The UN climate summit in Antalya, Türkiye, ran past Friday's deadline. Negotiators worked overnight on a new draft that drops all mention of fossil fuels and a $120bn adaptation goal. The EU, Panama, Ghana and others want a clear move away from fossil fuels; Saudi Arabia and other producers object.",
-   "matters": "COP31 president Murat Kurum said on Saturday: \"We are close to the finish line, but we are not there yet.\"",
+   "title": "COP31 climate talks near deal after overnight bargaining in Antalya",
+   "why": "The UN climate summit in Antalya, Türkiye, ran a day and a half past its deadline. COP31 President Murat Kurum presented a new compromise text early on Sunday, saying he believed all countries could agree to it. A session to approve it was due on Sunday morning.",
+   "matters": "The talks decide how fast countries move away from fossil fuels and how much help poorer nations get to adapt.",
    "sources": [
+    {
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/news/world/2026/1122/1600166-cop31-turkey/"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/21/fossil-fuel-row-sees-cop31-talks-spill-into-overtime"
+    },
     {
      "name": "AFP (via France 24)",
      "url": "https://www.france24.com/en/live-news/20261121-countries-race-to-secure-cop31-deal-after-fossil-fuel-row"
