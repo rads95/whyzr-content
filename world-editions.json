@@ -6892,5 +6892,181 @@
         ]
       }
     ]
+  },
+  {
+    "id": "063",
+    "published": "2026-11-24",
+    "title": "A supermoon tonight, tunnels under Hagia Sophia and Verstappen’s Vegas win",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Is this true?",
+        "claim": "On Guinness World Records Day, Thursday 19 November, an artist in New York set a world record by painting a picture of the Statue of Liberty in less than a minute.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this is true. US performance painter David Garibaldi painted the Statue of Liberty in 43.5 seconds, a new Guinness record for the fastest time to paint a landmark statue, working on the Brooklyn waterfront with the real statue in view. It was one of many records set around the world on Guinness World Records Day, held every year since 2004. Others included a London stunt driver parallel parking a car balanced on two wheels and a Chinese BMX rider doing a bicycle backflip more than 3 metres high.",
+        "sources": [
+          [
+            "Guinness World Records · All the action from GWR Day 2026: epic car stunts, bicycle backflips and more",
+            "https://www.guinnessworldrecords.com/news/2026/11/all-the-action-from-gwr-day-2026-epic-car-stunts-bicycle-backflips-and-more"
+          ],
+          [
+            "Euronews · New Guinness World Records for two-wheel parking, speed painting and rope skipping",
+            "https://www.euronews.com/video/2026/11/20/new-guinness-world-records-for-two-wheel-parking-speed-painting-and-rope-skipping"
+          ],
+          [
+            "New York Post (via Yahoo) · Artist paints picture of Statue of Liberty in 43.5 seconds",
+            "https://www.yahoo.com/entertainment/celebrity/interviews/articles/artist-paints-picture-statue-liberty-143947030.html"
+          ],
+          [
+            "Guinness World Records · GWR Day",
+            "https://www.guinnessworldrecords.com/gwrday/"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three drivers from Formula 1’s Las Vegas Grand Prix. Find their partners.",
+        "pairs": [
+          [
+            "Max Verstappen",
+            "Won the race after starting first, from pole position"
+          ],
+          [
+            "Lando Norris",
+            "Finished second, just behind the winner"
+          ],
+          [
+            "Charles Leclerc",
+            "Given a 10-second penalty for crashing into his own team-mate, Lewis Hamilton"
+          ]
+        ],
+        "why": "The pairs are: Max Verstappen – won from pole position; Lando Norris – finished second; Charles Leclerc – penalised for hitting his team-mate. The race was held at night on Saturday 21 November on a street circuit along the famous Las Vegas Strip, and Verstappen of Red Bull started from pole and held off his rivals to win by less than a second, his third win in Las Vegas. McLaren’s Norris and Oscar Piastri took second and third. Late in the race the two Ferrari drivers, Leclerc and Hamilton, collided while fighting for position, and race officials (the stewards) added 10 seconds to Leclerc’s time as a punishment.",
+        "sources": [
+          [
+            "Formula 1 · Verstappen wins exhilarating Las Vegas Grand Prix from Norris and Piastri",
+            "https://www.formula1.com/en/latest/article/verstappen-wins-exhilarating-las-vegas-grand-prix-from-norris-and-piastri.2eeBWqekZdir9mdDVK9YVX"
+          ],
+          [
+            "Sky Sports · Las Vegas GP: Max Verstappen wins wild race as Ferrari’s Lewis Hamilton and Charles Leclerc collide again",
+            "https://www.skysports.com/f1/news/13615083/las-vegas-gp-max-verstappen-wins-wild-race-as-ferraris-lewis-hamilton-and-charles-leclerc-collide-again"
+          ],
+          [
+            "GPblog · F1 full results: Verstappen fends off the competition to win the Las Vegas GP",
+            "https://www.gpblog.com/en/news/f1-full-results-verstappen-fends-off-the-competition-to-win-the-las-vegas-gp"
+          ],
+          [
+            "Crash.net · F1 Las Vegas Grand Prix live: reaction as Max Verstappen wins",
+            "https://www.crash.net/f1/live/1044271/f1-las-vegas-grand-prix-live-race-updates-max-verstappen-pole"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "A 3% charge on what big companies earn from online adverts and from using people’s data in Europe",
+          "Only firms with more than €750 million in sales worldwide would have to pay it",
+          "It was proposed on 21 November to help pay for the European Union’s budget for 2028 to 2034"
+        ],
+        "options": [
+          "The EU bans social media for children under 16",
+          "The EU proposes a tax on big digital companies",
+          "The EU starts charging tourists to enter Europe",
+          "The EU scraps phone roaming charges worldwide"
+        ],
+        "correct": 1,
+        "why": "It was: the EU proposing a tax on big digital companies. On Saturday 21 November António Costa, who chairs meetings of the EU’s national leaders, put forward a new plan for the EU’s seven-year budget that trims spending and adds a 3% levy (a kind of tax) on income from online advertising, online marketplaces and user data. It would apply only to large firms, such as the big US tech companies, and is expected to raise about €5 billion a year. EU leaders will discuss the plan at a special summit in Brussels this week, and all 27 countries must agree before it can happen.",
+        "sources": [
+          [
+            "Euronews · EU budget: Costa pitches more cuts, Big Tech tax to break deadlock",
+            "https://www.euronews.com/2026/11/21/eu-budget-costa-pitches-more-cuts-big-tech-tax-to-break-deadlock"
+          ],
+          [
+            "Geo News · EU proposes 3% digital tax on big tech to fund scaled-back budget",
+            "https://www.geo.tv/latest/692129-eu-proposes-3-digital-tax-on-big-tech-to-fund-scaled-back-budget"
+          ],
+          [
+            "Investing.com (via Yahoo News) · EU proposes digital tax to fund budget amid member state divisions",
+            "https://www.yahoo.com/news/politics/articles/eu-proposes-digital-tax-fund-115934569.html"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "Hagia Sophia, Istanbul’s great domed building: put these in order, earliest first.",
+        "items": [
+          "Restoration teams clear about 420 metres of old tunnels hidden beneath it",
+          "It is completed as a great church under the Byzantine emperor Justinian",
+          "It becomes a mosque after the Ottomans capture the city, then called Constantinople"
+        ],
+        "correctOrder": [
+          1,
+          2,
+          0
+        ],
+        "why": "The right order is: completed as a church (537), then turned into a mosque (after 1453), then the tunnels cleared (November 2026). Hagia Sophia was finished in 537 as the main church of the Byzantine Empire, and became a mosque after the Ottoman conquest of the city in 1453; it was later a museum from the 1930s until 2020, when it became a mosque again. On 20 November Türkiye’s culture minister and scientists showed off about 420 metres of tunnels and six underground rooms cleared of nearly 3,000 tonnes of soil. Experts think some tunnels carried water and drained rain away for the old city.",
+        "sources": [
+          [
+            "Euronews · Hagia Sophia’s hidden tunnels uncovered as 420 metres of underground network cleaned",
+            "https://www.euronews.com/2026/11/21/hagia-sophias-hidden-tunnels-uncovered-as-420-metres-of-underground-network-cleaned"
+          ],
+          [
+            "Anadolu Agency · Beneath Hagia Sophia Grand Mosque, centuries-old tunnels begin to reveal Istanbul’s hidden water network",
+            "https://www.aa.com.tr/en/culture/beneath-hagia-sophia-grand-mosque-centuries-old-tunnels-begin-to-reveal-istanbul-s-hidden-water-network/4133181"
+          ],
+          [
+            "To Vima · Hagia Sophia’s underground tunnels reveal hidden history",
+            "https://www.tovima.com/world/hagia-sophias-underground-tunnels-reveal-hidden-history"
+          ],
+          [
+            "Reuters (via Yahoo News) · Factbox: Hagia Sophia’s changing status over centuries of history",
+            "https://sg.news.yahoo.com/factbox-hagia-sophias-changing-status-112340245.html"
+          ],
+          [
+            "HISTORY.com · Hagia Sophia",
+            "https://www.history.com/articles/hagia-sophia"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "Today’s full moon, Tuesday 24 November, is a “supermoon”. What makes a full moon a supermoon?",
+        "options": [
+          "It happens during an eclipse of the Sun",
+          "It comes when the Moon is near its closest point to Earth",
+          "It is the second full moon in the same month",
+          "It looks blue because of dust in the air"
+        ],
+        "correct": 1,
+        "why": "It comes when the Moon is near its closest point to Earth. The Moon’s path around Earth is slightly oval, so its distance changes, and a full moon that happens near the closest point (called perigee) is popularly known as a supermoon. It can look up to about 14% bigger and 30% brighter than the smallest full moon of the year, although the difference is hard to notice with the naked eye. November’s full moon, often called the Beaver Moon, is the first of several supermoons in a row, and it will look full on the nights of 23 to 25 November.",
+        "sources": [
+          [
+            "National Geographic · A rare streak of supermoons is about to begin",
+            "https://www.nationalgeographic.com/science/article/november-2026-supermoon"
+          ],
+          [
+            "Space.com · November full moon 2026: when, where and how to see the Beaver Moon",
+            "https://www.space.com/stargazing/november-full-moon-2026-when-where-and-how-to-see-the-beaver-moon"
+          ],
+          [
+            "BBC Sky at Night Magazine · The Super Beaver Moon is coming in November",
+            "https://skyatnightmagazine.com/news/beaver-moon"
+          ],
+          [
+            "Farmers’ Almanac · The Beaver Moon is a supermoon on November 24",
+            "https://www.farmersalmanac.com/?p=444668"
+          ]
+        ]
+      }
+    ]
   }
 ]
