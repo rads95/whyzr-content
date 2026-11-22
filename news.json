@@ -1,6 +1,91 @@
 {
- "updated": "2026-11-22T01:44:00Z",
+ "updated": "2026-11-22T07:42:00Z",
  "items": [
+  {
+   "section": "sport",
+   "published": "2026-11-22T05:40:00Z",
+   "title": "Verstappen wins chaotic Las Vegas Grand Prix from pole",
+   "why": "Red Bull's Max Verstappen won the Las Vegas Grand Prix by 0.639 seconds from McLaren's Lando Norris, with Oscar Piastri third. New champion Kimi Antonelli lost two places on the final lap to finish fourth. Ferrari team-mates Lewis Hamilton and Charles Leclerc collided again.",
+   "matters": "It was Verstappen's 75th career win and lifts him to second in the drivers' standings.",
+   "sources": [
+    {
+     "name": "Formula 1",
+     "url": "https://www.formula1.com/en/latest/article/verstappen-wins-exhilarating-las-vegas-grand-prix-from-norris-and-piastri.2eeBWqekZdir9mdDVK9YVX"
+    },
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/f1/news/13615083/las-vegas-gp-max-verstappen-wins-wild-race-as-ferraris-lewis-hamilton-and-charles-leclerc-collide-again"
+    },
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261122-brilliant-verstappen-wins-las-vegas-grand-prix"
+    }
+   ],
+   "changed": "Updated: the race has been run and Verstappen won"
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "published": "2026-11-22T05:00:00Z",
+   "title": "Indonesia factory fire kills three; 36 workers missing",
+   "why": "A fire at a sweets factory in Serang, in Indonesia's Banten province west of Jakarta, killed at least three people on Saturday, officials say. Rescuers are searching for 36 missing workers; 15 people were rescued alive. Survivors say it started at a cooling unit; the cause is under investigation.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261122-three-dead-36-missing-after-indonesia-factory-fire"
+    },
+    {
+     "name": "AP (via WRAL)",
+     "url": "https://www.wral.com/news/ap/fb73e-fire-at-indonesian-candy-factory-leaves-3-dead-and-dozens-of-workers-unaccounted-for/"
+    },
+    {
+     "name": "Antara",
+     "url": "https://en.antaranews.com/news/444419/rescuers-deploy-as-fire-hits-indonesian-factory"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-11-22T04:00:00Z",
+   "title": "South Korea's education minister resigns over AI exam cheating fears",
+   "why": "Education Minister Choi Kyo-jin resigned on Sunday, and President Lee Jae Myung accepted. He took responsibility for last-minute rules to stop AI-assisted cheating in Thursday's Suneung university entrance exam. Officials say 111 test-takers were caught with smart devices.",
+   "matters": "It began when a top scorer in a national accountancy exam admitted using a hidden camera and phone.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261122-south-korea-education-chief-resigns-amid-ai-cheating-scandal"
+    },
+    {
+     "name": "Korea Herald",
+     "url": "https://www.koreaherald.com/article/10945089"
+    },
+    {
+     "name": "Anadolu (via A News)",
+     "url": "https://www.anews.com.tr/life/2026/11/22/south-korean-education-minister-offers-to-resign-amid-ai-assisted-cheating-controversy"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-22T03:00:00Z",
+   "title": "India post record 720-9 in first Test against New Zealand",
+   "why": "India declared on 720 for nine at the Basin Reserve in Wellington, New Zealand, the highest Test total ever made in the country. KL Rahul scored 136 and Rishabh Pant 128. New Zealand closed day four on 119 for two, 233 runs behind.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261122-new-zealand-reach-119-2-to-trail-by-233-after-india-s-record-720-9"
+    },
+    {
+     "name": "RNZ",
+     "url": "https://www.rnz.co.nz/news/sport/2727693/cricket-nz-cling-on-in-wellington-after-india-build-mammoth-lead"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-22/cricket-india-highest-test-score-against-new-zealand/107414256"
+    }
+   ]
+  },
   {
    "section": "world",
    "lead": true,
@@ -62,6 +147,27 @@
     {
      "name": "Tennis Majors",
      "url": "https://www.tennismajors.com/atp/nitto-atp-finals-atp/alcaraz-rises-when-it-matters-turns-back-shelton-to-reach-a-second-straight-atp-finals-final-867561.html"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-21T15:00:00Z",
+   "title": "EU and Indonesia sign trade deal after ten years of talks",
+   "why": "The European Union and Indonesia signed a trade agreement and an investment protection deal in Brussels on Saturday. Indonesia says 90.4% of its goods will enter the EU duty-free. The EU gains easier access to a market of 280 million people and to nickel for batteries.",
+   "matters": "Both sides still need to ratify it; Indonesia expects it to take effect in 2027.",
+   "sources": [
+    {
+     "name": "Antara",
+     "url": "https://en.antaranews.com/news/444407/indonesia-eu-seal-ieu-cepa-to-boost-trade-cooperation"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/video/20261121-eu-indonesia-agreement-sees-the-light-after-ten-years-of-negotiations"
+    },
+    {
+     "name": "European Commission",
+     "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/indonesia_en"
     }
    ]
   },
@@ -158,8 +264,8 @@
    "developing": true,
    "published": "2026-11-21T09:35:00Z",
    "title": "Drones set Russian cargo ship on fire in Gulf of Finland",
-   "why": "Russian officials say two drones hit the Kaliningrad-bound cargo ship Sparta II in international waters on Saturday morning. The burning ship drifted into Finnish waters; Finland says other shipping is not at risk. No one has claimed the attack, and no injuries were reported.",
-   "matters": "Finland told its NATO allies and briefly restricted air and sea traffic in the eastern gulf.",
+   "why": "Russian officials say two drones hit the Kaliningrad-bound cargo ship Sparta II on Saturday; it caught fire in Finnish waters. The crew was evacuated to another ship. Finland's armed forces say Ukraine was likely behind it; Ukraine has not commented. Finland also says a Russian helicopter briefly entered its airspace.",
+   "matters": "Finland's prime minister, Petteri Orpo, said 'war is spilling over into our immediate vicinity'.",
    "sources": [
     {
      "name": "Reuters (via ThePrint)",
@@ -170,6 +276,10 @@
      "url": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland"
     },
     {
+     "name": "AFP (via France 24, live)",
+     "url": "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship"
+    },
+    {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland"
     },
@@ -177,7 +287,8 @@
      "name": "ERR News",
      "url": "https://news.err.ee/1610202715/russian-cargo-ship-on-fire-in-gulf-of-finland-after-reported-drone-strike"
     }
-   ]
+   ],
+   "changed": "Updated: crew evacuated; Finland says Ukraine likely behind it and reports a Russian airspace breach"
   },
   {
    "section": "world",
@@ -197,27 +308,6 @@
     {
      "name": "Mail & Guardian",
      "url": "https://mg.co.za/news/south-africa/2026-11-21-tributes-pour-in-for-mlambo-ngcuka/"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-21T05:20:00Z",
-   "title": "Verstappen inherits Las Vegas pole after Antonelli engine penalty",
-   "why": "Mercedes driver Kimi Antonelli, the new world champion, set the fastest time in Las Vegas Grand Prix qualifying, 0.258 seconds ahead of Max Verstappen. A five-place grid penalty for an extra engine part drops Antonelli to sixth, so Verstappen starts on pole beside George Russell.",
-   "matters": "The race starts on Saturday at 20:00 local time in Las Vegas, early Sunday in Europe.",
-   "sources": [
-    {
-     "name": "Formula 1",
-     "url": "https://www.formula1.com/en/latest/article/antonelli-quickest-in-las-vegas-gp-qualifying-as-verstappen-inherits-pole-position.6R7udh8iYMHunSOGI6zStK"
-    },
-    {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/f1/news/13614575/las-vegas-gp-kimi-antonelli-fastest-but-max-verstappen-on-pole-from-george-russell-after-dramatic-qualifying"
-    },
-    {
-     "name": "BBC Sport (via Yahoo Sports)",
-     "url": "https://sports.yahoo.com/articles/antonelli-fastest-penalty-leaves-verstappen-052654936.html"
     }
    ]
   },
@@ -703,28 +793,6 @@
    ]
   },
   {
-   "section": "climate",
-   "serious": true,
-   "published": "2026-11-20T06:19:00Z",
-   "title": "Storm kills at least three, damages thousands of homes in southern Brazil",
-   "why": "A storm with gusts of up to 114 km/h hit the town of Tupanciretã, in Rio Grande do Sul state, early on Friday. City officials say three people died. Officials estimate that most of the town's roughly 8,600 homes were damaged, thousands of them losing their roofs.",
-   "matters": "The state released 2 million reais in emergency funds and President Lula sent federal emergency teams.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261120-severe-storm-destroys-thousands-of-homes-in-brazil"
-    },
-    {
-     "name": "Agência Brasil",
-     "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/tempestade-deixa-um-morto-em-tupancireta-no-rio-grande-do-sul"
-    },
-    {
-     "name": "Rio Grande do Sul state government",
-     "url": "https://www.estado.rs.gov.br/vice-governador-acompanha-acoes-emergenciais-apos-temporal-em-tupancireta"
-    }
-   ]
-  },
-  {
    "section": "world",
    "serious": true,
    "developing": true,
@@ -759,27 +827,6 @@
     }
    ],
    "changed": "Updated: officials say at least nine were killed, seven in Kyiv; no date yet for a UN Security Council meeting"
-  },
-  {
-   "section": "world",
-   "published": "2026-11-20T04:00:00Z",
-   "title": "El Salvador's Bukele registers to run for a third term",
-   "why": "President Nayib Bukele registered with El Salvador's electoral tribunal on Thursday night to seek a third consecutive term in the election on 28 February 2027. A 2025 constitutional change by his party scrapped term limits and run-off votes and lengthened terms to six years.",
-   "matters": "Polls suggest he will win; critics say he has built a de facto one-party state, which he denies.",
-   "sources": [
-    {
-     "name": "Reuters (via ThePrint)",
-     "url": "https://theprint.in/world/el-salvadors-bukele-seeks-unprecedented-third-term-as-leader/3103793/"
-    },
-    {
-     "name": "UPI",
-     "url": "https://www.upi.com/Top_News/World-News/2026/11/20/latam-elsalvador-bukele-third-term/7621795196436/"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change"
-    }
-   ]
   },
   {
    "section": "world",
@@ -820,12 +867,24 @@
   {
    "section": "climate",
    "developing": true,
-   "changed": "Updated: the presidency put forward a revised deal text early on Sunday",
+   "changed": "Updated: the final text drops named fossil fuel language; approval session under way on Sunday",
    "published": "2026-11-19T12:00:00Z",
-   "title": "COP31 climate talks near deal after overnight bargaining in Antalya",
-   "why": "The UN climate summit in Antalya, Türkiye, ran a day and a half past its deadline. COP31 President Murat Kurum presented a new compromise text early on Sunday, saying he believed all countries could agree to it. A session to approve it was due on Sunday morning.",
+   "title": "COP31 climate talks run into second day of overtime over fossil fuels",
+   "why": "The UN climate summit in Antalya, Türkiye, was due to end on Friday. A final text released on Sunday drops any named mention of fossil fuels, pointing instead to a 2023 pledge to move away from them. It targets electricity making up 35% of energy use by 2035.",
    "matters": "The talks decide how fast countries move away from fossil fuels and how much help poorer nations get to adapt.",
    "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-22/cop31-at-odds-over-fossil-fuels/107414330"
+    },
+    {
+     "name": "Reuters (via Arab News)",
+     "url": "https://www.arabnews.com/world/cop31-climate-talks-close-to-final-deal-says-summit-president-3013430"
+    },
     {
      "name": "RTÉ",
      "url": "https://www.rte.ie/news/world/2026/1122/1600166-cop31-turkey/"
