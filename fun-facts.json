@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "facts": [
     {
       "date": "2026-09-20",
@@ -1612,6 +1612,32 @@
         {
           "name": "SWI swissinfo.ch",
           "url": "https://www.swissinfo.ch/eng/toko--tell-s-role-model/251950"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "kind": "fact",
+      "category": "Food",
+      "emoji": "🧀",
+      "title": "Why Swiss cheese has holes",
+      "text": "The holes in Swiss cheeses like Emmental come from microscopic bits of hay in the milk, researchers at Agroscope, Switzerland’s farm research centre, found. Adding more hay dust gave more holes. Closed milking machines now keep hay out, which is why some Swiss cheeses have been losing their holes.",
+      "sources": [
+        {
+          "name": "SWI swissinfo.ch",
+          "url": "https://www.swissinfo.ch/eng/sci-tech/hay-particles-responsible-for-holes-in-swiss-cheese/41457054"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/no-holes-in-your-swiss-cheese-heres-why"
+        },
+        {
+          "name": "Smithsonian Magazine",
+          "url": "https://www.smithsonianmag.com/smart-news/scientists-have-finally-figured-out-why-swiss-cheese-has-holes-180955450/"
+        },
+        {
+          "name": "ABC7 New York",
+          "url": "https://abc7ny.com/post/scientists-figure-out-what-causes-holes-in-swiss-cheese/755104/"
         }
       ]
     }
