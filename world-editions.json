@@ -7068,5 +7068,173 @@
         ]
       }
     ]
+  },
+  {
+    "id": "064",
+    "published": "2026-11-25",
+    "title": "A probe reaches Mercury, Alcaraz’s Turin triumph and the youngest chess title match ever",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Is this true?",
+        "claim": "On Saturday 21 November a European and Japanese spacecraft called BepiColombo went into orbit around Mercury, the planet closest to the Sun, after a journey of about eight years.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this is true. BepiColombo, a joint mission of the European Space Agency (ESA) and Japan’s space agency JAXA, was launched from French Guiana in October 2018 and was captured by Mercury’s gravity on 21 November 2026. It needed eight years, with flybys of Earth, Venus and Mercury itself, to slow down enough, because a spacecraft speeds up as it falls towards the Sun. It is only the second mission ever to orbit Mercury, after NASA’s MESSENGER, and it carries two orbiters, one European and one Japanese, which will separate in December and start their science work in April 2027.",
+        "sources": [
+          [
+            "ESA · Latest updates: BepiColombo’s arrival at Mercury",
+            "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury"
+          ],
+          [
+            "Euronews · BepiColombo space probe enters Mercury’s orbit after eight-year journey",
+            "https://www.euronews.com/2026/11/22/bepicolombo-space-probe-enters-mercurys-orbit-after-eight-year-journey"
+          ],
+          [
+            "EarthSky · BepiColombo went into orbit around Mercury",
+            "https://earthsky.org/space/bepicolombo-mission-mercury/"
+          ],
+          [
+            "Jang · BepiColombo enters Mercury orbit after historic eight-year space journey",
+            "https://jang.com.pk/en/76720-bepicolombo-enters-mercury-orbit-after-historic-eight-year-space-journey-news"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three names from the World Chess Championship. Find their partners.",
+        "pairs": [
+          [
+            "Gukesh Dommaraju",
+            "The defending champion from India, who first won the title at 18"
+          ],
+          [
+            "Javokhir Sindarov",
+            "The challenger from Uzbekistan, who earned his place by winning the Candidates tournament"
+          ],
+          [
+            "Geneva",
+            "The Swiss city hosting the match, which runs into December"
+          ]
+        ],
+        "why": "The pairs are: Gukesh Dommaraju – the defending champion from India; Javokhir Sindarov – the challenger from Uzbekistan; Geneva – the host city. Both players are 20, which makes this the youngest world championship match in chess history. Gukesh became the youngest undisputed world champion in December 2024, aged 18, by beating China’s Ding Liren, while Sindarov qualified by winning the 2026 Candidates tournament, a contest between the world’s top players, without losing a game. The match, at a museum near Geneva, has up to 14 games, the first was set for Tuesday 24 November, and the first player to reach 7½ points wins.",
+        "sources": [
+          [
+            "Al Jazeera · Gukesh vs Sindarov: The youngest World Chess Championship in history",
+            "https://www.aljazeera.com/sports/2026/11/22/gukesh-vs-sindarov-the-youngest-world-chess-championship-in-history"
+          ],
+          [
+            "FIDE · Geneva to host FIDE World Championship Match 2026",
+            "https://www.fide.com/geneva-to-host-fide-world-championship-match-2026/"
+          ],
+          [
+            "ChessBase India · Gukesh vs Sindarov: everything you need to know about the 2026 World Championship",
+            "https://chessbase.in/news/all-that-you-wanted-to-know-about-gukesh-vs-sindarov-world-chess-championship-2026"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "Two weeks of meetings in the Turkish seaside city of Antalya, run jointly by Türkiye and Australia",
+          "A fierce argument over whether the final text should mention moving away from coal, oil and gas",
+          "The talks overran by about two days, making them the longest of their kind on record"
+        ],
+        "options": [
+          "A new trade deal between Europe and Asia is signed",
+          "The Olympic Games pick a host for 2036",
+          "The UN climate summit ends without an agreement",
+          "The world’s oil producers agree to pump more oil"
+        ],
+        "correct": 2,
+        "why": "It was: the UN climate summit, COP31, ending without an agreement. The talks were due to finish on 20 November but ran on until Sunday 22 November, when the European Union and several other countries rejected the final draft because it no longer said anything about moving away from fossil fuels (coal, oil and gas), while some big oil producers, such as Saudi Arabia and Russia, refused any such wording. Türkiye’s environment minister Murat Kurum, who chaired the summit, said the deal had not been adopted. Reporters said it was the first time these yearly talks failed to agree their main deal since Copenhagen in 2009.",
+        "sources": [
+          [
+            "Al Jazeera · ‘Disappointing’: Delegates react after COP31 climate talks end without deal",
+            "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse"
+          ],
+          [
+            "Euronews · COP31 climate talks fail after EU and others reject final deal",
+            "https://www.euronews.com/2026/11/22/cop31-climate-talks-fail-after-eu-and-others-reject-final-deal-proposal"
+          ],
+          [
+            "The Korea Herald (AFP) · Climate deal collapses in chaotic end to COP31",
+            "https://www.koreaherald.com/article/10946205"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "Carlos Alcaraz’s record-breaking run: put these in order, earliest first.",
+        "items": [
+          "Alcaraz wins the ATP Finals in Turin for the first time, beating world number one Alexander Zverev",
+          "American Don Budge becomes the youngest man to win all four Grand Slam titles, a record that lasts for decades",
+          "Alcaraz beats Novak Djokovic in the Australian Open final, completing his own set of all four Grand Slam titles"
+        ],
+        "correctOrder": [
+          1,
+          2,
+          0
+        ],
+        "why": "The right order is: Don Budge’s record (1938), then Alcaraz completes the set at the Australian Open (February 2026), then his first ATP Finals title (November 2026). The four Grand Slams are the Australian Open, the French Open, Wimbledon and the US Open, and on 1 February 2026 Alcaraz, aged 22, became the youngest man ever to have won all four, breaking Budge’s record from 1938. On Sunday 22 November he beat Zverev 6–2, 7–6 in Turin to win the ATP Finals, the end-of-season event for the year’s best eight players. That makes the Spaniard only the fourth man, after Roger Federer, Andre Agassi and Novak Djokovic, to have won all four Grand Slams and the ATP Finals.",
+        "sources": [
+          [
+            "Al Jazeera · Alcaraz storms past world number one Zverev to win maiden ATP Finals title",
+            "https://www.aljazeera.com/sports/2026/11/23/carlos-alcaraz-atp-finals-2026-title-alexander-zverev-tennis"
+          ],
+          [
+            "Sky Sports · ATP Finals: Carlos Alcaraz beats world No 1 Alexander Zverev in blockbuster final to claim title for first time",
+            "https://www.skysports.com/tennis/news/13615397/atp-finals-carlos-alcaraz-beats-world-no-1-alexander-zverev-in-blockbuster-final-to-claim-title-for-first-time"
+          ],
+          [
+            "Arab News (AFP) · Alcaraz downs Zverev to win ATP Finals for first time",
+            "https://www.arabnews.com/tennis/alcaraz-downs-zverev-to-win-atp-finals-for-first-time-3013590"
+          ],
+          [
+            "TSN · Alcaraz beats Djokovic in Australian Open final, becomes youngest man to complete career Grand Slam",
+            "https://www.tsn.ca/tennis/article/alcaraz-beats-djokovic-in-australian-open-final-becomes-youngest-man-to-complete-career-grand-slam/"
+          ],
+          [
+            "AP (via News4JAX) · Carlos Alcaraz becomes youngest man to complete a career Grand Slam",
+            "https://www.news4jax.com/sports/2026/02/01/carlos-alcaraz-becomes-youngest-man-to-complete-a-career-grand-slam-is-a-calendar-slam-next/"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "On Monday 23 November almost every flight in and out of Belgium was cancelled. Why?",
+        "options": [
+          "Thick fog covered the whole country",
+          "A computer failure hit Europe’s air traffic control",
+          "Air traffic controllers joined a national strike against government spending cuts",
+          "The runways at Brussels Airport were closed for repairs"
+        ],
+        "correct": 2,
+        "why": "It was a strike. Air traffic controllers from skeyes, the company that guides planes through Belgian skies, joined a national day of protest called by Belgium’s big trade unions, so there was no normal air traffic control from 7am to 9pm. The unions oppose the government’s austerity plans (cuts to public spending meant to reduce the country’s debt), including changes to pensions, pay and working conditions under Prime Minister Bart De Wever. Brussels Airport and Charleroi cancelled their passenger flights, and airlines said it was the 11th strike to hit Belgian airspace in 11 months.",
+        "sources": [
+          [
+            "Al Jazeera · Belgium’s airports set to shut down due to anti-austerity strike",
+            "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike"
+          ],
+          [
+            "Xinhua · Most flights at Brussels Airport to be canceled Monday amid national strike",
+            "https://english.news.cn/20261122/32a67b109b5f4b82a3e037b7e5ddd5bc/c.html"
+          ],
+          [
+            "The Brussels Times · National strike: No flights at Belgian airports, only two metro lines running in Brussels",
+            "https://www.brusselstimes.com/belgium/2416819/national-strike-no-flights-at-belgian-airports-only-two-metro-lines-running-in-brussels-tbtb/"
+          ]
+        ]
+      }
+    ]
   }
 ]
