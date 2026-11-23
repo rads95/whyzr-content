@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "facts": [
     {
       "date": "2026-09-20",
@@ -1638,6 +1638,28 @@
         {
           "name": "ABC7 New York",
           "url": "https://abc7ny.com/post/scientists-figure-out-what-causes-holes-in-swiss-cheese/755104/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "kind": "fact",
+      "category": "Animals",
+      "emoji": "🐻",
+      "title": "Water bears survived outer space",
+      "text": "In 2007, dried-out tardigrades, tiny animals nicknamed water bears, flew into orbit and were exposed to the raw vacuum of space. Most came home fine, and some even had babies afterwards. They were the first animals known to survive it, though unshielded sunlight did kill many.",
+      "sources": [
+        {
+          "name": "European Space Agency",
+          "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Tiny_animals_survive_exposure_to_space"
+        },
+        {
+          "name": "National Geographic",
+          "url": "https://www.nationalgeographic.com/science/article/tardigrades-become-first-animals-to-survive-vacuum-of-space"
+        },
+        {
+          "name": "CORDIS, European Commission",
+          "url": "https://cordis.europa.eu/article/id/29839-water-bears-survive-space-environment-study-shows"
         }
       ]
     }
