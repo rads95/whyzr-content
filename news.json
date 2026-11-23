@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-23T07:49:00Z",
+ "updated": "2026-11-23T13:44:00Z",
  "items": [
+  {
+   "section": "money",
+   "published": "2026-11-23T12:30:00Z",
+   "title": "Lego to build €1bn factory in Portugal, its eighth worldwide",
+   "why": "Danish toymaker Lego will build a factory in Estarreja, near Aveiro in northern Portugal, investing about €1bn and creating more than 1,000 jobs, it announced on Monday. Construction starts in 2027 and brick production in 2030. It will be Lego's fourth factory in Europe.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261123-lego-picks-portugal-to-build-its-8th-factory"
+    },
+    {
+     "name": "CNN Portugal",
+     "url": "https://cnnportugal.iol.pt/lego/aveiro/lego-investe-mil-milhoes-de-euros-e-cria-mil-empregos-em-fabrica-em-aveiro/20261123/6b0425f00cf29f111c0f44a8"
+    },
+    {
+     "name": "Notícias de Aveiro",
+     "url": "https://www.noticiasdeaveiro.pt/lego-anuncia-fabrica-em-estarreja/"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-11-23T11:30:00Z",
+   "title": "CrowdStrike agrees to buy rival Zscaler for $43.9bn",
+   "why": "US cybersecurity firm CrowdStrike will buy Zscaler in an all-share deal valuing it at about $43.9bn, the companies said on Monday. Zscaler shareholders get a 34% premium. The deal needs shareholder and regulatory approval and is expected to close in CrowdStrike's 2028 financial year.",
+   "matters": "Euronews calls it the biggest cybersecurity deal ever, combining two firms that protect many large organisations.",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/23/crowdstrike-to-buy-zscaler.html"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/23/crowdstrike-buys-zscaler-in-40-billion-cybersecurity-deal"
+    },
+    {
+     "name": "CrowdStrike",
+     "url": "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-to-acquire-zscaler-bringing-network-security-and-zero-trust-to-the-falcon-platform/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-23T08:00:00Z",
+   "title": "India pledges $1.6bn to help flood-hit Nepal rebuild",
+   "why": "Indian Prime Minister Narendra Modi announced a 240 billion Nepali rupee (about $1.6bn) package in New Delhi on Monday during a visit by Nepal's Prime Minister Balendra Shah. Nepal's August glacier flood killed about 1,500 people, and 5,200 are missing, Reuters reports.",
+   "matters": "Nepal puts rebuilding costs at about three times India's offer, so it still needs much more help.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261123-modi-offers-flood-hit-nepal-1-6-bn-aid-package"
+    },
+    {
+     "name": "Reuters (via Dawn)",
+     "url": "https://www.dawn.com/news/2046531"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/23/india-pledges-14bn-to-help-nepal-rebuild-after-deadly-glacier-flood"
+    },
+    {
+     "name": "Kathmandu Post",
+     "url": "https://kathmandupost.com/national/2026/11/23/shah-and-modi-inaugurate-bridge-flag-off-janakpur-ayodhya-train"
+    }
+   ]
+  },
   {
    "section": "money",
    "published": "2026-11-23T06:00:00Z",
@@ -214,6 +280,33 @@
    ]
   },
   {
+   "section": "climate",
+   "changed": "Updated: governments and Pacific nations react to the collapse",
+   "published": "2026-11-22T18:00:00Z",
+   "title": "COP31 climate talks in Türkiye end without a deal over fossil fuels",
+   "why": "The UN climate summit in Antalya, Türkiye, ended on Sunday, two days late, without an agreed final text. Oil-producing states blocked any mention of moving away from fossil fuels, so the EU and others rejected it. UN chief António Guterres expressed 'profound frustration'.",
+   "matters": "Al Jazeera says it is the first UN climate summit since Copenhagen in 2009 to end without a deal adopted by all.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse"
+    },
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261123-scramble-to-save-climate-fight-after-cop-collapse"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-23/cop-climate-change-negotiation-failure-a-sign-of-anger/107415518"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/science/climate-change/cop31-climate-talks-break-angry-dispute-fossil-fuels-rcna610656"
+    }
+   ],
+   "serious": false
+  },
+  {
    "section": "culture",
    "published": "2026-11-22T17:00:00Z",
    "title": "New Hunger Games prequel opens with $225m worldwide box office",
@@ -230,6 +323,28 @@
     {
      "name": "Yahoo Entertainment",
      "url": "https://www.yahoo.com/entertainment/movies/article/hunger-games-sunrise-on-the-reaping-box-office-prequel-opens-to-120-million-the-franchises-biggest-debut-since-2014-194528847.html"
+    }
+   ]
+  },
+  {
+   "section": "curious",
+   "developing": true,
+   "published": "2026-11-22T15:00:00Z",
+   "title": "Istanbul officials hunt for lioness loose in forest on city's edge",
+   "why": "Teams with thermal cameras and drones are searching woods in Uskumruköy, on Istanbul's northern edge, after a resident reported a lion on Sunday evening. Camera footage suggests a female lion. Officials say they want to capture it alive and have told residents to stay indoors.",
+   "matters": "Keeping lions as pets is illegal in Türkiye; officials think it may have escaped from a private home.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/23/turkish-authorities-search-for-lion-spotted-on-outskirts-of-istanbul"
+    },
+    {
+     "name": "Hürriyet Daily News",
+     "url": "https://www.hurriyetdailynews.com/search-continues-for-escaped-lion-in-istanbuls-sariyer-district-229740"
+    },
+    {
+     "name": "Daily Sabah",
+     "url": "https://www.dailysabah.com/turkiye/istanbul/authorities-continue-search-after-lion-sighting-report-in-istanbul"
     }
    ]
   },
@@ -371,17 +486,21 @@
    "serious": true,
    "developing": true,
    "published": "2026-11-22T05:00:00Z",
-   "title": "Russian strikes on Kyiv region kill at least 14, Ukraine says",
-   "why": "Russian strikes on Sunday killed at least 14 people in Ukraine's Kyiv region, Ukrainian officials say. The regional governor says ten died when an apartment block partly collapsed in Dymer, north of the capital; the mayor of Vyshneve says three died when a drone hit a grocery store.",
+   "title": "Russian strikes on Kyiv region kill at least 15, Ukraine says",
+   "why": "Russian strikes on Sunday killed at least 15 people in Ukraine's Kyiv region, officials say. Eleven died when a five-storey block partly collapsed in Dymer, north of the capital. Vyshneve's mayor says a strike on a supermarket killed three.",
    "matters": "President Zelensky says Russia fired about 2,700 drones and 165 missiles at Ukraine this week.",
    "sources": [
     {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261122-russian-strike-kills-two-in-collapsed-block-of-flats-near-kyiv"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles"
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261123-live-russian-strikes-kill-at-least-15-people-in-kyiv-region-ukraine-says"
+    },
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261122-russian-strike-kills-two-in-collapsed-block-of-flats-near-kyiv"
     },
     {
      "name": "Euronews",
@@ -392,13 +511,13 @@
      "url": "https://www.ukrinform.net/rubric-ato/4187329-russia-launches-approximately-2700-drones-nearly-1460-glide-bombs-and-165-missiles-at-ukraine-in-one-week-zelensky.html"
     }
    ],
-   "changed": "Updated: the death toll rose to at least 14"
+   "changed": "Updated: the death toll rose to at least 15"
   },
   {
    "section": "world",
    "published": "2026-11-22T05:00:00Z",
    "title": "Zelensky says Ukrainian sea drones sank Russian warship off Libya",
-   "why": "President Volodymyr Zelensky said on Monday that seven Ukrainian-made sea drones sank the Russian corvette Merkury at Benghazi, eastern Libya, and also hit the cargo ship Angara, which he says carried weapons. Libya's eastern-based government condemned the attack. The UN mission in Libya called for an independent investigation.",
+   "why": "President Volodymyr Zelensky said on Monday that seven Ukrainian sea drones sank the Russian corvette Merkury at Benghazi, eastern Libya, and hit the cargo ship Angara. Satellite images from the US firm Vantor show the warship capsized.",
    "matters": "It follows Saturday's drone strike on a Russian cargo ship in the Baltic, suggesting the war is reaching further from Ukraine.",
    "sources": [
     {
@@ -420,9 +539,13 @@
     {
      "name": "CBS News (with AP)",
      "url": "https://www.cbsnews.com/news/russian-warship-struck-suspected-ukrainian-sea-drones-benghazi-naval-base-libya-officials/"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/23/satellite-images-show-russian-warship-capsized-in-libya-after-suspected-ukrainian-drone-st"
     }
    ],
-   "changed": "Updated: Zelensky says Ukraine carried out the attack"
+   "changed": "Updated: satellite images show the warship capsized"
   },
   {
    "section": "tech",
@@ -513,10 +636,18 @@
    "serious": true,
    "developing": true,
    "published": "2026-11-21T20:30:00Z",
-   "title": "Bahrain says Iranian strike wounded two; Iran says tankers hit mines",
-   "why": "Bahrain's interior ministry says an Iranian strike on a civilian industrial site on Saturday wounded two people, one critically. Iran's Revolutionary Guards say they targeted US air-defence systems. On Sunday Iranian forces said two tankers caught fire after hitting mines near the Strait of Hormuz. Saudi Arabia condemned the attacks.",
+   "title": "Iran vows to counter US blockade after strike on Bahrain",
+   "why": "Iran's foreign ministry said on Monday that Tehran will 'use all available means' against the US naval blockade. On Sunday President Trump said Iranian ships trying to break it would go to the 'bottom of the sea'. Bahrain says an Iranian strike on Saturday wounded two.",
    "matters": "The strait carries a large share of the world's oil, so attacks there affect energy prices everywhere.",
    "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/23/iran-vows-every-means-to-counter-us-blockade-of-hormuz-after-trump-threat"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade"
+    },
     {
      "name": "AFP (via France 24)",
      "url": "https://www.france24.com/en/live-news/20261122-iran-strike-wounds-two-in-bahrain-saudi-condemns-criminal-attacks"
@@ -526,15 +657,11 @@
      "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat"
     },
     {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/22/tanker-incident-involving-military-forces-reported-in-strait-of-hormuz"
-    },
-    {
      "name": "Al Jazeera (Bahrain)",
      "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility"
     }
    ],
-   "changed": "Updated: Bahrain says two people were wounded; Iran reports tankers hit by mines"
+   "changed": "Updated: Iran vowed to counter the US blockade after Trump's threat"
   },
   {
    "section": "science",
@@ -599,120 +726,6 @@
    ]
   },
   {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-21T14:00:00Z",
-   "title": "Brazil's former president Bolsonaro in intensive care with bowel blockage",
-   "why": "Jair Bolsonaro, 71, is in intensive care at a hospital in Brazil's capital, Brasília, with an intestinal obstruction, the hospital said on Saturday. It says he is stable and conscious. He is serving a 27-year sentence for a coup plot under house arrest; he denies the charges.",
-   "sources": [
-    {
-     "name": "AFP (via CP24)",
-     "url": "https://www.cp24.com/news/world/2026/11/21/brazil-ex-president-bolsonaro-in-intensive-care-over-intestinal-issue/"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/21/jair-bolsonaro-hospitalised-with-abdominal-pain-while-under-house-arrest"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-21T13:00:00Z",
-   "title": "Mexico captures FBI-wanted cartel boss 'El Chapo Isidro' in Sinaloa",
-   "why": "Mexican forces captured Fausto Isidro Meza Flores, an alleged Beltrán Leyva cartel leader on the FBI's ten most wanted list, in Guasave, Sinaloa, on Friday night. Mexico's military says seven gunmen and four soldiers were killed in the firefight. Roadblocks were later set up across the state.",
-   "matters": "He faces charges in Mexico and the US, where a $5m reward had been offered for him.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/americas/20261121-mexico-captures-drug-cartel-boss-el-chapo-isidro-after-deadly-firefight"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/21/mexico-captures-fbis-most-wanted-cartel-boss-el-chapo-isidro-triggering-violence"
-    },
-    {
-     "name": "RTÉ",
-     "url": "https://www.rte.ie/news/world/2026/1121/1600134-mexico-drugs-fbi/"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://abcnews.com/International/mexican-cartel-leader-fbis-10-wanted-fugitive-list/story?id=138346100"
-    }
-   ]
-  },
-  {
-   "section": "curious",
-   "published": "2026-11-21T12:00:00Z",
-   "title": "Swimmer braves Strait of Hormuz to highlight war's harm to wildlife",
-   "why": "British endurance swimmer Lewis Pugh, a UN Patron of the Oceans, swam about 15km in stages over three days from Oman's Musandam Peninsula around the Cape of Hormuz. He says he saw tankers hit nearby. He warns pollution could harm coral reefs, mangroves, turtles and dolphins.",
-   "sources": [
-    {
-     "name": "AP (via CBS News)",
-     "url": "https://www.cbsnews.com/news/athlete-swims-strait-of-hormuz-iran-war-wildlife/"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/video/2026/11/21/strait-of-hormuz-athlete-swims-through-war-zone-to-expose-wars-environmental-toll"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/endurance-athlete-swims-in-hormuz-strait"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-11-21T11:00:00Z",
-   "title": "EU budget plan proposes a 3% tax on big tech companies",
-   "why": "European Council President António Costa on Saturday proposed a 2028–2034 EU budget €204bn smaller than the Commission's plan. It includes a 3% levy on large firms' EU revenue from online advertising, digital services and user data, plus taxes on e-waste and tobacco. Several governments have criticised it.",
-   "matters": "Tax changes need every EU country to agree, and the levy could anger the US government.",
-   "sources": [
-    {
-     "name": "AFP (via Dawn)",
-     "url": "https://www.dawn.com/news/2046129/eu-proposes-tax-on-big-tech-eur200-bn-cuts-in-new-budget-draft"
-    },
-    {
-     "name": "RTÉ",
-     "url": "https://www.rte.ie/news/europe/2026/1121/1600093-european-union-budget/"
-    },
-    {
-     "name": "TRT World",
-     "url": "https://www.trtworld.com/article/cd49c25622f1"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-21T09:35:00Z",
-   "title": "Drones set Russian cargo ship on fire in Gulf of Finland",
-   "why": "Russian officials say two drones hit the Kaliningrad-bound cargo ship Sparta II on Saturday, setting it on fire. All 16 crew were evacuated. Finland's armed forces say Ukraine was likely behind it; Ukraine has not commented. On Sunday Russian vessels towed the ship out of Finnish waters, Finland's president said.",
-   "matters": "Finland's prime minister, Petteri Orpo, said 'war is spilling over into our immediate vicinity'.",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/22/finland-confirms-russia-is-towing-drone-hit-cargo-ship-after-baltic-sea-attack"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack"
-    },
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland"
-    },
-    {
-     "name": "Reuters (via ThePrint)",
-     "url": "https://theprint.in/world/russia-says-cargo-vessel-struck-by-drones-finland-says-it-is-on-fire-in-its-waters/3105196/"
-    }
-   ],
-   "changed": "Updated: the ship has been towed out of Finnish waters"
-  },
-  {
    "section": "tech",
    "developing": true,
    "published": "2026-11-20T23:54:00Z",
@@ -769,33 +782,6 @@
     }
    ],
    "changed": "Updated: NATO's chief pledged to defend Poland; NATO ambassadors meet in Brussels on Monday"
-  },
-  {
-   "section": "climate",
-   "changed": "Updated: reactions from the UN chief and governments",
-   "published": "2026-11-19T12:00:00Z",
-   "title": "COP31 climate talks in Türkiye end without a deal over fossil fuels",
-   "why": "The UN climate summit in Antalya, Türkiye, ended on Sunday, two days late, without an agreed final text. The EU and small island states rejected a draft that did not mention fossil fuels, which Saudi Arabia and Russia had opposed. UN chief António Guterres said he was 'deeply disappointed'.",
-   "matters": "Al Jazeera says it is the first UN climate summit since Copenhagen in 2009 to end without a deal adopted by all.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/environment/20261121-latest-cop31-deal-sidesteps-fossil-fuels-amid-growing-divisions"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-23/cop-climate-change-negotiation-failure-a-sign-of-anger/107415518"
-    },
-    {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/science/climate-change/cop31-climate-talks-break-angry-dispute-fossil-fuels-rcna610656"
-    }
-   ],
-   "serious": false
   }
  ]
 }
