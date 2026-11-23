@@ -1,6 +1,111 @@
 {
- "updated": "2026-11-22T13:47:00Z",
+ "updated": "2026-11-23T01:43:00Z",
  "items": [
+  {
+   "section": "culture",
+   "published": "2026-11-23T01:30:00Z",
+   "title": "Molly Meldrum, Australian music presenter and Countdown host, dies at 83",
+   "why": "Ian 'Molly' Meldrum died in hospital in Melbourne on Monday morning after a period of declining health, his management said. He hosted ABC TV's music show Countdown from 1974 to 1987, helping to launch Australian acts and bring stars such as ABBA and Madonna to Australian audiences.",
+   "matters": "Prime Minister Anthony Albanese and many musicians paid tribute to a figure who shaped Australian pop for decades.",
+   "sources": [
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-23/molly-meldrum-countdown-host-music-industry-icon-dies/3735358"
+    },
+    {
+     "name": "SBS News",
+     "url": "https://www.sbs.com.au/news/article/molly-meldrum-dead/b1r4wmwy9"
+    },
+    {
+     "name": "Rolling Stone Australia",
+     "url": "https://au.rollingstone.com/music/music-news/molly-meldrum-tributes-pour-in-103618/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-22T21:00:00Z",
+   "title": "Democrats win largest US House majority since 1992 after recount",
+   "why": "Democrat Chuck Hubbard won North Carolina's 5th district after a recount, beating long-serving Republican Virginia Foxx by about 330 votes. That gives Democrats at least 258 of the 435 House seats in the November midterms, their most since 1992. Four races are still undecided.",
+   "matters": "A large majority lets Democrats control the House agenda and investigations for the second half of President Trump's term.",
+   "sources": [
+    {
+     "name": "Al Jazeera (with AP)",
+     "url": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261122-democrat-hubbard-wins-north-carolina-recount-clinching-historic-house-majority"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/22/midterms-us-democrats-secure-biggest-house-majority-in-decades"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-22T19:00:00Z",
+   "title": "Alcaraz beats Zverev to win his first ATP Finals title",
+   "why": "Spain's Carlos Alcaraz beat world number one Alexander Zverev of Germany 6-2, 7-6 in the ATP Finals final in Turin, Italy, on Sunday. He saved three set points in the tie-break and won all five of his matches. It is his 30th career title.",
+   "sources": [
+    {
+     "name": "ATP Tour",
+     "url": "https://www.atptour.com/en/news/alcaraz-zverev-nitto-atp-finals-2026-sunday"
+    },
+    {
+     "name": "Tennis Majors",
+     "url": "https://www.tennismajors.com/atp/nitto-atp-finals-atp/alcaraz-saves-three-set-points-holds-off-zverev-and-finally-conquers-the-atp-finals-867708.html"
+    },
+    {
+     "name": "TNT Sports",
+     "url": "https://www.tntsports.co.uk/tennis/atp-finals/2026/alexander-zverev-carlos-alcaraz_mtc22079954/live-commentary.shtml"
+    }
+   ],
+   "matters": "He joins Agassi, Federer and Djokovic as the only men to win all four majors and the season-ending finals.",
+   "changed": "Updated: Alcaraz won Sunday's final"
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-22T18:30:00Z",
+   "title": "Liverpool beat ten-man Manchester United 4-0 in Pochettino's first game",
+   "why": "Liverpool beat Manchester United 4-0 at Anfield on Sunday in Mauricio Pochettino's first match as United manager. Leny Yoro was sent off after eight minutes. Dominik Szoboszlai, Florian Wirtz, Rio Ngumoha and Victor Muñoz scored. United are 19th in the Premier League.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261122-liverpool-thrash-10-man-man-utd-in-pochettino-s-first-match"
+    },
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/football/news/13615402/leny-yoro-red-card-man-utd-boss-mauricio-pochettino-and-kobbie-mainoo-angry-at-sending-off-for-foul-on-liverpools-alexander-isak"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-22T14:00:00Z",
+   "title": "Marc Márquez clinches eighth MotoGP world title in Portugal",
+   "why": "Spain's Marc Márquez finished eighth at the Portuguese Grand Prix in Portimão on Sunday, enough to win his eighth premier-class title with one race left. Italy's Marco Bezzecchi won the race. Márquez had been 102 points behind Bezzecchi earlier in the season.",
+   "matters": "He equals Giacomo Agostini's record of eight top-class titles and moves past Valentino Rossi's seven.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/22/marc-marquez-wins-eighth-motogp-title-in-portugal-surpassing-rossis-record"
+    },
+    {
+     "name": "AFP (via Manila Times)",
+     "url": "https://www.manilatimes.net/2026/11/23/sports/spaniard-marquez-makes-history-with-eighth-motogp-world-title/2475772"
+    },
+    {
+     "name": "Speedcafe",
+     "url": "https://speedcafe.com/motogp-news-2026-portugal-portimao-results-marc-marquez-wins-eighth-title-marco-bezzecchi-race-victory/"
+    }
+   ]
+  },
   {
    "section": "sport",
    "published": "2026-11-22T10:00:00Z",
@@ -76,13 +181,17 @@
    "serious": true,
    "developing": true,
    "published": "2026-11-22T05:00:00Z",
-   "title": "Russian drone strike on apartment block near Kyiv kills two; 15 missing",
-   "why": "A Russian drone strike overnight into Sunday partly destroyed a five-storey apartment building in Dymer, north of Ukraine's capital, Kyiv. The regional head says two bodies have been recovered and at least four people injured. Police say 15 people are missing, including two children.",
+   "title": "Russian strikes on Kyiv region kill at least 12, Ukraine says",
+   "why": "Russian overnight strikes on Sunday killed at least 12 people in Ukraine's Kyiv region, officials say. The regional governor says nine died when an apartment block partly collapsed in Dymer, north of the capital. Rescuers are searching for 11 missing people, including two children.",
    "matters": "President Zelensky says Russia fired about 2,700 drones and 165 missiles at Ukraine this week.",
    "sources": [
     {
-     "name": "France 24 (live)",
-     "url": "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship"
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261122-russian-strike-kills-two-in-collapsed-block-of-flats-near-kyiv"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles"
     },
     {
      "name": "Euronews",
@@ -91,6 +200,33 @@
     {
      "name": "Ukrinform",
      "url": "https://www.ukrinform.net/rubric-ato/4187329-russia-launches-approximately-2700-drones-nearly-1460-glide-bombs-and-165-missiles-at-ukraine-in-one-week-zelensky.html"
+    }
+   ],
+   "changed": "Updated: the death toll rose to at least 12 and a child was pulled out alive"
+  },
+  {
+   "section": "world",
+   "developing": true,
+   "published": "2026-11-22T05:00:00Z",
+   "title": "Russian warship hit by suspected drone attack at Libya's Benghazi port",
+   "why": "A Russian navy corvette, the Merkury, was hit at dawn on Sunday while docked in Benghazi, eastern Libya, causing an explosion and fire, the eastern-based government says. Libyan military officials blame Ukrainian sea drones. Satellite images show the ship partly sunk. No one has claimed responsibility.",
+   "matters": "It follows Saturday's drone strike on a Russian cargo ship in the Baltic, suggesting the war is reaching further from Ukraine.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base"
+    },
+    {
+     "name": "CBS News (with AP)",
+     "url": "https://www.cbsnews.com/news/russian-warship-struck-suspected-ukrainian-sea-drones-benghazi-naval-base-libya-officials/"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/22/suspected-drone-strike-hits-russian-ship-at-libyas-benghazi-port-raising-regional-security"
     }
    ]
   },
@@ -138,6 +274,27 @@
   {
    "section": "world",
    "serious": true,
+   "published": "2026-11-22T02:00:00Z",
+   "title": "Drone strikes kill four in Sudan's capital and damage UN building",
+   "why": "Drone attacks early on Sunday killed at least four people in and around Khartoum, Sudan's capital, according to local reports, and damaged a UN building with staff inside, the UN says. The paramilitary Rapid Support Forces were blamed. Sudan's army says the drones came from Ethiopia, which denies it.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-23/deadly-drone-strikes-in-khartoum-sudan-war/107415908"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/africa/20261122-drone-strikes-hit-homes-and-un-building-in-sudan-s-khartoum"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
    "published": "2026-11-22T00:00:00Z",
    "title": "Settlers set Palestinian cars on fire in West Bank villages, reports say",
    "why": "Israeli settlers set fire to about 12 vehicles and sprayed slogans on homes in Kafr Malik, Deir Abu Mash'al and Deir al-Sudan, near Ramallah in the occupied West Bank, early on Sunday, Palestinian sources say. Israel's army condemned the attacks and police opened an investigation.",
@@ -161,21 +318,47 @@
    "serious": true,
    "developing": true,
    "published": "2026-11-21T20:30:00Z",
-   "title": "Bahrain says Iranian attack sparks fire; tankers hit in Strait of Hormuz",
-   "why": "Bahrain says it intercepted several Iranian missile and drone attacks late on Saturday, and one hit a civilian industrial site, causing a fire but no injuries. Iran's Revolutionary Guards say they targeted US radars at bases in Bahrain. At least three tankers were also struck in or near the strait.",
+   "title": "Bahrain says Iranian strike wounded two; Iran says tankers hit mines",
+   "why": "Bahrain's interior ministry says an Iranian strike on a civilian industrial site on Saturday wounded two people, one critically. Iran's Revolutionary Guards say they targeted US air-defence systems. On Sunday Iranian forces said two tankers caught fire after hitting mines near the Strait of Hormuz. Saudi Arabia condemned the attacks.",
    "matters": "The strait carries a large share of the world's oil, so attacks there affect energy prices everywhere.",
    "sources": [
     {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261122-iran-strike-wounds-two-in-bahrain-saudi-condemns-criminal-attacks"
+    },
+    {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility"
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat"
     },
     {
      "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade"
+     "url": "https://www.euronews.com/2026/11/22/tanker-incident-involving-military-forces-reported-in-strait-of-hormuz"
     },
     {
-     "name": "TRT World (with AFP)",
-     "url": "https://www.trtworld.com/article/1b7ac3dfdb5e"
+     "name": "Al Jazeera (Bahrain)",
+     "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility"
+    }
+   ],
+   "changed": "Updated: Bahrain says two people were wounded; Iran reports tankers hit by mines"
+  },
+  {
+   "section": "science",
+   "published": "2026-11-21T18:24:00Z",
+   "title": "BepiColombo spacecraft enters orbit around Mercury after eight-year journey",
+   "why": "The European–Japanese BepiColombo mission entered orbit around Mercury on Saturday after a 37-minute engine burn, the European Space Agency says. It launched in 2018. The burn ended early because of a software issue, but ESA says the spacecraft is safe. Its two orbiters separate on 9–10 December.",
+   "matters": "It is only the second mission to orbit Mercury, the planet closest to the Sun; science work starts in April 2027.",
+   "sources": [
+    {
+     "name": "ESA",
+     "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury"
+    },
+    {
+     "name": "Space.com",
+     "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/22/bepicolombo-space-probe-enters-mercurys-orbit-after-eight-year-journey"
     }
    ]
   },
@@ -196,26 +379,6 @@
     {
      "name": "The Rugby Championship (SANZAAR)",
      "url": "https://super.rugby/therugbychampionship/news/rd6-england-37-new-zealand-12/"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-21T17:00:00Z",
-   "title": "Alcaraz fights back to beat Shelton and reach ATP Finals final",
-   "why": "Spain's Carlos Alcaraz beat Ben Shelton of the US 3-6, 6-3, 7-6 in the first semi-final of the ATP Finals in Turin, Italy, on Saturday. He meets Germany's Alexander Zverev in Sunday's final.",
-   "sources": [
-    {
-     "name": "ATP Tour",
-     "url": "https://www.atptour.com/en/scores/current/nitto-atp-finals/605/results"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-22/alcaraz-digs-deep-to-beat-shelton-and-reach-atp-finals-decider/107413742"
-    },
-    {
-     "name": "Tennis Majors",
-     "url": "https://www.tennismajors.com/atp/nitto-atp-finals-atp/alcaraz-rises-when-it-matters-turns-back-shelton-to-reach-a-second-straight-atp-finals-final-867561.html"
     }
    ]
   },
@@ -330,38 +493,29 @@
   },
   {
    "section": "world",
-   "developing": true,
    "published": "2026-11-21T09:35:00Z",
    "title": "Drones set Russian cargo ship on fire in Gulf of Finland",
-   "why": "Russian officials say two drones hit the Kaliningrad-bound cargo ship Sparta II on Saturday. It was still burning in Finnish waters on Sunday; all 16 crew were evacuated. Finland's armed forces say Ukraine was likely behind it. On Sunday an air alert sounded in Russia's Kaliningrad, its governor said.",
+   "why": "Russian officials say two drones hit the Kaliningrad-bound cargo ship Sparta II on Saturday, setting it on fire. All 16 crew were evacuated. Finland's armed forces say Ukraine was likely behind it; Ukraine has not commented. On Sunday Russian vessels towed the ship out of Finnish waters, Finland's president said.",
    "matters": "Finland's prime minister, Petteri Orpo, said 'war is spilling over into our immediate vicinity'.",
    "sources": [
     {
-     "name": "Reuters (via ThePrint)",
-     "url": "https://theprint.in/world/russia-says-cargo-vessel-struck-by-drones-finland-says-it-is-on-fire-in-its-waters/3105196/"
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/22/finland-confirms-russia-is-towing-drone-hit-cargo-ship-after-baltic-sea-attack"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack"
     },
     {
      "name": "AFP (via France 24)",
      "url": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland"
     },
     {
-     "name": "AFP (via France 24, live)",
-     "url": "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland"
-    },
-    {
-     "name": "ERR News",
-     "url": "https://news.err.ee/1610202715/russian-cargo-ship-on-fire-in-gulf-of-finland-after-reported-drone-strike"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-22/russian-cargo-ship-burns-in-baltic-sea-after-drone-strike/107413782"
+     "name": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/russia-says-cargo-vessel-struck-by-drones-finland-says-it-is-on-fire-in-its-waters/3105196/"
     }
    ],
-   "changed": "Updated: the ship was still burning on Sunday; an air alert sounded in Kaliningrad"
+   "changed": "Updated: the ship has been towed out of Finnish waters"
   },
   {
    "section": "world",
@@ -469,28 +623,6 @@
    ]
   },
   {
-   "section": "climate",
-   "serious": true,
-   "published": "2026-11-21T00:09:00Z",
-   "title": "Magnitude 6.7 earthquake shakes central Peru; no injuries reported",
-   "why": "A magnitude 6.7 earthquake struck central Peru's Junín region on Friday evening, about 129km deep, Peru's Geophysical Institute says. Civil defence officials reported landslides on roads, damaged homes and a hospital, and power cuts, but no injuries. Shaking was felt in the capital, Lima.",
-   "matters": "Peru sits on one of the world's most active earthquake zones; deep quakes like this can be felt hundreds of kilometres away.",
-   "sources": [
-    {
-     "name": "El Comercio",
-     "url": "https://elcomercio.pe/peru/junin/temblor-de-67-en-junin-reportan-danos-en-viviendas-y-bloqueo-de-tramos-de-la-carretera-central-igp-ultimas-noticia/"
-    },
-    {
-     "name": "RPP",
-     "url": "https://rpp.pe/peru/actualidad/sismo-de-magnitud-67-junin-indeci-informa-reporte-de-danos-noticia-1718928"
-    },
-    {
-     "name": "AFP (via TRT World)",
-     "url": "https://www.trtworld.com/article/738e26219495"
-    }
-   ]
-  },
-  {
    "section": "tech",
    "developing": true,
    "published": "2026-11-20T23:54:00Z",
@@ -509,180 +641,6 @@
     {
      "name": "France 24",
      "url": "https://www.france24.com/en/americas/20261121-us-agriculture-department-fbi-hit-by-cyberattacks-media-report"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-20T22:51:00Z",
-   "title": "US jury convicts man of starting deadly 2025 Palisades Fire",
-   "why": "A federal jury in Los Angeles convicted Jonathan Rinderknecht, 30, of starting the blaze that became the January 2025 Palisades Fire, which killed 12 people. His first trial ended without a verdict in June. He faces five to 40 years in prison, prosecutors say.",
-   "matters": "The fire destroyed more than 6,800 buildings in Los Angeles and Malibu, Cal Fire says.",
-   "sources": [
-    {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/news/us-news/pacific-palisades-fire-retrial-jonathan-rinderknecht-rcna610336"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/losangeles/news/jonathan-rinderknecht-found-guilty-in-palisades-fire-case/"
-    },
-    {
-     "name": "AP (via ABC Australia)",
-     "url": "https://abc.net.au/news/2026-11-21/man-convicted-of-starting-2025-la-palisades-fire/107412326"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "published": "2026-11-20T22:00:00Z",
-   "title": "Child dies of measles in Virginia, first such death since 1978",
-   "why": "The Virginia Department of Health says a child aged under five who tested positive for measles has died. Officials say it is the state's first measles death since 1978. Virginia has 220 cases this year; US states have reported 12 measles deaths in 2026.",
-   "matters": "Health officials say two doses of the MMR vaccine give about 97% protection.",
-   "sources": [
-    {
-     "name": "Virginia Department of Health",
-     "url": "https://www.vdh.virginia.gov/news/public-relations-contacts/2026-news-releases/vdh-1st-measles-death-2026/"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://abcnews.com/Health/child-measles-dies-virginia-marking-states-1st-measles/story?id=138330916"
-    },
-    {
-     "name": "WJLA",
-     "url": "https://wjla.com/news/local/virginia-first-measles-death-since-1978-child-dies-measle-cases-health-sickness-outbreak-deaths-virginians-fever-rash-symptoms"
-    }
-   ]
-  },
-  {
-   "section": "curious",
-   "published": "2026-11-20T20:31:00Z",
-   "title": "Bolivian university holds guinea pig festival with races and fashion show",
-   "why": "Students at the Public University of El Alto, next to Bolivia's seat of government La Paz, held their second guinea pig festival on Friday. Guinea pigs raced, boxed, were weighed and paraded in costumes; the heaviest weighed 2.5 kilograms. A symbolic guinea pig wedding closed the event.",
-   "matters": "Organisers want to revive the Andean animal, domesticated there thousands of years ago, in Bolivian diets and rituals.",
-   "sources": [
-    {
-     "name": "AP (via ABC News)",
-     "url": "https://abcnews.com/International/wireStory/bolivian-festival-seeks-return-guinea-pig-nations-rituals-138333056"
-    },
-    {
-     "name": "EFE (via Infobae)",
-     "url": "https://www.infobae.com/america/agencias/2026/11/20/disfraces-competencias-investigaciones-y-una-boda-en-el-festival-del-cuy-en-bolivia/"
-    },
-    {
-     "name": "ABI (via Abya Yala TV)",
-     "url": "https://abyayala.tv.bo/la-upea-prepara-un-festival-para-mostrar-el-potencial-productivo-gastronomico-y-nutricional-del-cuy/"
-    }
-   ]
-  },
-  {
-   "section": "culture",
-   "published": "2026-11-20T20:28:00Z",
-   "title": "Grand Theft Auto VI launches after 13-year wait to record sales",
-   "why": "Rockstar Games says the video game took about $3.79bn in retail sales in its first day after going on sale on Thursday, nearly five times Grand Theft Auto V's first day in 2013. Reviews have been glowing: its Metacritic score is 99 out of 100.",
-   "matters": "Rockstar calls it the biggest launch of any entertainment product in history; the game cost more than $1bn to make.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261120-grand-theft-auto-vi-takes-record-3-8-bn-on-first-day-1"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-11-20T20:00:00Z",
-   "title": "Bitcoin falls below $60,000 for first time since July",
-   "why": "The cryptocurrency bitcoin dropped below $60,000 on Friday for the first time since July, Reuters reported, as a sell-off in AI-linked shares spread to riskier assets. Bloomberg put it 5.1% lower at about $58,333 late on Friday.",
-   "sources": [
-    {
-     "name": "Reuters (via GV Wire)",
-     "url": "https://gvwire.com/2026/11/20/bitcoin-falls-below-60000-level/"
-    },
-    {
-     "name": "Bloomberg (via SWI swissinfo)",
-     "url": "https://www.swissinfo.ch/eng/nasdaq-100-has-worst-week-since-2020-on-ai-drama:-markets-wrap/92410554"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/20/stocks-moving-the-most-today-live-updates.html"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-11-20T19:24:00Z",
-   "title": "Nvidia shares tumble after report of US regulator accounting inquiry",
-   "why": "Shares in US chipmaker Nvidia fell about 14% on Friday, CNBC reports, after Reuters said Securities and Exchange Commission staff were examining possible accounting issues. The SEC declined to comment; an inquiry is not a finding of wrongdoing. Nvidia has had seven straight weekly losses.",
-   "matters": "Nvidia's chips power much of the AI industry, so its troubles affect the wider stock market.",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html"
-    },
-    {
-     "name": "Reuters (via Investing.com)",
-     "url": "https://www.investing.com/news/stock-market-news/nvidia-shares-fall-10-as-report-of-sec-accounting-probe-adds-to-pressure-5042464"
-    },
-    {
-     "name": "Bloomberg (via SWI swissinfo)",
-     "url": "https://www.swissinfo.ch/eng/nasdaq-100-has-worst-week-since-2020-on-ai-drama:-markets-wrap/92410554"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "published": "2026-11-20T17:30:00Z",
-   "title": "Anthropic mathematician claims proof of Riemann hypothesis using Claude AI",
-   "why": "Levent Alpöge, a mathematician at the AI company Anthropic, said on Friday that, working with its Claude model, he had found a proof of the Riemann hypothesis, a problem about prime numbers open since 1859. He released it only in Lean, a language computers use to check proofs.",
-   "matters": "It is a $1m Millennium Prize problem; mathematicians say checking the proof and explaining it to humans will take time.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261120-anthropic-researcher-says-claude-solved-math-s-greatest-riddle"
-    },
-    {
-     "name": "Scientific American",
-     "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/"
-    },
-    {
-     "name": "TechCrunch",
-     "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-20T17:00:00Z",
-   "title": "US court jails Indian man over plot to kill Sikh separatist",
-   "why": "A federal judge in New York sentenced Indian national Nikhil Gupta to 235 months, more than 19 years, on Friday for plotting to have Sikh separatist Gurpatwant Singh Pannun killed. US prosecutors say an Indian intelligence officer directed the plot; India denies any involvement.",
-   "matters": "The case has strained relations between the United States and India, and between India and Canada.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot"
-    },
-    {
-     "name": "AFP (via Dawn)",
-     "url": "https://www.dawn.com/news/2045944/indian-man-jailed-over-us-murder-plot-against-sikh-separatist"
-    },
-    {
-     "name": "ThePrint",
-     "url": "https://theprint.in/india/us-court-sentences-nikhil-gupta-to-19-years-7-months-prison-in-pannun-assassination-case/3104692/"
     }
    ]
   },
@@ -718,41 +676,24 @@
    "changed": "Updated: NATO's chief pledged to defend Poland; NATO ambassadors meet in Brussels on Monday"
   },
   {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-20T10:00:00Z",
-   "title": "Boat carrying mourners capsizes in Nigeria, killing at least 24",
-   "why": "A boat taking mourners to a burial capsized on Friday on a river in Southern Ijaw, in Nigeria's southern Bayelsa State. The emergency agency NEMA says 24 bodies have been recovered and 24 people rescued; the search continues. Police blamed a mechanical fault.",
+   "section": "climate",
+   "changed": "Updated: reactions from the UN chief and governments",
+   "published": "2026-11-19T12:00:00Z",
+   "title": "COP31 climate talks in Türkiye end without a deal over fossil fuels",
+   "why": "The UN climate summit in Antalya, Türkiye, ended on Sunday, two days late, without an agreed final text. The EU and small island states rejected a draft that did not mention fossil fuels, which Saudi Arabia and Russia had opposed. UN chief António Guterres said he was 'deeply disappointed'.",
+   "matters": "Al Jazeera says it is the first UN climate summit since Copenhagen in 2009 to end without a deal adopted by all.",
    "sources": [
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/22/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria"
+     "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse"
     },
-    {
-     "name": "AFP (via Jamaica Observer)",
-     "url": "https://jamaicaobserver.com/2026/11/21/24-dead-in-nigeria-after-boat-capsizes-with-funeral-goers"
-    },
-    {
-     "name": "The News",
-     "url": "https://www.thenews.com.pk/latest/1424578-nigeria-death-toll-rises-to-24-after-boat-capsized-on-route-to-funeral"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "changed": "Updated: the talks ended on Sunday without a deal",
-   "published": "2026-11-19T12:00:00Z",
-   "title": "COP31 climate talks in Türkiye end without a deal over fossil fuels",
-   "why": "The UN climate summit in Antalya, Türkiye, ended on Sunday without an agreed final text, two days late. The EU, Panama and the Marshall Islands rejected a draft that did not name fossil fuels; Saudi Arabia, Russia and India had resisted such wording, NBC News reports.",
-   "matters": "Al Jazeera says it is the first UN climate summit since Copenhagen in 2009 to end without a deal adopted by all.",
-   "sources": [
     {
      "name": "France 24",
      "url": "https://www.france24.com/en/environment/20261121-latest-cop31-deal-sidesteps-fossil-fuels-amid-growing-divisions"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime"
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-23/cop-climate-change-negotiation-failure-a-sign-of-anger/107415518"
     },
     {
      "name": "NBC News",
