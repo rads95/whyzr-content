@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-23T01:43:00Z",
+ "updated": "2026-11-23T07:49:00Z",
  "items": [
+  {
+   "section": "money",
+   "published": "2026-11-23T06:00:00Z",
+   "title": "Belgian airports halt flights as unions strike against government cuts",
+   "why": "Air traffic controllers joined a national day of union action on Monday, halting flights at Brussels and Charleroi airports from 07:00 to 21:00 local time. About 59,500 passengers had been booked on 429 Brussels flights. Unions oppose Prime Minister Bart De Wever's austerity budget.",
+   "matters": "Airlines say it is the 11th strike affecting Belgian airspace in 11 months.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike"
+    },
+    {
+     "name": "Brussels Times",
+     "url": "https://www.brusselstimes.com/belgium/2416819/national-strike-no-flights-at-belgian-airports-only-two-metro-lines-running-in-brussels-tbtb"
+    },
+    {
+     "name": "RTBF",
+     "url": "https://www.rtbf.be/article/manifestation-nationale-du-23-novembre-paralysie-totale-des-aeroports-belges-tous-les-vols-sont-annules-11819121"
+    }
+   ]
+  },
   {
    "section": "culture",
    "published": "2026-11-23T01:30:00Z",
@@ -23,6 +44,49 @@
    ]
   },
   {
+   "section": "money",
+   "lead": true,
+   "published": "2026-11-23T01:00:00Z",
+   "title": "Asian shares fall after AI sell-off drives Wall Street into correction",
+   "why": "South Korea's Kospi closed 3.3% lower on Monday, after falling more than 5% at one point. On Friday the Nasdaq dropped 5.3%, wiping out its 2026 gains, and the S&P 500 fell 3.7%, more than 10% below its October peak. Nvidia shares fell about 13%.",
+   "matters": "Investors fear tech firms' huge AI spending may not pay off, and the falls touch savings and pensions worldwide.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount"
+    },
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261123-asian-tech-back-in-the-firing-line-as-traders-track-wall-st-rout"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/stocks-enter-correction-territory-ai-fears/"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-22T21:30:00Z",
+   "title": "Thailand's Jeeno Thitikul wins LPGA Tour Championship for third year running",
+   "why": "Jeeno Thitikul shot a bogey-free 65 to win the season-ending CME Group Tour Championship in Naples, Florida, on Sunday by two shots from Japan's Aki Iwai. The $4m prize, the biggest in women's golf, made her the LPGA's all-time top earner.",
+   "matters": "She passed Annika Sörenstam's career prize-money record, which had stood for 25 years.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261122-jeeno-wins-third-consecutive-lpga-tour-championship"
+    },
+    {
+     "name": "AP (via News4JAX)",
+     "url": "https://www.news4jax.com/sports/2026/11/22/jeeno-thitikul-cashes-in-at-lpga-finale-to-win-4m-prize-for-3rd-straight-time/"
+    },
+    {
+     "name": "Golf Today",
+     "url": "https://golftoday.co.uk/cme-group-tour-championship-2026-thitikul-wins-event-yamashita-wins-vare-trophy/"
+    }
+   ]
+  },
+  {
    "section": "world",
    "published": "2026-11-22T21:00:00Z",
    "title": "Democrats win largest US House majority since 1992 after recount",
@@ -40,6 +104,29 @@
     {
      "name": "Euronews",
      "url": "https://www.euronews.com/2026/11/22/midterms-us-democrats-secure-biggest-house-majority-in-decades"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "serious": true,
+   "developing": true,
+   "published": "2026-11-22T20:00:00Z",
+   "title": "Fighting near Congo hospital traps health workers in Ebola outbreak zone",
+   "why": "Health workers sheltered in a hospital maternity ward for more than 24 hours as fighting took place nearby in Ituri province, eastern DR Congo, WHO chief Tedros Adhanom Ghebreyesus said on Sunday. The WHO counts 11,613 confirmed cases and 5,678 deaths in the outbreak by 17 November.",
+   "matters": "It is the largest and deadliest Ebola outbreak recorded in the country, and violence is making it harder to contain.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region"
+    },
+    {
+     "name": "Reuters (via Arab News)",
+     "url": "https://www.arabnews.com/world/who-chief-says-fighting-near-congo-ebola-outbreak-area-disrupts-response-efforts-3013614"
+    },
+    {
+     "name": "WHO",
+     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630"
     }
    ]
   },
@@ -66,6 +153,27 @@
    "changed": "Updated: Alcaraz won Sunday's final"
   },
   {
+   "section": "world",
+   "published": "2026-11-22T19:00:00Z",
+   "title": "Netanyahu and Eisenkot parties end unity talks without a deal",
+   "why": "Benjamin Netanyahu's Likud and Gadi Eisenkot's Yashar party held more than four hours of coalition talks in Herzliya, Israel, on Sunday without agreement, and say they will meet again. They disagree over who would lead and over including far-right minister Itamar Ben-Gvir.",
+   "matters": "Eisenkot has until 6 December, with a possible two-week extension, to form a government after October's election.",
+   "sources": [
+    {
+     "name": "AFP (via Arab News)",
+     "url": "https://www.arabnews.com/middle-east/netanyahu-eisenkot-parties-end-talks-without-deal-on-forming-israel-govt-3013569"
+    },
+    {
+     "name": "Ynet",
+     "url": "https://www.ynetnews.com/article/rke0yyzkxl"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal"
+    }
+   ]
+  },
+  {
    "section": "sport",
    "published": "2026-11-22T18:30:00Z",
    "title": "Liverpool beat ten-man Manchester United 4-0 in Pochettino's first game",
@@ -82,6 +190,46 @@
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-22T18:00:00Z",
+   "title": "Poland says Russia twice plotted to kill Ukrainian-American rapper",
+   "why": "Poland's foreign ministry says Russian intelligence tried to kill the rapper Kyivstoner in Poland in August, where a Russian citizen was detained. Denmark says it foiled a second plot at a concert near Copenhagen in September, charging two men and expelling a Russian diplomat. Russia calls the claims unsubstantiated.",
+   "sources": [
+    {
+     "name": "AP (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/us/articles/poland-says-russia-allegedly-twice-181220051.html"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice"
+    },
+    {
+     "name": "TVP World",
+     "url": "https://tvpworld.com/96596048/poland-condemns-second-alleged-russian-plot-to-kill-rapper-kyivstoner"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "published": "2026-11-22T17:00:00Z",
+   "title": "New Hunger Games prequel opens with $225m worldwide box office",
+   "why": "The Hunger Games: Sunrise on the Reaping took an estimated $120m in North America and $105m in 84 other markets in its opening weekend, studio estimates show. It was the top film in the US despite competition from the launch of the video game Grand Theft Auto VI.",
+   "sources": [
+    {
+     "name": "AP (via ABC News)",
+     "url": "https://abcnews.com/Entertainment/wireStory/resurgent-hunger-games-big-box-office-despite-competition-138361740"
+    },
+    {
+     "name": "Variety Australia",
+     "url": "https://au.variety.com/2026/film/news/sunrise-on-the-reaping-box-office-hunger-games-opening-weekend-exceeds-expectations-42821/"
+    },
+    {
+     "name": "Yahoo Entertainment",
+     "url": "https://www.yahoo.com/entertainment/movies/article/hunger-games-sunrise-on-the-reaping-box-office-prequel-opens-to-120-million-the-franchises-biggest-debut-since-2014-194528847.html"
     }
    ]
   },
@@ -103,6 +251,48 @@
     {
      "name": "Speedcafe",
      "url": "https://speedcafe.com/motogp-news-2026-portugal-portimao-results-marc-marquez-wins-eighth-title-marco-bezzecchi-race-victory/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-22T13:00:00Z",
+   "title": "Thousands march in Istanbul against crackdown on opposition media",
+   "why": "Several thousand people marched through Istanbul's Beşiktaş district on Sunday, called out by the opposition New Party (Yeni Parti). It followed a police raid on the pro-opposition broadcaster Sözcü TV, where a government-appointed trustee took control and senior staff were arrested. The government accuses some journalists of spreading 'fake news'.",
+   "matters": "A media rights group, MLSA, says 25 journalists are currently jailed in Türkiye.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/asia-pacific/20261123-istanbul-turkey-crackdown-opposition-media-turkey"
+    },
+    {
+     "name": "Bianet",
+     "url": "https://bianet.org/haber/yeni-parti-den-ozgur-basina-sahip-cikma-cagrisi-325661"
+    },
+    {
+     "name": "Turkish Minute",
+     "url": "https://turkishminute.com/2026/11/23/thousands-rally-in-istanbul-against-crackdown-on-turkish-media/"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-11-22T13:00:00Z",
+   "title": "Delta software fault delays flights across US before Thanksgiving",
+   "why": "A fault in Delta Air Lines' system for calculating aircraft weight and balance delayed more than 1,600 flights across the US on Sunday, mostly at its Atlanta hub, ABC News reports. Delta said the system was fixed later that day and the outage was not caused by a hack.",
+   "matters": "US intelligence chief Jay Clayton warned of more 'glitches' as organisations upgrade systems after a run of US outages.",
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://abcnews.com/US/equipment-outage-atlanta-causes-1300-delta-flight-delays/story?id=138360900"
+    },
+    {
+     "name": "Atlanta News First",
+     "url": "https://www.atlantanewsfirst.com/2026/11/22/ground-stop-issued-delta-flights-en-route-atlanta/"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/23/us-intelligence-chief-warns-of-more-tech-outages-as-delta-suffers-fresh-atlanta-failure"
     }
    ]
   },
@@ -154,35 +344,35 @@
    "serious": true,
    "developing": true,
    "published": "2026-11-22T05:00:00Z",
-   "title": "Indonesia sweets factory fire kills at least three; dozens unaccounted for",
-   "why": "A fire at a sweets factory in Cikande, in Banten province west of Jakarta, has killed at least three people, officials say. Police have recovered several body bags; identifying victims by DNA could take weeks. Officials give differing counts of missing workers, from 29 to about 50.",
+   "title": "Indonesia factory fire: 24 body bags recovered and dozens still missing",
+   "why": "Rescuers had recovered 24 body bags from a burned sweets factory in Cikande, Banten province, west of Jakarta, by Sunday evening, officials say. Remains must be identified by DNA, which could take weeks. About 30 to 34 people are still missing, according to differing official counts.",
    "sources": [
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing"
+     "url": "https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site"
+    },
+    {
+     "name": "AP (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/world/articles/dozens-missing-rescuers-search-burned-040033957.html"
     },
     {
      "name": "ABC Australia",
      "url": "https://www.abc.net.au/news/2026-11-22/bodies-recovered-after-indonesian-factory-fire/107414720"
     },
     {
-     "name": "AsiaOne",
-     "url": "https://www.asiaone.com/asia/7-body-bags-recovered-50-missing-after-indonesian-factory-fire"
-    },
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261122-three-dead-36-missing-after-indonesia-factory-fire"
+     "name": "Antara",
+     "url": "https://en.antaranews.com/news/444587/dna-tests-needed-to-identify-victims-of-banten-factory-fire-police"
     }
    ],
-   "changed": "Updated: more remains recovered; official counts of missing workers differ"
+   "changed": "Updated: 24 body bags recovered; about 30 to 34 people still missing"
   },
   {
    "section": "world",
    "serious": true,
    "developing": true,
    "published": "2026-11-22T05:00:00Z",
-   "title": "Russian strikes on Kyiv region kill at least 12, Ukraine says",
-   "why": "Russian overnight strikes on Sunday killed at least 12 people in Ukraine's Kyiv region, officials say. The regional governor says nine died when an apartment block partly collapsed in Dymer, north of the capital. Rescuers are searching for 11 missing people, including two children.",
+   "title": "Russian strikes on Kyiv region kill at least 14, Ukraine says",
+   "why": "Russian strikes on Sunday killed at least 14 people in Ukraine's Kyiv region, Ukrainian officials say. The regional governor says ten died when an apartment block partly collapsed in Dymer, north of the capital; the mayor of Vyshneve says three died when a drone hit a grocery store.",
    "matters": "President Zelensky says Russia fired about 2,700 drones and 165 missiles at Ukraine this week.",
    "sources": [
     {
@@ -202,33 +392,37 @@
      "url": "https://www.ukrinform.net/rubric-ato/4187329-russia-launches-approximately-2700-drones-nearly-1460-glide-bombs-and-165-missiles-at-ukraine-in-one-week-zelensky.html"
     }
    ],
-   "changed": "Updated: the death toll rose to at least 12 and a child was pulled out alive"
+   "changed": "Updated: the death toll rose to at least 14"
   },
   {
    "section": "world",
-   "developing": true,
    "published": "2026-11-22T05:00:00Z",
-   "title": "Russian warship hit by suspected drone attack at Libya's Benghazi port",
-   "why": "A Russian navy corvette, the Merkury, was hit at dawn on Sunday while docked in Benghazi, eastern Libya, causing an explosion and fire, the eastern-based government says. Libyan military officials blame Ukrainian sea drones. Satellite images show the ship partly sunk. No one has claimed responsibility.",
+   "title": "Zelensky says Ukrainian sea drones sank Russian warship off Libya",
+   "why": "President Volodymyr Zelensky said on Monday that seven Ukrainian-made sea drones sank the Russian corvette Merkury at Benghazi, eastern Libya, and also hit the cargo ship Angara, which he says carried weapons. Libya's eastern-based government condemned the attack. The UN mission in Libya called for an independent investigation.",
    "matters": "It follows Saturday's drone strike on a Russian cargo ship in the Baltic, suggesting the war is reaching further from Ukraine.",
    "sources": [
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya"
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261123-live-russian-strikes-kill-at-least-15-people-in-kyiv-region-ukraine-says"
     },
     {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base"
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya"
+    },
+    {
+     "name": "Interfax-Ukraine",
+     "url": "https://en.interfax.com.ua/news/general/1240671.html"
+    },
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261123-un-urges-probe-after-russian-ship-attacked-off-libya"
     },
     {
      "name": "CBS News (with AP)",
      "url": "https://www.cbsnews.com/news/russian-warship-struck-suspected-ukrainian-sea-drones-benghazi-naval-base-libya-officials/"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/22/suspected-drone-strike-hits-russian-ship-at-libyas-benghazi-port-raising-regional-security"
     }
-   ]
+   ],
+   "changed": "Updated: Zelensky says Ukraine carried out the attack"
   },
   {
    "section": "tech",
@@ -254,22 +448,23 @@
   {
    "section": "sport",
    "published": "2026-11-22T03:00:00Z",
-   "title": "India post record 720-9 in first Test against New Zealand",
-   "why": "India declared on 720 for nine at the Basin Reserve in Wellington, New Zealand, the highest Test total ever made in the country. KL Rahul scored 136 and Rishabh Pant 128. New Zealand closed day four on 119 for two, 233 runs behind.",
+   "title": "New Zealand hold on to draw first Test after India's record 720",
+   "why": "New Zealand batted out the final day in Wellington to draw with India, finishing on 239 for five, still 113 runs behind, after following on. India had declared on 720 for nine, the highest Test total in New Zealand. The second Test starts in Christchurch on Friday.",
    "sources": [
     {
      "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261122-new-zealand-reach-119-2-to-trail-by-233-after-india-s-record-720-9"
+     "url": "https://www.france24.com/en/live-news/20261123-new-zealand-battle-to-239-5-to-draw-first-test-against-india"
     },
     {
      "name": "RNZ",
-     "url": "https://www.rnz.co.nz/news/sport/2727693/cricket-nz-cling-on-in-wellington-after-india-build-mammoth-lead"
+     "url": "https://www.rnz.co.nz/news/sport/2744440/black-caps-deny-india-victory-in-first-test-by-holding-on-to-last-five-wickets"
     },
     {
      "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-22/cricket-india-highest-test-score-against-new-zealand/107414256"
+     "url": "https://www.abc.net.au/news/2026-11-23/new-zealand-bat-out-draw-with-india-in-first-test/107418280"
     }
-   ]
+   ],
+   "changed": "Updated: the match ended in a draw"
   },
   {
    "section": "world",
@@ -518,117 +713,12 @@
    "changed": "Updated: the ship has been towed out of Finnish waters"
   },
   {
-   "section": "world",
-   "published": "2026-11-21T07:00:00Z",
-   "title": "Phumzile Mlambo-Ngcuka, South Africa's first woman deputy president, dies at 71",
-   "why": "Phumzile Mlambo-Ngcuka died on Friday evening of complications from a medical procedure about two weeks earlier, her family said. She was South Africa's deputy president from 2005 to 2008 and led UN Women from 2013 to 2021.",
-   "matters": "President Cyril Ramaphosa and UN chief António Guterres led tributes to a long-time campaigner for women's rights.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261121-ex-s-african-deputy-president-un-women-s-chief-dies"
-    },
-    {
-     "name": "SAnews",
-     "url": "https://www.sanews.gov.za/south-africa/south-africa-mourns-former-deputy-president-phumzile-mlambo-ngcuka"
-    },
-    {
-     "name": "Mail & Guardian",
-     "url": "https://mg.co.za/news/south-africa/2026-11-21-tributes-pour-in-for-mlambo-ngcuka/"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "published": "2026-11-21T06:00:00Z",
-   "title": "Toxic alcohol kills at least 17 in India's Manipur state, officials say",
-   "why": "At least 17 people have died since mid-November in India's north-eastern Manipur state after drinking suspected bootleg liquor, a state government spokesperson said. Hundreds were treated in hospitals in the state capital, Imphal, some needing dialysis. Six people have been arrested and an inquiry ordered.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india"
-    },
-    {
-     "name": "PTI (via ThePrint)",
-     "url": "https://theprint.in/india/11-dead-in-manipur-over-spurious-liquor-consumption-over-300-hospitalised/3104842/"
-    },
-    {
-     "name": "National Herald",
-     "url": "https://www.nationalheraldindia.com/national/manipur-spurious-liquor-tragedy-deaths-hospitalised-arrests"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-21T05:00:00Z",
-   "title": "Russian missile strike on Zelensky's hometown kills two, wounds 60",
-   "why": "Russian ballistic missiles hit Kryvyi Rih in central Ukraine on Friday night. Local officials say a seven-year-old boy and a 20-year-old woman were killed and 60 people were wounded, including six children. About 25 apartment buildings, a hospital and schools were damaged, the city's head says.",
-   "sources": [
-    {
-     "name": "AP (via ABC News)",
-     "url": "https://abcnews.com/International/wireStory/ballistic-missile-attack-zelenskyys-hometown-central-ukraine-kills-138340723"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261121-russia-attacks-zelensky-s-hometown-ukraine-reaffirms-wish-to-join-nato"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-21T04:40:00Z",
-   "title": "Cricket Australia gives Pat Cummins unanimous backing as Test captain",
-   "why": "Cricket Australia's board says Pat Cummins keeps its 'unanimous support' as captain, after former teammates Usman Khawaja and Cameron Bancroft said the 2018 ball-tampering plot was widely known. Cummins denies knowing. The board ruled out a new inquiry but set up a forum for players to share accounts.",
-   "matters": "Separately, Fox Cricket says Khawaja and David Warner will be 'rested' from its commentary for the coming weeks.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261121-cummins-has-cricket-australia-s-unanimous-support-to-remain-captain"
-    },
-    {
-     "name": "AP (via Yahoo Sports)",
-     "url": "https://sports.yahoo.com/articles/cricket-australia-backs-pat-cummins-050805264.html"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-21/cricket-australia-pat-cummins-captaincy-sandpaper-ball-tampering/107412194"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-11-21T03:45:00Z",
-   "title": "Nations agree to work on rules for AI 'killer robots' by 2028",
-   "why": "At UN-backed talks in Geneva, the 128 states in the Convention on Certain Conventional Weapons agreed early on Saturday to 'elaborate' an instrument on lethal autonomous weapons over two years. Nearly 100 countries wanted binding rules sooner; campaigners say the US and Russia blocked stronger wording.",
-   "matters": "Weapons that choose and attack targets without a human decision are already being developed and tested.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/technology/20261120-countries-open-to-international-pact-on-killer-robots-after-un-talks"
-    },
-    {
-     "name": "AP (via Boston Globe)",
-     "url": "https://www.bostonglobe.com/2026/11/21/world/ai-killer-robots-un-more-talks/"
-    }
-   ]
-  },
-  {
    "section": "tech",
    "developing": true,
    "published": "2026-11-20T23:54:00Z",
    "title": "US media report hacks at FBI crime database and farm agency",
    "why": "The FBI is investigating an apparent breach of its National Crime Information Center, used by police across the US, NBC News and CNN reported on Friday. Separately, a US Department of Agriculture system for paying farmers was hit by a cyberattack, officials said. It is unclear who is responsible.",
-   "matters": "The FBI database holds warrant and background-check records used by police every day.",
+   "matters": "President Trump said on Saturday the reported FBI hack was 'not good' but might reveal things 'we would have never learned'.",
    "sources": [
     {
      "name": "NBC News",
@@ -641,8 +731,13 @@
     {
      "name": "France 24",
      "url": "https://www.france24.com/en/americas/20261121-us-agriculture-department-fbi-hit-by-cyberattacks-media-report"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/22/reported-fbi-hack-not-good-but-could-have-benefits-trump-says"
     }
-   ]
+   ],
+   "changed": "Updated: President Trump commented on the reported FBI hack"
   },
   {
    "section": "world",
@@ -700,7 +795,6 @@
      "url": "https://www.nbcnews.com/science/climate-change/cop31-climate-talks-break-angry-dispute-fossil-fuels-rcna610656"
     }
    ],
-   "lead": true,
    "serious": false
   }
  ]
