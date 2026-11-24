@@ -1,6 +1,136 @@
 {
- "updated": "2026-11-23T13:44:00Z",
+ "updated": "2026-11-24T01:47:00Z",
  "items": [
+  {
+   "section": "world",
+   "published": "2026-11-23T19:00:00Z",
+   "title": "Quebec court says lawmakers must swear oath to King Charles",
+   "why": "Judge Ian Demers of Quebec's Superior Court on Monday suspended a 2022 law that let members of the Canadian province's National Assembly skip the oath to the British monarch. Premier Paul St-Pierre Plamondon, who calls the oath 'humiliating', says his government will appeal.",
+   "matters": "The ruling could delay the new legislature, due to open on 1 December after October's election.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261123-canada-court-rules-lawmakers-must-swear-royal-oath-risking-quebec-chaos"
+    },
+    {
+     "name": "CTV News",
+     "url": "https://www.ctvnews.ca/montreal/article/quebec-judge-suspends-law-that-removed-mandatory-oath-to-the-king/"
+    },
+    {
+     "name": "Canadian Lawyer",
+     "url": "https://www.canadianlawyermag.com/news/general/constitution-not-a-la-carte-menu-qc-court-pauses-law-exempting-lawmakers-from-swearing-oath-to-king/394955"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-23T16:00:00Z",
+   "title": "UK to host 2035 Women's World Cup; US-led bid gets 2031",
+   "why": "FIFA's member associations approved both unopposed bids by acclamation at a virtual meeting on Monday. England, Scotland, Wales and Northern Ireland will host in 2035. The United States, Mexico, Costa Rica and Jamaica will host in 2031, the first edition with 48 teams.",
+   "matters": "It will be the first World Cup played in the UK since the men's tournament in England in 1966.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/23/united-kingdom-to-host-2035-womens-world-cup-fifa-confirms"
+    },
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261123-usa-joint-bid-and-uk-confirmed-as-2031-and-2035-women-s-world-cup-hosts"
+    },
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/football/news/13615555/womens-world-cup-uk-announced-as-2035-hosts-as-costa-rica-jamaica-mexico-and-usa-host-in-2031"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-23T15:30:00Z",
+   "title": "Bangladesh garment workers reject factory owners' pay offer",
+   "why": "Talks at Bangladesh's garment wage board in Dhaka ended on Monday without agreement after workers' representatives rejected the owners' undisclosed offer. Workers want a monthly minimum of 32,000 taka (about $258), up from 12,500 taka. Talks resume on Tuesday afternoon.",
+   "matters": "Strikes have closed about 500 factories in an industry that employs about four million people, Al Jazeera reports.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/23/protesting-bangladesh-garment-workers-reject-pay-offer"
+    },
+    {
+     "name": "The Daily Star",
+     "url": "https://thedailystar.net/business/economy/rmg/news/rmg-wage-board-meeting-adjourned-until-tomorrow-4331246"
+    },
+    {
+     "name": "TBS News",
+     "url": "https://www.tbsnews.net/economy/rmg/rmg-workers-demand-tk30000-minimum-wage-wage-board-holds-third-meeting-1611381"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-23T15:00:00Z",
+   "title": "EU proposes banning Russian teams from sport in new sanctions package",
+   "why": "The European Commission proposed its 22nd package of sanctions on Russia on Monday. It would bar Russian teams and athletes from competing under Russia's flag at EU events, restrict 60 Russian banks and ban entry to Russians who fought in Ukraine. All 27 EU countries must agree.",
+   "matters": "Ursula von der Leyen says the EU will keep proposing sanctions until Russia shows genuine intent for lasting peace.",
+   "sources": [
+    {
+     "name": "Reuters (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/articles/eu-commission-proposes-22nd-sanctions-151739377.html"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal"
+    },
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/eu-proposes-package-of-russian-sports-sanctions-visa-bans-and-a-krygyzstan-crypto-blockade/"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-11-23T14:00:00Z",
+   "title": "Hacker who leaked Grand Theft Auto VI clips sentenced to seven years",
+   "why": "Arion Kurtaj, 21, was sentenced at Woolwich Crown Court in London on Monday for hacking Rockstar Games, BT/EE, Revolut and Uber in 2021 and 2022. He leaked 90 clips of the unreleased game. He walked free because of the time he had already spent in custody.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261124-uk-grand-theft-auto-vi-hacker-gets-7-year-sentence"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/23/dont-waste-those-talents-gta-vi-hacker-released-on-licence"
+    },
+    {
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/news/2026/1123/1600335-gta-hacker/"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "lead": true,
+   "published": "2026-11-23T13:00:00Z",
+   "title": "Nvidia brings back Jensen Huang as chief after Trump intervention",
+   "why": "Nvidia's board reinstated co-founder Jensen Huang as chief executive on Monday, 11 days after he resigned over affairs, including one with a woman US officials suspect of spying for China. China denies she is a spy. President Trump says he helped convince the board.",
+   "matters": "Democrats and some Republicans want investigations; Huang faces questions from House committees on 1 December and a Senate committee on 3 December.",
+   "sources": [
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/americas/20261123-nvidia-board-reinstates-disgraced-jensen-huang-as-ceo-president-says"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-24/nvidia-ceo-jensen-huang-reinstated/107419102"
+    },
+    {
+     "name": "Nvidia",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+    }
+   ]
+  },
   {
    "section": "money",
    "published": "2026-11-23T12:30:00Z",
@@ -18,6 +148,28 @@
     {
      "name": "Notícias de Aveiro",
      "url": "https://www.noticiasdeaveiro.pt/lego-anuncia-fabrica-em-estarreja/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-23T12:00:00Z",
+   "title": "Iran flogs singer Parastoo Ahmadi over concert without headscarf",
+   "why": "Singer Parastoo Ahmadi and four members of her team were each given 74 lashes in Qom on Monday, her lawyer Mostafa Nili told Iranian media. A court convicted them over a 2024 online concert in which she sang without a hijab. Rights groups call flogging torture.",
+   "matters": "They also face two-year bans on performing and on leaving Iran.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/23/iran-carries-out-flogging-of-singer-who-performed-without-hijab"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/23/iran-lashes-female-singer-and-her-team-74-times-each-over-vulgar-concert-with-no-audience/"
     }
    ]
   },
@@ -89,6 +241,49 @@
    ]
   },
   {
+   "section": "science",
+   "published": "2026-11-23T06:00:00Z",
+   "title": "Astronomers say an Earth-sized planet may be hiding beyond Neptune",
+   "why": "Simulations by astronomers in Japan, Australia and the US suggest a planet of 1.5 to 2 times Earth's mass could orbit at 350 to 500 times Earth's distance from the Sun, explaining the odd orbits of distant icy objects. The study is in Monthly Notices of the Royal Astronomical Society.",
+   "matters": "Nobody has seen it yet; the new Vera C. Rubin Observatory in Chile may be able to confirm or rule it out.",
+   "sources": [
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-24/qld-hypothetical-ninth-planet-research-modelling/107418880"
+    },
+    {
+     "name": "University of Southern Queensland",
+     "url": "https://www.unisq.edu.au/news/2026/11/hidden-planet"
+    },
+    {
+     "name": "ZME Science",
+     "url": "https://www.zmescience.com/space/second-hidden-planet-after-planet-nine/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-23T05:00:00Z",
+   "title": "Three Salvadoran soldiers killed in Haiti blast, Bukele says",
+   "why": "El Salvador's President Nayib Bukele says three soldiers died in Haiti on Friday when a grenade they were trying to remove from a drone exploded. They were among about 2,500 Salvadoran troops sent to fight gangs after four Salvadorans went missing in an attack on 18 October.",
+   "matters": "Bukele says any soldier who wants to leave Haiti can do so without reprisal.",
+   "sources": [
+    {
+     "name": "AP (via ABC News)",
+     "url": "https://abcnews.com/International/wireStory/bukele-reveals-circumstances-3-salvadoran-soldiers-died-fighting-138378203"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/world/haiti/two-salvadorans-killed-haiti-handling-explosives-first-official-deaths-rcna610493"
+    },
+    {
+     "name": "UPI",
+     "url": "https://upi.com/Top_News/World-News/2026/11/23/latam-elsalvador-haiti-soldiers-fund/7321795442497"
+    }
+   ]
+  },
+  {
    "section": "culture",
    "published": "2026-11-23T01:30:00Z",
    "title": "Molly Meldrum, Australian music presenter and Countdown host, dies at 83",
@@ -111,23 +306,23 @@
   },
   {
    "section": "money",
-   "lead": true,
+   "changed": "Updated: Wall Street rebounded after Nvidia reinstated its chief executive",
    "published": "2026-11-23T01:00:00Z",
-   "title": "Asian shares fall after AI sell-off drives Wall Street into correction",
-   "why": "South Korea's Kospi closed 3.3% lower on Monday, after falling more than 5% at one point. On Friday the Nasdaq dropped 5.3%, wiping out its 2026 gains, and the S&P 500 fell 3.7%, more than 10% below its October peak. Nvidia shares fell about 13%.",
-   "matters": "Investors fear tech firms' huge AI spending may not pay off, and the falls touch savings and pensions worldwide.",
+   "title": "Wall Street rebounds sharply as Nvidia shares jump 31%",
+   "why": "US stocks surged on Monday after Nvidia reinstated its chief executive. The S&P 500 rose 4.7% and the Nasdaq 6.5%, AP reports, after Friday's AI-driven sell-off. Nvidia shares rose 31.5%, adding about $950bn in value, which NBC News calls the biggest one-day gain in market history.",
+   "matters": "Many people's savings and pensions are invested in the big tech firms that drive these markets.",
    "sources": [
     {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount"
+     "name": "AP (via WSVN)",
+     "url": "https://wsvn.com/news/us-world/nvidia-ai-stocks-surge-huang-return/"
     },
     {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261123-asian-tech-back-in-the-firing-line-as-traders-track-wall-st-rout"
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/business/markets/stocks-rebound-ai-tech-selloff-nvidia-rcna610833"
     },
     {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/stocks-enter-correction-territory-ai-fears/"
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-24/asx-markets-business-news-live-updates-nov-24-2026/107419524"
     }
    ]
   },
@@ -569,69 +764,6 @@
    ]
   },
   {
-   "section": "sport",
-   "published": "2026-11-22T03:00:00Z",
-   "title": "New Zealand hold on to draw first Test after India's record 720",
-   "why": "New Zealand batted out the final day in Wellington to draw with India, finishing on 239 for five, still 113 runs behind, after following on. India had declared on 720 for nine, the highest Test total in New Zealand. The second Test starts in Christchurch on Friday.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261123-new-zealand-battle-to-239-5-to-draw-first-test-against-india"
-    },
-    {
-     "name": "RNZ",
-     "url": "https://www.rnz.co.nz/news/sport/2744440/black-caps-deny-india-victory-in-first-test-by-holding-on-to-last-five-wickets"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-23/new-zealand-bat-out-draw-with-india-in-first-test/107418280"
-    }
-   ],
-   "changed": "Updated: the match ended in a draw"
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-22T02:00:00Z",
-   "title": "Drone strikes kill four in Sudan's capital and damage UN building",
-   "why": "Drone attacks early on Sunday killed at least four people in and around Khartoum, Sudan's capital, according to local reports, and damaged a UN building with staff inside, the UN says. The paramilitary Rapid Support Forces were blamed. Sudan's army says the drones came from Ethiopia, which denies it.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-23/deadly-drone-strikes-in-khartoum-sudan-war/107415908"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/africa/20261122-drone-strikes-hit-homes-and-un-building-in-sudan-s-khartoum"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-22T00:00:00Z",
-   "title": "Settlers set Palestinian cars on fire in West Bank villages, reports say",
-   "why": "Israeli settlers set fire to about 12 vehicles and sprayed slogans on homes in Kafr Malik, Deir Abu Mash'al and Deir al-Sudan, near Ramallah in the occupied West Bank, early on Sunday, Palestinian sources say. Israel's army condemned the attacks and police opened an investigation.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank"
-    },
-    {
-     "name": "AFP (via Free Malaysia Today)",
-     "url": "https://www.freemalaysiatoday.com/category/world/2026/11/22/israel-investigates-west-bank-fires-blamed-on-settle"
-    },
-    {
-     "name": "Al-Quds",
-     "url": "https://alquds.com/en/posts/276808-series-of-settler-attacks-in-the-west-bank-result-in-the-burning-of-vehicles-and"
-    }
-   ]
-  },
-  {
    "section": "world",
    "serious": true,
    "developing": true,
@@ -662,126 +794,6 @@
     }
    ],
    "changed": "Updated: Iran vowed to counter the US blockade after Trump's threat"
-  },
-  {
-   "section": "science",
-   "published": "2026-11-21T18:24:00Z",
-   "title": "BepiColombo spacecraft enters orbit around Mercury after eight-year journey",
-   "why": "The European–Japanese BepiColombo mission entered orbit around Mercury on Saturday after a 37-minute engine burn, the European Space Agency says. It launched in 2018. The burn ended early because of a software issue, but ESA says the spacecraft is safe. Its two orbiters separate on 9–10 December.",
-   "matters": "It is only the second mission to orbit Mercury, the planet closest to the Sun; science work starts in April 2027.",
-   "sources": [
-    {
-     "name": "ESA",
-     "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury"
-    },
-    {
-     "name": "Space.com",
-     "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/22/bepicolombo-space-probe-enters-mercurys-orbit-after-eight-year-journey"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-21T18:00:00Z",
-   "title": "England beat New Zealand 37-12 for record win over All Blacks",
-   "why": "England scored five tries to beat New Zealand 37-12 at Twickenham in London on Saturday in the Nations Championship. The 25-point margin is England's largest against the All Blacks and New Zealand's heaviest defeat in the northern hemisphere.",
-   "sources": [
-    {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/rugby-union/news/13614346/nations-championship-england-37-12-new-zealand-most-complete-performance-under-steve-borthwick-sees-hosts-stay-in-title-hunt"
-    },
-    {
-     "name": "AP (via ABC News)",
-     "url": "https://abcnews.com/Sports/wireStory/england-rips-apart-new-zealand-37-12-twickenham-138345645"
-    },
-    {
-     "name": "The Rugby Championship (SANZAAR)",
-     "url": "https://super.rugby/therugbychampionship/news/rd6-england-37-new-zealand-12/"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-11-21T15:00:00Z",
-   "title": "EU and Indonesia sign trade deal after ten years of talks",
-   "why": "The European Union and Indonesia signed a trade agreement and an investment protection deal in Brussels on Saturday. Indonesia says 90.4% of its goods will enter the EU duty-free. The EU gains easier access to a market of 280 million people and to nickel for batteries.",
-   "matters": "Both sides still need to ratify it; Indonesia expects it to take effect in 2027.",
-   "sources": [
-    {
-     "name": "Antara",
-     "url": "https://en.antaranews.com/news/444407/indonesia-eu-seal-ieu-cepa-to-boost-trade-cooperation"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/video/20261121-eu-indonesia-agreement-sees-the-light-after-ten-years-of-negotiations"
-    },
-    {
-     "name": "European Commission",
-     "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/indonesia_en"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "developing": true,
-   "published": "2026-11-20T23:54:00Z",
-   "title": "US media report hacks at FBI crime database and farm agency",
-   "why": "The FBI is investigating an apparent breach of its National Crime Information Center, used by police across the US, NBC News and CNN reported on Friday. Separately, a US Department of Agriculture system for paying farmers was hit by a cyberattack, officials said. It is unclear who is responsible.",
-   "matters": "President Trump said on Saturday the reported FBI hack was 'not good' but might reveal things 'we would have never learned'.",
-   "sources": [
-    {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/politics/justice-department/fbi-investigating-potential-breach-crime-database-rcna610536"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://abcnews.com/GMA/Food/new-government-report-sparks-concern-potential-cyberattack-us/story?id=138316014"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261121-us-agriculture-department-fbi-hit-by-cyberattacks-media-report"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/22/reported-fbi-hack-not-good-but-could-have-benefits-trump-says"
-    }
-   ],
-   "changed": "Updated: President Trump commented on the reported FBI hack"
-  },
-  {
-   "section": "world",
-   "developing": true,
-   "published": "2026-11-20T10:30:00Z",
-   "title": "Poland says Russian missiles crashed on its soil near European drills",
-   "why": "Poland says two Russian missiles and a drone fell on its territory on Friday during an attack on Ukraine, near Nowy Lipowiec, about 60km from the Ukrainian border. Nobody was hurt. In Warsaw on Saturday, NATO chief Mark Rutte said the alliance 'will defend every inch of Polish territory'.",
-   "matters": "NATO's North Atlantic Council meets on Monday to discuss the incident, which Poland calls a deliberate provocation.",
-   "sources": [
-    {
-     "name": "France 24 (with Reuters, AFP)",
-     "url": "https://www.france24.com/en/europe/20261120-poland-says-russian-missile-hit-its-territory-during-attack-on-ukraine"
-    },
-    {
-     "name": "AP (via CP24)",
-     "url": "https://www.cp24.com/news/world/2026/11/20/russian-missiles-crash-in-poland-was-likely-an-intentional-provocation-polish-prime-minister-says/"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/20/unidentified-object-falls-in-eastern-poland-amid-major-russian-attack-on-ukraine"
-    },
-    {
-     "name": "Al Jazeera (with AP, Reuters)",
-     "url": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations"
-    },
-    {
-     "name": "Reuters (via Arab News)",
-     "url": "https://www.arabnews.com/world/nato-will-defend-every-inch-of-polish-territory-rutte-says-3013390"
-    }
-   ],
-   "changed": "Updated: NATO's chief pledged to defend Poland; NATO ambassadors meet in Brussels on Monday"
   }
  ]
 }
