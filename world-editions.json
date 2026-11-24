@@ -7236,5 +7236,173 @@
         ]
       }
     ]
+  },
+  {
+    "id": "065",
+    "published": "2026-11-26",
+    "title": "A LEGO factory for Portugal, Márquez’s record-equalling eighth and mountains under the ice",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Is this true?",
+        "claim": "On Monday 23 November the Danish toy maker LEGO said it will build a new factory worth about €1 billion in Portugal.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this is true. LEGO chose Estarreja, a town south of Porto in northern Portugal, for a plant costing around €1 billion that should employ more than 1,000 people once it is running. Building work is due to start in 2027 and production in 2030. It will be LEGO’s eighth factory in the world and its fourth in Europe, and the company says it needs it because demand for its bricks keeps growing, especially in Europe.",
+        "sources": [
+          [
+            "Reuters (via Investing.com) · Lego to invest around €1 billion in new Portugal factory to meet growing demand",
+            "https://www.investing.com/news/stock-market-news/lego-to-invest-over-1-billion-in-new-portugal-factory-to-meet-growing-demand-5045222"
+          ],
+          [
+            "Euronews · LEGO to build €1bn factory in Portugal, creating more than 1,000 jobs",
+            "https://www.euronews.com/2026/11/23/lego-to-build-1bn-factory-in-portugal-creating-more-than-1000-jobs"
+          ],
+          [
+            "Dinheiro Vivo · “Não me deixem ficar mal”: Montenegro pede rapidez no licenciamento da Lego em Estarreja",
+            "https://dinheirovivo.dn.pt/empresas/no-me-deixem-ficar-mal-montenegro-pede-rapidez-no-licenciamento-da-lego-em-estarreja"
+          ],
+          [
+            "RTÉ (Reuters) · Lego to invest around €1 billion in new Portugal factory",
+            "https://www.rte.ie/news/business/2026/1123/1600310-lego-picks-portugal-for-8th-factory/"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three riders from motorcycle racing’s MotoGP title race. Find their partners.",
+        "pairs": [
+          [
+            "Marc Márquez",
+            "The Spaniard who clinched his eighth top-class world title by finishing eighth in Portugal"
+          ],
+          [
+            "Giacomo Agostini",
+            "The Italian legend whose record of eight top-class titles has now been matched"
+          ],
+          [
+            "Marco Bezzecchi",
+            "The Italian rider who won the race in Portugal on the day the title was decided"
+          ]
+        ],
+        "why": "The pairs are: Marc Márquez – the new eight-time champion; Giacomo Agostini – the record holder he has now matched; Marco Bezzecchi – the winner of the race in Portugal. MotoGP is the top class of world motorcycle racing. At the Portuguese Grand Prix on Sunday 22 November, Márquez, a 33-year-old Spaniard who rides for Ducati, only needed a steady finish, and eighth place was enough to make sure of the title. That gives him eight top-class titles, the same as Agostini, who won his between 1966 and 1975. It was a big comeback: Márquez broke a foot in a crash during the season and was once more than 100 points behind Bezzecchi, who rides for Aprilia.",
+        "sources": [
+          [
+            "Al Jazeera · MotoGP maestro Marquez makes history with eighth premier-class world title",
+            "https://www.aljazeera.com/sports/2026/11/23/marc-marquez-motogp-world-title-eighth-premier-class-motorcyling-portugal-gp"
+          ],
+          [
+            "Gulf News (AFP) · Spaniard Marc Marquez rides to eighth MotoGP world title",
+            "https://gulfnews.com/amp/story/sport/motorsport/spaniard-marc-marquez-rides-to-eighth-motogp-world-title-1.500757108"
+          ],
+          [
+            "The Tribune (ANI) · Marc Marquez wins eighth MotoGP world title, equals Giacomo Agostini’s record",
+            "https://www.tribuneindia.com/news/giacomo-agostini/marc-marquez-wins-eighth-motogp-world-title-equals-giacomo-agostinis-record"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "A building finished in 1874, just metres from the Parthenon in Athens, the first in modern Greece built specially as a museum",
+          "Its treasures moved to a big new museum at the foot of the hill, and its doors then stayed shut for almost 20 years",
+          "At a ceremony on 23 November, Greece’s prime minister again asked for famous sculptures kept in London to come home"
+        ],
+        "options": [
+          "Greece reopens the Old Acropolis Museum",
+          "The British Museum hands back the Parthenon Marbles",
+          "Archaeologists find a lost temple under Athens",
+          "The Olympic flame is lit for the next Winter Games"
+        ],
+        "correct": 0,
+        "why": "It was: Greece reopening the Old Acropolis Museum. This small museum on the Acropolis hill in Athens held finds from the site for well over a century, until they moved to the new Acropolis Museum, and it then stood closed for almost 20 years, used mainly for offices and storage. After a renovation it reopened on Monday 23 November with new exhibitions, including a digital reconstruction of the Parthenon’s carved frieze. At the ceremony Prime Minister Kyriakos Mitsotakis repeated that bringing back the Parthenon Marbles – sculptures taken from the temple in the early 1800s and now held by the British Museum in London – remains Greece’s ‘non-negotiable’ national goal. The marbles have not been returned, so the second option is wrong.",
+        "sources": [
+          [
+            "dpa (via Yahoo News) · Old Acropolis Museum reopens after almost 20 years",
+            "https://www.yahoo.com/news/world/articles/old-acropolis-museum-reopens-almost-171831344.html"
+          ],
+          [
+            "Euronews · ‘Return the Marbles’: Greece renews demand for Parthenon relics at Acropolis Museum reopening",
+            "https://www.euronews.com/2026/11/23/return-the-marbles-greece-renews-demand-for-parthenon-relics-at-acropolis-museum-reopening"
+          ],
+          [
+            "To Vima · Mitsotakis at Old Acropolis Museum: No deal on Marbles ownership",
+            "https://www.tovima.com/politics/mitsotakis-at-old-acropolis-museum-no-deal-on-marbles-ownership/"
+          ],
+          [
+            "Proto Thema · Mitsotakis: The Acropolis was not built to be carved up",
+            "https://en.protothema.gr/2026/11/23/kyriakos-mitsotakis-live-coverage-of-the-reopening-of-the-old-acropolis-museum/"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "Football World Cups, past and future: put these in order, earliest first.",
+        "items": [
+          "The UK’s four nations – England, Scotland, Wales and Northern Ireland – host the Women’s World Cup together",
+          "England hosts the men’s World Cup, the last World Cup held in the UK",
+          "The United States, Mexico, Costa Rica and Jamaica host the first Women’s World Cup with 48 teams"
+        ],
+        "correctOrder": [
+          1,
+          2,
+          0
+        ],
+        "why": "The right order is: England’s men’s World Cup (1966), then the first 48-team Women’s World Cup in the United States, Mexico, Costa Rica and Jamaica (2031), then the UK’s Women’s World Cup (2035). On Monday 23 November FIFA, world football’s governing body, confirmed both future hosts at an online meeting of its member countries, approving each bid by acclamation (by general agreement, without a contested vote). The UK’s joint bid was the only one for 2035, and it will be the first World Cup played in the UK since England hosted and won the men’s tournament in 1966.",
+        "sources": [
+          [
+            "FIFA · Extraordinary FIFA Congress appoints hosts of 2031 and 2035 editions of FIFA Women’s World Cup",
+            "https://inside.fifa.com/organisation/congress/media-releases/extraordinary-congress-appoints-hosts-2031-2035-womens-world-cup"
+          ],
+          [
+            "The Guardian (via AOL) · ‘Celebrate, inspire, unite’: UK confirmed as host of 2035 Women’s World Cup",
+            "https://www.aol.co.uk/articles/uk-confirmed-host-2035-women-150918000.html"
+          ],
+          [
+            "Euronews · United Kingdom to host 2035 Women’s World Cup, FIFA confirms",
+            "https://www.euronews.com/2026/11/23/united-kingdom-to-host-2035-womens-world-cup-fifa-confirms"
+          ],
+          [
+            "NBC News (AP) · U.S. set to host Women’s World Cup in 2031; U.K. to host the 2035 competition",
+            "https://www.nbcnews.com/sports/soccer/us-womens-world-cup-2031-rcna199469"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "Scientists studying tiny crystals from around Antarctica say they have found traces of something enormous hidden under its ice. What?",
+        "options": [
+          "A frozen lake as big as the Mediterranean Sea",
+          "The worn-down roots of ancient mountain ranges as big as the Himalayas",
+          "A volcano that is about to erupt",
+          "A buried city from the last Ice Age"
+        ],
+        "correct": 1,
+        "why": "It was ancient mountains. Because almost all of Antarctica is buried under ice, researchers from the Australian National University and Germany’s GFZ geosciences centre studied about 1,700 zircon crystals – tough little mineral grains that record when and how the rocks around them formed – taken from sediments along Antarctica’s edge. The crystals show that Himalaya-sized mountain ranges rose there between about 650 and 450 million years ago, when ancient continents crashed together to form the supercontinent Gondwana; today only their eroded roots remain under the ice. The scientists think the wearing away of these mountains fed the oceans with nutrients and may have helped set the stage for the ‘Cambrian explosion’, when many new kinds of animals appeared.",
+        "sources": [
+          [
+            "Euronews · Himalaya-sized ancient ‘supermountains’ found beneath Antarctica’s ice sheet",
+            "https://www.euronews.com/2026/11/20/himalaya-sized-ancient-supermountains-found-beneath-antarcticas-ice-sheet"
+          ],
+          [
+            "Xinhua · Scientists uncover ancient Himalayan-scale mountains beneath Antarctic ice",
+            "https://english.news.cn/20261120/3ead27d488a8451c8bd52f36be92cf10/c.html"
+          ],
+          [
+            "404 Media · ‘Supermountains’ buried under Antarctica fueled explosion of life, scientists discover",
+            "https://www.404media.co/supermountains-buried-under-antarctica-fueled-explosion-of-life-scientists-discover/"
+          ]
+        ]
+      }
+    ]
   }
 ]
