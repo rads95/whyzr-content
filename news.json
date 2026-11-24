@@ -1,6 +1,110 @@
 {
- "updated": "2026-11-24T07:43:00Z",
+ "updated": "2026-11-24T13:58:00Z",
  "items": [
+  {
+   "section": "sport",
+   "published": "2026-11-24T13:30:00Z",
+   "title": "Indian teenager Vaibhav Sooryavanshi hits record 204 off 53 balls",
+   "why": "Vaibhav Sooryavanshi, 15, scored 204 off 53 balls for India A against the UAE in Doha on Tuesday, setting 50-over (List A) records for the fastest hundred (28 balls) and double hundred (52 balls). He also hit a record 28 sixes as India won by seven wickets.",
+   "sources": [
+    {
+     "name": "ICC",
+     "url": "https://www.icc-cricket.com/news/sooryavanshi-smashes-list-a-records-in-sensational-knock"
+    },
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261124-records-tumble-as-teen-sooryavanshi-smashes-53-ball-204"
+    },
+    {
+     "name": "The Daily Star",
+     "url": "https://www.thedailystar.net/sports/cricket/news/100-28-sooryavanshi-sets-world-record-fastest-century-50-over-cricket-4332126"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-24T12:00:00Z",
+   "title": "Israeli strikes in Gaza kill senior Hamas security official and six others",
+   "why": "Israeli strikes in Gaza on Tuesday killed at least seven people, including Naeem Abu Nahel, head of Hamas's internal security service, according to Gaza's Hamas-run interior ministry and medics. Israel's military said it struck a senior militant. The strikes came despite the ceasefire agreed in October 2025.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/middle-east/20261124-israeli-strikes-on-gaza-kill-senior-hamas-security-official-and-six-other-people-medics-say"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/24/israeli-strike-kills-hamas-internal-security-chief-in-gaza-source-tells-afp"
+    }
+   ]
+  },
+  {
+   "section": "science",
+   "developing": true,
+   "published": "2026-11-24T08:50:00Z",
+   "title": "Pakistani astronaut set to be first foreigner aboard China's space station",
+   "why": "Pakistan Air Force pilot Muhammad Zeeshan Ali, 40, is due to launch on China's Shenzhou-24 mission from Jiuquan at 00:18 GMT on Wednesday. He would be the first Pakistani in space and the first foreign astronaut on the Tiangong station, where he will spend about a week.",
+   "matters": "It is China's first crewed space mission to include an astronaut from another country.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/asia-pacific/20261124-china-to-launch-first-space-mission-with-a-foreign-astronaut"
+    },
+    {
+     "name": "Dawn",
+     "url": "https://www.dawn.com/news/2046714"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-24T08:00:00Z",
+   "title": "Iraq orders federal takeover of oilfields in Kurdish-controlled areas",
+   "why": "Iraq's prime minister, Ali al-Zaidi, on Tuesday ordered the federal Oil Ministry to run oilfields under Kurdish security control in Kirkuk, Nineveh, Diyala and Salahuddin, and federal authorities to take over the Kurdish region's border crossings. Kurdish Prime Minister Masrour Barzani called the orders unacceptable.",
+   "matters": "Control of oil and its income has long divided Baghdad and the Kurdish region; this could deepen the dispute.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control"
+    },
+    {
+     "name": "Rudaw",
+     "url": "https://www.rudaw.net/english/categories/iraq/1080288"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/24/iraqs-pm-orders-federal-takeover-of-kurdistan-oil-exports-border-crossings-and-oilfields-in-disputed-areas/"
+    }
+   ]
+  },
+  {
+   "section": "curious",
+   "published": "2026-11-24T06:00:00Z",
+   "title": "Pope Francis's private diary, now published, describes seeing the devil",
+   "why": "A book of the late Pope Francis's private notes from 1992 to 2024, edited by Cardinal Víctor Manuel Fernández, came out on Tuesday in five languages. In it Francis describes seeing the devil several times and a spiritual crisis in 2021 and 2022.",
+   "sources": [
+    {
+     "name": "Vatican News",
+     "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/personal-diary-pope-francis-cardinal-fernandez-book.html"
+    },
+    {
+     "name": "AFP (via France 24)",
+     "url": "https://www.france24.com/en/live-news/20261124-pope-francis-revealed-in-personal-diary-having-seen-devil"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-24/pope-francis-private-diary-details-spiritual-crisis/107423074"
+    }
+   ]
+  },
   {
    "section": "world",
    "published": "2026-11-24T04:00:00Z",
@@ -23,6 +127,26 @@
    ]
   },
   {
+   "section": "world",
+   "published": "2026-11-24T04:00:00Z",
+   "title": "Bangladesh's ousted leader Sheikh Hasina says she will return on 16 December",
+   "why": "Sheikh Hasina, Bangladesh's former prime minister, plans to return from exile in India on 16 December, her spokesman says, and has asked for a flight on the state airline. She was sentenced to death in her absence. A government minister says she can only return in handcuffs.",
+   "sources": [
+    {
+     "name": "AP and Reuters (via Al Jazeera)",
+     "url": "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16"
+    },
+    {
+     "name": "The Daily Star",
+     "url": "https://www.thedailystar.net/news/news/hasina-seeks-return-bangladesh-december-16-state-carrier-reuters-4331841"
+    },
+    {
+     "name": "The Business Standard",
+     "url": "https://www.tbsnews.net/bangladesh/hasina-must-return-handcuffs-prisoner-if-she-comes-back-16-dec-state-minister-1612191"
+    }
+   ]
+  },
+  {
    "section": "climate",
    "published": "2026-11-24T03:40:00Z",
    "title": "California braces for flooding as king tides meet strong El Niño",
@@ -40,6 +164,27 @@
     {
      "name": "ABC7 News",
      "url": "https://abc7news.com/20037281/"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-11-24T02:20:00Z",
+   "title": "Australia moves to fine tech giants up to 5% of global revenue",
+   "why": "Australia's Labor government struck a deal with the Greens on Tuesday to pass its digital duty of care bill. Platforms failing to protect users could be fined up to 5% of global revenue, up from a proposed A$109 million; Australians could sue them. The opposition Coalition opposes it.",
+   "matters": "SBS estimates Meta alone could face fines of around A$10 billion; the US ambassador has objected to the law.",
+   "sources": [
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-24/federal-politics-labor-makes-deal-greens-on-digital-duty-of-care/107420982"
+    },
+    {
+     "name": "SBS News",
+     "url": "https://www.sbs.com.au/news/article/greens-strike-deal-with-labor-on-digital-duty-of-care-laws/564pk865q"
+    },
+    {
+     "name": "Reuters (via Al Jazeera)",
+     "url": "https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm"
     }
    ]
   },
@@ -147,6 +292,28 @@
     {
      "name": "WITF",
      "url": "https://www.witf.org/2026/11/23/pa-health-officials-report-9th-measles-related-death-in-centre-county/"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "serious": true,
+   "published": "2026-11-23T17:20:00Z",
+   "title": "Two US states sue Musk's SpaceX over sexual images made by Grok",
+   "why": "Virginia and Oregon filed separate consumer-protection lawsuits on Monday against SpaceX, X and other Musk companies. They say the Grok AI chatbot's 'spicy mode' was used to make sexual images of real people, including children, without proper safeguards. X says users who did this broke its rules.",
+   "matters": "They are the first US states to sue over Grok's images; they want damages, penalties and court orders.",
+   "sources": [
+    {
+     "name": "Oregon Department of Justice",
+     "url": "https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-takes-legal-action-against-grok-for-failing-to-block-child-exploitation/"
+    },
+    {
+     "name": "AP and OPB",
+     "url": "https://www.opb.org/article/2026/11/23/sexual-images-from-elon-musk-ai-chatbot-harmed-consumers-ags-argue/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material"
     }
    ]
   },
@@ -520,6 +687,28 @@
    ]
   },
   {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-22T19:40:00Z",
+   "title": "Ukraine says its sea drones hit a Russian warship in Libya",
+   "why": "President Zelensky says Ukrainian sea drones struck the Russian corvette Merkury and a cargo ship off Benghazi in eastern Libya on Sunday, and that the corvette sank. Libyan officials say it was badly damaged and at least 10 people were wounded. Russia has not commented.",
+   "matters": "It shows the war reaching far beyond Ukraine; the UN mission in Libya has called for an independent investigation.",
+   "sources": [
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-23/zelensky-says-ukraine-struck-russian-ship-near-libya/107418718"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/23/ukraine-releases-footage-of-strikes-on-two-russian-vessels-off-libya"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base"
+    }
+   ]
+  },
+  {
    "section": "sport",
    "published": "2026-11-22T19:00:00Z",
    "title": "Alcaraz beats Zverev to win his first ATP Finals title",
@@ -676,90 +865,6 @@
    "changed": "Updated: officials now say the animal was not a lion"
   },
   {
-   "section": "sport",
-   "published": "2026-11-22T14:00:00Z",
-   "title": "Marc Márquez clinches eighth MotoGP world title in Portugal",
-   "why": "Spain's Marc Márquez finished eighth at the Portuguese Grand Prix in Portimão on Sunday, enough to win his eighth premier-class title with one race left. Italy's Marco Bezzecchi won the race. Márquez had been 102 points behind Bezzecchi earlier in the season.",
-   "matters": "He equals Giacomo Agostini's record of eight top-class titles and moves past Valentino Rossi's seven.",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/22/marc-marquez-wins-eighth-motogp-title-in-portugal-surpassing-rossis-record"
-    },
-    {
-     "name": "AFP (via Manila Times)",
-     "url": "https://www.manilatimes.net/2026/11/23/sports/spaniard-marquez-makes-history-with-eighth-motogp-world-title/2475772"
-    },
-    {
-     "name": "Speedcafe",
-     "url": "https://speedcafe.com/motogp-news-2026-portugal-portimao-results-marc-marquez-wins-eighth-title-marco-bezzecchi-race-victory/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-22T13:00:00Z",
-   "title": "Thousands march in Istanbul against crackdown on opposition media",
-   "why": "Several thousand people marched through Istanbul's Beşiktaş district on Sunday, called out by the opposition New Party (Yeni Parti). It followed a police raid on the pro-opposition broadcaster Sözcü TV, where a government-appointed trustee took control and senior staff were arrested. The government accuses some journalists of spreading 'fake news'.",
-   "matters": "A media rights group, MLSA, says 25 journalists are currently jailed in Türkiye.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/asia-pacific/20261123-istanbul-turkey-crackdown-opposition-media-turkey"
-    },
-    {
-     "name": "Bianet",
-     "url": "https://bianet.org/haber/yeni-parti-den-ozgur-basina-sahip-cikma-cagrisi-325661"
-    },
-    {
-     "name": "Turkish Minute",
-     "url": "https://turkishminute.com/2026/11/23/thousands-rally-in-istanbul-against-crackdown-on-turkish-media/"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-11-22T13:00:00Z",
-   "title": "Delta software fault delays flights across US before Thanksgiving",
-   "why": "A fault in Delta Air Lines' system for calculating aircraft weight and balance delayed more than 1,600 flights across the US on Sunday, mostly at its Atlanta hub, ABC News reports. Delta said the system was fixed later that day and the outage was not caused by a hack.",
-   "matters": "US intelligence chief Jay Clayton warned of more 'glitches' as organisations upgrade systems after a run of US outages.",
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://abcnews.com/US/equipment-outage-atlanta-causes-1300-delta-flight-delays/story?id=138360900"
-    },
-    {
-     "name": "Atlanta News First",
-     "url": "https://www.atlantanewsfirst.com/2026/11/22/ground-stop-issued-delta-flights-en-route-atlanta/"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/23/us-intelligence-chief-warns-of-more-tech-outages-as-delta-suffers-fresh-atlanta-failure"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-22T10:00:00Z",
-   "title": "Gukesh and Sindarov open youngest-ever world chess title match in Geneva",
-   "why": "India's Gukesh Dommaraju defends his world chess title against Uzbekistan's Javokhir Sindarov in Geneva, Switzerland. The opening ceremony is on Sunday and the first game on Tuesday 24 November. Both are 20, making it the youngest title match ever. The first to 7.5 points from 14 games wins.",
-   "matters": "Sindarov is unbeaten against Gukesh in classical games; a win would make him Uzbekistan's first undisputed world champion.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/sports/2026/11/22/gukesh-vs-sindarov-the-youngest-world-chess-championship-in-history"
-    },
-    {
-     "name": "FIDE",
-     "url": "https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/"
-    },
-    {
-     "name": "Chess.com",
-     "url": "https://www.chess.com/news/view/geneva-gukesh-sindarov-2026-fide-world-championship"
-    }
-   ]
-  },
-  {
    "section": "world",
    "serious": true,
    "developing": true,
@@ -785,38 +890,6 @@
     }
    ],
    "changed": "Updated: 24 body bags recovered; about 30 to 34 people still missing"
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "developing": true,
-   "published": "2026-11-22T05:00:00Z",
-   "title": "Russian strikes on Kyiv region kill at least 15, Ukraine says",
-   "why": "Russian strikes on Sunday killed at least 15 people in Ukraine's Kyiv region, officials say. Eleven died when a five-storey block partly collapsed in Dymer, north of the capital. Vyshneve's mayor says a strike on a supermarket killed three.",
-   "matters": "President Zelensky says Russia fired about 2,700 drones and 165 missiles at Ukraine this week.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261123-live-russian-strikes-kill-at-least-15-people-in-kyiv-region-ukraine-says"
-    },
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261122-russian-strike-kills-two-in-collapsed-block-of-flats-near-kyiv"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://euronews.com/2026/11/22/14-people-missing-after-russian-drone-strike-on-kyiv-region"
-    },
-    {
-     "name": "Ukrinform",
-     "url": "https://www.ukrinform.net/rubric-ato/4187329-russia-launches-approximately-2700-drones-nearly-1460-glide-bombs-and-165-missiles-at-ukraine-in-one-week-zelensky.html"
-    }
-   ],
-   "changed": "Updated: the death toll rose to at least 15"
   },
   {
    "section": "world",
