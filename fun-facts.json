@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "facts": [
     {
       "date": "2026-09-20",
@@ -1660,6 +1660,28 @@
         {
           "name": "CORDIS, European Commission",
           "url": "https://cordis.europa.eu/article/id/29839-water-bears-survive-space-environment-study-shows"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "kind": "folklore",
+      "emoji": "🧠",
+      "title": "We only use 10% of our brain",
+      "myth": "Humans only use 10% of their brains, so the other 90% is untapped potential waiting to be switched on.",
+      "truth": "Brain scans show activity all over the brain, and damage to almost any part causes problems. Nobody knows exactly where the myth began, but misread early brain experiments seem to have helped it along.",
+      "sources": [
+        {
+          "name": "Scientific American",
+          "url": "https://www.scientificamerican.com/article/do-we-really-use-only-10/"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/healthmain/myth-busted-you-only-use-10-percent-brain-1c9386687"
+        },
+        {
+          "name": "CNRS News",
+          "url": "https://news.cnrs.fr/node/1245"
         }
       ]
     }
