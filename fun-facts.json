@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "facts": [
     {
       "date": "2026-09-20",
@@ -1682,6 +1682,36 @@
         {
           "name": "CNRS News",
           "url": "https://news.cnrs.fr/node/1245"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "kind": "fact",
+      "category": "Everyday",
+      "emoji": "⛳",
+      "title": "Why golf balls have dimples",
+      "text": "Golfers once noticed that battered, nicked balls flew farther than shiny new ones. The dimples stir up a thin layer of turbulent air that hugs the ball, shrinking the drag-causing wake behind it. Hit the same way, a smooth ball falls far short.",
+      "sources": [
+        {
+          "name": "Scientific American",
+          "url": "https://www.scientificamerican.com/article/how-do-dimples-in-golf-ba/"
+        },
+        {
+          "name": "Penn State University",
+          "url": "https://www.psu.edu/news/research/story/probing-question-how-do-dimples-make-golf-balls-travel-farther"
+        },
+        {
+          "name": "Exploratorium",
+          "url": "https://annex.exploratorium.edu/sports/ask_us_sports_november.html"
+        },
+        {
+          "name": "Smithsonian Magazine",
+          "url": "https://www.smithsonianmag.com/innovation/600-years-golf-ball-evolved-primitive-wood-sphere-smart-ball-sensors-180986813/"
+        },
+        {
+          "name": "University of Illinois Physics",
+          "url": "https://van.physics.illinois.edu/ask/listing/945"
         }
       ]
     }
