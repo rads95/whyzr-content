@@ -1,6 +1,173 @@
 {
- "updated": "2026-11-24T13:58:00Z",
+ "updated": "2026-11-25T01:46:00Z",
  "items": [
+  {
+   "section": "money",
+   "published": "2026-11-25T00:30:00Z",
+   "title": "Australia's inflation rises to 4.9%, its highest in three years",
+   "why": "Consumer prices in Australia rose 4.9% in the year to October, up from 4.3% in September and above forecasts, the Australian Bureau of Statistics said on Wednesday. Fuel prices rose 32.5% and electricity 25.2%. Treasurer Jim Chalmers blamed a spike in global oil prices.",
+   "matters": "High inflation makes an interest rate cut by Australia's central bank less likely.",
+   "sources": [
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-25/abs-october-cpi-inflation-rises-year-/107424668"
+    },
+    {
+     "name": "Australian Bureau of Statistics",
+     "url": "https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/latest-release"
+    },
+    {
+     "name": "The Nightly",
+     "url": "https://thenightly.com.au/politics/politics-and-news-live-taylor-warns-australia-is-heading-for-economic-ruin-ahead-of-fresh-inflation-figures-c-23208546"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "lead": true,
+   "published": "2026-11-24T21:00:00Z",
+   "title": "US jury convicts Huawei of conspiring to steal trade secrets",
+   "why": "A federal jury in New York on Tuesday found China's Huawei guilty on 10 of 12 counts, including conspiracy to steal trade secrets and bank fraud, after a three-month trial. It was cleared of racketeering conspiracy and obstruction of justice. Huawei says it will appeal.",
+   "matters": "Huawei is one of the world's biggest telecoms firms, and the verdict adds to tension between the US and China.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/live-news/20261124-us-jury-convicts-china-tech-giant-huawei-of-stealing-trade-secrets"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/24/tech-giant-huawei-found-guilty-of-stealing-trade-secrets-but-acquitted-of-racketeering"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "published": "2026-11-24T17:30:00Z",
+   "title": "Gunmen hold shoppers hostage in a supermarket in Colombia's Cartagena",
+   "why": "Armed men took about 30 people hostage in an Éxito supermarket in Cartagena, Colombia, on Tuesday after a failed attempt to rob an armoured van, authorities say. About 10 had been freed by nightfall, AFP reports. Police and troops surrounded the building.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/live-news/20261124-gunmen-take-25-hostage-at-colombia-supermarket"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/cartagena-colombia-hostages-supermarket/"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-24T17:00:00Z",
+   "title": "Jannik Sinner has knee surgery and may miss the Australian Open",
+   "why": "Italy's Jannik Sinner, the world number two, said on Tuesday he had surgery on his right knee in Turku, Finland. He has not played since winning Wimbledon in July. One specialist says he could be out for three to four months; the Australian Open starts on 17 January.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/live-news/20261124-sinner-at-risk-of-missing-australian-open-after-confirming-knee-surgery-1"
+    },
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/tennis/news/13615618/jannik-sinner-former-world-no-1-undergoes-surgery-on-his-right-knee-casting-doubt-over-australian-open-participation"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-25/jannik-sinner-australian-open-2027-injuries/107423672"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "published": "2026-11-24T16:30:00Z",
+   "title": "Music streaming service Tidal to remove songs made entirely by AI",
+   "why": "Tidal said on Tuesday that from 9 December it will reject and remove tracks made wholly by artificial intelligence, though songs made with AI help are still allowed. It says 43% of tracks sent to it in the past 90 days were fully AI-generated.",
+   "matters": "CBC says Tidal is the first major streaming service to ban fully AI-generated music.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/24/new-terms-and-conditions-tidal-bans-ai-music-in-a-bid-to-promote-fairness-in-industry"
+    },
+    {
+     "name": "CBC",
+     "url": "https://ca.news.yahoo.com/tidal-banning-fully-ai-generated-205313735.html"
+    },
+    {
+     "name": "TechRadar",
+     "url": "https://www.techradar.com/audio/audio-streaming/tidal-says-its-banning-ai-music-from-december-streaming-giant-will-delete-27-million-songs-from-its-library-and-reject-80-000-ai-generated-tracks-a-day"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-24T16:00:00Z",
+   "title": "Sport court gives Senegal back its Africa Cup of Nations title",
+   "why": "The Court of Arbitration for Sport on Tuesday unanimously restored Senegal's 1-0 extra-time win over Morocco in January's final. African football's governing body, CAF, had awarded Morocco the title in March because Senegal's players walked off in protest. Morocco's federation says it will pursue legal options.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/senegal-regain-afcon-title-on-appeal-at-morocco-s-expense"
+    },
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/football/news/13615545/senegal-crowned-afcon-2025-champions-by-court-of-arbitration-for-sport-following-appeal"
+    },
+    {
+     "name": "The Tribune",
+     "url": "https://www.tribuneindia.com/news/sports/senegal-reinstated-as-afcon-2025-champions-after-cas-overturns-caf-ruling"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-24T15:00:00Z",
+   "title": "Saudi Arabia says Houthi attack on Riyadh tower injures 11 people",
+   "why": "Saudi civil defence says 11 people were injured on Tuesday when the Public Investment Fund tower, Riyadh's tallest building, was hit for the second time in less than a week. Saudi authorities blamed Yemen's Houthis. The Houthis have since threatened Saudi Red Sea ports if Yemen's Hodeidah port is attacked.",
+   "sources": [
+    {
+     "name": "Dawn",
+     "url": "https://www.dawn.com/news/2046804/11-injured-as-riyadh-skyscraper-hit-second-time-in-less-than-a-week"
+    },
+    {
+     "name": "Middle East Eye",
+     "url": "https://www.middleeasteye.net/news/riyadhs-landmark-pif-tower-struck-aerial-attack-second-time-five-days"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-24T15:00:00Z",
+   "title": "Putin says Russia will retaliate for Ukrainian strikes on oil refineries",
+   "why": "President Vladimir Putin said on Tuesday that Ukraine was ignoring President Trump's request to stop hitting Russian refineries, and that 'retaliatory measures on our part are inevitable'. Industry sources told Reuters the attacks have cut Russian refining by 45% since late October. Kyiv says it will stop if Moscow does.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation"
+    },
+    {
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/news/2026/1124/1600432-poland-russia-ukraine/"
+    },
+    {
+     "name": "The Moscow Times (Reuters)",
+     "url": "https://www.themoscowtimes.com/2026/11/24/putin-says-ukraine-hits-russian-oil-plants-despite-trumps-requests-promises-retaliation-a94367"
+    }
+   ]
+  },
   {
    "section": "sport",
    "published": "2026-11-24T13:30:00Z",
@@ -43,24 +210,70 @@
    ]
   },
   {
-   "section": "science",
-   "developing": true,
-   "published": "2026-11-24T08:50:00Z",
-   "title": "Pakistani astronaut set to be first foreigner aboard China's space station",
-   "why": "Pakistan Air Force pilot Muhammad Zeeshan Ali, 40, is due to launch on China's Shenzhou-24 mission from Jiuquan at 00:18 GMT on Wednesday. He would be the first Pakistani in space and the first foreign astronaut on the Tiangong station, where he will spend about a week.",
-   "matters": "It is China's first crewed space mission to include an astronaut from another country.",
+   "section": "world",
+   "published": "2026-11-24T12:00:00Z",
+   "title": "China investigates Shanghai Communist Party chief Chen Jining",
+   "why": "China's anti-corruption watchdog is investigating Chen Jining, Shanghai's Communist Party secretary and a Politburo member, for 'suspected severe violations of discipline and laws', state media said on Tuesday. The phrase usually means corruption. He is the fourth Politburo member investigated since 2025.",
+   "matters": "Shanghai's party chief job is often a step to China's top leadership; Premier Li Qiang once held it.",
    "sources": [
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station"
+     "url": "https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining"
     },
     {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/world/china/china-probes-shanghai-party-boss-politburos-chen-jining-rcna611061"
+    },
+    {
+     "name": "Arab News (AP)",
+     "url": "https://arabnews.com/world/china-investigates-politburo-member-and-shanghai-party-chief-chen-jining-3013876"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-24T09:00:00Z",
+   "title": "UN says partners or relatives killed 47,000 women and girls in 2025",
+   "why": "About 47,000 women and girls were killed by partners or family members in 2025, roughly five every hour, UN Women and the UN Office on Drugs and Crime said on Tuesday. That is 60% of about 78,000 women and girls killed intentionally. Africa had the highest rate.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/24/five-women-killed-every-hour-globally-by-partner-relative-in-2025-un"
+    },
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168863"
+    },
+    {
+     "name": "UN Women",
+     "url": "https://www.unwomen.org/en/news-stories/press-release/2026/11/five-women-killed-every-hour-by-a-partner-or-close-relative-in-2025"
+    }
+   ]
+  },
+  {
+   "section": "science",
+   "changed": "Updated: the rocket has launched",
+   "published": "2026-11-24T08:50:00Z",
+   "title": "China launches first space station mission with a foreign astronaut",
+   "why": "A Long March-2F rocket lifted off from Jiuquan in north-west China at 00:18 GMT on Wednesday, carrying Shenzhou-24 to the Tiangong station. Its crew includes Pakistan Air Force pilot Muhammad Zeeshan Ali, 40, the first Pakistani in space and the first foreign astronaut on a Chinese mission.",
+   "matters": "It is China's first crewed space mission to include an astronaut from another country.",
+   "sources": [
+    {
      "name": "France 24",
-     "url": "https://www.france24.com/en/asia-pacific/20261124-china-to-launch-first-space-mission-with-a-foreign-astronaut"
+     "url": "https://www.france24.com/en/live-news/20261125-china-rocket-blasts-off-on-shenzhou-24-mission-state-media"
     },
     {
      "name": "Dawn",
-     "url": "https://www.dawn.com/news/2046714"
+     "url": "https://www.dawn.com/news/2046753/pakistani-flag-rises-into-orbit-as-zeeshan-ali-makes-history-aboard-chinas-shenzhou-24-spacecraft"
+    },
+    {
+     "name": "Arab News",
+     "url": "https://www.arabnews.com/world/chinas-shenzhou-24-space-flight-takes-off-with-pakistani-national-as-first-foreign-astronaut-3013940"
+    },
+    {
+     "name": "Xinhua",
+     "url": "https://english.news.cn/20261125/ea627a3d54da4983aaf77659809dab09/c.html"
     }
    ]
   },
@@ -106,23 +319,44 @@
    ]
   },
   {
+   "section": "curious",
+   "published": "2026-11-24T05:00:00Z",
+   "title": "Silver coins looted from 1712 Dutch shipwreck returned to Australia",
+   "why": "Twenty-three silver coins taken from the Zuytdorp, a Dutch East India Company ship wrecked off Western Australia in 1712, were handed back in Canberra on Tuesday. The FBI found 21 in California and Dutch police seized two in Amsterdam. They will go to a museum in Fremantle.",
+   "sources": [
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-25/zuytdorp-coins-history-and-recovery/107421748"
+    },
+    {
+     "name": "The Nightly",
+     "url": "https://thenightly.com.au/australia/global-manhunt-sees-historic-silver-coins-stolen-from-australian-shipwreck-returned--c-23204883"
+    },
+    {
+     "name": "Yahoo News Australia (AAP)",
+     "url": "https://au.news.yahoo.com/stolen-shipwreck-coins-return-home-054152385.html"
+    }
+   ]
+  },
+  {
    "section": "world",
+   "changed": "Updated: the treaty was signed in Canberra",
    "published": "2026-11-24T04:00:00Z",
-   "title": "Solomon Islands to end security pact with China, reports say",
-   "why": "Solomon Islands has told China it will not renew their 2022 security pact when it expires in April 2027, ABC Australia and Reuters report, citing unnamed sources. Prime Minister Matthew Wale is in Canberra to sign a new treaty with Australia on Wednesday.",
+   "title": "Australia and Solomon Islands sign treaty barring foreign military bases",
+   "why": "Prime Ministers Anthony Albanese and Matthew Wale signed a treaty in Canberra on Wednesday. Solomon Islands will host no foreign military or security base and will consult Australia on security. ABC reports it will let its 2022 pact with China lapse; Wale cites a non-disclosure clause.",
    "matters": "The 2022 pact alarmed Australia and the US because it opened the way for Chinese forces in the South Pacific.",
    "sources": [
     {
      "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-24/china-solomon-islands-security-pact-australia/107421976"
+     "url": "https://www.abc.net.au/news/2026-11-25/australia-signs-pact-with-solomon-islands-in-blow-to-china/107424550"
     },
     {
-     "name": "Reuters (via Yahoo News)",
-     "url": "https://www.yahoo.com/news/articles/solomon-islands-plans-replace-china-044751902.html"
+     "name": "1News (AAP)",
+     "url": "https://www.1news.co.nz/2026/11/25/next-level-australia-inks-solomon-islands-treaty/"
     },
     {
-     "name": "RNZ",
-     "url": "https://www.rnz.co.nz/news/pacific/2761984/sogavare-warns-solomon-islands-government-against-ditching-china-security-pact"
+     "name": "Free Malaysia Today (AFP)",
+     "url": "https://www.freemalaysiatoday.com/category/world/2026/11/25/australia-solomon-islands-sign-sweeping-pact-stymieing-china"
     }
    ]
   },
@@ -164,6 +398,27 @@
     {
      "name": "ABC7 News",
      "url": "https://abc7news.com/20037281/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-24T03:00:00Z",
+   "title": "Car bomb wounds at least 23 people in Colombian city of Villavicencio",
+   "why": "A car bomb exploded on Monday night in Villavicencio, capital of Meta province in central Colombia, wounding at least 23 people and damaging buildings, according to reports. President Abelardo de la Espriella blamed a dissident faction of the former FARC rebels.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/24/at-least-24-injured-after-car-bomb-detonates-in-central-colombia"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/live-news/20261124-gunmen-take-25-hostage-at-colombia-supermarket"
     }
    ]
   },
@@ -402,7 +657,6 @@
   },
   {
    "section": "tech",
-   "lead": true,
    "published": "2026-11-23T13:00:00Z",
    "title": "Nvidia brings back Jensen Huang as chief after Trump intervention",
    "why": "Nvidia's board reinstated co-founder Jensen Huang as chief executive on Monday, 11 days after he resigned over affairs, including one with a woman US officials suspect of spying for China. China denies she is a spy. President Trump says he helped convince the board.",
@@ -579,49 +833,6 @@
    ]
   },
   {
-   "section": "culture",
-   "published": "2026-11-23T01:30:00Z",
-   "title": "Molly Meldrum, Australian music presenter and Countdown host, dies at 83",
-   "why": "Ian 'Molly' Meldrum died in hospital in Melbourne on Monday morning after a period of declining health, his management said. He hosted ABC TV's music show Countdown from 1974 to 1987, helping to launch Australian acts and bring stars such as ABBA and Madonna to Australian audiences.",
-   "matters": "Prime Minister Anthony Albanese and many musicians paid tribute to a figure who shaped Australian pop for decades.",
-   "sources": [
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-23/molly-meldrum-countdown-host-music-industry-icon-dies/3735358"
-    },
-    {
-     "name": "SBS News",
-     "url": "https://www.sbs.com.au/news/article/molly-meldrum-dead/b1r4wmwy9"
-    },
-    {
-     "name": "Rolling Stone Australia",
-     "url": "https://au.rollingstone.com/music/music-news/molly-meldrum-tributes-pour-in-103618/"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "changed": "Updated: Wall Street rebounded after Nvidia reinstated its chief executive",
-   "published": "2026-11-23T01:00:00Z",
-   "title": "Wall Street rebounds sharply as Nvidia shares jump 31%",
-   "why": "US stocks surged on Monday after Nvidia reinstated its chief executive. The S&P 500 rose 4.7% and the Nasdaq 6.5%, AP reports, after Friday's AI-driven sell-off. Nvidia shares rose 31.5%, adding about $950bn in value, which NBC News calls the biggest one-day gain in market history.",
-   "matters": "Many people's savings and pensions are invested in the big tech firms that drive these markets.",
-   "sources": [
-    {
-     "name": "AP (via WSVN)",
-     "url": "https://wsvn.com/news/us-world/nvidia-ai-stocks-surge-huang-return/"
-    },
-    {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/business/markets/stocks-rebound-ai-tech-selloff-nvidia-rcna610833"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-24/asx-markets-business-news-live-updates-nov-24-2026/107419524"
-    }
-   ]
-  },
-  {
    "section": "sport",
    "published": "2026-11-22T21:30:00Z",
    "title": "Thailand's Jeeno Thitikul wins LPGA Tour Championship for third year running",
@@ -639,27 +850,6 @@
     {
      "name": "Golf Today",
      "url": "https://golftoday.co.uk/cme-group-tour-championship-2026-thitikul-wins-event-yamashita-wins-vare-trophy/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-22T21:00:00Z",
-   "title": "Democrats win largest US House majority since 1992 after recount",
-   "why": "Democrat Chuck Hubbard won North Carolina's 5th district after a recount, beating long-serving Republican Virginia Foxx by about 330 votes. That gives Democrats at least 258 of the 435 House seats in the November midterms, their most since 1992. Four races are still undecided.",
-   "matters": "A large majority lets Democrats control the House agenda and investigations for the second half of President Trump's term.",
-   "sources": [
-    {
-     "name": "Al Jazeera (with AP)",
-     "url": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261122-democrat-hubbard-wins-north-carolina-recount-clinching-historic-house-majority"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/22/midterms-us-democrats-secure-biggest-house-majority-in-decades"
     }
    ]
   },
@@ -689,185 +879,8 @@
   {
    "section": "world",
    "serious": true,
-   "published": "2026-11-22T19:40:00Z",
-   "title": "Ukraine says its sea drones hit a Russian warship in Libya",
-   "why": "President Zelensky says Ukrainian sea drones struck the Russian corvette Merkury and a cargo ship off Benghazi in eastern Libya on Sunday, and that the corvette sank. Libyan officials say it was badly damaged and at least 10 people were wounded. Russia has not commented.",
-   "matters": "It shows the war reaching far beyond Ukraine; the UN mission in Libya has called for an independent investigation.",
-   "sources": [
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-23/zelensky-says-ukraine-struck-russian-ship-near-libya/107418718"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/23/ukraine-releases-footage-of-strikes-on-two-russian-vessels-off-libya"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-22T19:00:00Z",
-   "title": "Alcaraz beats Zverev to win his first ATP Finals title",
-   "why": "Spain's Carlos Alcaraz beat world number one Alexander Zverev of Germany 6-2, 7-6 in the ATP Finals final in Turin, Italy, on Sunday. He saved three set points in the tie-break and won all five of his matches. It is his 30th career title.",
-   "sources": [
-    {
-     "name": "ATP Tour",
-     "url": "https://www.atptour.com/en/news/alcaraz-zverev-nitto-atp-finals-2026-sunday"
-    },
-    {
-     "name": "Tennis Majors",
-     "url": "https://www.tennismajors.com/atp/nitto-atp-finals-atp/alcaraz-saves-three-set-points-holds-off-zverev-and-finally-conquers-the-atp-finals-867708.html"
-    },
-    {
-     "name": "TNT Sports",
-     "url": "https://www.tntsports.co.uk/tennis/atp-finals/2026/alexander-zverev-carlos-alcaraz_mtc22079954/live-commentary.shtml"
-    }
-   ],
-   "matters": "He joins Agassi, Federer and Djokovic as the only men to win all four majors and the season-ending finals.",
-   "changed": "Updated: Alcaraz won Sunday's final"
-  },
-  {
-   "section": "world",
-   "published": "2026-11-22T19:00:00Z",
-   "title": "Netanyahu and Eisenkot parties end unity talks without a deal",
-   "why": "Benjamin Netanyahu's Likud and Gadi Eisenkot's Yashar party held more than four hours of coalition talks in Herzliya, Israel, on Sunday without agreement, and say they will meet again. They disagree over who would lead and over including far-right minister Itamar Ben-Gvir.",
-   "matters": "Eisenkot has until 6 December, with a possible two-week extension, to form a government after October's election.",
-   "sources": [
-    {
-     "name": "AFP (via Arab News)",
-     "url": "https://www.arabnews.com/middle-east/netanyahu-eisenkot-parties-end-talks-without-deal-on-forming-israel-govt-3013569"
-    },
-    {
-     "name": "Ynet",
-     "url": "https://www.ynetnews.com/article/rke0yyzkxl"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-22T18:30:00Z",
-   "title": "Liverpool beat ten-man Manchester United 4-0 in Pochettino's first game",
-   "why": "Liverpool beat Manchester United 4-0 at Anfield on Sunday in Mauricio Pochettino's first match as United manager. Leny Yoro was sent off after eight minutes. Dominik Szoboszlai, Florian Wirtz, Rio Ngumoha and Victor Muñoz scored. United are 19th in the Premier League.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261122-liverpool-thrash-10-man-man-utd-in-pochettino-s-first-match"
-    },
-    {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/football/news/13615402/leny-yoro-red-card-man-utd-boss-mauricio-pochettino-and-kobbie-mainoo-angry-at-sending-off-for-foul-on-liverpools-alexander-isak"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-22T18:00:00Z",
-   "title": "Poland says Russia twice plotted to kill Ukrainian-American rapper",
-   "why": "Poland's foreign ministry says Russian intelligence tried to kill the rapper Kyivstoner in Poland in August, where a Russian citizen was detained. Denmark says it foiled a second plot at a concert near Copenhagen in September, charging two men and expelling a Russian diplomat. Russia calls the claims unsubstantiated.",
-   "sources": [
-    {
-     "name": "AP (via Yahoo News)",
-     "url": "https://www.yahoo.com/news/us/articles/poland-says-russia-allegedly-twice-181220051.html"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice"
-    },
-    {
-     "name": "TVP World",
-     "url": "https://tvpworld.com/96596048/poland-condemns-second-alleged-russian-plot-to-kill-rapper-kyivstoner"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "changed": "Updated: governments and Pacific nations react to the collapse",
-   "published": "2026-11-22T18:00:00Z",
-   "title": "COP31 climate talks in Türkiye end without a deal over fossil fuels",
-   "why": "The UN climate summit in Antalya, Türkiye, ended on Sunday, two days late, without an agreed final text. Oil-producing states blocked any mention of moving away from fossil fuels, so the EU and others rejected it. UN chief António Guterres expressed 'profound frustration'.",
-   "matters": "Al Jazeera says it is the first UN climate summit since Copenhagen in 2009 to end without a deal adopted by all.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse"
-    },
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261123-scramble-to-save-climate-fight-after-cop-collapse"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-23/cop-climate-change-negotiation-failure-a-sign-of-anger/107415518"
-    },
-    {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/science/climate-change/cop31-climate-talks-break-angry-dispute-fossil-fuels-rcna610656"
-    }
-   ],
-   "serious": false
-  },
-  {
-   "section": "culture",
-   "published": "2026-11-22T17:00:00Z",
-   "title": "New Hunger Games prequel opens with $225m worldwide box office",
-   "why": "The Hunger Games: Sunrise on the Reaping took an estimated $120m in North America and $105m in 84 other markets in its opening weekend, studio estimates show. It was the top film in the US despite competition from the launch of the video game Grand Theft Auto VI.",
-   "sources": [
-    {
-     "name": "AP (via ABC News)",
-     "url": "https://abcnews.com/Entertainment/wireStory/resurgent-hunger-games-big-box-office-despite-competition-138361740"
-    },
-    {
-     "name": "Variety Australia",
-     "url": "https://au.variety.com/2026/film/news/sunrise-on-the-reaping-box-office-hunger-games-opening-weekend-exceeds-expectations-42821/"
-    },
-    {
-     "name": "Yahoo Entertainment",
-     "url": "https://www.yahoo.com/entertainment/movies/article/hunger-games-sunrise-on-the-reaping-box-office-prequel-opens-to-120-million-the-franchises-biggest-debut-since-2014-194528847.html"
-    }
-   ]
-  },
-  {
-   "section": "curious",
-   "published": "2026-11-22T15:00:00Z",
-   "title": "Istanbul officials say animal in lion hunt was not a big cat",
-   "why": "Teams with drones and thermal cameras searched woods in Uskumruköy, on Istanbul's northern edge, after a resident reported a lion on Sunday evening. On Monday evening the governor's office said new footage showed the animal was 'neither a lion nor any other big cat'. What it was remains unclear.",
-   "matters": "Prosecutors are investigating whether the animal had an owner.",
-   "sources": [
-    {
-     "name": "Hürriyet Daily News",
-     "url": "https://www.hurriyetdailynews.com/new-footage-challenges-reported-lion-sighting-in-istanbul-229772"
-    },
-    {
-     "name": "Türkiye Today",
-     "url": "https://www.turkiyetoday.com/nation/no-lion-on-the-loose-in-istanbul-authorities-rule-out-big-cat-after-sariyer-search-3233083"
-    },
-    {
-     "name": "Yahoo News",
-     "url": "https://www.yahoo.com/news/world/articles/istanbul-lion-hunt-fizzles-authorities-221826570.html"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/23/turkish-authorities-search-for-lion-spotted-on-outskirts-of-istanbul"
-    }
-   ],
-   "changed": "Updated: officials now say the animal was not a lion"
-  },
-  {
-   "section": "world",
-   "serious": true,
    "developing": true,
+   "changed": "Updated: 24 body bags recovered; about 30 to 34 people still missing",
    "published": "2026-11-22T05:00:00Z",
    "title": "Indonesia factory fire: 24 body bags recovered and dozens still missing",
    "why": "Rescuers had recovered 24 body bags from a burned sweets factory in Cikande, Banten province, west of Jakarta, by Sunday evening, officials say. Remains must be identified by DNA, which could take weeks. About 30 to 34 people are still missing, according to differing official counts.",
@@ -888,13 +901,13 @@
      "name": "Antara",
      "url": "https://en.antaranews.com/news/444587/dna-tests-needed-to-identify-victims-of-banten-factory-fire-police"
     }
-   ],
-   "changed": "Updated: 24 body bags recovered; about 30 to 34 people still missing"
+   ]
   },
   {
    "section": "world",
    "serious": true,
    "developing": true,
+   "changed": "Updated: Iran's Revolutionary Guards say three tankers hit mines in the strait",
    "published": "2026-11-21T20:30:00Z",
    "title": "Iran's Revolutionary Guards say three tankers hit mines near Hormuz",
    "why": "Iran's Revolutionary Guards said on Monday that three oil tankers caught fire after hitting naval mines in the Strait of Hormuz, two of them under US escort. The claim could not be independently verified, and the US military had not responded. Iran had vowed to counter the US naval blockade.",
@@ -916,8 +929,7 @@
      "name": "Euronews",
      "url": "https://www.euronews.com/2026/11/23/iran-vows-every-means-to-counter-us-blockade-of-hormuz-after-trump-threat"
     }
-   ],
-   "changed": "Updated: Iran's Revolutionary Guards say three tankers hit mines in the strait"
+   ]
   }
  ]
 }
