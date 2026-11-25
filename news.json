@@ -1,6 +1,91 @@
 {
- "updated": "2026-11-25T01:46:00Z",
+ "updated": "2026-11-25T07:44:00Z",
  "items": [
+  {
+   "section": "culture",
+   "published": "2026-11-25T07:00:00Z",
+   "title": "London Museum prepares to open in old Smithfield meat market",
+   "why": "The free London Museum, about the history of the British capital, opens in its new home in the Victorian buildings of Smithfield Market on Saturday 28 November. The move cost £437 million, up from a 2019 budget of £337 million.",
+   "matters": "The museum hopes to draw more than two million visitors a year.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261125-london-museum-makes-miraculous-move-to-former-meat-market"
+    },
+    {
+     "name": "Museums Association",
+     "url": "https://www.museumsassociation.org/museums-journal/news/2026/06/the-biggest-cultural-reimagining-in-europe-london-museum-sets-opening-date/"
+    },
+    {
+     "name": "The Art Newspaper",
+     "url": "https://www.theartnewspaper.com/2026/06/23/london-museum-announces-opening-date-for-new-smithfields-location"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "published": "2026-11-25T03:00:00Z",
+   "title": "Rescuers search for 26 miners trapped in flooded Indonesian gold mine",
+   "why": "At least 26 workers are trapped in an unlicensed gold mine in Bogor district, West Java, after heavy rain made a nearby river overflow into the pit on Monday, Indonesian police say. Eleven others got out. Rescuers are pumping water from shafts about 100 metres deep.",
+   "sources": [
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-25/miners-trapped-underground-in-west-java-indonesia/107426126"
+    },
+    {
+     "name": "The Business Standard (AFP)",
+     "url": "https://www.tbsnews.net/world/flooding-traps-26-workers-indonesia-gold-mine-police-1613286"
+    },
+    {
+     "name": "Xinhua",
+     "url": "https://english.news.cn/20261125/d841cf0ab6364d71a35c8d63937b0bab/c.html"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-25T02:00:00Z",
+   "title": "Asian stock markets fall sharply as doubts over AI boom return",
+   "why": "Chipmakers led steep falls across Asia on Wednesday. Taiwan's and South Korea's main indexes dropped around 5 to 6%, and Japan's Nikkei more than 3%. Samsung, SK Hynix and TSMC each fell around 8 to 9%, after Nvidia shares dropped almost 6% in New York on Tuesday.",
+   "matters": "Many pension and savings funds hold these big tech shares, so falls can affect ordinary savers.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom"
+    },
+    {
+     "name": "AP (via myMotherLode)",
+     "url": "https://mymotherlode.com/news/national/11338403/asian-stocks-mostly-decline-as-ai-shares-fall-following-a-retreat-on-wall-street.html"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://www.investing.com/news/stock-market-news/asian-stocks-slide-as-ai-selloff-deepens-us-tariff-threats-weigh-on-sentiment-5049630"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-25T01:00:00Z",
+   "title": "North Korea expels Swiss envoy over sanctions on children's camp",
+   "why": "North Korea has told Sylvain Astier, head of Switzerland's office in Pyongyang, to leave within 48 hours and the office to close, state media said on Wednesday. It objects to Swiss sanctions on a camp in Wonsan that Switzerland says has hosted Ukrainian children taken from Russian-occupied areas.",
+   "matters": "Switzerland reopened the office only in October, as one of few Western contacts with North Korea.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261125-north-korea-expels-head-of-swiss-diplomatic-office-over-sanctions"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/25/north-korea-expels-swiss-diplomat-and-orders-berns-new-pyongyang-office-to-close"
+    },
+    {
+     "name": "The Korea Times",
+     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261125/n-korea-closes-swiss-office-in-pyongyang-over-sanctions-on-childrens-camp"
+    }
+   ]
+  },
   {
    "section": "money",
    "published": "2026-11-25T00:30:00Z",
@@ -23,11 +108,31 @@
    ]
   },
   {
+   "section": "world",
+   "published": "2026-11-24T22:00:00Z",
+   "title": "Kilmar Abrego Garcia leaves the US for Spain after deportation fight",
+   "why": "Kilmar Abrego Garcia, a Salvadoran man wrongly deported to El Salvador in 2025 and later returned, flew from Washington to Madrid on Tuesday. The Homeland Security secretary says he 'self-deported'; his lawyer says he left on his own terms rather than be sent to Liberia.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-self-deports-to-spain-after-lengthy-us-legal-battle"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/news/us-news/kilmar-abrego-garcia-rcna611215"
+    }
+   ]
+  },
+  {
    "section": "tech",
    "lead": true,
    "published": "2026-11-24T21:00:00Z",
    "title": "US jury convicts Huawei of conspiring to steal trade secrets",
-   "why": "A federal jury in New York on Tuesday found China's Huawei guilty on 10 of 12 counts, including conspiracy to steal trade secrets and bank fraud, after a three-month trial. It was cleared of racketeering conspiracy and obstruction of justice. Huawei says it will appeal.",
+   "why": "A federal jury in New York on Tuesday found China's Huawei guilty on 10 of 12 counts, including conspiracy to steal trade secrets and bank fraud, after a three-month trial. It was cleared of racketeering conspiracy and obstruction of justice. Huawei says the convictions are 'without legal or factual merit'.",
    "matters": "Huawei is one of the world's biggest telecoms firms, and the verdict adds to tension between the US and China.",
    "sources": [
     {
@@ -41,30 +146,61 @@
     {
      "name": "Euronews",
      "url": "https://www.euronews.com/2026/11/24/tech-giant-huawei-found-guilty-of-stealing-trade-secrets-but-acquitted-of-racketeering"
+    },
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261125-china-s-huawei-says-us-conviction-without-legal-or-factual-merit-1"
+    }
+   ],
+   "changed": "Updated: Huawei responded to the verdict"
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-24T20:00:00Z",
+   "title": "Ukraine defends drone strike on Russian ships in Libya's Benghazi",
+   "why": "Ukraine's foreign minister, Andrii Sybiha, called weekend drone strikes on a Russian warship and a cargo ship at Benghazi, in eastern Libya, legitimate self-defence. Libya's Tripoli-based government condemned the attack. Eastern Libyan authorities say two of their navy soldiers died of wounds from it.",
+   "matters": "It carries the war in Ukraine to Africa, in a country split between rival governments.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261125-live-two-libyan-soldiers-killed-in-ukrainian-attack-on-russian-vessels-in-benghazi"
+    },
+    {
+     "name": "TVP World",
+     "url": "https://tvpworld.com/96674945/ukraine-defends-libya-drone-strike-as-tensions-flare-with-tripoli"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship"
     }
    ]
   },
   {
    "section": "world",
    "serious": true,
-   "developing": true,
    "published": "2026-11-24T17:30:00Z",
-   "title": "Gunmen hold shoppers hostage in a supermarket in Colombia's Cartagena",
-   "why": "Armed men took about 30 people hostage in an Éxito supermarket in Cartagena, Colombia, on Tuesday after a failed attempt to rob an armoured van, authorities say. About 10 had been freed by nightfall, AFP reports. Police and troops surrounded the building.",
+   "title": "Colombian forces free hostages held in Cartagena supermarket",
+   "why": "Police and troops stormed an Éxito supermarket in Cartagena, Colombia, at about 1:30am on Wednesday, ending a siege of more than 17 hours. President Abelardo de la Espriella says all the hostages were freed and one gunman was killed. Infobae reports four suspects were captured.",
    "sources": [
     {
      "name": "France 24",
-     "url": "https://www.france24.com/en/live-news/20261124-gunmen-take-25-hostage-at-colombia-supermarket"
+     "url": "https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights"
+    },
+    {
+     "name": "El Tiempo",
+     "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-rescatan-rehenes-del-exito-tras-18-horas-de-secuestro-un-delincuente-murio-y-tres-habrian-logrado-camuflarse-entre-los-liberados-3604042"
+    },
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/colombia/2026/11/24/hombres-armados-y-encapuchados-asaltaron-un-supermercado-exito-en-cartagena-la-policia-tiene-rodeado-el-almacen/"
     },
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/cartagena-colombia-hostages-supermarket/"
     }
-   ]
+   ],
+   "changed": "Updated: security forces ended the siege and freed the hostages"
   },
   {
    "section": "sport",
@@ -131,22 +267,29 @@
    "section": "world",
    "serious": true,
    "published": "2026-11-24T15:00:00Z",
-   "title": "Saudi Arabia says Houthi attack on Riyadh tower injures 11 people",
-   "why": "Saudi civil defence says 11 people were injured on Tuesday when the Public Investment Fund tower, Riyadh's tallest building, was hit for the second time in less than a week. Saudi authorities blamed Yemen's Houthis. The Houthis have since threatened Saudi Red Sea ports if Yemen's Hodeidah port is attacked.",
+   "title": "Saudi-led coalition strikes Yemen's Hodeidah port after attack on Riyadh tower",
+   "why": "The Saudi-led coalition says it struck 'operational capabilities' at the Houthi-run port of Hodeidah in Yemen early on Wednesday, after warning civilians to leave. It came a day after an attack on Riyadh's tallest tower injured 11 people, which Saudi Arabia blamed on the Houthis. No casualties were reported.",
    "sources": [
-    {
-     "name": "Dawn",
-     "url": "https://www.dawn.com/news/2046804/11-injured-as-riyadh-skyscraper-hit-second-time-in-less-than-a-week"
-    },
-    {
-     "name": "Middle East Eye",
-     "url": "https://www.middleeasteye.net/news/riyadhs-landmark-pif-tower-struck-aerial-attack-second-time-five-days"
-    },
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order"
+    },
+    {
+     "name": "Gulf News (AFP)",
+     "url": "https://gulfnews.com/world/gulf/saudi/saudi-led-coalition-says-struck-yemen-port-city-houthis-threaten-retaliation-1.500760106"
+    },
+    {
+     "name": "Arab News",
+     "url": "https://www.arabnews.pk/middle-east/coalition-targets-operational-capabilities-at-hodeidah-port-as-diplomats-condemn-houthis-3007992"
+    },
+    {
+     "name": "Dawn",
+     "url": "https://www.dawn.com/news/2046804/11-injured-as-riyadh-skyscraper-hit-second-time-in-less-than-a-week"
     }
-   ]
+   ],
+   "matters": "The Houthis have threatened to attack Saudi Red Sea ports, including Jeddah, in response.",
+   "changed": "Updated: the coalition struck Hodeidah port",
+   "developing": true
   },
   {
    "section": "world",
@@ -227,6 +370,27 @@
     {
      "name": "Arab News (AP)",
      "url": "https://arabnews.com/world/china-investigates-politburo-member-and-shanghai-party-chief-chen-jining-3013876"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-24T10:00:00Z",
+   "title": "Landmines killed or injured nearly 7,000 people in 2025, report says",
+   "why": "At least 6,929 people were killed or injured by landmines and other explosive remnants of war in 2025, the highest total since 2020, says the Landmine Monitor 2026 report. Most were civilians. Myanmar (1,891) and Syria (1,602) recorded the most casualties.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria"
+    },
+    {
+     "name": "Human Rights Watch",
+     "url": "https://www.hrw.org/news/2026/11/24/landmines-new-use-production-undermine-ban-treaty"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/24/landmine-casualties-hit-five-year-high-as-refugees-return-to-syria/"
     }
    ]
   },
@@ -596,23 +760,24 @@
   {
    "section": "money",
    "published": "2026-11-23T15:30:00Z",
-   "title": "Bangladesh garment workers reject factory owners' pay offer",
-   "why": "Talks at Bangladesh's garment wage board in Dhaka ended on Monday without agreement after workers' representatives rejected the owners' undisclosed offer. Workers want a monthly minimum of 32,000 taka (about $258), up from 12,500 taka. Talks resume on Tuesday afternoon.",
-   "matters": "Strikes have closed about 500 factories in an industry that employs about four million people, Al Jazeera reports.",
+   "title": "Bangladesh raises garment workers' minimum wage by 36% after protests",
+   "why": "A government wage board in Bangladesh on Wednesday raised the minimum monthly wage for garment workers by 36%, from 12,500 taka to about 17,000 taka (roughly $136), AP and Reuters report. Workers had demanded much more, and it is unclear whether they will accept it.",
+   "matters": "About four million people work in Bangladesh's garment industry, which makes clothes for many global brands.",
    "sources": [
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/23/protesting-bangladesh-garment-workers-reject-pay-offer"
+     "url": "https://www.aljazeera.com/news/2026/11/25/bangladesh-garment-workers-win-36-pay-rise-after-weeks-of-protest"
     },
     {
-     "name": "The Daily Star",
-     "url": "https://thedailystar.net/business/economy/rmg/news/rmg-wage-board-meeting-adjourned-until-tomorrow-4331246"
+     "name": "AP (via ABC News)",
+     "url": "https://abcnews.com/International/wireStory/bangladesh-raises-minimum-wage-garment-workers-after-weeks-138432725"
     },
     {
-     "name": "TBS News",
-     "url": "https://www.tbsnews.net/economy/rmg/rmg-workers-demand-tk30000-minimum-wage-wage-board-holds-third-meeting-1611381"
+     "name": "Free Malaysia Today (Reuters)",
+     "url": "https://www.freemalaysiatoday.com/category/world/2026/11/25/bangladesh-raises-garment-workers-minimum-wage-by-36-after-protests"
     }
-   ]
+   ],
+   "changed": "Updated: the wage board approved a 36% rise"
   },
   {
    "section": "world",
@@ -740,116 +905,6 @@
     {
      "name": "CrowdStrike",
      "url": "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-to-acquire-zscaler-bringing-network-security-and-zero-trust-to-the-falcon-platform/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-23T08:00:00Z",
-   "title": "India pledges $1.6bn to help flood-hit Nepal rebuild",
-   "why": "Indian Prime Minister Narendra Modi announced a 240 billion Nepali rupee (about $1.6bn) package in New Delhi on Monday during a visit by Nepal's Prime Minister Balendra Shah. Nepal's August glacier flood killed about 1,500 people, and 5,200 are missing, Reuters reports.",
-   "matters": "Nepal puts rebuilding costs at about three times India's offer, so it still needs much more help.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261123-modi-offers-flood-hit-nepal-1-6-bn-aid-package"
-    },
-    {
-     "name": "Reuters (via Dawn)",
-     "url": "https://www.dawn.com/news/2046531"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/23/india-pledges-14bn-to-help-nepal-rebuild-after-deadly-glacier-flood"
-    },
-    {
-     "name": "Kathmandu Post",
-     "url": "https://kathmandupost.com/national/2026/11/23/shah-and-modi-inaugurate-bridge-flag-off-janakpur-ayodhya-train"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-11-23T06:00:00Z",
-   "title": "Belgian airports halt flights as unions strike against government cuts",
-   "why": "Air traffic controllers joined a national day of union action on Monday, halting flights at Brussels and Charleroi airports from 07:00 to 21:00 local time. About 59,500 passengers had been booked on 429 Brussels flights. Unions oppose Prime Minister Bart De Wever's austerity budget.",
-   "matters": "Airlines say it is the 11th strike affecting Belgian airspace in 11 months.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike"
-    },
-    {
-     "name": "Brussels Times",
-     "url": "https://www.brusselstimes.com/belgium/2416819/national-strike-no-flights-at-belgian-airports-only-two-metro-lines-running-in-brussels-tbtb"
-    },
-    {
-     "name": "RTBF",
-     "url": "https://www.rtbf.be/article/manifestation-nationale-du-23-novembre-paralysie-totale-des-aeroports-belges-tous-les-vols-sont-annules-11819121"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "published": "2026-11-23T06:00:00Z",
-   "title": "Astronomers say an Earth-sized planet may be hiding beyond Neptune",
-   "why": "Simulations by astronomers in Japan, Australia and the US suggest a planet of 1.5 to 2 times Earth's mass could orbit at 350 to 500 times Earth's distance from the Sun, explaining the odd orbits of distant icy objects. The study is in Monthly Notices of the Royal Astronomical Society.",
-   "matters": "Nobody has seen it yet; the new Vera C. Rubin Observatory in Chile may be able to confirm or rule it out.",
-   "sources": [
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-24/qld-hypothetical-ninth-planet-research-modelling/107418880"
-    },
-    {
-     "name": "University of Southern Queensland",
-     "url": "https://www.unisq.edu.au/news/2026/11/hidden-planet"
-    },
-    {
-     "name": "ZME Science",
-     "url": "https://www.zmescience.com/space/second-hidden-planet-after-planet-nine/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-23T05:00:00Z",
-   "title": "Three Salvadoran soldiers killed in Haiti blast, Bukele says",
-   "why": "El Salvador's President Nayib Bukele says three soldiers died in Haiti on Friday when a grenade they were trying to remove from a drone exploded. They were among about 2,500 Salvadoran troops sent to fight gangs after four Salvadorans went missing in an attack on 18 October.",
-   "matters": "Bukele says any soldier who wants to leave Haiti can do so without reprisal.",
-   "sources": [
-    {
-     "name": "AP (via ABC News)",
-     "url": "https://abcnews.com/International/wireStory/bukele-reveals-circumstances-3-salvadoran-soldiers-died-fighting-138378203"
-    },
-    {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/world/haiti/two-salvadorans-killed-haiti-handling-explosives-first-official-deaths-rcna610493"
-    },
-    {
-     "name": "UPI",
-     "url": "https://upi.com/Top_News/World-News/2026/11/23/latam-elsalvador-haiti-soldiers-fund/7321795442497"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-22T21:30:00Z",
-   "title": "Thailand's Jeeno Thitikul wins LPGA Tour Championship for third year running",
-   "why": "Jeeno Thitikul shot a bogey-free 65 to win the season-ending CME Group Tour Championship in Naples, Florida, on Sunday by two shots from Japan's Aki Iwai. The $4m prize, the biggest in women's golf, made her the LPGA's all-time top earner.",
-   "matters": "She passed Annika Sörenstam's career prize-money record, which had stood for 25 years.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261122-jeeno-wins-third-consecutive-lpga-tour-championship"
-    },
-    {
-     "name": "AP (via News4JAX)",
-     "url": "https://www.news4jax.com/sports/2026/11/22/jeeno-thitikul-cashes-in-at-lpga-finale-to-win-4m-prize-for-3rd-straight-time/"
-    },
-    {
-     "name": "Golf Today",
-     "url": "https://golftoday.co.uk/cme-group-tour-championship-2026-thitikul-wins-event-yamashita-wins-vare-trophy/"
     }
    ]
   },
