@@ -7404,5 +7404,163 @@
         ]
       }
     ]
+  },
+  {
+    "id": "066",
+    "published": "2026-11-27",
+    "title": "Pakistan’s first astronaut, a pope’s private diary and Senegal’s cup handed back",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Is this true?",
+        "claim": "On Wednesday 25 November China launched a spacecraft carrying an astronaut from Pakistan, the first foreign astronaut ever to fly on a Chinese space mission.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this is true. A Long March-2F rocket lifted off from the Jiuquan launch centre in north-west China carrying the Shenzhou-24 spacecraft to Tiangong, China’s space station, and docked a few hours later. On board with two Chinese astronauts was Muhammad Zeeshan Ali, a 40-year-old Pakistan Air Force pilot, who became the first Pakistani in space and the first person from outside China to visit Tiangong. He is due to spend about a week there doing experiments, such as growing tiny algae that could one day provide food and oxygen for astronauts.",
+        "sources": [
+          [
+            "AFP (via France 24) · China rocket blasts off on Shenzhou-24 mission",
+            "https://www.france24.com/en/live-news/20261125-china-rocket-blasts-off-on-shenzhou-24-mission-state-media"
+          ],
+          [
+            "Reuters (via Arab News) · China’s Shenzhou-24 space flight takes off with Pakistani national as first foreign astronaut",
+            "https://www.arabnews.com/world/chinas-shenzhou-24-space-flight-takes-off-with-pakistani-national-as-first-foreign-astronaut-3013940"
+          ],
+          [
+            "Dawn · Pakistani flag rises into orbit as Zeeshan Ali makes history aboard China’s Shenzhou-24 spacecraft",
+            "https://www.dawn.com/news/2046753/pakistani-flag-rises-into-orbit-as-zeeshan-ali-makes-history-aboard-chinas-shenzhou-24-spacecraft"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three names from the fight over Africa’s biggest football trophy. Find their partners.",
+        "pairs": [
+          [
+            "Senegal",
+            "The team whose 1–0 win in January’s final has been given back to them"
+          ],
+          [
+            "Morocco",
+            "The team that was handed the title in March and has now lost it"
+          ],
+          [
+            "Court of Arbitration for Sport",
+            "The sports court in Lausanne, Switzerland, that settled the dispute on 24 November"
+          ]
+        ],
+        "why": "The pairs are: Senegal – the team whose win was restored; Morocco – the team that lost the title again; the Court of Arbitration for Sport – the court that decided. Senegal beat Morocco 1–0 after extra time in the final of the Africa Cup of Nations (often called AFCON) in January, but during the match Senegal’s players walked off for more than 15 minutes in protest at a disallowed goal and a penalty given to Morocco. In March an appeal board of African football’s governing body, CAF, ruled that by walking off Senegal had forfeited the match, and gave Morocco the title. On Tuesday 24 November the Court of Arbitration for Sport, the world’s top court for sports disputes, unanimously overturned that ruling, so Senegal are champions again. Morocco’s football federation says it will look at further legal options.",
+        "sources": [
+          [
+            "France 24 · Senegal regain AFCON title on appeal at Morocco’s expense",
+            "https://www.france24.com/en/senegal-regain-afcon-title-on-appeal-at-morocco-s-expense"
+          ],
+          [
+            "Sky Sports · Senegal crowned AFCON 2025 champions by Court of Arbitration for Sport following appeal",
+            "https://www.skysports.com/football/news/13615545/senegal-crowned-afcon-2025-champions-by-court-of-arbitration-for-sport-following-appeal"
+          ],
+          [
+            "The Tribune (ANI) · Senegal reinstated as AFCON 2025 champions after CAS overturns CAF ruling",
+            "https://www.tribuneindia.com/news/sports/senegal-reinstated-as-afcon-2025-champions-after-cas-overturns-caf-ruling"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "A music streaming service that is partly owned by the rapper Jay-Z",
+          "It says about 43% of the tracks sent to it in the last 90 days were made entirely by a computer",
+          "From 9 December it will turn those tracks away – but songs where musicians only used AI as a helper can stay"
+        ],
+        "options": [
+          "Tidal bans songs made entirely by artificial intelligence",
+          "Spotify starts paying extra for songs written by AI",
+          "A song made by AI tops the charts for the first time",
+          "Jay-Z releases an album made with a robot band"
+        ],
+        "correct": 0,
+        "why": "It was: Tidal banning songs made entirely by artificial intelligence (AI). On Tuesday 24 November the streaming service said that from 9 December any track made wholly by AI will be rejected and removed from its catalogue, while songs made with some AI help are still allowed. Tidal says such computer-made music has flooded in, about 43% of recent deliveries, and that it takes streams and money away from real artists and confuses fans. Tidal had already stopped paying royalties for fully AI-made songs; other big services such as Spotify and Apple Music still allow them, so the second option is wrong.",
+        "sources": [
+          [
+            "Euronews · Tidal bans AI music in a bid to promote fairness in industry",
+            "https://www.euronews.com/2026/11/24/new-terms-and-conditions-tidal-bans-ai-music-in-a-bid-to-promote-fairness-in-industry"
+          ],
+          [
+            "CBC (via Yahoo News Canada) · Tidal is banning fully AI-generated music from its platform",
+            "https://ca.news.yahoo.com/tidal-banning-fully-ai-generated-205313735.html"
+          ],
+          [
+            "The Hollywood Reporter (via Yahoo) · Tidal bans wholly AI-generated music",
+            "https://www.yahoo.com/entertainment/music/articles/tidal-bans-wholly-ai-generated-163146944.html"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "Pope Francis’s private diary, just published as a book: put these in order, earliest first.",
+        "items": [
+          "The diary comes out as a book in five languages",
+          "The diary’s writer, Jorge Mario Bergoglio, is elected pope and takes the name Francis",
+          "Francis writes the last entry in his diary",
+          "Bergoglio, then a bishop in Buenos Aires, Argentina, starts keeping the diary"
+        ],
+        "correctOrder": [
+          3,
+          1,
+          2,
+          0
+        ],
+        "why": "The right order is: he starts the diary in Buenos Aires (1992), then he is elected pope (March 2013), then the last entry (August 2024), then the book comes out (24 November 2026). For more than 30 years the future pope jotted short handwritten notes in a planner, starting when he was an assistant bishop in Buenos Aires. The late Pope Francis, who led the Catholic Church from 2013 until 2025, kept writing in it in Rome, and his last note is from August 2024. A close aide, Cardinal Víctor Manuel Fernández, put the notes together as “The Private Diary of Pope Francis”, which tells of his fears, his prayers and a difficult spiritual time in 2021 and 2022.",
+        "sources": [
+          [
+            "Vatican News · The personal diary of Pope Francis",
+            "https://www.vaticannews.va/en/vatican-city/news/2026-11/personal-diary-pope-francis-cardinal-fernandez-book.html"
+          ],
+          [
+            "AFP (via France 24) · Pope Francis revealed in personal diary",
+            "https://www.france24.com/en/live-news/20261124-pope-francis-revealed-in-personal-diary-having-seen-devil"
+          ],
+          [
+            "ABC News Australia (AP) · Pope Francis’s private diary details spiritual crisis",
+            "https://www.abc.net.au/news/2026-11-24/pope-francis-private-diary-details-spiritual-crisis/107423074"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "On Monday 23 November a judge in Quebec, Canada, paused a law that let members of the province’s parliament skip a traditional oath before taking their seats. Who is that oath sworn to?",
+        "options": [
+          "King Charles III",
+          "Canada’s prime minister",
+          "The flag of Quebec",
+          "The United Nations"
+        ],
+        "correct": 0,
+        "why": "It is sworn to King Charles III. Canada is a constitutional monarchy, so the British monarch is also Canada’s head of state, and lawmakers across the country normally swear allegiance to him before taking office. In 2022 Quebec passed a law letting its members skip this oath, but Judge Ian Demers of Quebec’s Superior Court suspended that law while a court challenge goes on, writing that the constitution is not an “à la carte” menu. Premier Paul St-Pierre Plamondon, whose Parti Québécois wants Quebec to become independent and who calls the oath humiliating, says his government will appeal.",
+        "sources": [
+          [
+            "AFP (via France 24) · Canada court rules lawmakers must swear royal oath",
+            "https://www.france24.com/en/live-news/20261123-canada-court-rules-lawmakers-must-swear-royal-oath-risking-quebec-chaos"
+          ],
+          [
+            "CTV News · Quebec judge suspends law that removed mandatory oath to the King",
+            "https://www.ctvnews.ca/montreal/article/quebec-judge-suspends-law-that-removed-mandatory-oath-to-the-king/"
+          ],
+          [
+            "Canadian Lawyer · ‘Constitution not an à la carte menu’: Quebec court pauses law exempting lawmakers from swearing oath to King",
+            "https://www.canadianlawyermag.com/news/general/constitution-not-a-la-carte-menu-qc-court-pauses-law-exempting-lawmakers-from-swearing-oath-to-king/394955"
+          ]
+        ]
+      }
+    ]
   }
 ]
