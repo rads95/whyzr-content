@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-25T07:44:00Z",
+ "updated": "2026-11-25T13:43:00Z",
  "items": [
+  {
+   "section": "climate",
+   "published": "2026-11-25T12:55:00Z",
+   "developing": true,
+   "title": "Thanksgiving storm threatens floods and strong winds along US East Coast",
+   "why": "A fast-strengthening storm is bringing rain, coastal flooding and gusts of up to 60 to 70 mph along the US East Coast from Wednesday into Thanksgiving on Thursday, forecasters say. More than 31 million people are under coastal flood warnings, ABC News reports.",
+   "matters": "More than 81 million Americans are expected to travel this week, so delays and power cuts are likely.",
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://abcnews.com/US/powerful-storm-threatens-east-coast-hurricane-level-flooding/story?id=138435983"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/weather/storms/severe-thanksgiving-storms-threaten-millions-travelers-macys-parade-rcna611071"
+    },
+    {
+     "name": "The Weather Channel",
+     "url": "https://weather.com/2026/11/25/holiday/thanksgiving/east-coast-thanksgiving-storm-wind-rain-flooding"
+    }
+   ]
+  },
   {
    "section": "culture",
    "published": "2026-11-25T07:00:00Z",
@@ -27,22 +49,27 @@
    "serious": true,
    "developing": true,
    "published": "2026-11-25T03:00:00Z",
-   "title": "Rescuers search for 26 miners trapped in flooded Indonesian gold mine",
-   "why": "At least 26 workers are trapped in an unlicensed gold mine in Bogor district, West Java, after heavy rain made a nearby river overflow into the pit on Monday, Indonesian police say. Eleven others got out. Rescuers are pumping water from shafts about 100 metres deep.",
+   "title": "Bodies found as rescuers search flooded Indonesian gold mine",
+   "why": "Rescuers have recovered at least three bodies from an unlicensed gold mine in Bogor district, West Java, which flooded on Monday, the search agency Basarnas says; AP later reported six. About 20 to 23 miners are still missing, and 11 escaped. Rising water is slowing the search.",
    "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/25/rescuers-search-for-dozens-trapped-in-flooded-indonesia-gold-mine"
+    },
+    {
+     "name": "Korea Times (AP)",
+     "url": "https://www.koreatimes.co.kr/world/20261125/6-dead-20-believed-trapped-after-flood-hits-unauthorized-gold-mine-in-indonesia"
+    },
+    {
+     "name": "Bluewin (dpa)",
+     "url": "https://www.bluewin.ch/en/news/indonesia-more-than-20-people-missing-after-gold-mine-flooding-li.3686434"
+    },
     {
      "name": "ABC Australia",
      "url": "https://www.abc.net.au/news/2026-11-25/miners-trapped-underground-in-west-java-indonesia/107426126"
-    },
-    {
-     "name": "The Business Standard (AFP)",
-     "url": "https://www.tbsnews.net/world/flooding-traps-26-workers-indonesia-gold-mine-police-1613286"
-    },
-    {
-     "name": "Xinhua",
-     "url": "https://english.news.cn/20261125/d841cf0ab6364d71a35c8d63937b0bab/c.html"
     }
-   ]
+   ],
+   "changed": "Updated: the first bodies have been recovered"
   },
   {
    "section": "money",
@@ -129,7 +156,6 @@
   },
   {
    "section": "tech",
-   "lead": true,
    "published": "2026-11-24T21:00:00Z",
    "title": "US jury convicts Huawei of conspiring to steal trade secrets",
    "why": "A federal jury in New York on Tuesday found China's Huawei guilty on 10 of 12 counts, including conspiracy to steal trade secrets and bank fraud, after a three-month trial. It was cleared of racketeering conspiracy and obstruction of justice. Huawei says the convictions are 'without legal or factual merit'.",
@@ -267,29 +293,30 @@
    "section": "world",
    "serious": true,
    "published": "2026-11-24T15:00:00Z",
-   "title": "Saudi-led coalition strikes Yemen's Hodeidah port after attack on Riyadh tower",
-   "why": "The Saudi-led coalition says it struck 'operational capabilities' at the Houthi-run port of Hodeidah in Yemen early on Wednesday, after warning civilians to leave. It came a day after an attack on Riyadh's tallest tower injured 11 people, which Saudi Arabia blamed on the Houthis. No casualties were reported.",
+   "title": "Houthis say they hit Saudi oil refinery after coalition strikes Hodeidah",
+   "why": "Yemen's Houthis say they attacked Saudi Arabia's Ras Tanura refinery on Wednesday, causing fires. The Saudi-led coalition says it destroyed four drones over Ras Tanura and reported no casualties. It came after coalition strikes on Hodeidah port, which followed an attack on Riyadh's tallest tower that injured 11.",
    "sources": [
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order"
+     "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/gulf/2026/11/25/yemens-houthis-say-they-attacked-saudi-arabias-ras-tanura-refinery/"
+    },
+    {
+     "name": "Cyprus Mail (Reuters)",
+     "url": "https://cyprus-mail.com/2026/11/25/yemens-houthis-say-they-attacked-saudi-oil-refinery-and-riyadh-financial-district"
     },
     {
      "name": "Gulf News (AFP)",
      "url": "https://gulfnews.com/world/gulf/saudi/saudi-led-coalition-says-struck-yemen-port-city-houthis-threaten-retaliation-1.500760106"
-    },
-    {
-     "name": "Arab News",
-     "url": "https://www.arabnews.pk/middle-east/coalition-targets-operational-capabilities-at-hodeidah-port-as-diplomats-condemn-houthis-3007992"
-    },
-    {
-     "name": "Dawn",
-     "url": "https://www.dawn.com/news/2046804/11-injured-as-riyadh-skyscraper-hit-second-time-in-less-than-a-week"
     }
    ],
-   "matters": "The Houthis have threatened to attack Saudi Red Sea ports, including Jeddah, in response.",
-   "changed": "Updated: the coalition struck Hodeidah port",
-   "developing": true
+   "matters": "Ras Tanura handles about 16% of Saudi refining capacity, so attacks there can push up oil prices worldwide.",
+   "changed": "Updated: the Houthis say they attacked the Ras Tanura refinery",
+   "developing": true,
+   "lead": true
   },
   {
    "section": "world",
@@ -370,6 +397,26 @@
     {
      "name": "Arab News (AP)",
      "url": "https://arabnews.com/world/china-investigates-politburo-member-and-shanghai-party-chief-chen-jining-3013876"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-24T12:00:00Z",
+   "title": "UK warns firms supplying Ukraine of Russian sabotage threat",
+   "why": "Britain's defence ministry and MI5's protective security arm warned companies supplying Ukraine's military on Tuesday that Russia has stepped up sabotage attempts against European defence sites, often using proxies and methods such as arson. Russia's embassy in London rejects any link to such activity.",
+   "sources": [
+    {
+     "name": "Arab News (Reuters)",
+     "url": "https://www.arabnews.com/world/uk-warns-of-russian-sabotage-threat-to-companies-that-supply-ukraine-3013899"
+    },
+    {
+     "name": "City AM",
+     "url": "https://www.cityam.com/act-now-mi5-urges-defence-firms-to-ramp-up-security-amid-russia-threat/"
+    },
+    {
+     "name": "LBC",
+     "url": "https://www.lbc.co.uk/article/russia-targeting-uk-firms-act-now-mi5-5HjdnSx_2/"
     }
    ]
   },
@@ -459,6 +506,27 @@
     {
      "name": "The National",
      "url": "https://www.thenationalnews.com/news/mena/2026/11/24/iraqs-pm-orders-federal-takeover-of-kurdistan-oil-exports-border-crossings-and-oilfields-in-disputed-areas/"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-24T07:00:00Z",
+   "title": "Sanofi agrees to buy US drugmaker Insmed for about $41bn",
+   "why": "French drugmaker Sanofi will pay $175 a share in cash for Insmed, maker of the lung disease drug Brinsupri, the companies said on Tuesday. It is the drug industry's biggest takeover since Pfizer bought Seagen in 2023. Sanofi's shares rose almost 11% in Paris.",
+   "matters": "Big drug firms are buying new medicines as patents on their best-sellers run out.",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html"
+    },
+    {
+     "name": "Fierce Pharma",
+     "url": "https://www.fiercepharma.com/pharma/sanofi-inks-41b-insmed-buyout-post-dupixent-growth-drivers"
+    },
+    {
+     "name": "Investing.com (via Yahoo Finance)",
+     "url": "https://finance.yahoo.com/news/sanofi-agrees-acquire-drugmaker-insmed-071944533.html"
     }
    ]
   },
@@ -821,100 +889,12 @@
    ]
   },
   {
-   "section": "tech",
-   "published": "2026-11-23T13:00:00Z",
-   "title": "Nvidia brings back Jensen Huang as chief after Trump intervention",
-   "why": "Nvidia's board reinstated co-founder Jensen Huang as chief executive on Monday, 11 days after he resigned over affairs, including one with a woman US officials suspect of spying for China. China denies she is a spy. President Trump says he helped convince the board.",
-   "matters": "Democrats and some Republicans want investigations; Huang faces questions from House committees on 1 December and a Senate committee on 3 December.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/americas/20261123-nvidia-board-reinstates-disgraced-jensen-huang-as-ceo-president-says"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-24/nvidia-ceo-jensen-huang-reinstated/107419102"
-    },
-    {
-     "name": "Nvidia",
-     "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-11-23T12:30:00Z",
-   "title": "Lego to build €1bn factory in Portugal, its eighth worldwide",
-   "why": "Danish toymaker Lego will build a factory in Estarreja, near Aveiro in northern Portugal, investing about €1bn and creating more than 1,000 jobs, it announced on Monday. Construction starts in 2027 and brick production in 2030. It will be Lego's fourth factory in Europe.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261123-lego-picks-portugal-to-build-its-8th-factory"
-    },
-    {
-     "name": "CNN Portugal",
-     "url": "https://cnnportugal.iol.pt/lego/aveiro/lego-investe-mil-milhoes-de-euros-e-cria-mil-empregos-em-fabrica-em-aveiro/20261123/6b0425f00cf29f111c0f44a8"
-    },
-    {
-     "name": "Notícias de Aveiro",
-     "url": "https://www.noticiasdeaveiro.pt/lego-anuncia-fabrica-em-estarreja/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-23T12:00:00Z",
-   "title": "Iran flogs singer Parastoo Ahmadi over concert without headscarf",
-   "why": "Singer Parastoo Ahmadi and four members of her team were each given 74 lashes in Qom on Monday, her lawyer Mostafa Nili told Iranian media. A court convicted them over a 2024 online concert in which she sang without a hijab. Rights groups call flogging torture.",
-   "matters": "They also face two-year bans on performing and on leaving Iran.",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/23/iran-carries-out-flogging-of-singer-who-performed-without-hijab"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf"
-    },
-    {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/news/mena/2026/11/23/iran-lashes-female-singer-and-her-team-74-times-each-over-vulgar-concert-with-no-audience/"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-11-23T11:30:00Z",
-   "title": "CrowdStrike agrees to buy rival Zscaler for $43.9bn",
-   "why": "US cybersecurity firm CrowdStrike will buy Zscaler in an all-share deal valuing it at about $43.9bn, the companies said on Monday. Zscaler shareholders get a 34% premium. The deal needs shareholder and regulatory approval and is expected to close in CrowdStrike's 2028 financial year.",
-   "matters": "Euronews calls it the biggest cybersecurity deal ever, combining two firms that protect many large organisations.",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/23/crowdstrike-to-buy-zscaler.html"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/23/crowdstrike-buys-zscaler-in-40-billion-cybersecurity-deal"
-    },
-    {
-     "name": "CrowdStrike",
-     "url": "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-to-acquire-zscaler-bringing-network-security-and-zero-trust-to-the-falcon-platform/"
-    }
-   ]
-  },
-  {
    "section": "health",
    "serious": true,
    "developing": true,
    "published": "2026-11-22T20:00:00Z",
    "title": "Fighting near Congo hospital traps health workers in Ebola outbreak zone",
-   "why": "Health workers sheltered in a hospital maternity ward for more than 24 hours as fighting took place nearby in Ituri province, eastern DR Congo, WHO chief Tedros Adhanom Ghebreyesus said on Sunday. The WHO counts 11,613 confirmed cases and 5,678 deaths in the outbreak by 17 November.",
+   "why": "WHO staff and Ebola responders have been sheltering in a hospital maternity ward in Ituri province, eastern DR Congo, since fighting began nearby on Saturday. On Tuesday the WHO said fighting and heavy rain were still preventing a safe evacuation. It counts 11,613 confirmed cases and 5,678 deaths.",
    "matters": "It is the largest and deadliest Ebola outbreak recorded in the country, and violence is making it harder to contain.",
    "sources": [
     {
@@ -928,8 +908,13 @@
     {
      "name": "WHO",
      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630"
+    },
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168865"
     }
-   ]
+   ],
+   "changed": "Updated: the WHO says workers were still unable to leave on Tuesday"
   },
   {
    "section": "world",
