@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "facts": [
     {
       "date": "2026-09-20",
@@ -1712,6 +1712,28 @@
         {
           "name": "University of Illinois Physics",
           "url": "https://van.physics.illinois.edu/ask/listing/945"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "kind": "fact",
+      "category": "Weird but true",
+      "emoji": "🪐",
+      "title": "Saturn could float in a bath",
+      "text": "Saturn is 95 times heavier than Earth, but it is made mostly of light hydrogen and helium. That makes it the only planet less dense than water: about 0.69 grams per cubic centimetre, against water’s 1. In theory it would float, if you could find a bath about 120,000 km wide.",
+      "sources": [
+        {
+          "name": "NASA Science",
+          "url": "https://science.nasa.gov/saturn/facts/"
+        },
+        {
+          "name": "BBC Sky at Night Magazine",
+          "url": "https://www.skyatnightmagazine.com/space-science/saturn-could-float-on-water"
+        },
+        {
+          "name": "Caltech IPAC Cool Cosmos",
+          "url": "https://coolcosmos.ipac.caltech.edu/ask/113-Can-Saturn-really-float-on-water-"
         }
       ]
     }
