@@ -1,6 +1,48 @@
 {
- "updated": "2026-11-26T01:48:00Z",
+ "updated": "2026-11-26T07:55:00Z",
  "items": [
+  {
+   "section": "money",
+   "published": "2026-11-26T01:00:00Z",
+   "title": "South Korea raises interest rates to 3.25% as chip exports boom",
+   "why": "The Bank of Korea raised its main interest rate by a quarter of a point to 3.25% on Thursday, its highest since October 2024. Inflation was 2.8% in October, above its 2% target. The bank raised its growth forecast for 2027 to 4.1%, helped by soaring demand for AI chips.",
+   "matters": "Higher rates make loans and mortgages dearer for South Korean households and businesses.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/economy/central-banks/bank-of-korea-hikes-rate-to-3.25-against-backdrop-of-strong-economy"
+    },
+    {
+     "name": "Korea JoongAng Daily",
+     "url": "https://www.koreajoongangdaily.com/business/bok-resumes-rate-hikes-as-inflation-persists/12992056"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-25T23:00:00Z",
+   "title": "Kim Jong Un calls for wider deployment of tactical nuclear weapons",
+   "why": "North Korea's leader Kim Jong Un toured nuclear material plants and a weapons research institute on Wednesday, state media KCNA reported. He said production of nuclear material is being expanded and urged deploying tactical nuclear weapons across more missions. KCNA did not say where the sites are.",
+   "matters": "Analysts say it signals North Korea will only hold talks with the US as a nuclear-armed state.",
+   "sources": [
+    {
+     "name": "Reuters (via Al Jazeera)",
+     "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes"
+    },
+    {
+     "name": "Yonhap (via Korea JoongAng Daily)",
+     "url": "https://www.koreajoongangdaily.com/korea/norths-kim-inspects-nuclear-material-sites-calls-for-broader-use-of-tactical-nukes/12991741"
+    },
+    {
+     "name": "Euronews (AP)",
+     "url": "https://euronews.com/2026/11/26/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture"
+    }
+   ]
+  },
   {
    "section": "culture",
    "serious": true,
@@ -19,6 +61,47 @@
     {
      "name": "ABC Australia",
      "url": "https://www.abc.net.au/news/2026-11-26/duran-duran-andy-taylor-dies/107428492"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-25T22:00:00Z",
+   "title": "Roma end PSG's perfect Champions League run with 2-2 draw",
+   "why": "Donyell Malen's 78th-minute penalty earned Roma a 2-2 draw at Paris Saint-Germain on Wednesday, ending PSG's perfect start in this season's Champions League. Real Madrid are now the only side to have won all five games. Elsewhere, Lille beat Bayern Munich 2-1 and Liverpool won 3-0 at Club Brugge.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/sport/20261125-psg-s-perfect-champions-league-record-ends-as-roma-snatch-2-2-draw-with-late-penalty"
+    },
+    {
+     "name": "UEFA",
+     "url": "https://www.uefa.com/uefachampionsleague/news/02ab-22288f99d39c-d5631dd311d0-1000--champions-league-highlights-and-round-up-liverpool-and-bar/"
+    },
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/soccer/report/_/gameId/401915374"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-11-25T20:00:00Z",
+   "title": "US regulator lets SpaceX launch up to a million data-centre satellites",
+   "why": "The US Federal Communications Commission on Wednesday authorised SpaceX to deploy up to one million satellites to run AI computing in orbit, a project called Starmind. The FCC called it a first. About 17,000 satellites orbit Earth today; Amazon and astronomers had opposed the plan.",
+   "matters": "Supporters say space data centres could ease demand for power on Earth; critics fear more space debris and spoiled night skies.",
+   "sources": [
+    {
+     "name": "Reuters (via Al Jazeera)",
+     "url": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres"
+    },
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/technology/20261126-us-authorizes-spacex-to-launch-up-to-one-million-satellites-for-orbital-data-centers"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
     }
    ]
   },
@@ -83,6 +166,26 @@
     {
      "name": "CBS News",
      "url": "https://www.cbsnews.com/news/iowa-army-ammunition-plant-unstable-explosives-detonation/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-25T13:00:00Z",
+   "title": "Judges in Netanyahu's corruption trial suggest dropping one case",
+   "why": "Judges in Jerusalem on Wednesday recommended that prosecutors drop one of the three corruption cases against Israel's caretaker prime minister, Benjamin Netanyahu, reconsider another and settle the third, Israeli media reported. Netanyahu, who denies wrongdoing, said the trial must end. The attorney general says she will consider the recommendations.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case"
+    },
+    {
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/news/2026/1125/1600664-benjamin-netanyahu-court/"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/in-boost-for-netanyahu-judges-question-corruption-trial-charges"
     }
    ]
   },
@@ -329,12 +432,16 @@
   {
    "section": "sport",
    "published": "2026-11-24T17:00:00Z",
-   "title": "Jannik Sinner has knee surgery and may miss the Australian Open",
-   "why": "Italy's Jannik Sinner, the world number two, said on Tuesday he had surgery on his right knee in Turku, Finland. He has not played since winning Wimbledon in July. One specialist says he could be out for three to four months; the Australian Open starts on 17 January.",
+   "title": "Jannik Sinner to miss the Australian Open after knee surgery",
+   "why": "Italy's Jannik Sinner, the world number two, will miss January's Australian Open, Tennis Australia's chief Andrew Abdo confirmed on Thursday. Sinner had surgery on his right knee in Finland on Tuesday and has not played since winning Wimbledon in July. Experts say he could be out for about three months.",
    "sources": [
     {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/live-news/20261124-sinner-at-risk-of-missing-australian-open-after-confirming-knee-surgery-1"
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261126-two-time-champion-sinner-out-of-australian-open-after-surgery"
+    },
+    {
+     "name": "dpa (via Yahoo Sports)",
+     "url": "https://sports.yahoo.com/tennis/articles/jannik-sinner-ruled-australian-open-034823352.html"
     },
     {
      "name": "Sky Sports",
@@ -344,7 +451,8 @@
      "name": "ABC Australia",
      "url": "https://www.abc.net.au/news/2026-11-25/jannik-sinner-australian-open-2027-injuries/107423672"
     }
-   ]
+   ],
+   "changed": "Updated: Tennis Australia confirmed he will miss the tournament"
   },
   {
    "section": "culture",
@@ -608,181 +716,22 @@
    "changed": "Updated: Iraq's top court backed the federal government's powers"
   },
   {
-   "section": "money",
-   "published": "2026-11-24T07:00:00Z",
-   "title": "Sanofi agrees to buy US drugmaker Insmed for about $41bn",
-   "why": "French drugmaker Sanofi will pay $175 a share in cash for Insmed, maker of the lung disease drug Brinsupri, the companies said on Tuesday. It is the drug industry's biggest takeover since Pfizer bought Seagen in 2023. Sanofi's shares rose almost 11% in Paris.",
-   "matters": "Big drug firms are buying new medicines as patents on their best-sellers run out.",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html"
-    },
-    {
-     "name": "Fierce Pharma",
-     "url": "https://www.fiercepharma.com/pharma/sanofi-inks-41b-insmed-buyout-post-dupixent-growth-drivers"
-    },
-    {
-     "name": "Investing.com (via Yahoo Finance)",
-     "url": "https://finance.yahoo.com/news/sanofi-agrees-acquire-drugmaker-insmed-071944533.html"
-    }
-   ]
-  },
-  {
-   "section": "curious",
-   "published": "2026-11-24T06:00:00Z",
-   "title": "Pope Francis's private diary, now published, describes seeing the devil",
-   "why": "A book of the late Pope Francis's private notes from 1992 to 2024, edited by Cardinal Víctor Manuel Fernández, came out on Tuesday in five languages. In it Francis describes seeing the devil several times and a spiritual crisis in 2021 and 2022.",
-   "sources": [
-    {
-     "name": "Vatican News",
-     "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/personal-diary-pope-francis-cardinal-fernandez-book.html"
-    },
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261124-pope-francis-revealed-in-personal-diary-having-seen-devil"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-24/pope-francis-private-diary-details-spiritual-crisis/107423074"
-    }
-   ]
-  },
-  {
-   "section": "curious",
-   "published": "2026-11-24T05:00:00Z",
-   "title": "Silver coins looted from 1712 Dutch shipwreck returned to Australia",
-   "why": "Twenty-three silver coins taken from the Zuytdorp, a Dutch East India Company ship wrecked off Western Australia in 1712, were handed back in Canberra on Tuesday. The FBI found 21 in California and Dutch police seized two in Amsterdam. They will go to a museum in Fremantle.",
-   "sources": [
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-25/zuytdorp-coins-history-and-recovery/107421748"
-    },
-    {
-     "name": "The Nightly",
-     "url": "https://thenightly.com.au/australia/global-manhunt-sees-historic-silver-coins-stolen-from-australian-shipwreck-returned--c-23204883"
-    },
-    {
-     "name": "Yahoo News Australia (AAP)",
-     "url": "https://au.news.yahoo.com/stolen-shipwreck-coins-return-home-054152385.html"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "changed": "Updated: the treaty was signed in Canberra",
-   "published": "2026-11-24T04:00:00Z",
-   "title": "Australia and Solomon Islands sign treaty barring foreign military bases",
-   "why": "Prime Ministers Anthony Albanese and Matthew Wale signed a treaty in Canberra on Wednesday. Solomon Islands will host no foreign military or security base and will consult Australia on security. ABC reports it will let its 2022 pact with China lapse; Wale cites a non-disclosure clause.",
-   "matters": "The 2022 pact alarmed Australia and the US because it opened the way for Chinese forces in the South Pacific.",
-   "sources": [
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-25/australia-signs-pact-with-solomon-islands-in-blow-to-china/107424550"
-    },
-    {
-     "name": "1News (AAP)",
-     "url": "https://www.1news.co.nz/2026/11/25/next-level-australia-inks-solomon-islands-treaty/"
-    },
-    {
-     "name": "Free Malaysia Today (AFP)",
-     "url": "https://www.freemalaysiatoday.com/category/world/2026/11/25/australia-solomon-islands-sign-sweeping-pact-stymieing-china"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-24T04:00:00Z",
-   "title": "Bangladesh's ousted leader Sheikh Hasina says she will return on 16 December",
-   "why": "Sheikh Hasina, Bangladesh's former prime minister, plans to return from exile in India on 16 December, her spokesman says, and has asked for a flight on the state airline. She was sentenced to death in her absence. A government minister says she can only return in handcuffs.",
-   "sources": [
-    {
-     "name": "AP and Reuters (via Al Jazeera)",
-     "url": "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16"
-    },
-    {
-     "name": "The Daily Star",
-     "url": "https://www.thedailystar.net/news/news/hasina-seeks-return-bangladesh-december-16-state-carrier-reuters-4331841"
-    },
-    {
-     "name": "The Business Standard",
-     "url": "https://www.tbsnews.net/bangladesh/hasina-must-return-handcuffs-prisoner-if-she-comes-back-16-dec-state-minister-1612191"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "published": "2026-11-24T03:40:00Z",
-   "title": "California braces for flooding as king tides meet strong El Niño",
-   "why": "Exceptionally high 'king tides' peaking on Wednesday, a strong El Niño and record-warm seas could bring severe coastal flooding to California during Thanksgiving week, AFP reports. The US National Weather Service warns of up to nearly three feet (0.9m) of flooding around San Francisco Bay.",
-   "matters": "San Francisco's mayor, Daniel Lurie, has urged people to limit unnecessary travel in the busiest US travel week.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261124-california-braces-for-triple-flooding-threat-of-huge-tides-el-nino-warm-oceans"
-    },
-    {
-     "name": "KQED",
-     "url": "https://www.kqed.org/news/12110560/devastating-how-bay-area-residents-are-fighting-flooding-from-el-nino-and-coming-king-tides"
-    },
-    {
-     "name": "ABC7 News",
-     "url": "https://abc7news.com/20037281/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-24T03:00:00Z",
-   "title": "Car bomb wounds at least 23 people in Colombian city of Villavicencio",
-   "why": "A car bomb exploded on Monday night in Villavicencio, capital of Meta province in central Colombia, wounding at least 23 people and damaging buildings, according to reports. President Abelardo de la Espriella blamed a dissident faction of the former FARC rebels.",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/24/at-least-24-injured-after-car-bomb-detonates-in-central-colombia"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/live-news/20261124-gunmen-take-25-hostage-at-colombia-supermarket"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-11-24T02:20:00Z",
-   "title": "Australia passes law to fine tech giants up to 5% of revenue",
-   "why": "Australia's parliament passed the digital duty of care law on Wednesday after Labor struck a deal with the Greens. Platforms that fail to protect users could be fined up to 5% of global revenue, and Australians will be able to sue them. The opposition Coalition voted against it.",
-   "matters": "SBS estimates Meta alone could face fines of around A$10 billion; the US ambassador has objected to the law.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261125-australia-parliament-backs-law-imposing-massive-new-fines-for-big-tech"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-25/federal-politics-live-blog-parliament-november-25/107422208"
-    },
-    {
-     "name": "SBS News",
-     "url": "https://www.sbs.com.au/news/article/greens-strike-deal-with-labor-on-digital-duty-of-care-laws/564pk865q"
-    }
-   ],
-   "changed": "Updated: the law has passed parliament"
-  },
-  {
    "section": "health",
    "serious": true,
    "developing": true,
    "published": "2026-11-22T20:00:00Z",
-   "title": "Ebola workers evacuated from Congo hospital after days of fighting",
-   "why": "WHO staff and Congolese health officials who sheltered for over three days in a hospital in Akwe, Ituri province, have been evacuated, WHO chief Tedros Adhanom Ghebreyesus said on Tuesday. Fighting nearby has disrupted the Ebola response. The WHO counts 11,762 confirmed cases and 5,775 deaths.",
-   "matters": "It is the largest and deadliest Ebola outbreak recorded in the country, and violence is making it harder to contain.",
+   "title": "Congo Ebola cases pass 12,000 as fighting hampers the response",
+   "why": "Confirmed Ebola cases in Congo have passed 12,000, with 5,904 deaths, Reuters reported on Thursday, citing government data. Days earlier, WHO staff who had sheltered in a hospital in Akwe, Ituri province, during nearby fighting were evacuated. The Bundibugyo strain has no approved vaccine or treatment.",
+   "matters": "It is the second-largest Ebola outbreak on record, and violence and local distrust are making it harder to contain.",
    "sources": [
+    {
+     "name": "Reuters (via WHBL)",
+     "url": "https://whbl.com/2026/11/25/congos-ebola-cases-exceed-12000-as-responders-struggle-to-contain-outbreak/"
+    },
+    {
+     "name": "AFP (via Arab News)",
+     "url": "https://arabnews.com/world/ebola-fight-runs-up-against-customs-rites-in-remote-dr-congo-3014028"
+    },
     {
      "name": "AFP (via Arab News)",
      "url": "https://www.arabnews.com/world/who-chief-says-staff-evacuated-from-dr-congo-hospital-3013939"
@@ -800,34 +749,7 @@
      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630"
     }
    ],
-   "changed": "Updated: the trapped health workers have been evacuated"
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: 24 body bags recovered; about 30 to 34 people still missing",
-   "published": "2026-11-22T05:00:00Z",
-   "title": "Indonesia factory fire: 24 body bags recovered and dozens still missing",
-   "why": "Rescuers had recovered 24 body bags from a burned sweets factory in Cikande, Banten province, west of Jakarta, by Sunday evening, officials say. Remains must be identified by DNA, which could take weeks. About 30 to 34 people are still missing, according to differing official counts.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site"
-    },
-    {
-     "name": "AP (via Yahoo News)",
-     "url": "https://www.yahoo.com/news/world/articles/dozens-missing-rescuers-search-burned-040033957.html"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-22/bodies-recovered-after-indonesian-factory-fire/107414720"
-    },
-    {
-     "name": "Antara",
-     "url": "https://en.antaranews.com/news/444587/dna-tests-needed-to-identify-victims-of-banten-factory-fire-police"
-    }
-   ]
+   "changed": "Updated: confirmed cases have passed 12,000, according to government data"
   }
  ]
 }
