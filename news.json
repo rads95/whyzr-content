@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-26T07:55:00Z",
+ "updated": "2026-11-26T13:47:00Z",
  "items": [
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "published": "2026-11-26T12:30:00Z",
+   "title": "Kuwait says Iranian drone attack injured four people at a 'vital site'",
+   "why": "Kuwait's defence ministry said on Thursday that debris from Iranian drones it intercepted injured four people, one Kuwaiti, two Italians and one Pakistani, and damaged a facility it did not name. Iran's Revolutionary Guards said two tankers hit sea mines in the Strait of Hormuz.",
+   "matters": "Flights between Europe and Asia were rerouted, and attacks near the Strait of Hormuz threaten a key route for the world's oil.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/26/civilian-flights-diverted-as-kuwait-army-intercepts-iranian-drone-attack"
+    },
+    {
+     "name": "Gulf News",
+     "url": "https://gulfnews.com/world/gulf/kuwait/four-injured-in-iranian-drone-attack-on-vital-facility-in-kuwait-1.500762119"
+    },
+    {
+     "name": "ABC News (US)",
+     "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-strait-hormuz-safe-demands/?id=138369648"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-11-26T11:00:00Z",
+   "title": "FIFA confirms hackers took some personal and business information",
+   "why": "Football's world governing body, FIFA, said on Thursday it was the victim of a 'criminal cyber-attack' that gave access to 'a limited set of personal and business information'. It did not say how many people were affected. A hacking group claims to have taken more than 12 gigabytes of files.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack"
+    },
+    {
+     "name": "Reuters (via Yahoo Sports)",
+     "url": "https://sports.yahoo.com/soccer/articles/soccer-fifa-victim-cyber-attack-115642586.html"
+    },
+    {
+     "name": "Anadolu Agency",
+     "url": "https://www.aa.com.tr/en/sports/fifa-confirms-cyberattack-as-hacking-group-claims-theft-of-sensitive-data-report/4138680"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-26T07:45:00Z",
+   "title": "Explosion and fire at Bangkok oil refinery injure at least seven",
+   "why": "An explosion at Bangchak Corporation's Phra Khanong refinery in eastern Bangkok, Thailand, at about 2:45pm local time on Thursday started a fire the company says was out within 30 minutes. Bangkok's emergency medical centre says at least seven people were hurt, four critically. The cause is being investigated.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/asia-pacific/20261126-huge-explosion-at-oil-depot-in-bangkok-sends-fireball-into-sky"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/video/2026/11/26/flames-and-thick-smoke-billow-from-bangkok-oil-facility-after-massive-explosion"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-26T03:00:00Z",
+   "title": "LeBron James breaks his own record for oldest NBA triple-double",
+   "why": "LeBron James, who turns 42 next month, had 25 points, 12 assists and 10 rebounds as the Philadelphia 76ers beat the Miami Heat 111-104 in the NBA Cup on Wednesday. It was his first triple-double for Philadelphia, which he joined from the Los Angeles Lakers before this season.",
+   "sources": [
+    {
+     "name": "NBA",
+     "url": "https://www.nba.com/news/lebron-james-nets-first-triple-double-with-76ers-in-win-over-heat"
+    },
+    {
+     "name": "AP (via ClickOnDetroit)",
+     "url": "https://www.clickondetroit.com/sports/2026/11/26/lebron-james-has-his-1st-triple-double-for-the-76ers-in-a-win-over-the-heat/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/sports/2026/11/26/lebron-james-nba-oldest-player-triple-double-philadelphia-76ers"
+    }
+   ]
+  },
   {
    "section": "money",
    "published": "2026-11-26T01:00:00Z",
@@ -19,6 +107,28 @@
     {
      "name": "Korea JoongAng Daily",
      "url": "https://www.koreajoongangdaily.com/business/bok-resumes-rate-hikes-as-inflation-persists/12992056"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "serious": true,
+   "published": "2026-11-26T00:00:00Z",
+   "title": "Tanker carrying 7,000 tonnes of diesel sinks off Spain's Ibiza",
+   "why": "The Maltese-flagged tanker Med Emre sank early on Thursday off Ibiza, in Spain's Balearic Islands, while sailing from Algeciras to Barcelona. All 17 crew were rescued, but one later died in hospital. Spain activated its marine pollution plan; officials say no pollution has been seen on the coast.",
+   "matters": "A large diesel spill could harm marine life and beaches in the Mediterranean.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/26/vulnerable-waters-spain-scrambles-to-stop-huge-oil-spill-after-ship-sinks-near-ibiza"
+    },
+    {
+     "name": "AFP (via Free Malaysia Today)",
+     "url": "https://www.freemalaysiatoday.com/category/world/2026/11/26/ship-carrying-diesel-sinks-off-spain-s-ibiza-one-dead-rescuers"
+    },
+    {
+     "name": "Forbes España",
+     "url": "https://forbes.es/en/balearic/1073850/this-is-the-med-emre-the-chemical-tanker-that-sank-off-the-coast-of-ibiza/"
     }
    ]
   },
@@ -127,11 +237,32 @@
    ]
   },
   {
+   "section": "science",
+   "published": "2026-11-25T17:00:00Z",
+   "title": "Hera probe finds stadium-sized crater on asteroid struck by NASA",
+   "why": "New images from the European Space Agency's Hera spacecraft show that NASA's DART probe, which deliberately hit the 151-metre asteroid Dimorphos in 2022, flattened one face into a crater the size of a sports stadium. The asteroid is now tumbling, surrounded by hundreds of boulders.",
+   "matters": "The mission tests whether crashing a spacecraft into an asteroid could one day protect Earth from a dangerous impact.",
+   "sources": [
+    {
+     "name": "ESA",
+     "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-reveals-stadium-sized-asteroid-crater-left-after-spacecraft-impact"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/25/esa-releases-first-images-showing-complete-chaos-on-asteroid-smashed-by-nasa-probe"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-26/new-photos-of-struck-asteroid-dimorphos/107428078"
+    }
+   ]
+  },
+  {
    "section": "money",
    "lead": true,
    "published": "2026-11-25T15:30:00Z",
    "title": "US proposes new tariffs on China, the EU and 12 other economies",
-   "why": "The US trade office on Wednesday proposed import taxes of mostly 10% to 20% on 14 economies, including China, the EU, India and Japan, saying they produce far more than they need. China would face 20%. The duties would not start before public hearings in January.",
+   "why": "The US trade office proposed import taxes of mostly 10% to 20% on 14 economies, saying they produce far more than they need. On Thursday China said it reserves the right to respond, the EU said the US should respect its trade deal, and Brazil called the plan 'unacceptable'.",
    "matters": "Tariffs can raise prices for shoppers and hurt exporters; China calls the claims false and the EU rejects them.",
    "sources": [
     {
@@ -145,8 +276,13 @@
     {
      "name": "ABC Australia",
      "url": "https://www.abc.net.au/news/2026-11-26/trump-new-tariffs-major-trading-partners/107425504"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261126-unacceptable-major-economies-push-back-against-new-us-tariffs"
     }
-   ]
+   ],
+   "changed": "Updated: China, the EU, Japan and Brazil rejected the plan"
   },
   {
    "section": "climate",
@@ -250,8 +386,8 @@
    "serious": true,
    "developing": true,
    "published": "2026-11-25T03:00:00Z",
-   "title": "At least nine dead as rescuers search flooded Indonesian gold mine",
-   "why": "Rescuers had recovered nine bodies by Wednesday from an unlicensed gold mine in Bogor regency, West Java, which flooded late on Monday, AP reports; the state news agency Antara reported 13 on Thursday. About 17 miners are still believed trapped, and 11 escaped.",
+   "title": "At least 13 dead as rescuers search flooded Indonesian gold mine",
+   "why": "At least 13 miners have died after an unlicensed gold mine in the Pongkor area of Bogor, West Java, flooded late on Monday, Indonesia's local search and rescue chief says. Thirteen others are still missing, and 11 escaped. About 325 rescuers are working in shafts around 100 metres deep.",
    "sources": [
     {
      "name": "AP (via WTOP)",
@@ -263,14 +399,14 @@
     },
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/25/rescuers-search-for-dozens-trapped-in-flooded-indonesia-gold-mine"
+     "url": "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify"
     },
     {
      "name": "ABC Australia",
      "url": "https://www.abc.net.au/news/2026-11-25/miners-trapped-underground-in-west-java-indonesia/107426126"
     }
    ],
-   "changed": "Updated: more bodies have been recovered"
+   "changed": "Updated: the death toll has risen to at least 13"
   },
   {
    "section": "money",
@@ -544,165 +680,43 @@
    ]
   },
   {
-   "section": "sport",
-   "published": "2026-11-24T13:30:00Z",
-   "title": "Indian teenager Vaibhav Sooryavanshi hits record 204 off 53 balls",
-   "why": "Vaibhav Sooryavanshi, 15, scored 204 off 53 balls for India A against the UAE in Doha on Tuesday, setting 50-over (List A) records for the fastest hundred (28 balls) and double hundred (52 balls). He also hit a record 28 sixes as India won by seven wickets.",
-   "sources": [
-    {
-     "name": "ICC",
-     "url": "https://www.icc-cricket.com/news/sooryavanshi-smashes-list-a-records-in-sensational-knock"
-    },
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261124-records-tumble-as-teen-sooryavanshi-smashes-53-ball-204"
-    },
-    {
-     "name": "The Daily Star",
-     "url": "https://www.thedailystar.net/sports/cricket/news/100-28-sooryavanshi-sets-world-record-fastest-century-50-over-cricket-4332126"
-    }
-   ]
-  },
-  {
    "section": "world",
    "serious": true,
    "published": "2026-11-24T12:00:00Z",
-   "title": "Israeli strikes in Gaza kill senior Hamas security official and six others",
-   "why": "Israeli strikes in Gaza on Tuesday killed at least seven people, including Naeem Abu Nahel, head of Hamas's internal security service, according to Gaza's Hamas-run interior ministry and medics. Israel's military said it struck a senior militant. The strikes came despite the ceasefire agreed in October 2025.",
+   "title": "Israel threatens wider Gaza offensive as strikes kill at least eight",
+   "why": "Israeli strikes killed at least eight people in Gaza overnight into Thursday, including Hamas-appointed deputy education minister Khaled Abu Nada and his wife, medics say. Defence Minister Israel Katz said that unless Hamas disarms, the army will disarm it, including by moving another million Gaza residents south.",
    "sources": [
     {
      "name": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261124-israeli-strikes-on-gaza-kill-senior-hamas-security-official-and-six-other-people-medics-say"
+     "url": "https://www.france24.com/en/middle-east/20261126-israel-threatens-to-displace-one-million-palestinians-in-gaza-unless-hamas-disarms"
     },
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak"
+     "url": "https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people"
     },
     {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/24/israeli-strike-kills-hamas-internal-security-chief-in-gaza-source-tells-afp"
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/news/world/2026/1126/1600737-nine-killed-gaza-abu-nada/"
+    },
+    {
+     "name": "LaPresse",
+     "url": "https://uk.lapresse.it/world-en/2026/11/26/katz-hamas-must-demilitarise-gaza-or-we-will-intervene-and-evacuate-1-million-people/"
     }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-24T12:00:00Z",
-   "title": "China investigates Shanghai Communist Party chief Chen Jining",
-   "why": "China's anti-corruption watchdog is investigating Chen Jining, Shanghai's Communist Party secretary and a Politburo member, for 'suspected severe violations of discipline and laws', state media said on Tuesday. The phrase usually means corruption. He is the fourth Politburo member investigated since 2025.",
-   "matters": "Shanghai's party chief job is often a step to China's top leadership; Premier Li Qiang once held it.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining"
-    },
-    {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/world/china/china-probes-shanghai-party-boss-politburos-chen-jining-rcna611061"
-    },
-    {
-     "name": "Arab News (AP)",
-     "url": "https://arabnews.com/world/china-investigates-politburo-member-and-shanghai-party-chief-chen-jining-3013876"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-24T12:00:00Z",
-   "title": "UK warns firms supplying Ukraine of Russian sabotage threat",
-   "why": "Britain's defence ministry and MI5's protective security arm warned companies supplying Ukraine's military on Tuesday that Russia has stepped up sabotage attempts against European defence sites, often using proxies and methods such as arson. Russia's embassy in London rejects any link to such activity.",
-   "sources": [
-    {
-     "name": "Arab News (Reuters)",
-     "url": "https://www.arabnews.com/world/uk-warns-of-russian-sabotage-threat-to-companies-that-supply-ukraine-3013899"
-    },
-    {
-     "name": "City AM",
-     "url": "https://www.cityam.com/act-now-mi5-urges-defence-firms-to-ramp-up-security-amid-russia-threat/"
-    },
-    {
-     "name": "LBC",
-     "url": "https://www.lbc.co.uk/article/russia-targeting-uk-firms-act-now-mi5-5HjdnSx_2/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-24T10:00:00Z",
-   "title": "Landmines killed or injured nearly 7,000 people in 2025, report says",
-   "why": "At least 6,929 people were killed or injured by landmines and other explosive remnants of war in 2025, the highest total since 2020, says the Landmine Monitor 2026 report. Most were civilians. Myanmar (1,891) and Syria (1,602) recorded the most casualties.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria"
-    },
-    {
-     "name": "Human Rights Watch",
-     "url": "https://www.hrw.org/news/2026/11/24/landmines-new-use-production-undermine-ban-treaty"
-    },
-    {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/news/mena/2026/11/24/landmine-casualties-hit-five-year-high-as-refugees-return-to-syria/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-24T09:00:00Z",
-   "title": "UN says partners or relatives killed 47,000 women and girls in 2025",
-   "why": "About 47,000 women and girls were killed by partners or family members in 2025, roughly five every hour, UN Women and the UN Office on Drugs and Crime said on Tuesday. That is 60% of about 78,000 women and girls killed intentionally. Africa had the highest rate.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/24/five-women-killed-every-hour-globally-by-partner-relative-in-2025-un"
-    },
-    {
-     "name": "UN News",
-     "url": "https://news.un.org/en/story/2026/11/1168863"
-    },
-    {
-     "name": "UN Women",
-     "url": "https://www.unwomen.org/en/news-stories/press-release/2026/11/five-women-killed-every-hour-by-a-partner-or-close-relative-in-2025"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "changed": "Updated: the rocket has launched",
-   "published": "2026-11-24T08:50:00Z",
-   "title": "China launches first space station mission with a foreign astronaut",
-   "why": "A Long March-2F rocket lifted off from Jiuquan in north-west China at 00:18 GMT on Wednesday, carrying Shenzhou-24 to the Tiangong station. Its crew includes Pakistan Air Force pilot Muhammad Zeeshan Ali, 40, the first Pakistani in space and the first foreign astronaut on a Chinese mission.",
-   "matters": "It is China's first crewed space mission to include an astronaut from another country.",
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/live-news/20261125-china-rocket-blasts-off-on-shenzhou-24-mission-state-media"
-    },
-    {
-     "name": "Dawn",
-     "url": "https://www.dawn.com/news/2046753/pakistani-flag-rises-into-orbit-as-zeeshan-ali-makes-history-aboard-chinas-shenzhou-24-spacecraft"
-    },
-    {
-     "name": "Arab News",
-     "url": "https://www.arabnews.com/world/chinas-shenzhou-24-space-flight-takes-off-with-pakistani-national-as-first-foreign-astronaut-3013940"
-    },
-    {
-     "name": "Xinhua",
-     "url": "https://english.news.cn/20261125/ea627a3d54da4983aaf77659809dab09/c.html"
-    }
-   ]
+   ],
+   "developing": true,
+   "changed": "Updated: new strikes and an Israeli threat of a wider offensive",
+   "matters": "It puts further strain on the ceasefire agreed in October 2025."
   },
   {
    "section": "world",
    "published": "2026-11-24T08:00:00Z",
-   "title": "Iraq's top court backs Baghdad's control of Kurdish borders and oil",
-   "why": "Iraq's Federal Supreme Court ruled on Wednesday that federal forces can be deployed on all international borders, including in the Kurdish region, and that the Oil Ministry can oversee oil and gas fields. It came a day after Prime Minister Ali al-Zaidi ordered a takeover of Kurdish-run crossings and oilfields.",
+   "title": "Baghdad starts closing Kurdish border crossings after top court ruling",
+   "why": "Iraq's top court on Wednesday backed federal control of all borders, including in the Kurdish region, and of oil and gas fields. On Thursday border forces began closing unofficial crossings, thousands protested in Erbil and Kurdish leaders rejected central rule. National talks are set for 1 December.",
    "matters": "Control of oil and its income has long divided Baghdad and the Kurdish region; this could deepen the dispute.",
    "sources": [
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/25/iraqs-top-court-rules-government-can-take-over-kurdish-borders-oil-fields"
+     "url": "https://www.aljazeera.com/news/2026/11/26/iraq-denies-reports-of-troop-movements-towards-kurdish-region"
     },
     {
      "name": "Rudaw",
@@ -713,7 +727,8 @@
      "url": "https://www.arabnews.com/middle-east/iraqs-top-court-says-baghdad-can-deploy-troops-to-secure-borders-in-kurdistan-region-state-tv-reports-3013986"
     }
    ],
-   "changed": "Updated: Iraq's top court backed the federal government's powers"
+   "changed": "Updated: border closures began and Kurds protested in Erbil",
+   "developing": true
   },
   {
    "section": "health",
