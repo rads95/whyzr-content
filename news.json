@@ -1,14 +1,111 @@
 {
- "updated": "2026-11-25T13:43:00Z",
+ "updated": "2026-11-26T01:48:00Z",
  "items": [
+  {
+   "section": "culture",
+   "serious": true,
+   "published": "2026-11-25T22:30:00Z",
+   "title": "Duran Duran's original guitarist Andy Taylor dies aged 65",
+   "why": "Andy Taylor, whose guitar shaped 1980s hits such as Rio and Girls on Film, died of prostate cancer at home on Monday, his family and the band said on Wednesday. The band has sold more than 100 million records.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/culture/20261125-duran-duran-guitarist-andy-taylor-dies-aged-65"
+    },
+    {
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/entertainment/2026/1125/1600695-andy-taylor-former-duran-duran-guitarist-dies-aged-65/"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-26/duran-duran-andy-taylor-dies/107428492"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-25T18:00:00Z",
+   "title": "Fuel truck fire kills at least 31 on highway in Greater Cairo",
+   "why": "A truck carrying petroleum products overturned and caught fire on the Ring Road in Warraq, Giza, part of Greater Cairo, on Wednesday, burning 27 vehicles. Egypt's health ministry says at least 31 people died and 21 were injured. Prosecutors have opened an investigation.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/africa/20261126-at-least-31-killed-in-cairo-fire-after-fuel-truck-overturns-on-busy-highway"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says"
+    },
+    {
+     "name": "AP (via WSLS)",
+     "url": "https://www.wsls.com/news/2026/11/25/a-fire-on-a-major-highway-surrounding-cairo-kills-at-least-30-people-egypts-health-ministry-says/"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "lead": true,
+   "published": "2026-11-25T15:30:00Z",
+   "title": "US proposes new tariffs on China, the EU and 12 other economies",
+   "why": "The US trade office on Wednesday proposed import taxes of mostly 10% to 20% on 14 economies, including China, the EU, India and Japan, saying they produce far more than they need. China would face 20%. The duties would not start before public hearings in January.",
+   "matters": "Tariffs can raise prices for shoppers and hurt exporters; China calls the claims false and the EU rejects them.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/americas/20261125-trump-announces-new-tariffs-eu-china-despite-us-midterms-defeat"
+    },
+    {
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/news/us/2026/1125/1600630-us-tariffs/"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-26/trump-new-tariffs-major-trading-partners/107425504"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "published": "2026-11-25T15:00:00Z",
+   "title": "US Army blows up unstable lead explosives at Iowa plant",
+   "why": "The US Army detonated about five tons of degraded lead azide at the Iowa Army Ammunition Plant in Middletown on Wednesday, saying it risked exploding on its own. Environmental groups had sued over fears of toxic lead dust. Federal agencies say early air tests found no detectable lead.",
+   "matters": "Lead is harmful at any level and especially dangerous to children and pregnant women.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/25/us-army-detonates-toxic-lead-stockpile-in-iowa-amid-backlash"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261125-us-army-detonates-lead-explosives-iowa-despite-community-backlash"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/iowa-army-ammunition-plant-unstable-explosives-detonation/"
+    }
+   ]
+  },
   {
    "section": "climate",
    "published": "2026-11-25T12:55:00Z",
    "developing": true,
-   "title": "Thanksgiving storm threatens floods and strong winds along US East Coast",
-   "why": "A fast-strengthening storm is bringing rain, coastal flooding and gusts of up to 60 to 70 mph along the US East Coast from Wednesday into Thanksgiving on Thursday, forecasters say. More than 31 million people are under coastal flood warnings, ABC News reports.",
+   "title": "Storm forces first weather postponement of New York's Thanksgiving parade",
+   "why": "Macy's has moved its 100th Thanksgiving Day Parade in New York from Thursday to Saturday as a powerful storm brings heavy rain, coastal flooding and strong winds to the US East Coast. Forecasters warn of gusts of around 60 mph in the city.",
    "matters": "More than 81 million Americans are expected to travel this week, so delays and power cuts are likely.",
    "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261126-powerful-us-storm-forces-historic-postponement-of-thanksgiving-day-parade-in-new-york"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/26/storms-push-macys-thanksgiving-day-parade-in-new-york-city-to-saturday"
+    },
+    {
+     "name": "CBS New York",
+     "url": "https://www.cbsnews.com/newyork/news/macys-thanksgiving-day-parade-postponed/"
+    },
     {
      "name": "ABC News",
      "url": "https://abcnews.com/US/powerful-storm-threatens-east-coast-hurricane-level-flooding/story?id=138435983"
@@ -21,7 +118,8 @@
      "name": "The Weather Channel",
      "url": "https://weather.com/2026/11/25/holiday/thanksgiving/east-coast-thanksgiving-storm-wind-rain-flooding"
     }
-   ]
+   ],
+   "changed": "Updated: New York's Thanksgiving parade was moved to Saturday"
   },
   {
    "section": "culture",
@@ -49,27 +147,27 @@
    "serious": true,
    "developing": true,
    "published": "2026-11-25T03:00:00Z",
-   "title": "Bodies found as rescuers search flooded Indonesian gold mine",
-   "why": "Rescuers have recovered at least three bodies from an unlicensed gold mine in Bogor district, West Java, which flooded on Monday, the search agency Basarnas says; AP later reported six. About 20 to 23 miners are still missing, and 11 escaped. Rising water is slowing the search.",
+   "title": "At least nine dead as rescuers search flooded Indonesian gold mine",
+   "why": "Rescuers had recovered nine bodies by Wednesday from an unlicensed gold mine in Bogor regency, West Java, which flooded late on Monday, AP reports; the state news agency Antara reported 13 on Thursday. About 17 miners are still believed trapped, and 11 escaped.",
    "sources": [
+    {
+     "name": "AP (via WTOP)",
+     "url": "https://wtop.com/world/2026/11/9-dead-17-believed-trapped-after-flood-hits-an-unauthorized-gold-mine-in-indonesia"
+    },
+    {
+     "name": "Antara",
+     "url": "https://www.antaranews.com/video/5879099/13-jenazah-ditemukan-6-korban-tambang-ilegal-pongkor-teridentifikasi"
+    },
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/11/25/rescuers-search-for-dozens-trapped-in-flooded-indonesia-gold-mine"
-    },
-    {
-     "name": "Korea Times (AP)",
-     "url": "https://www.koreatimes.co.kr/world/20261125/6-dead-20-believed-trapped-after-flood-hits-unauthorized-gold-mine-in-indonesia"
-    },
-    {
-     "name": "Bluewin (dpa)",
-     "url": "https://www.bluewin.ch/en/news/indonesia-more-than-20-people-missing-after-gold-mine-flooding-li.3686434"
     },
     {
      "name": "ABC Australia",
      "url": "https://www.abc.net.au/news/2026-11-25/miners-trapped-underground-in-west-java-indonesia/107426126"
     }
    ],
-   "changed": "Updated: the first bodies have been recovered"
+   "changed": "Updated: more bodies have been recovered"
   },
   {
    "section": "money",
@@ -293,30 +391,29 @@
    "section": "world",
    "serious": true,
    "published": "2026-11-24T15:00:00Z",
-   "title": "Houthis say they hit Saudi oil refinery after coalition strikes Hodeidah",
-   "why": "Yemen's Houthis say they attacked Saudi Arabia's Ras Tanura refinery on Wednesday, causing fires. The Saudi-led coalition says it destroyed four drones over Ras Tanura and reported no casualties. It came after coalition strikes on Hodeidah port, which followed an attack on Riyadh's tallest tower that injured 11.",
+   "title": "Houthis say they hit Saudi ports as missiles intercepted over Riyadh",
+   "why": "Yemen's Houthis say they attacked the Saudi ports of Jeddah and Jazan on Wednesday after coalition strikes on Hodeidah. The Saudi-led coalition says a projectile caused minor damage at Jazan, with no injuries, and that it later shot down two ballistic missiles aimed at Riyadh.",
    "sources": [
     {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261125-houthis-say-hit-two-saudi-ports-in-response-to-coalition-strikes"
+    },
+    {
+     "name": "Xinhua",
+     "url": "https://english.news.cn/20261126/b7ff386069fe4137ab3e11b3af10156a/c.html"
+    },
+    {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike"
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh"
     },
     {
      "name": "The National",
      "url": "https://www.thenationalnews.com/news/gulf/2026/11/25/yemens-houthis-say-they-attacked-saudi-arabias-ras-tanura-refinery/"
-    },
-    {
-     "name": "Cyprus Mail (Reuters)",
-     "url": "https://cyprus-mail.com/2026/11/25/yemens-houthis-say-they-attacked-saudi-oil-refinery-and-riyadh-financial-district"
-    },
-    {
-     "name": "Gulf News (AFP)",
-     "url": "https://gulfnews.com/world/gulf/saudi/saudi-led-coalition-says-struck-yemen-port-city-houthis-threaten-retaliation-1.500760106"
     }
    ],
    "matters": "Ras Tanura handles about 16% of Saudi refining capacity, so attacks there can push up oil prices worldwide.",
-   "changed": "Updated: the Houthis say they attacked the Ras Tanura refinery",
-   "developing": true,
-   "lead": true
+   "changed": "Updated: the Houthis say they targeted two Saudi ports; missiles were intercepted over Riyadh",
+   "developing": true
   },
   {
    "section": "world",
@@ -491,23 +588,24 @@
   {
    "section": "world",
    "published": "2026-11-24T08:00:00Z",
-   "title": "Iraq orders federal takeover of oilfields in Kurdish-controlled areas",
-   "why": "Iraq's prime minister, Ali al-Zaidi, on Tuesday ordered the federal Oil Ministry to run oilfields under Kurdish security control in Kirkuk, Nineveh, Diyala and Salahuddin, and federal authorities to take over the Kurdish region's border crossings. Kurdish Prime Minister Masrour Barzani called the orders unacceptable.",
+   "title": "Iraq's top court backs Baghdad's control of Kurdish borders and oil",
+   "why": "Iraq's Federal Supreme Court ruled on Wednesday that federal forces can be deployed on all international borders, including in the Kurdish region, and that the Oil Ministry can oversee oil and gas fields. It came a day after Prime Minister Ali al-Zaidi ordered a takeover of Kurdish-run crossings and oilfields.",
    "matters": "Control of oil and its income has long divided Baghdad and the Kurdish region; this could deepen the dispute.",
    "sources": [
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control"
+     "url": "https://www.aljazeera.com/news/2026/11/25/iraqs-top-court-rules-government-can-take-over-kurdish-borders-oil-fields"
     },
     {
      "name": "Rudaw",
-     "url": "https://www.rudaw.net/english/categories/iraq/1080288"
+     "url": "https://www.rudaw.net/english/categories/iraq/1080314"
     },
     {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/news/mena/2026/11/24/iraqs-pm-orders-federal-takeover-of-kurdistan-oil-exports-border-crossings-and-oilfields-in-disputed-areas/"
+     "name": "Arab News (Reuters)",
+     "url": "https://www.arabnews.com/middle-east/iraqs-top-court-says-baghdad-can-deploy-troops-to-secure-borders-in-kurdistan-region-state-tv-reports-3013986"
     }
-   ]
+   ],
+   "changed": "Updated: Iraq's top court backed the federal government's powers"
   },
   {
    "section": "money",
@@ -657,264 +755,52 @@
   {
    "section": "tech",
    "published": "2026-11-24T02:20:00Z",
-   "title": "Australia moves to fine tech giants up to 5% of global revenue",
-   "why": "Australia's Labor government struck a deal with the Greens on Tuesday to pass its digital duty of care bill. Platforms failing to protect users could be fined up to 5% of global revenue, up from a proposed A$109 million; Australians could sue them. The opposition Coalition opposes it.",
+   "title": "Australia passes law to fine tech giants up to 5% of revenue",
+   "why": "Australia's parliament passed the digital duty of care law on Wednesday after Labor struck a deal with the Greens. Platforms that fail to protect users could be fined up to 5% of global revenue, and Australians will be able to sue them. The opposition Coalition voted against it.",
    "matters": "SBS estimates Meta alone could face fines of around A$10 billion; the US ambassador has objected to the law.",
    "sources": [
     {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261125-australia-parliament-backs-law-imposing-massive-new-fines-for-big-tech"
+    },
+    {
      "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-24/federal-politics-labor-makes-deal-greens-on-digital-duty-of-care/107420982"
+     "url": "https://www.abc.net.au/news/2026-11-25/federal-politics-live-blog-parliament-november-25/107422208"
     },
     {
      "name": "SBS News",
      "url": "https://www.sbs.com.au/news/article/greens-strike-deal-with-labor-on-digital-duty-of-care-laws/564pk865q"
-    },
-    {
-     "name": "Reuters (via Al Jazeera)",
-     "url": "https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-23T22:52:00Z",
-   "title": "South Korea protests after Russian warplanes fly close to its airspace",
-   "why": "Fewer than five Russian military aircraft entered South Korea's air defence zone near Ulleung Island early on Tuesday, then turned away as fighter jets were scrambled, the military says. A brief emergency alert wrongly called them North Korean. Seoul summoned Russia's defence attaché to protest.",
-   "matters": "It was the third such Russian flight in eight days, the Korea Herald reports.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261124-south-korea-says-russian-jets-entered-air-defence-zone"
-    },
-    {
-     "name": "Korea Herald",
-     "url": "https://www.koreaherald.com/article/10947647"
-    },
-    {
-     "name": "Korea Times",
-     "url": "https://www.koreatimes.co.kr/southkorea/defense/20261124/s-korea-briefly-issues-alert-on-eastern-island-after-russian-airplanes-enter-air-defense-zone"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-23T22:00:00Z",
-   "title": "Mexico will try captured cartel suspect 'El Chapo Isidro' at home",
-   "why": "Mexico's attorney general, Ernestina Godoy, said on Monday that Fausto Isidro Meza Flores, one of the FBI's ten most wanted fugitives, will be tried in Mexico despite a US extradition request. He was captured in Guasave, Sinaloa, in a raid in which officials say 20 people died.",
-   "matters": "Mexican officials say a US surveillance drone, flown with Mexico's permission, helped track him.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request"
-    },
-    {
-     "name": "Reuters (via Yahoo News)",
-     "url": "https://www.yahoo.com/news/articles/alleged-drug-lord-el-chapo-221917471.html"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261124-us-flew-surveillance-drone-over-mexico-to-help-capture-top-drug-lord"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-11-23T21:00:00Z",
-   "title": "UN chief calls for global AI safety framework within a year",
-   "why": "Closing a UN summit on AI safety in Bridgetown, Barbados, on Monday, Secretary-General António Guterres urged countries to agree within a year on a shared framework for managing AI risks, with common testing and independent oversight. He leaves office at the end of December.",
-   "matters": "Guterres warns that control over AI is concentrating in a few companies and two countries.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year"
-    },
-    {
-     "name": "UN News",
-     "url": "https://news.un.org/en/story/2026/11/1168861"
-    },
-    {
-     "name": "Xinhua",
-     "url": "https://english.news.cn/20261124/177e46ae687e41c6afc2dbb62eb99dcd/c.html"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-23T19:00:00Z",
-   "title": "Quebec court says lawmakers must swear oath to King Charles",
-   "why": "Judge Ian Demers of Quebec's Superior Court on Monday suspended a 2022 law that let members of the Canadian province's National Assembly skip the oath to the British monarch. Premier Paul St-Pierre Plamondon, who calls the oath 'humiliating', says his government will appeal.",
-   "matters": "The ruling could delay the new legislature, due to open on 1 December after October's election.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261123-canada-court-rules-lawmakers-must-swear-royal-oath-risking-quebec-chaos"
-    },
-    {
-     "name": "CTV News",
-     "url": "https://www.ctvnews.ca/montreal/article/quebec-judge-suspends-law-that-removed-mandatory-oath-to-the-king/"
-    },
-    {
-     "name": "Canadian Lawyer",
-     "url": "https://www.canadianlawyermag.com/news/general/constitution-not-a-la-carte-menu-qc-court-pauses-law-exempting-lawmakers-from-swearing-oath-to-king/394955"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "published": "2026-11-23T19:00:00Z",
-   "title": "Pennsylvania confirms ninth measles death as US outbreak grows",
-   "why": "Pennsylvania's health department confirmed on Monday that a resident of Centre County, who Al Jazeera says was unvaccinated, had died: the state's ninth measles-related death this year. The state has recorded 1,638 cases in 46 counties. Nationally, 5,838 cases were confirmed by 19 November, the most since 1991.",
-   "matters": "The US recently lost the measles-free status it had held for more than 25 years.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/pennsylvania-measles-outbreak-death/"
-    },
-    {
-     "name": "WITF",
-     "url": "https://www.witf.org/2026/11/23/pa-health-officials-report-9th-measles-related-death-in-centre-county/"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "serious": true,
-   "published": "2026-11-23T17:20:00Z",
-   "title": "Two US states sue Musk's SpaceX over sexual images made by Grok",
-   "why": "Virginia and Oregon filed separate consumer-protection lawsuits on Monday against SpaceX, X and other Musk companies. They say the Grok AI chatbot's 'spicy mode' was used to make sexual images of real people, including children, without proper safeguards. X says users who did this broke its rules.",
-   "matters": "They are the first US states to sue over Grok's images; they want damages, penalties and court orders.",
-   "sources": [
-    {
-     "name": "Oregon Department of Justice",
-     "url": "https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-takes-legal-action-against-grok-for-failing-to-block-child-exploitation/"
-    },
-    {
-     "name": "AP and OPB",
-     "url": "https://www.opb.org/article/2026/11/23/sexual-images-from-elon-musk-ai-chatbot-harmed-consumers-ags-argue/"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-23T16:00:00Z",
-   "title": "UK to host 2035 Women's World Cup; US-led bid gets 2031",
-   "why": "FIFA's member associations approved both unopposed bids by acclamation at a virtual meeting on Monday. England, Scotland, Wales and Northern Ireland will host in 2035. The United States, Mexico, Costa Rica and Jamaica will host in 2031, the first edition with 48 teams.",
-   "matters": "It will be the first World Cup played in the UK since the men's tournament in England in 1966.",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/23/united-kingdom-to-host-2035-womens-world-cup-fifa-confirms"
-    },
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261123-usa-joint-bid-and-uk-confirmed-as-2031-and-2035-women-s-world-cup-hosts"
-    },
-    {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/football/news/13615555/womens-world-cup-uk-announced-as-2035-hosts-as-costa-rica-jamaica-mexico-and-usa-host-in-2031"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-11-23T15:30:00Z",
-   "title": "Bangladesh raises garment workers' minimum wage by 36% after protests",
-   "why": "A government wage board in Bangladesh on Wednesday raised the minimum monthly wage for garment workers by 36%, from 12,500 taka to about 17,000 taka (roughly $136), AP and Reuters report. Workers had demanded much more, and it is unclear whether they will accept it.",
-   "matters": "About four million people work in Bangladesh's garment industry, which makes clothes for many global brands.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/25/bangladesh-garment-workers-win-36-pay-rise-after-weeks-of-protest"
-    },
-    {
-     "name": "AP (via ABC News)",
-     "url": "https://abcnews.com/International/wireStory/bangladesh-raises-minimum-wage-garment-workers-after-weeks-138432725"
-    },
-    {
-     "name": "Free Malaysia Today (Reuters)",
-     "url": "https://www.freemalaysiatoday.com/category/world/2026/11/25/bangladesh-raises-garment-workers-minimum-wage-by-36-after-protests"
     }
    ],
-   "changed": "Updated: the wage board approved a 36% rise"
-  },
-  {
-   "section": "world",
-   "published": "2026-11-23T15:00:00Z",
-   "title": "EU proposes banning Russian teams from sport in new sanctions package",
-   "why": "The European Commission proposed its 22nd package of sanctions on Russia on Monday. It would bar Russian teams and athletes from competing under Russia's flag at EU events, restrict 60 Russian banks and ban entry to Russians who fought in Ukraine. All 27 EU countries must agree.",
-   "matters": "Ursula von der Leyen says the EU will keep proposing sanctions until Russia shows genuine intent for lasting peace.",
-   "sources": [
-    {
-     "name": "Reuters (via Yahoo News)",
-     "url": "https://www.yahoo.com/news/articles/eu-commission-proposes-22nd-sanctions-151739377.html"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal"
-    },
-    {
-     "name": "Kyiv Independent",
-     "url": "https://kyivindependent.com/eu-proposes-package-of-russian-sports-sanctions-visa-bans-and-a-krygyzstan-crypto-blockade/"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-11-23T14:00:00Z",
-   "title": "Hacker who leaked Grand Theft Auto VI clips sentenced to seven years",
-   "why": "Arion Kurtaj, 21, was sentenced at Woolwich Crown Court in London on Monday for hacking Rockstar Games, BT/EE, Revolut and Uber in 2021 and 2022. He leaked 90 clips of the unreleased game. He walked free because of the time he had already spent in custody.",
-   "sources": [
-    {
-     "name": "AFP (via France 24)",
-     "url": "https://www.france24.com/en/live-news/20261124-uk-grand-theft-auto-vi-hacker-gets-7-year-sentence"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/23/dont-waste-those-talents-gta-vi-hacker-released-on-licence"
-    },
-    {
-     "name": "RTÉ",
-     "url": "https://www.rte.ie/news/2026/1123/1600335-gta-hacker/"
-    }
-   ]
+   "changed": "Updated: the law has passed parliament"
   },
   {
    "section": "health",
    "serious": true,
    "developing": true,
    "published": "2026-11-22T20:00:00Z",
-   "title": "Fighting near Congo hospital traps health workers in Ebola outbreak zone",
-   "why": "WHO staff and Ebola responders have been sheltering in a hospital maternity ward in Ituri province, eastern DR Congo, since fighting began nearby on Saturday. On Tuesday the WHO said fighting and heavy rain were still preventing a safe evacuation. It counts 11,613 confirmed cases and 5,678 deaths.",
+   "title": "Ebola workers evacuated from Congo hospital after days of fighting",
+   "why": "WHO staff and Congolese health officials who sheltered for over three days in a hospital in Akwe, Ituri province, have been evacuated, WHO chief Tedros Adhanom Ghebreyesus said on Tuesday. Fighting nearby has disrupted the Ebola response. The WHO counts 11,762 confirmed cases and 5,775 deaths.",
    "matters": "It is the largest and deadliest Ebola outbreak recorded in the country, and violence is making it harder to contain.",
    "sources": [
     {
+     "name": "AFP (via Arab News)",
+     "url": "https://www.arabnews.com/world/who-chief-says-staff-evacuated-from-dr-congo-hospital-3013939"
+    },
+    {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region"
-    },
-    {
-     "name": "Reuters (via Arab News)",
-     "url": "https://www.arabnews.com/world/who-chief-says-fighting-near-congo-ebola-outbreak-area-disrupts-response-efforts-3013614"
-    },
-    {
-     "name": "WHO",
-     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630"
+     "url": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces"
     },
     {
      "name": "UN News",
      "url": "https://news.un.org/en/story/2026/11/1168865"
+    },
+    {
+     "name": "WHO",
+     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630"
     }
    ],
-   "changed": "Updated: the WHO says workers were still unable to leave on Tuesday"
+   "changed": "Updated: the trapped health workers have been evacuated"
   },
   {
    "section": "world",
@@ -940,34 +826,6 @@
     {
      "name": "Antara",
      "url": "https://en.antaranews.com/news/444587/dna-tests-needed-to-identify-victims-of-banten-factory-fire-police"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: Iran's Revolutionary Guards say three tankers hit mines in the strait",
-   "published": "2026-11-21T20:30:00Z",
-   "title": "Iran's Revolutionary Guards say three tankers hit mines near Hormuz",
-   "why": "Iran's Revolutionary Guards said on Monday that three oil tankers caught fire after hitting naval mines in the Strait of Hormuz, two of them under US escort. The claim could not be independently verified, and the US military had not responded. Iran had vowed to counter the US naval blockade.",
-   "matters": "The strait carries a large share of the world's oil, so attacks there affect energy prices everywhere.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines"
-    },
-    {
-     "name": "Jerusalem Post",
-     "url": "https://www.jpost.com/middle-east/iran-news/article-915899"
-    },
-    {
-     "name": "TBS News",
-     "url": "https://www.tbsnews.net/worldbiz/middle-east/irgc-claims-three-oil-tankers-hit-naval-mines-strait-hormuz-1612351"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/23/iran-vows-every-means-to-counter-us-blockade-of-hormuz-after-trump-threat"
     }
    ]
   }
