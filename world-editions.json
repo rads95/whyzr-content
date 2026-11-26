@@ -7562,5 +7562,163 @@
         ]
       }
     ]
+  },
+  {
+    "id": "067",
+    "published": "2026-11-28",
+    "title": "A parade on hold, a stadium-sized crater in space and a million satellites",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Is this true?",
+        "claim": "New York’s famous Macy’s Thanksgiving Day Parade, which was due to hold its 100th edition on Thursday 26 November, was moved to Saturday 28 November because of a storm – the first time in its history that the parade has been postponed.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this is true. A powerful storm was forecast to bring heavy rain and wind gusts of around 60 mph (about 97 km/h) to New York on Thanksgiving Day, which is too strong for the parade’s giant helium balloons to fly safely, so Macy’s and city officials moved the parade to Saturday morning, 8:30 a.m. local time. The parade began in 1924 and was cancelled for three years during the Second World War (1942 to 1944), but it had never before been postponed to another day. That means today’s procession is the 100th parade; on Thursday the TV channel NBC showed a repeat of last year’s parade instead.",
+        "sources": [
+          [
+            "AP (via France 24) · Powerful US storm forces historic postponement of New York’s Thanksgiving Day Parade",
+            "https://www.france24.com/en/americas/20261126-powerful-us-storm-forces-historic-postponement-of-thanksgiving-day-parade-in-new-york"
+          ],
+          [
+            "Al Jazeera · Storms push Macy’s Thanksgiving Day Parade in New York City to Saturday",
+            "https://www.aljazeera.com/news/2026/11/26/storms-push-macys-thanksgiving-day-parade-in-new-york-city-to-saturday"
+          ],
+          [
+            "ABC7 New York · Macy’s Thanksgiving Day Parade postponed to Saturday as severe storm nears NYC",
+            "https://abc7ny.com/story/will-macys-parade-balloons-fly-storm-wind-rain-puts-doubt/20078423/"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three teams from tennis’s Davis Cup finals in Bologna, Italy. Find their partners.",
+        "pairs": [
+          [
+            "Italy",
+            "The hosts and three-time reigning champions, who won the quarter-final 2–1"
+          ],
+          [
+            "South Korea",
+            "The team that pushed the champions all the way to a deciding doubles match"
+          ],
+          [
+            "Czech Republic",
+            "The team that beat Canada and now faces Italy in the semi-finals"
+          ]
+        ],
+        "why": "The pairs are: Italy – the hosts and champions who won; South Korea – the team that took them to a deciding doubles match; the Czech Republic – Italy’s semi-final opponents. The Davis Cup is the biggest team competition in men’s tennis, a bit like a World Cup, and the last eight teams are playing this week in Bologna. On Wednesday 25 November Italy, who have won the last three titles, played without their injured star Jannik Sinner: they won one singles match each, so the tie came down to the doubles, where Matteo Berrettini and Andrea Vavassori beat South Korea’s pair in two tight tie-breaks. Italy’s next opponents are the Czech Republic, who had beaten Canada 2–0.",
+        "sources": [
+          [
+            "AFP (via France 24) · Hosts Italy edge South Korea to reach Davis Cup semi-finals",
+            "https://www.france24.com/en/live-news/20261125-hosts-italy-edge-south-korea-to-reach-davis-cup-semi-finals"
+          ],
+          [
+            "The Korea Times · Korea knocked out of Davis Cup after narrow loss to Italy",
+            "https://www.koreatimes.co.kr/sports/20261126/korea-knocked-out-of-davis-cup-after-narrow-loss-to-italy"
+          ],
+          [
+            "Keystone-SDA (via blue News) · Defending champion Italy defeats South Korea and advances to the semifinals once again",
+            "https://bluewin.ch/en/sport/defending-champion-italy-defeats-south-korea-and-advances-to-the-semifinals-once-again-li.3687524"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "A list of 14 trading partners, including China, the European Union, Japan and India",
+          "The charge: building far more factories and goods than the world wants to buy, often with government help – known as “overcapacity”",
+          "Nothing changes yet: there must be public hearings first, so January is the earliest start"
+        ],
+        "options": [
+          "The US proposes new import taxes on 14 economies",
+          "China agrees to close a third of its steel factories",
+          "The European Union bans imports from Japan",
+          "Fourteen countries leave the World Trade Organization"
+        ],
+        "correct": 0,
+        "why": "It was: the United States proposing new import taxes, called tariffs, on 14 economies. On Wednesday 25 November the office of the US Trade Representative, which handles trade policy, said its investigations had found that these economies make far more goods than demand justifies, for example through subsidies, and that this hurts American businesses. It proposed extra tariffs, with the highest, 20%, for China and Vietnam. Several of those named, including China, the EU and Japan, rejected the accusation, and the tariffs cannot take effect until after a public comment period and hearings. None of the other options happened.",
+        "sources": [
+          [
+            "Reuters (via Investing.com) · US proposes new tariffs on 14 trading partners to fight excess factory capacity",
+            "https://www.investing.com/news/world-news/us-proposes-new-tariffs-on-14-trading-partners-to-fight-excess-factory-capacity-5050714"
+          ],
+          [
+            "The Tribune (ANI) · US proposes new tariffs on 14 economies, including India, over “excess capacity”",
+            "https://www.tribuneindia.com/news/excess-capacity/us-proposes-new-tariffs-on-14-economies-including-india-over-excess-capacity"
+          ],
+          [
+            "TRT World · How countries are responding to proposed US tariffs",
+            "https://www.trtworld.com/article/da01595f72dc"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "The asteroid that was hit on purpose to test how to protect Earth: put these in order, earliest first.",
+        "items": [
+          "Europe’s Hera spacecraft sends back close-up pictures of a crater the size of a sports stadium",
+          "Hera releases two shoebox-sized mini-satellites to get even closer",
+          "NASA deliberately crashes its DART spacecraft into the small asteroid Dimorphos",
+          "Hera moves in to about 13 km from the asteroids for sharper pictures"
+        ],
+        "correctOrder": [
+          2,
+          0,
+          3,
+          1
+        ],
+        "why": "The right order is: DART crashes into Dimorphos (26 September 2022), then Hera’s crater pictures (released 25 November 2026), then Hera moves closer (planned for December 2026), then the mini-satellites go out (planned for January 2027). DART was humanity’s first test of “planetary defence”: knocking an asteroid slightly off course in case one is ever heading for Earth. It worked, shortening Dimorphos’s orbit around its bigger partner, Didymos, by 33 minutes. Now the European Space Agency’s Hera probe has arrived to see the result: the side DART hit is flattened by a huge crater, and the asteroid is tumbling chaotically. Neither asteroid is any danger to Earth.",
+        "sources": [
+          [
+            "European Space Agency · Hera reveals stadium-sized asteroid crater left after spacecraft impact",
+            "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-reveals-stadium-sized-asteroid-crater-left-after-spacecraft-impact"
+          ],
+          [
+            "Reuters (via ABC News Australia) · New photos reveal stadium-sized crater in Dimorphos asteroid knocked off course by NASA",
+            "https://www.abc.net.au/news/2026-11-26/new-photos-of-struck-asteroid-dimorphos/107428078"
+          ],
+          [
+            "The Planetary Society · Hera’s first close-up images of Didymos and Dimorphos",
+            "https://www.planetary.org/articles/heras-first-close-up-images-of-didymos-and-dimorphos"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "On Wednesday 25 November US regulators gave SpaceX permission to launch up to one million satellites. What are they meant to be?",
+        "options": [
+          "Computer data centres in space, to power artificial intelligence",
+          "Mirrors to light up cities at night",
+          "Weather stations to forecast storms",
+          "Fuel stations for trips to Mars"
+        ],
+        "correct": 0,
+        "why": "They are meant to be computer data centres in space, to power artificial intelligence (AI). A data centre is a building full of computers that do work for apps and websites; AI needs huge amounts of this computing power and electricity. The US Federal Communications Commission (FCC), which licenses satellites, called it the first US approval for a network of data centres in space, and the permission runs until 2040. In space, solar panels can collect sunlight almost all the time, but engineers still have problems to solve, such as radiation, extreme temperatures and space junk. For scale, only about 17,000 satellites are in space today, so it is unclear whether SpaceX will launch anything like a million.",
+        "sources": [
+          [
+            "Al Jazeera · US grants SpaceX approval for 1 million space data centres",
+            "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres"
+          ],
+          [
+            "AFP (via France 24) · US authorizes SpaceX to launch up to one million satellites for orbital data centers",
+            "https://www.france24.com/en/technology/20261126-us-authorizes-spacex-to-launch-up-to-one-million-satellites-for-orbital-data-centers"
+          ],
+          [
+            "CBS News · SpaceX gets FCC approval for 1 million satellites to build data centers in space",
+            "https://www.cbsnews.com/news/spacex-fcc-approval-data-centers-space/"
+          ]
+        ]
+      }
+    ]
   }
 ]
