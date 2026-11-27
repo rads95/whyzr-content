@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T01:45:00Z",
+ "updated": "2026-11-27T07:44:00Z",
  "items": [
   {
    "section": "world",
@@ -65,6 +65,27 @@
     {
      "name": "Infobae",
      "url": "https://www.infobae.com/politica/2026/11/26/milei-celebro-la-reforma-de-la-carta-organica-del-banco-central-se-termino-con-mas-de-90-anos-de-estafa/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-26T14:21:00Z",
+   "title": "Israel's Eisenkot agrees coalition deal with left-wing Democrats",
+   "why": "Gadi Eisenkot's Yashar party and Yair Golan's Democrats announced on Thursday that they had agreed coalition terms, giving the Democrats four ministries. Together with Avigdor Lieberman's Israel Beiteinu they hold 36 of the Knesset's 120 seats; 61 are needed. Eisenkot has until 6 December to form a government.",
+   "matters": "It is the latest step in the attempt to replace caretaker Prime Minister Benjamin Netanyahu after October's inconclusive election.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/middle-east/20261127-israel-s-eisenkot-agrees-to-coalition-deal-with-left-wing-democrats"
+    },
+    {
+     "name": "The Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-golan-announce-coalition-deal-handing-democrats-4-ministerial-posts/"
+    },
+    {
+     "name": "Ynetnews",
+     "url": "https://www.ynetnews.com/article/bkkxw6hjml"
     }
    ]
   },
@@ -158,6 +179,48 @@
     }
    ],
    "changed": "Updated: two of the injured Italians have died, and Iran denies involvement"
+  },
+  {
+   "section": "money",
+   "published": "2026-11-26T12:00:00Z",
+   "title": "Bank of England warns AI borrowing raises financial system risks",
+   "why": "In its twice-yearly Financial Stability Report on Thursday, the Bank of England said AI financing is 'increasingly complex, circular and opaque'. Big AI cloud companies are on course to issue more than $305bn of bonds this year, and share prices still look 'stretched', it says.",
+   "matters": "If expected AI profits do not arrive, losses could spread to banks, pension funds and ordinary savers.",
+   "sources": [
+    {
+     "name": "Bank of England",
+     "url": "https://www.bankofengland.co.uk/financial-stability-report/2026/november-2026"
+    },
+    {
+     "name": "Reuters (via Yahoo Finance)",
+     "url": "https://finance.yahoo.com/economy/policy/articles/bank-england-sees-growing-financial-153906001.html"
+    },
+    {
+     "name": "The Next Web",
+     "url": "https://thenextweb.com/news/ai-financing-bank-of-england-financial-stability-hyperscaler-bonds"
+    }
+   ]
+  },
+  {
+   "section": "tech",
+   "published": "2026-11-26T12:00:00Z",
+   "title": "News agency AFP takes client platform offline after cyber-attack",
+   "why": "France's AFP news agency says hackers got into AFP Forum, the platform clients use to download its stories, photos and videos, from about 1:30am Paris time on Thursday. The platform remains offline. AFP says it does not yet know who is responsible.",
+   "matters": "France's cybersecurity chief says the country faces an 'unprecedented' cyber threat; FIFA also reported a hack that day.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform"
+    },
+    {
+     "name": "AFP (via Arab News)",
+     "url": "https://www.arabnews.com/media/afp-hit-by-cyberattack-3014189"
+    },
+    {
+     "name": "Anadolu (via Bernama)",
+     "url": "https://www.bernama.com/en/world/news.php?id=2640136"
+    }
+   ]
   },
   {
    "section": "tech",
@@ -260,6 +323,27 @@
     {
      "name": "Forbes España",
      "url": "https://forbes.es/en/balearic/1073850/this-is-the-med-emre-the-chemical-tanker-that-sank-off-the-coast-of-ibiza/"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "published": "2026-11-25T23:30:00Z",
+   "title": "Large study finds ADHD drugs in pregnancy do not harm child development",
+   "why": "A study of more than 3.6 million children born in Denmark, Norway and Sweden, published in The BMJ, found no higher risk of autism, ADHD, intellectual disability or learning disorders in about 7,600 children whose mothers took ADHD medicine in pregnancy.",
+   "matters": "The researchers say worries about children's development do not justify stopping ADHD medicine in pregnancy; patients should consult their doctor.",
+   "sources": [
+    {
+     "name": "BMJ",
+     "url": "https://bmjgroup.com/adhd-meds-in-pregnancy-not-linked-to-developmental-disorders-in-children/"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/26/adhd-drugs-in-pregnancy-do-not-raise-risk-of-child-development-issues-study-finds"
+    },
+    {
+     "name": "Medical Daily",
+     "url": "https://www.medicaldaily.com/prenatal-adhd-medication-autism-adhd-study-481772"
     }
    ]
   },
@@ -480,13 +564,21 @@
    "section": "climate",
    "published": "2026-11-25T12:55:00Z",
    "developing": true,
-   "title": "Thanksgiving storm floods US coast and cuts power to nearly 900,000",
-   "why": "A powerful storm brought record flooding to parts of New Jersey's coast and left nearly 900,000 homes and businesses without power across the Midwest and Northeast on Thursday, CBS News reports. New York's 100th Macy's Thanksgiving Day Parade was moved to Saturday.",
-   "matters": "Thousands of holiday flights were delayed and states of emergency cover all of New Jersey and parts of New York.",
+   "title": "Thanksgiving storm floods US coast and cuts power to over 900,000",
+   "why": "A powerful storm brought record flooding to parts of New Jersey's coast and left more than 900,000 homes and businesses without power on Thursday, mostly in East Coast states. New Jersey and parts of New York declared emergencies, and more than 400 flights were cancelled.",
+   "matters": "New York's 100th Macy's Thanksgiving Day Parade was moved to Saturday, its first weather delay.",
    "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us"
+    },
     {
      "name": "CBS News",
      "url": "https://www.cbsnews.com/news/thanksgiving-day-storm-northeast-midwest-flooding-power-outages/"
+    },
+    {
+     "name": "ABC News (US)",
+     "url": "https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273"
     },
     {
      "name": "ABC Australia",
@@ -517,28 +609,7 @@
      "url": "https://weather.com/2026/11/25/holiday/thanksgiving/east-coast-thanksgiving-storm-wind-rain-flooding"
     }
    ],
-   "changed": "Updated: the storm caused record coastal flooding and widespread power cuts"
-  },
-  {
-   "section": "culture",
-   "published": "2026-11-25T07:00:00Z",
-   "title": "London Museum prepares to open in old Smithfield meat market",
-   "why": "The free London Museum, about the history of the British capital, opens in its new home in the Victorian buildings of Smithfield Market on Saturday 28 November. The move cost £437 million, up from a 2019 budget of £337 million.",
-   "matters": "The museum hopes to draw more than two million visitors a year.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261125-london-museum-makes-miraculous-move-to-former-meat-market"
-    },
-    {
-     "name": "Museums Association",
-     "url": "https://www.museumsassociation.org/museums-journal/news/2026/06/the-biggest-cultural-reimagining-in-europe-london-museum-sets-opening-date/"
-    },
-    {
-     "name": "The Art Newspaper",
-     "url": "https://www.theartnewspaper.com/2026/06/23/london-museum-announces-opening-date-for-new-smithfields-location"
-    }
-   ]
+   "changed": "Updated: outages passed 900,000 and New York and New Jersey declared emergencies"
   },
   {
    "section": "world",
