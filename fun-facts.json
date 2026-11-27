@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "facts": [
     {
       "date": "2026-09-20",
@@ -1734,6 +1734,28 @@
         {
           "name": "Caltech IPAC Cool Cosmos",
           "url": "https://coolcosmos.ipac.caltech.edu/ask/113-Can-Saturn-really-float-on-water-"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "kind": "tale",
+      "emoji": "🌊",
+      "title": "King Cnut and the tide",
+      "story": "King Cnut had his chair set on the seashore and ordered the rising tide not to wet him. The sea ignored him and soaked his feet and legs. Cnut declared that only God rules nature, and he never wore his crown again, hanging it on a crucifix instead.",
+      "origin": "The story first appears in Henry of Huntingdon’s Historia Anglorum, written in the 1100s, about a century after Cnut died in 1035. There is no earlier evidence, so historians treat it as a legend. Henry told it as a lesson in humility, not arrogance.",
+      "sources": [
+        {
+          "name": "British Library",
+          "url": "https://www.bl.uk/stories/blogs/posts/turning-the-tide"
+        },
+        {
+          "name": "Medievalists.net",
+          "url": "https://www.medievalists.net/2015/05/the-changing-story-of-cnut-and-the-waves/"
+        },
+        {
+          "name": "University of Oxford (Eleanor Parker, Pilgrim and Patron: Cnut in Post-Conquest Historical Writing)",
+          "url": "https://ora.ox.ac.uk/objects/uuid:22042ee2-6590-4863-b53e-4bb7912ea6f7/files/mecd33895b74208af4b19e11cbe6cd855"
         }
       ]
     }
