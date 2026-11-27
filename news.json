@@ -1,32 +1,163 @@
 {
- "updated": "2026-11-26T13:47:00Z",
+ "updated": "2026-11-27T01:45:00Z",
  "items": [
+  {
+   "section": "world",
+   "published": "2026-11-27T01:18:00Z",
+   "title": "New Zealand's governing coalition falls one seat short in final count",
+   "why": "Final results released on Friday give Prime Minister Christopher Luxon's three-party coalition 65 of 130 seats, one short of a majority, after special votes moved two seats. The centrist Opportunity party, with seven seats, now holds the balance of power.",
+   "matters": "If no deal is reached, New Zealand could face a second election.",
+   "sources": [
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-27/official-results-of-new-zealand-s-national-election-announced/107434326"
+    },
+    {
+     "name": "Newsroom",
+     "url": "https://newsroom.co.nz/2026/11/27/election-2026-final-results-live/"
+    },
+    {
+     "name": "The Spinoff",
+     "url": "https://thespinoff.co.nz/politics/27-11-2026/live-updates-as-the-final-nz-election-results-are-revealed"
+    },
+    {
+     "name": "1News",
+     "url": "https://www.1news.co.nz/2026/11/27/final-election-results-revealed-today-what-you-need-to-know/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-26T23:30:00Z",
+   "title": "EU leaders end summit without a deal on budget or Ukraine loan",
+   "why": "After more than 12 hours of talks in Brussels on Thursday, EU leaders failed to agree the bloc's 2028-2034 budget or a €45bn loan for Ukraine next year, and cancelled the second day. They will try again on 17-18 December.",
+   "matters": "Ukraine relies on EU money to keep its government running and its army supplied.",
+   "sources": [
+    {
+     "name": "AP (via Arab News)",
+     "url": "https://www.arabnews.com/world/eu-leaders-split-over-budget-spending-and-a-49-billion-loan-to-ukraine-3014203"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/26/eu-summit-leaders-ready-to-spar-over-new-budget-and-ukraine-aid"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-26T19:00:00Z",
+   "title": "Argentina bans its central bank from printing money for the government",
+   "why": "Argentina's Congress gave final approval on Thursday to a law that makes protecting the peso's value the central bank's main job and bars it from financing the Treasury. The lower house passed it 141 to 0, with 99 abstentions.",
+   "matters": "Printing money to pay government bills helped push Argentina's inflation above 200%; it has since fallen to about 33%.",
+   "sources": [
+    {
+     "name": "AP (via WTOP)",
+     "url": "https://wtop.com/world/2026/11/argentina-bans-its-central-bank-from-printing-money-for-the-government/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending"
+    },
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/politica/2026/11/26/milei-celebro-la-reforma-de-la-carta-organica-del-banco-central-se-termino-con-mas-de-90-anos-de-estafa/"
+    }
+   ]
+  },
+  {
+   "section": "money",
+   "published": "2026-11-26T14:00:00Z",
+   "title": "Spain's Pablo Hernández de Cos chosen to lead the European Central Bank",
+   "why": "EU leaders meeting in Brussels on Thursday picked Pablo Hernández de Cos, 55, a former Bank of Spain governor, to succeed Christine Lagarde as ECB president. He is due to take over in February and would be the first Spaniard in the job.",
+   "matters": "The ECB sets interest rates for the 20 countries that use the euro, where inflation is about 4%.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/europe/20261126-spanish-economist-de-cos-succeed-lagarde-head-ecb"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief"
+    },
+    {
+     "name": "AP (via Gulf News)",
+     "url": "https://gulfnews.com/business/economy/european-leaders-choose-pablo-hern%C3%A1ndez-de-cos-to-succeed-christine-lagarde-as-ecb-president-1.500762345"
+    }
+   ]
+  },
+  {
+   "section": "culture",
+   "serious": true,
+   "published": "2026-11-26T13:00:00Z",
+   "title": "French actor Gérard Depardieu ordered to stand trial for rape",
+   "why": "A Paris appeals court on Thursday upheld an order for Gérard Depardieu, 77, to stand trial over the alleged rape of an actress at his Paris home in 2018, and dismissed a second allegation. Depardieu denies wrongdoing; his lawyer said an appeal to France's highest court is being considered.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/france/20261126-french-actor-g%C3%A9rard-depardieu-to-face-trial-for-rape-his-lawyer-says"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/26/paris-court-orders-gerard-depardieu-to-stand-trial-for-rape-sexual-assault"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/26/gerard-depardieu-to-stand-trial-over-rape-accusations-by-actress-charlotte-arnould"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-26T12:53:00Z",
+   "title": "Guinea-Bissau's military rulers delay elections by two years to 2028",
+   "why": "Guinea-Bissau's transitional president, Gen. Horta Inta-a, on Thursday postponed presidential and legislative elections planned for 6 December to November 2028, citing a lack of technical, material and financial means. The army seized power in the West African country a year ago.",
+   "matters": "It extends military rule well beyond the one-year transition promised, despite pressure from West African neighbours.",
+   "sources": [
+    {
+     "name": "AP (via News4JAX)",
+     "url": "https://www.news4jax.com/news/world/2026/11/26/guinea-bissaus-military-junta-postpones-elections-until-2028-extending-its-rule-by-two-years/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years"
+    },
+    {
+     "name": "TRT Afrika",
+     "url": "https://trtafrika.com/english/article/2713d83a257b"
+    }
+   ]
+  },
   {
    "section": "world",
    "serious": true,
    "developing": true,
    "published": "2026-11-26T12:30:00Z",
-   "title": "Kuwait says Iranian drone attack injured four people at a 'vital site'",
-   "why": "Kuwait's defence ministry said on Thursday that debris from Iranian drones it intercepted injured four people, one Kuwaiti, two Italians and one Pakistani, and damaged a facility it did not name. Iran's Revolutionary Guards said two tankers hit sea mines in the Strait of Hormuz.",
-   "matters": "Flights between Europe and Asia were rerouted, and attacks near the Strait of Hormuz threaten a key route for the world's oil.",
+   "title": "Two Italian technicians killed in drone attack in Kuwait",
+   "why": "Two Italian technicians working for Rheinmetall Italia died after drones hit an air-defence surveillance site in Kuwait on Thursday, Kuwait's defence ministry and Italy say. Kuwait and Italy blame Iran. Iran's foreign minister denies any role and offers a joint investigation.",
+   "matters": "Italy plans a formal complaint to Iran, drawing a European country further into the Gulf conflict.",
    "sources": [
+    {
+     "name": "Reuters (via Yahoo)",
+     "url": "https://www.yahoo.com/news/articles/two-italians-killed-iranian-drone-152440938.html"
+    },
+    {
+     "name": "The New Arab",
+     "url": "https://www.newarab.com/news/iran-denies-deadly-kuwait-attack-houthis-target-saudi-refinery"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious"
+    },
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/26/civilian-flights-diverted-as-kuwait-army-intercepts-iranian-drone-attack"
-    },
-    {
-     "name": "Gulf News",
-     "url": "https://gulfnews.com/world/gulf/kuwait/four-injured-in-iranian-drone-attack-on-vital-facility-in-kuwait-1.500762119"
-    },
-    {
-     "name": "ABC News (US)",
-     "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-strait-hormuz-safe-demands/?id=138369648"
     }
-   ]
+   ],
+   "changed": "Updated: two of the injured Italians have died, and Iran denies involvement"
   },
   {
    "section": "tech",
@@ -195,6 +326,26 @@
    ]
   },
   {
+   "section": "money",
+   "published": "2026-11-25T21:00:00Z",
+   "title": "Musk and SpaceX pledge two SpaceX shares for each US child's account",
+   "why": "SpaceX says it will give one new share to every active 'Trump Account', the US government's savings accounts for children, and Elon Musk will personally match it. At Wednesday's closing price, the gift is worth about $18bn if all accounts qualify.",
+   "sources": [
+    {
+     "name": "SpaceX",
+     "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Invest-in-the-Next-Generation-of-Americans-2026-r_LYQ5cH94/default.aspx"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/elon-musk-spacex-shares-trump-accounts/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/11/26/musk-pledges-two-spacex-shares-for-every-us-child"
+    }
+   ]
+  },
+  {
    "section": "tech",
    "published": "2026-11-25T20:00:00Z",
    "title": "US regulator lets SpaceX launch up to a million data-centre satellites",
@@ -329,10 +480,18 @@
    "section": "climate",
    "published": "2026-11-25T12:55:00Z",
    "developing": true,
-   "title": "Storm forces first weather postponement of New York's Thanksgiving parade",
-   "why": "Macy's has moved its 100th Thanksgiving Day Parade in New York from Thursday to Saturday as a powerful storm brings heavy rain, coastal flooding and strong winds to the US East Coast. Forecasters warn of gusts of around 60 mph in the city.",
-   "matters": "More than 81 million Americans are expected to travel this week, so delays and power cuts are likely.",
+   "title": "Thanksgiving storm floods US coast and cuts power to nearly 900,000",
+   "why": "A powerful storm brought record flooding to parts of New Jersey's coast and left nearly 900,000 homes and businesses without power across the Midwest and Northeast on Thursday, CBS News reports. New York's 100th Macy's Thanksgiving Day Parade was moved to Saturday.",
+   "matters": "Thousands of holiday flights were delayed and states of emergency cover all of New Jersey and parts of New York.",
    "sources": [
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/thanksgiving-day-storm-northeast-midwest-flooding-power-outages/"
+    },
+    {
+     "name": "ABC Australia",
+     "url": "https://www.abc.net.au/news/2026-11-27/thanksgiving-floods-storms-across-us/107433308"
+    },
     {
      "name": "France 24",
      "url": "https://www.france24.com/en/americas/20261126-powerful-us-storm-forces-historic-postponement-of-thanksgiving-day-parade-in-new-york"
@@ -358,7 +517,7 @@
      "url": "https://weather.com/2026/11/25/holiday/thanksgiving/east-coast-thanksgiving-storm-wind-rain-flooding"
     }
    ],
-   "changed": "Updated: New York's Thanksgiving parade was moved to Saturday"
+   "changed": "Updated: the storm caused record coastal flooding and widespread power cuts"
   },
   {
    "section": "culture",
@@ -409,235 +568,24 @@
    "changed": "Updated: the death toll has risen to at least 13"
   },
   {
-   "section": "money",
-   "published": "2026-11-25T02:00:00Z",
-   "title": "Asian stock markets fall sharply as doubts over AI boom return",
-   "why": "Chipmakers led steep falls across Asia on Wednesday. Taiwan's and South Korea's main indexes dropped around 5 to 6%, and Japan's Nikkei more than 3%. Samsung, SK Hynix and TSMC each fell around 8 to 9%, after Nvidia shares dropped almost 6% in New York on Tuesday.",
-   "matters": "Many pension and savings funds hold these big tech shares, so falls can affect ordinary savers.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom"
-    },
-    {
-     "name": "AP (via myMotherLode)",
-     "url": "https://mymotherlode.com/news/national/11338403/asian-stocks-mostly-decline-as-ai-shares-fall-following-a-retreat-on-wall-street.html"
-    },
-    {
-     "name": "Investing.com",
-     "url": "https://www.investing.com/news/stock-market-news/asian-stocks-slide-as-ai-selloff-deepens-us-tariff-threats-weigh-on-sentiment-5049630"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-25T01:00:00Z",
-   "title": "North Korea expels Swiss envoy over sanctions on children's camp",
-   "why": "North Korea has told Sylvain Astier, head of Switzerland's office in Pyongyang, to leave within 48 hours and the office to close, state media said on Wednesday. It objects to Swiss sanctions on a camp in Wonsan that Switzerland says has hosted Ukrainian children taken from Russian-occupied areas.",
-   "matters": "Switzerland reopened the office only in October, as one of few Western contacts with North Korea.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261125-north-korea-expels-head-of-swiss-diplomatic-office-over-sanctions"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/25/north-korea-expels-swiss-diplomat-and-orders-berns-new-pyongyang-office-to-close"
-    },
-    {
-     "name": "The Korea Times",
-     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261125/n-korea-closes-swiss-office-in-pyongyang-over-sanctions-on-childrens-camp"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-11-25T00:30:00Z",
-   "title": "Australia's inflation rises to 4.9%, its highest in three years",
-   "why": "Consumer prices in Australia rose 4.9% in the year to October, up from 4.3% in September and above forecasts, the Australian Bureau of Statistics said on Wednesday. Fuel prices rose 32.5% and electricity 25.2%. Treasurer Jim Chalmers blamed a spike in global oil prices.",
-   "matters": "High inflation makes an interest rate cut by Australia's central bank less likely.",
-   "sources": [
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-25/abs-october-cpi-inflation-rises-year-/107424668"
-    },
-    {
-     "name": "Australian Bureau of Statistics",
-     "url": "https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/latest-release"
-    },
-    {
-     "name": "The Nightly",
-     "url": "https://thenightly.com.au/politics/politics-and-news-live-taylor-warns-australia-is-heading-for-economic-ruin-ahead-of-fresh-inflation-figures-c-23208546"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-24T22:00:00Z",
-   "title": "Kilmar Abrego Garcia leaves the US for Spain after deportation fight",
-   "why": "Kilmar Abrego Garcia, a Salvadoran man wrongly deported to El Salvador in 2025 and later returned, flew from Washington to Madrid on Tuesday. The Homeland Security secretary says he 'self-deported'; his lawyer says he left on his own terms rather than be sent to Liberia.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-self-deports-to-spain-after-lengthy-us-legal-battle"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/"
-    },
-    {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/news/us-news/kilmar-abrego-garcia-rcna611215"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-11-24T21:00:00Z",
-   "title": "US jury convicts Huawei of conspiring to steal trade secrets",
-   "why": "A federal jury in New York on Tuesday found China's Huawei guilty on 10 of 12 counts, including conspiracy to steal trade secrets and bank fraud, after a three-month trial. It was cleared of racketeering conspiracy and obstruction of justice. Huawei says the convictions are 'without legal or factual merit'.",
-   "matters": "Huawei is one of the world's biggest telecoms firms, and the verdict adds to tension between the US and China.",
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/live-news/20261124-us-jury-convicts-china-tech-giant-huawei-of-stealing-trade-secrets"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/24/tech-giant-huawei-found-guilty-of-stealing-trade-secrets-but-acquitted-of-racketeering"
-    },
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261125-china-s-huawei-says-us-conviction-without-legal-or-factual-merit-1"
-    }
-   ],
-   "changed": "Updated: Huawei responded to the verdict"
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-24T20:00:00Z",
-   "title": "Ukraine defends drone strike on Russian ships in Libya's Benghazi",
-   "why": "Ukraine's foreign minister, Andrii Sybiha, called weekend drone strikes on a Russian warship and a cargo ship at Benghazi, in eastern Libya, legitimate self-defence. Libya's Tripoli-based government condemned the attack. Eastern Libyan authorities say two of their navy soldiers died of wounds from it.",
-   "matters": "It carries the war in Ukraine to Africa, in a country split between rival governments.",
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/europe/20261125-live-two-libyan-soldiers-killed-in-ukrainian-attack-on-russian-vessels-in-benghazi"
-    },
-    {
-     "name": "TVP World",
-     "url": "https://tvpworld.com/96674945/ukraine-defends-libya-drone-strike-as-tensions-flare-with-tripoli"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-24T17:30:00Z",
-   "title": "Colombian forces free hostages held in Cartagena supermarket",
-   "why": "Police and troops stormed an Éxito supermarket in Cartagena, Colombia, at about 1:30am on Wednesday, ending a siege of more than 17 hours. President Abelardo de la Espriella says all the hostages were freed and one gunman was killed. Infobae reports four suspects were captured.",
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights"
-    },
-    {
-     "name": "El Tiempo",
-     "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-rescatan-rehenes-del-exito-tras-18-horas-de-secuestro-un-delincuente-murio-y-tres-habrian-logrado-camuflarse-entre-los-liberados-3604042"
-    },
-    {
-     "name": "Infobae",
-     "url": "https://www.infobae.com/colombia/2026/11/24/hombres-armados-y-encapuchados-asaltaron-un-supermercado-exito-en-cartagena-la-policia-tiene-rodeado-el-almacen/"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket"
-    }
-   ],
-   "changed": "Updated: security forces ended the siege and freed the hostages"
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-24T17:00:00Z",
-   "title": "Jannik Sinner to miss the Australian Open after knee surgery",
-   "why": "Italy's Jannik Sinner, the world number two, will miss January's Australian Open, Tennis Australia's chief Andrew Abdo confirmed on Thursday. Sinner had surgery on his right knee in Finland on Tuesday and has not played since winning Wimbledon in July. Experts say he could be out for about three months.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/live-news/20261126-two-time-champion-sinner-out-of-australian-open-after-surgery"
-    },
-    {
-     "name": "dpa (via Yahoo Sports)",
-     "url": "https://sports.yahoo.com/tennis/articles/jannik-sinner-ruled-australian-open-034823352.html"
-    },
-    {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/tennis/news/13615618/jannik-sinner-former-world-no-1-undergoes-surgery-on-his-right-knee-casting-doubt-over-australian-open-participation"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-25/jannik-sinner-australian-open-2027-injuries/107423672"
-    }
-   ],
-   "changed": "Updated: Tennis Australia confirmed he will miss the tournament"
-  },
-  {
-   "section": "culture",
-   "published": "2026-11-24T16:30:00Z",
-   "title": "Music streaming service Tidal to remove songs made entirely by AI",
-   "why": "Tidal said on Tuesday that from 9 December it will reject and remove tracks made wholly by artificial intelligence, though songs made with AI help are still allowed. It says 43% of tracks sent to it in the past 90 days were fully AI-generated.",
-   "matters": "CBC says Tidal is the first major streaming service to ban fully AI-generated music.",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/24/new-terms-and-conditions-tidal-bans-ai-music-in-a-bid-to-promote-fairness-in-industry"
-    },
-    {
-     "name": "CBC",
-     "url": "https://ca.news.yahoo.com/tidal-banning-fully-ai-generated-205313735.html"
-    },
-    {
-     "name": "TechRadar",
-     "url": "https://www.techradar.com/audio/audio-streaming/tidal-says-its-banning-ai-music-from-december-streaming-giant-will-delete-27-million-songs-from-its-library-and-reject-80-000-ai-generated-tracks-a-day"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-24T16:00:00Z",
-   "title": "Sport court gives Senegal back its Africa Cup of Nations title",
-   "why": "The Court of Arbitration for Sport on Tuesday unanimously restored Senegal's 1-0 extra-time win over Morocco in January's final. African football's governing body, CAF, had awarded Morocco the title in March because Senegal's players walked off in protest. Morocco's federation says it will pursue legal options.",
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/senegal-regain-afcon-title-on-appeal-at-morocco-s-expense"
-    },
-    {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/football/news/13615545/senegal-crowned-afcon-2025-champions-by-court-of-arbitration-for-sport-following-appeal"
-    },
-    {
-     "name": "The Tribune",
-     "url": "https://www.tribuneindia.com/news/sports/senegal-reinstated-as-afcon-2025-champions-after-cas-overturns-caf-ruling"
-    }
-   ]
-  },
-  {
    "section": "world",
    "serious": true,
    "published": "2026-11-24T15:00:00Z",
-   "title": "Houthis say they hit Saudi ports as missiles intercepted over Riyadh",
-   "why": "Yemen's Houthis say they attacked the Saudi ports of Jeddah and Jazan on Wednesday after coalition strikes on Hodeidah. The Saudi-led coalition says a projectile caused minor damage at Jazan, with no injuries, and that it later shot down two ballistic missiles aimed at Riyadh.",
+   "title": "Attack on Saudi Arabia's Jazan refinery kills a worker",
+   "why": "A projectile hit Saudi Aramco's Jazan refinery on the Red Sea coast on Thursday, killing a Nepali worker, injuring several others and halting some operations, Saudi Arabia's energy ministry says. The Saudi-led coalition blames Yemen's Houthis and says it destroyed the launch platform in Hodeidah.",
    "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/world/saudi-arabia/attack-saudi-aramcos-jazan-refinery-kills-worker-halts-operations-rcna611484"
+    },
+    {
+     "name": "The New Arab",
+     "url": "https://www.newarab.com/news/iran-denies-deadly-kuwait-attack-houthis-target-saudi-refinery"
+    },
     {
      "name": "France 24 (AFP)",
      "url": "https://www.france24.com/en/live-news/20261125-houthis-say-hit-two-saudi-ports-in-response-to-coalition-strikes"
@@ -655,29 +603,9 @@
      "url": "https://www.thenationalnews.com/news/gulf/2026/11/25/yemens-houthis-say-they-attacked-saudi-arabias-ras-tanura-refinery/"
     }
    ],
-   "matters": "Ras Tanura handles about 16% of Saudi refining capacity, so attacks there can push up oil prices worldwide.",
-   "changed": "Updated: the Houthis say they targeted two Saudi ports; missiles were intercepted over Riyadh",
+   "matters": "Jazan can refine about 400,000 barrels of oil a day, so attacks there can push up fuel prices.",
+   "changed": "Updated: a strike on the Jazan refinery killed a worker",
    "developing": true
-  },
-  {
-   "section": "world",
-   "published": "2026-11-24T15:00:00Z",
-   "title": "Putin says Russia will retaliate for Ukrainian strikes on oil refineries",
-   "why": "President Vladimir Putin said on Tuesday that Ukraine was ignoring President Trump's request to stop hitting Russian refineries, and that 'retaliatory measures on our part are inevitable'. Industry sources told Reuters the attacks have cut Russian refining by 45% since late October. Kyiv says it will stop if Moscow does.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation"
-    },
-    {
-     "name": "RTÉ",
-     "url": "https://www.rte.ie/news/2026/1124/1600432-poland-russia-ukraine/"
-    },
-    {
-     "name": "The Moscow Times (Reuters)",
-     "url": "https://www.themoscowtimes.com/2026/11/24/putin-says-ukraine-hits-russian-oil-plants-despite-trumps-requests-promises-retaliation-a94367"
-    }
-   ]
   },
   {
    "section": "world",
@@ -729,42 +657,6 @@
    ],
    "changed": "Updated: border closures began and Kurds protested in Erbil",
    "developing": true
-  },
-  {
-   "section": "health",
-   "serious": true,
-   "developing": true,
-   "published": "2026-11-22T20:00:00Z",
-   "title": "Congo Ebola cases pass 12,000 as fighting hampers the response",
-   "why": "Confirmed Ebola cases in Congo have passed 12,000, with 5,904 deaths, Reuters reported on Thursday, citing government data. Days earlier, WHO staff who had sheltered in a hospital in Akwe, Ituri province, during nearby fighting were evacuated. The Bundibugyo strain has no approved vaccine or treatment.",
-   "matters": "It is the second-largest Ebola outbreak on record, and violence and local distrust are making it harder to contain.",
-   "sources": [
-    {
-     "name": "Reuters (via WHBL)",
-     "url": "https://whbl.com/2026/11/25/congos-ebola-cases-exceed-12000-as-responders-struggle-to-contain-outbreak/"
-    },
-    {
-     "name": "AFP (via Arab News)",
-     "url": "https://arabnews.com/world/ebola-fight-runs-up-against-customs-rites-in-remote-dr-congo-3014028"
-    },
-    {
-     "name": "AFP (via Arab News)",
-     "url": "https://www.arabnews.com/world/who-chief-says-staff-evacuated-from-dr-congo-hospital-3013939"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces"
-    },
-    {
-     "name": "UN News",
-     "url": "https://news.un.org/en/story/2026/11/1168865"
-    },
-    {
-     "name": "WHO",
-     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630"
-    }
-   ],
-   "changed": "Updated: confirmed cases have passed 12,000, according to government data"
   }
  ]
 }
