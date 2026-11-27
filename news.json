@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-27T07:44:00Z",
+ "updated": "2026-11-27T13:45:00Z",
  "items": [
+  {
+   "section": "tech",
+   "developing": true,
+   "published": "2026-11-27T09:00:00Z",
+   "title": "UK benefits department takes online services offline after cyber incident",
+   "why": "The UK's Department for Work and Pensions took some online services offline on Friday, including Universal Credit and pension accounts, after finding a cyber incident on Thursday evening. It says payments are not affected but has not said what happened or whether data was taken.",
+   "matters": "The department warns it will never message people asking for bank details or to click links, so watch for scams.",
+   "sources": [
+    {
+     "name": "GOV.UK (DWP)",
+     "url": "https://www.gov.uk/government/news/temporary-disruption-to-some-dwp-online-services"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/27/live-and-ongoing-cyber-incident-takes-down-uk-department-for-work-and-pensions-online-serv"
+    },
+    {
+     "name": "City AM",
+     "url": "https://www.cityam.com/dwp-takes-services-offline-after-cyber-incident/"
+    }
+   ]
+  },
   {
    "section": "world",
    "published": "2026-11-27T01:18:00Z",
@@ -156,6 +178,7 @@
    "section": "world",
    "serious": true,
    "developing": true,
+   "changed": "Updated: two of the injured Italians have died, and Iran denies involvement",
    "published": "2026-11-26T12:30:00Z",
    "title": "Two Italian technicians killed in drone attack in Kuwait",
    "why": "Two Italian technicians working for Rheinmetall Italia died after drones hit an air-defence surveillance site in Kuwait on Thursday, Kuwait's defence ministry and Italy say. Kuwait and Italy blame Iran. Iran's foreign minister denies any role and offers a joint investigation.",
@@ -177,8 +200,7 @@
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh"
     }
-   ],
-   "changed": "Updated: two of the injured Italians have died, and Iran denies involvement"
+   ]
   },
   {
    "section": "money",
@@ -239,6 +261,93 @@
     {
      "name": "Anadolu Agency",
      "url": "https://www.aa.com.tr/en/sports/fifa-confirms-cyberattack-as-hacking-group-claims-theft-of-sensitive-data-report/4138680"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "developing": true,
+   "published": "2026-11-26T10:20:00Z",
+   "title": "Iran's Revolutionary Guards say two oil tankers hit mines near Hormuz",
+   "why": "Iran's Revolutionary Guards said on Thursday that two tankers, one carrying over two million barrels of crude, hit mines and caught fire north of Oman's port of Khasab. The claim is unconfirmed. Britain's UKMTO separately reported a projectile exploding near a tanker off Dubai.",
+   "matters": "Attacks on ships in the Strait of Hormuz, a key oil route, can push up fuel prices worldwide.",
+   "sources": [
+    {
+     "name": "Reuters (via Arab News)",
+     "url": "https://www.arabnews.com/middle-east/irans-revolutionary-guards-say-two-oil-tankers-hit-sea-mines-near-omans-khasab-3014111"
+    },
+    {
+     "name": "Iran International",
+     "url": "https://www.iranintl.com/en/202611269792"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-26T09:30:00Z",
+   "title": "UK net migration falls to 77,000, lowest since 1997 outside pandemic",
+   "why": "Net migration to the UK, the number arriving minus the number leaving, fell to an estimated 77,000 in the year to June 2026, the Office for National Statistics said on Thursday. About 738,000 people arrived and 661,000 left. It peaked at more than 900,000 in 2023.",
+   "matters": "Migration has been a central issue in British politics; the government and opposition each claim credit for the fall.",
+   "sources": [
+    {
+     "name": "ONS",
+     "url": "https://blog.ons.gov.uk/2026/11/26/behind-the-numbers-what-is-driving-the-latest-fall-in-net-migration/"
+    },
+    {
+     "name": "The Week (India)",
+     "url": "https://www.theweek.in/news/world/2026/11/27/uk-net-migration-down-over-90percent-from-record-peak-lowest-since-1997.html"
+    },
+    {
+     "name": "LBC",
+     "url": "https://www.lbc.co.uk/article/net-migration-lowest-level-outside-pandemic-5Hjdnb7_2/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-26T08:41:00Z",
+   "title": "North Korea has paused military aid to Russia, Ukraine's intelligence says",
+   "why": "Ukraine's military intelligence said on Thursday that Kim Jong Un had suspended deliveries of KN-23 missiles and artillery shells to Russia and barred Russian military planes from North Korean airspace, after a row over Moscow's outreach to South Korea. Neither Moscow nor Pyongyang has commented, and the claim is unverified.",
+   "matters": "North Korea has sent Russia missiles, shells and thousands of troops for its war in Ukraine.",
+   "sources": [
+    {
+     "name": "Interfax-Ukraine",
+     "url": "https://en.interfax.com.ua/news/general/1242653.html"
+    },
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://kyivindependent.com/north-korea-pauses-military-aid-to-russia-ukrainian-intelligence-says/"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/27/north-korea-halts-russia-military-aid-over-seoul-row-kyiv-says"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "serious": true,
+   "developing": true,
+   "published": "2026-11-26T07:46:00Z",
+   "title": "Ebola outbreak in Congo passes 12,000 confirmed cases",
+   "why": "Congo's government says 12,021 people have been confirmed with Ebola and 5,904 have died since the outbreak was declared in Ituri province in May. The Bundibugyo strain has no approved vaccine or treatment. Fighting near Bunia has forced some health workers to evacuate, the WHO says.",
+   "matters": "Reuters calls it the second-largest Ebola outbreak on record; officials say many infections are going undetected.",
+   "sources": [
+    {
+     "name": "Reuters (via Yahoo)",
+     "url": "https://www.yahoo.com/news/world/articles/congos-ebola-cases-exceed-12-052856563.html"
+    },
+    {
+     "name": "AP (via ABC News)",
+     "url": "https://abcnews.com/Health/wireStory/ebola-outbreak-congo-reaches-12000-cases-violence-forces-138463911"
+    },
+    {
+     "name": "UPI",
+     "url": "https://www.upi.com/Top_News/World-News/2026/11/26/congo-Ebola-cases-pass-12000-deaths-rise-5900/4401795716147"
     }
    ]
   },
@@ -495,6 +604,8 @@
   {
    "section": "money",
    "lead": true,
+   "developing": true,
+   "changed": "Updated: China, the EU, Japan and Brazil rejected the plan",
    "published": "2026-11-25T15:30:00Z",
    "title": "US proposes new tariffs on China, the EU and 12 other economies",
    "why": "The US trade office proposed import taxes of mostly 10% to 20% on 14 economies, saying they produce far more than they need. On Thursday China said it reserves the right to respond, the EU said the US should respect its trade deal, and Brazil called the plan 'unacceptable'.",
@@ -516,8 +627,7 @@
      "name": "France 24",
      "url": "https://www.france24.com/en/americas/20261126-unacceptable-major-economies-push-back-against-new-us-tariffs"
     }
-   ],
-   "changed": "Updated: China, the EU, Japan and Brazil rejected the plan"
+   ]
   },
   {
    "section": "climate",
@@ -541,29 +651,10 @@
    ]
   },
   {
-   "section": "world",
-   "published": "2026-11-25T13:00:00Z",
-   "title": "Judges in Netanyahu's corruption trial suggest dropping one case",
-   "why": "Judges in Jerusalem on Wednesday recommended that prosecutors drop one of the three corruption cases against Israel's caretaker prime minister, Benjamin Netanyahu, reconsider another and settle the third, Israeli media reported. Netanyahu, who denies wrongdoing, said the trial must end. The attorney general says she will consider the recommendations.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case"
-    },
-    {
-     "name": "RTÉ",
-     "url": "https://www.rte.ie/news/2026/1125/1600664-benjamin-netanyahu-court/"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/in-boost-for-netanyahu-judges-question-corruption-trial-charges"
-    }
-   ]
-  },
-  {
    "section": "climate",
-   "published": "2026-11-25T12:55:00Z",
    "developing": true,
+   "changed": "Updated: outages passed 900,000 and New York and New Jersey declared emergencies",
+   "published": "2026-11-25T12:55:00Z",
    "title": "Thanksgiving storm floods US coast and cuts power to over 900,000",
    "why": "A powerful storm brought record flooding to parts of New Jersey's coast and left more than 900,000 homes and businesses without power on Thursday, mostly in East Coast states. New Jersey and parts of New York declared emergencies, and more than 400 flights were cancelled.",
    "matters": "New York's 100th Macy's Thanksgiving Day Parade was moved to Saturday, its first weather delay.",
@@ -608,13 +699,13 @@
      "name": "The Weather Channel",
      "url": "https://weather.com/2026/11/25/holiday/thanksgiving/east-coast-thanksgiving-storm-wind-rain-flooding"
     }
-   ],
-   "changed": "Updated: outages passed 900,000 and New York and New Jersey declared emergencies"
+   ]
   },
   {
    "section": "world",
    "serious": true,
    "developing": true,
+   "changed": "Updated: the death toll has risen to at least 13",
    "published": "2026-11-25T03:00:00Z",
    "title": "At least 13 dead as rescuers search flooded Indonesian gold mine",
    "why": "At least 13 miners have died after an unlicensed gold mine in the Pongkor area of Bogor, West Java, flooded late on Monday, Indonesia's local search and rescue chief says. Thirteen others are still missing, and 11 escaped. About 325 rescuers are working in shafts around 100 metres deep.",
@@ -635,16 +726,26 @@
      "name": "ABC Australia",
      "url": "https://www.abc.net.au/news/2026-11-25/miners-trapped-underground-in-west-java-indonesia/107426126"
     }
-   ],
-   "changed": "Updated: the death toll has risen to at least 13"
+   ]
   },
   {
    "section": "world",
    "serious": true,
+   "developing": true,
+   "changed": "Updated: the coalition says it struck 50 Houthi targets in Yemen",
    "published": "2026-11-24T15:00:00Z",
-   "title": "Attack on Saudi Arabia's Jazan refinery kills a worker",
-   "why": "A projectile hit Saudi Aramco's Jazan refinery on the Red Sea coast on Thursday, killing a Nepali worker, injuring several others and halting some operations, Saudi Arabia's energy ministry says. The Saudi-led coalition blames Yemen's Houthis and says it destroyed the launch platform in Hodeidah.",
+   "title": "Saudi-led coalition strikes Yemen after deadly attack on Jazan refinery",
+   "why": "A projectile hit Saudi Aramco's Jazan refinery on Thursday, killing a Nepali worker, Saudi Arabia's energy ministry says. The Saudi-led coalition blames Yemen's Houthis and says it then destroyed 50 Houthi military targets in Sanaa, Hodeidah and Saada provinces. The Houthis had not commented.",
+   "matters": "Jazan can refine about 400,000 barrels of oil a day, so attacks there can push up fuel prices.",
    "sources": [
+    {
+     "name": "Anadolu Agency",
+     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-destroyed-50-houthi-military-targets-across-yemen/4139651"
+    },
+    {
+     "name": "Gulf News",
+     "url": "https://gulfnews.com/world/mena/middle-east-tensions-trump-signals-victory-as-iran-offers-kuwait-drone-probe-1.500762639"
+    },
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations"
@@ -660,30 +761,18 @@
     {
      "name": "France 24 (AFP)",
      "url": "https://www.france24.com/en/live-news/20261125-houthis-say-hit-two-saudi-ports-in-response-to-coalition-strikes"
-    },
-    {
-     "name": "Xinhua",
-     "url": "https://english.news.cn/20261126/b7ff386069fe4137ab3e11b3af10156a/c.html"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh"
-    },
-    {
-     "name": "The National",
-     "url": "https://www.thenationalnews.com/news/gulf/2026/11/25/yemens-houthis-say-they-attacked-saudi-arabias-ras-tanura-refinery/"
     }
-   ],
-   "matters": "Jazan can refine about 400,000 barrels of oil a day, so attacks there can push up fuel prices.",
-   "changed": "Updated: a strike on the Jazan refinery killed a worker",
-   "developing": true
+   ]
   },
   {
    "section": "world",
    "serious": true,
+   "developing": true,
+   "changed": "Updated: new strikes and an Israeli threat of a wider offensive",
    "published": "2026-11-24T12:00:00Z",
    "title": "Israel threatens wider Gaza offensive as strikes kill at least eight",
    "why": "Israeli strikes killed at least eight people in Gaza overnight into Thursday, including Hamas-appointed deputy education minister Khaled Abu Nada and his wife, medics say. Defence Minister Israel Katz said that unless Hamas disarms, the army will disarm it, including by moving another million Gaza residents south.",
+   "matters": "It puts further strain on the ceasefire agreed in October 2025.",
    "sources": [
     {
      "name": "France 24",
@@ -701,13 +790,12 @@
      "name": "LaPresse",
      "url": "https://uk.lapresse.it/world-en/2026/11/26/katz-hamas-must-demilitarise-gaza-or-we-will-intervene-and-evacuate-1-million-people/"
     }
-   ],
-   "developing": true,
-   "changed": "Updated: new strikes and an Israeli threat of a wider offensive",
-   "matters": "It puts further strain on the ceasefire agreed in October 2025."
+   ]
   },
   {
    "section": "world",
+   "developing": true,
+   "changed": "Updated: border closures began and Kurds protested in Erbil",
    "published": "2026-11-24T08:00:00Z",
    "title": "Baghdad starts closing Kurdish border crossings after top court ruling",
    "why": "Iraq's top court on Wednesday backed federal control of all borders, including in the Kurdish region, and of oil and gas fields. On Thursday border forces began closing unofficial crossings, thousands protested in Erbil and Kurdish leaders rejected central rule. National talks are set for 1 December.",
@@ -725,9 +813,7 @@
      "name": "Arab News (Reuters)",
      "url": "https://www.arabnews.com/middle-east/iraqs-top-court-says-baghdad-can-deploy-troops-to-secure-borders-in-kurdistan-region-state-tv-reports-3013986"
     }
-   ],
-   "changed": "Updated: border closures began and Kurds protested in Erbil",
-   "developing": true
+   ]
   }
  ]
 }
