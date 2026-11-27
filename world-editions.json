@@ -7720,5 +7720,167 @@
         ]
       }
     ]
+  },
+  {
+    "id": "068",
+    "published": "2026-11-29",
+    "title": "A cricket star in disguise, a new chief for the euro and Spain votes today",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Is this true?",
+        "claim": "Just before India’s second Test match against New Zealand, Indian star batter Rishabh Pant joined a friendly park cricket game in Christchurch under the made-up name “Stan Stan” – and some of the other team did not recognise him.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this is true. On Wednesday 25 November Pant, one of the world’s best-known cricketers, was riding an electric bike near Hagley Park in Christchurch when a local player, Mohammad Safi, stopped him for a chat and asked if he would fill a gap in his team, which was a player short. Pant said yes, borrowed a bat and was listed on the scorecard as “Stan Stan” in a “Last Man Stands” match, a short, friendly form of cricket played by amateur teams. He hit a quick 54 from just 21 balls and his side won by 16 runs; some opponents only worked out who he was when the big sixes began. New Zealand’s captain Tom Latham called it “brilliant”.",
+        "sources": [
+          [
+            "Al Jazeera · India’s Pant plays for New Zealand side under false name “Stan Stan”",
+            "https://www.aljazeera.com/sports/2026/11/27/indias-pant-plays-for-new-zealand-side-under-false-name-stan-stan"
+          ],
+          [
+            "SportsTak · Rishabh Pant goes incognito for shorthanded NZ local team, slams 21-ball 54 ahead of 2nd Test",
+            "https://thesportstak.com/cricket/india-tour-of-new-zealand-2026/story/watch-rishabh-pant-plays-under-new-name-for-shorthanded-nz-local-team-slams-21-ball-54-ahead-of-2nd-test-abste-3564606-2026-11-26"
+          ],
+          [
+            "The Australia Today · Rishabh Pant’s secret identity, “Stan Stan”, revealed after he smashes 54 runs in Christchurch club match",
+            "https://theaustraliatoday.com.au/indian-wicketkeeper-batter-rishabh-pant-surprises-christchurch-cricketers-with-54-run-blitz-in-local-club-match"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three names from the race to run the European Central Bank. Find their partners.",
+        "pairs": [
+          [
+            "Pablo Hernández de Cos",
+            "The Spanish economist backed by eurozone leaders to be the next president"
+          ],
+          [
+            "Christine Lagarde",
+            "The current president, who is stepping down in February 2027, months before her term ends"
+          ],
+          [
+            "Klaas Knot",
+            "The former head of the Dutch central bank, who was the other candidate"
+          ]
+        ],
+        "why": "The pairs are: Pablo Hernández de Cos – the next president; Christine Lagarde – the president who is leaving early; Klaas Knot – the rival candidate. The European Central Bank (ECB), based in Frankfurt, sets interest rates for the 21 countries that use the euro, which affects how much people pay on loans and mortgages. On Thursday 26 November eurozone leaders meeting in Brussels gave their backing to Hernández de Cos, a former governor of the Bank of Spain who now runs the Bank for International Settlements (a “bank for central banks”), over Knot. A few formal steps remain, including consulting the European Parliament, before he takes over from Lagarde.",
+        "sources": [
+          [
+            "CNBC · Pablo Hernández de Cos set to succeed Lagarde as ECB president",
+            "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
+          ],
+          [
+            "AFP (via France 24) · Spain’s Pablo Hernandez de Cos to succeed Lagarde as ECB chief",
+            "https://www.france24.com/en/live-news/20261126-spain-s-pablo-hernandez-de-cos-to-succeed-lagarde-as-ecb-chief"
+          ],
+          [
+            "Euronews (via Yahoo Finance) · Eurozone leaders back Hernández de Cos to succeed Lagarde at ECB",
+            "https://au.finance.yahoo.com/news/eurozone-leaders-back-hern-ndez-141857617.html"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "A general election held on 7 November, but the final result took three weeks",
+          "Votes counted last, such as those sent from overseas, left the governing coalition one seat short of a majority",
+          "A centrist party that is brand new to parliament now holds the key to who governs"
+        ],
+        "options": [
+          "New Zealand’s government loses its majority in the final count",
+          "Australia’s prime minister calls a surprise new election",
+          "Canada’s opposition wins a landslide victory",
+          "Japan’s parliament votes to change its constitution"
+        ],
+        "correct": 0,
+        "why": "It was: New Zealand’s government losing its majority in the final count. On election night the three-party coalition led by Prime Minister Christopher Luxon looked set to keep a slim majority, but New Zealand counts “special votes” (such as those cast overseas) afterwards, and the official result on Friday 27 November gave the coalition 65 of the 130 seats – one short of the 66 needed. The Opportunity party, a centrist newcomer with seven seats, is now the “kingmaker”: Luxon needs its support to stay in power. Talks could take weeks, and if no deal is reached the country could even hold another election. None of the other options happened.",
+        "sources": [
+          [
+            "AFP (via France 24) · New Zealand PM Luxon loses majority, centrists now kingmakers",
+            "https://www.france24.com/en/live-news/20261126-new-zealand-heads-for-weeks-of-wrangling-with-final-election-results-due"
+          ],
+          [
+            "ABC News Australia · New Zealand’s incumbent government fails to secure majority from election result",
+            "https://www.abc.net.au/news/2026-11-27/official-results-of-new-zealand-s-national-election-announced/107434326"
+          ],
+          [
+            "Euronews · New Zealand’s final vote count leaves PM Luxon at a newcomer’s mercy",
+            "https://www.euronews.com/2026/11/27/new-zealand-election-newcomer-centrist-party-holds-the-key-as-luxon-scrambles-for-a-majori"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "Spain goes to the polls today: put these in order, earliest first.",
+        "items": [
+          "Prime Minister Pedro Sánchez announces an early election in a TV address",
+          "Spaniards vote in the early general election",
+          "The dictatorship of General Francisco Franco comes to an end",
+          "Parliament votes down the government’s plans to tackle high housing costs"
+        ],
+        "correctOrder": [
+          2,
+          3,
+          0,
+          1
+        ],
+        "why": "The right order is: Franco’s dictatorship ends (1975), then parliament rejects the housing plans (Friday 2 October 2026), then Sánchez calls the early election (Monday 5 October), then Spain votes (today, Sunday 29 November). Housing has become a huge issue in Spain, with rents rising fast and big street protests. When parliament threw out his government’s housing measures, Sánchez, who leads a minority government, said he needed a bigger majority and called the vote early. Polls before the vote put the conservative People’s Party ahead, and the far-right Vox party could enter government for the first time since the dictatorship ended – which is why 1975 comes up so often in coverage.",
+        "sources": [
+          [
+            "Al Jazeera · Spain’s Pedro Sanchez announces snap election amid housing crisis",
+            "https://aljazeera.com/news/2026/10/5/spanish-prime-minister-pedro-sanchez-announces-snap-election"
+          ],
+          [
+            "Reuters (via Khaleej Times) · Spanish Prime Minister Pedro Sanchez calls snap election for November 29",
+            "https://www.khaleejtimes.com/world/europe/spain-pm-pedro-sanchez-early-elections-november-29-2026"
+          ],
+          [
+            "France 24 · Housing crisis on the ballot: Anger boils over ahead of Spanish election",
+            "https://www.france24.com/en/tv-shows/focus/20261126-housing-crisis-on-the-ballot-anger-boils-over-ahead-of-spanish-election"
+          ],
+          [
+            "La Moncloa (Government of Spain) · Pedro Sánchez announces the calling of general elections for November 29th",
+            "https://www.lamoncloa.gob.es/lang/en/presidente/news/Paginas/2026/20261005-institutional-statement.aspx"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "On Wednesday 25 November an EU court ruled that the European Commission had broken its obligations over a promise it made about farm animals. What must the Commission now do?",
+        "options": [
+          "Set out a new timetable for its promised law to end keeping farm animals in cages",
+          "Ban all meat imports from outside Europe",
+          "Close every large farm in the EU by 2027",
+          "Pay farmers to keep more animals indoors"
+        ],
+        "correct": 0,
+        "why": "It must set out a new timetable for its promised law to end keeping farm animals in cages. The case was brought by the organisers of “End the Cage Age”, a European Citizens’ Initiative – a petition that, once it has a million signatures from across the EU, the Commission (the EU’s executive) must formally answer. The Commission said it intended to propose a law to phase out cages for animals such as hens, pigs and rabbits, but missed its own deadline and gave no new date. The General Court in Luxembourg said that, as long as it still plans to act, it must keep citizens informed with an up-to-date timeline. The ruling does not itself ban cages.",
+        "sources": [
+          [
+            "Court of Justice of the European Union · Press release No 171/2026: Judgment of the General Court in Case T-151/24, End the Cage Age v Commission",
+            "https://curia.europa.eu/jcms/jcms/Jo2_7052/en/"
+          ],
+          [
+            "Euronews · Is Europe finally getting closer to banning caged farm animals?",
+            "https://www.euronews.com/green/2026/11/25/historic-victory-caged-farm-animals-could-be-banned-in-the-eu-after-landmark-court-ruling"
+          ],
+          [
+            "Eunews · EU General Court rules against the Commission: publish a timeline for legislation to end the use of animal cages",
+            "https://www.eunews.it/en/2026/11/25/eu-general-court-rules-against-the-commission-publish-a-timeline-for-legislation-to-end-the-use-of-animal-cages/"
+          ]
+        ]
+      }
+    ]
   }
 ]
