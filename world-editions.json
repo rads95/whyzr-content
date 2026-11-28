@@ -7882,5 +7882,167 @@
         ]
       }
     ]
+  },
+  {
+    "id": "069",
+    "published": "2026-11-30",
+    "title": "Poutine for an astronaut, a fatberg on show and Messi’s early exit",
+    "games": [
+      {
+        "type": "fact",
+        "label": "REAL OR A REACH?",
+        "title": "Is this true?",
+        "claim": "Canada’s space agency is sending a freeze-dried poutine – the Canadian dish of fries, gravy and cheese curds, but made with no meat or dairy at all – up to its astronaut on the International Space Station.",
+        "options": [
+          "Yes — that is true",
+          "No — that is made up"
+        ],
+        "correct": 0,
+        "why": "Yes, this is true. On Friday 27 November the Canadian Space Agency announced a “space vegan poutine” as a special treat for Canadian astronaut Joshua Kutryk, who has been living on the International Space Station since 1 October. It was created by Quebec chef Yves Lowe, head chef at the Bell Centre, home of the Montreal Canadiens ice hockey team, and uses tofu “cheese curds” instead of real cheese, because food sent to the station has to follow strict rules and leaving out meat and dairy makes it quicker to ship. It is freeze-dried so it can be rehydrated and reheated in orbit, and it is packed with herbs and spices because astronauts’ sense of taste is dulled in space. It was due to launch on Sunday 29 November from Florida on a Cygnus cargo ship, arriving at the station around 1 December.",
+        "sources": [
+          [
+            "AFP (via CP24) · Freeze-dried poutine headed for International Space Station",
+            "https://www.cp24.com/news/canada/2026/11/27/freeze-dried-poutine-headed-for-international-space-station/"
+          ],
+          [
+            "Canadian Space Agency · Delicious Canadian food is going to space",
+            "https://www.asc-csa.gc.ca/eng/news/articles/2026/2026-11-27-delicious-canadian-food-is-going-to-space.asp"
+          ],
+          [
+            "NHL.com (Montreal Canadiens) · Bell Centre poutine goes to space",
+            "https://www.nhl.com/canadiens/news/bell-centre-poutine-goes-to-space"
+          ]
+        ]
+      },
+      {
+        "type": "match",
+        "label": "MAKE THE CONNECTION",
+        "title": "Three star objects from London’s new museum, which opened on Saturday 28 November. Find their partners.",
+        "pairs": [
+          [
+            "The Whitechapel fatberg",
+            "A chunk of a giant lump of hardened fat, oil and wet wipes found blocking a London sewer in 2017"
+          ],
+          [
+            "The Lord Mayor’s State Coach",
+            "A gilded horse-drawn carriage used by the Lord Mayor of the City of London"
+          ],
+          [
+            "The Cheapside Hoard",
+            "A 17th-century treasure of gold and gemstones, found in 1912"
+          ]
+        ],
+        "why": "The pairs are: the Whitechapel fatberg – the lump from a sewer; the Lord Mayor’s State Coach – the gilded carriage; the Cheapside Hoard – the 17th-century treasure. They are among the highlights of the London Museum, which opened on Saturday 28 November in Smithfield’s General Market, a Victorian building from 1883 that was part of London’s famous meat market. The move took about ten years and cost £437 million, and it replaces the old Museum of London, which closed in 2022. The museum calls itself the world’s largest city museum, and its permanent galleries are free to visit.",
+        "sources": [
+          [
+            "AP (via WHEC) · A huge new London Museum tells the city’s story from the Romans to Banksy",
+            "https://www.whec.com/ap-top-news/a-huge-new-london-museum-tells-the-citys-story-from-the-romans-to-banksy/"
+          ],
+          [
+            "London Museum · London Museum in Smithfield will open its doors on 28 November 2026",
+            "https://www.londonmuseum.org.uk/about/press/press-releases/london-museum-smithfield-will-open-doors/"
+          ],
+          [
+            "Euronews · New Britannia: London Museum reopens at historic Victorian meat market",
+            "https://www.euronews.com/2026/11/27/colourful-and-complicated-new-london-museum-promises-to-show-city-in-all-its-glory"
+          ]
+        ]
+      },
+      {
+        "type": "clues",
+        "label": "THREE CLUES, ONE STORY",
+        "title": "What connects these three clues?",
+        "clues": [
+          "The end-of-season knockout playoffs of North America’s top football (soccer) league",
+          "A team seeded seventh beats the second seed in both games of a best-of-three series",
+          "The losing side were the defending champions, captained by a 39-year-old Argentine superstar"
+        ],
+        "options": [
+          "Lionel Messi’s Inter Miami are knocked out of the MLS Cup playoffs",
+          "Cristiano Ronaldo’s Al Nassr win the Saudi league title",
+          "Argentina are knocked out of the Copa América",
+          "Real Madrid lose a Champions League final"
+        ],
+        "correct": 0,
+        "why": "It was: Lionel Messi’s Inter Miami being knocked out of the MLS Cup playoffs. MLS (Major League Soccer) is the top league in the United States and Canada, and its season ends with knockout playoffs. Inter Miami, last year’s champions, lost the first game of their first-round series 3–0 at home to Columbus Crew, then lost 1–0 in Columbus on Friday 27 November, when Santiago Rodríguez scored two minutes into stoppage time. That ended their title defence early, even though Messi had been the league’s top scorer this season with 26 goals. The other options are about different teams and did not happen.",
+        "sources": [
+          [
+            "Reuters (via WBOW) · Columbus knock out Messi’s Inter Miami with stoppage-time winner",
+            "https://1027wbow.com/2026/11/27/soccer-columbus-knock-out-messis-inter-miami-with-stoppage-time-winner/"
+          ],
+          [
+            "AP (via Fox Sports) · Lionel Messi, Inter Miami eliminated in first round of MLS playoffs by Columbus Crew",
+            "https://www.foxsports.com/stories/soccer/lionel-messi-inter-miami-eliminated-first-round-mls-playoffs-columbus-crew"
+          ],
+          [
+            "AFP (via France 24) · Messi’s defending champions Miami knocked out of MLS Cup playoffs",
+            "https://www.france24.com/en/live-news/20261128-messi-s-defending-champions-miami-knocked-out-of-mls-cup-playoffs"
+          ]
+        ]
+      },
+      {
+        "type": "order",
+        "label": "WHAT CHANGED FIRST?",
+        "title": "Europe’s Euclid telescope has spotted the most distant quasar ever found. Put these in order, earliest first.",
+        "items": [
+          "Europe’s Euclid space telescope is launched",
+          "The Sun and Earth form",
+          "The Big Bang, the beginning of the universe",
+          "The newly found quasar gives off the light that Euclid has just seen"
+        ],
+        "correctOrder": [
+          2,
+          3,
+          1,
+          0
+        ],
+        "why": "The right order is: the Big Bang, then the quasar gives off its light (about 630 million years after the Big Bang), then the Sun and Earth form (about 4.5 billion years ago), then Euclid is launched (2023). A quasar is the extremely bright centre of a young galaxy, where a giant black hole pulls in gas that heats up and glows. Light takes time to cross space, so looking very far away means looking back in time: we see this quasar, nicknamed Dún Aonghasa after an ancient stone fort in Ireland, as it was when the universe was very young – long before the Earth existed. Reported on 24 November, it beats the previous record by about 40 million years, and the James Webb Space Telescope found its black hole is about 360 million times as heavy as the Sun.",
+        "sources": [
+          [
+            "Euronews · Scientists discover quasar formed 630 million years after the Big Bang",
+            "https://www.euronews.com/2026/11/24/scientists-discover-quasar-formed-630-million-years-after-the-big-bang"
+          ],
+          [
+            "Space.com · Astronomers discover the most distant and ancient supermassive black hole-powered quasar in the universe",
+            "https://www.space.com/astronomy/black-holes/dark-universe-detective-telescope-discovers-most-distant-and-ancient-supermassive-black-hole-powered-quasar"
+          ],
+          [
+            "Nature World News · Euclid and Webb confirm the most distant quasar yet, 630 million years after the Big Bang",
+            "https://www.natureworldnews.com/articles/74043/20261124/euclid-webb-confirm-most-distant-quasar-yet-630-million-years-after-big-bang.htm"
+          ],
+          [
+            "NASA · Earth: facts (Earth formed about 4.5 billion years ago)",
+            "https://science.nasa.gov/earth/facts/"
+          ]
+        ]
+      },
+      {
+        "type": "choice",
+        "label": "THE BIGGER PICTURE",
+        "title": "On Friday 27 November the ratings agency S&P kept France’s credit rating at A+ but changed its “outlook” from stable to negative. What does that mean?",
+        "options": [
+          "It is a warning that France’s rating could be lowered in the future",
+          "France must pay back all its debts at once",
+          "France’s rating has been cut to the lowest possible grade",
+          "France has to stop using the euro"
+        ],
+        "correct": 0,
+        "why": "It is a warning that France’s rating could be lowered in the future. A credit rating is like a school grade for how safely a country can repay the money it borrows; A+ is still a good grade, and S&P left it unchanged. Changing the outlook to “negative” means S&P thinks a downgrade is possible over the medium term. It pointed to bigger budget deficits than expected (the government spending more than it collects), weak growth, rising interest costs and political divisions that could last beyond the 2027 presidential election. Official figures also showed France’s economy shrank in the third quarter, putting it in a “technical recession”.",
+        "sources": [
+          [
+            "AFP (via France 24) · S&P revises France’s outlook from “stable” to “negative”",
+            "https://www.france24.com/en/france/20261127-s-p-revises-france-s-outlook-from-stable-to-negative"
+          ],
+          [
+            "Reuters (via AOL) · S&P cuts France outlook to negative on budget, politics",
+            "https://www.aol.com/articles/p-revises-france-outlook-negative-212701000.html"
+          ],
+          [
+            "Xinhua · S&P affirms France’s sovereign credit rating, revises outlook to negative",
+            "https://english.news.cn/20261128/9ac964a5065c4291b6f56852f2c45639/c.html"
+          ]
+        ]
+      }
+    ]
   }
 ]
