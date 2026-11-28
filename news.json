@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-28T01:55:00Z",
+ "updated": "2026-11-28T07:46:00Z",
  "items": [
+  {
+   "section": "climate",
+   "serious": true,
+   "developing": true,
+   "published": "2026-11-28T02:05:00Z",
+   "title": "El Niño floods kill 34 in Ecuador and swamp Peru's Piura",
+   "why": "Ecuador's risk management agency said on Friday that rains linked to El Niño have killed 34 people and left about 47,000 homeless or affected since late August. In northern Peru, waist-high water filled the streets of Piura after 12 hours of rain, affecting about 2,000 families, civil defence officials say.",
+   "matters": "Forecasters expect this El Niño to be one of the strongest on record, bringing more heavy rain.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20261128-el-nino-linked-deluges-flood-cities-in-peru-ecuador"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/28/el-nino-linked-deluges-flood-cities-in-peru-ecuador"
+    },
+    {
+     "name": "El Tiempo",
+     "url": "https://eltiempo.com/mundo/latinoamerica/inundaciones-por-el-fenomeno-del-nino-ya-dejan-34-muertos-y-cerca-de-47-000-damnificados-en-ecuador-3604999"
+    }
+   ]
+  },
   {
    "section": "world",
    "developing": true,
@@ -24,6 +47,77 @@
    ]
   },
   {
+   "section": "tech",
+   "published": "2026-11-27T23:00:00Z",
+   "title": "OpenAI countersues Apple, accusing it of taking trade secrets",
+   "why": "OpenAI filed counterclaims against Apple in a California federal court on Friday, saying Apple took OpenAI secrets through a former employee and pressured shared suppliers to slow its move into devices. Apple, which sued OpenAI earlier this year over alleged theft of its own secrets, calls the countersuit a distraction.",
+   "matters": "The two firms are partners on ChatGPT in iPhones but are becoming rivals in AI-powered gadgets.",
+   "sources": [
+    {
+     "name": "Reuters (via Al Jazeera)",
+     "url": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up"
+    },
+    {
+     "name": "AFP (via Arab News)",
+     "url": "https://www.arabnews.com/world/openai-countersues-apple-in-row-over-trade-secrets-suppliers-3014328"
+    },
+    {
+     "name": "Anadolu Agency",
+     "url": "https://www.aa.com.tr/en/science-technology/openai-files-countersuit-against-apple-in-dispute-over-alleged-trade-secret-theft/4141145"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "developing": true,
+   "changed": "Updated: an Israeli strike hit a Doctors Without Borders clinic",
+   "published": "2026-11-27T19:00:00Z",
+   "title": "Israeli strike on Gaza clinic kills two Doctors Without Borders guards",
+   "why": "Doctors Without Borders (MSF) says an Israeli strike on its clinic in Gaza City on Friday evening killed two of its guards, bringing its staff killed in Gaza to 17. Israel's army says both men were Hamas members. The WHO chief called the attack 'outrageous and unacceptable'.",
+   "matters": "Strikes continue despite the October 2025 ceasefire, and Israel threatens a wider offensive unless Hamas disarms.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff"
+    },
+    {
+     "name": "Anadolu Agency",
+     "url": "https://www.aa.com.tr/en/middle-east/doctors-without-borders-denounces-israeli-strike-on-gaza-clinic/4141089"
+    },
+    {
+     "name": "RTÉ (AFP)",
+     "url": "https://www.rte.ie/news/middle-east/2026/1128/1600979-israeli-strike-gaza/"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/middle-east/20261126-israel-threatens-to-displace-one-million-palestinians-in-gaza-unless-hamas-disarms"
+    }
+   ]
+  },
+  {
+   "section": "health",
+   "serious": true,
+   "published": "2026-11-27T17:02:00Z",
+   "title": "Uganda starts Africa's first mRNA vaccine trial against Ebola strain",
+   "why": "The Uganda Virus Research Institute and Moderna began Africa's first trial of an mRNA vaccine against the Bundibugyo strain of Ebola on Friday. About 224 volunteers aged one to 65 will take part. No vaccine is approved for this strain, which is behind Congo's outbreak.",
+   "matters": "A working vaccine could help stop an outbreak that has killed more than 5,000 people in neighbouring Congo.",
+   "sources": [
+    {
+     "name": "Reuters (via CP24)",
+     "url": "https://www.cp24.com/news/world/2026/11/27/uganda-launches-africas-first-trial-of-an-mrna-bundibugyo-ebola-vaccine/"
+    },
+    {
+     "name": "AFP (via Euronews)",
+     "url": "https://www.euronews.com/2026/11/27/uganda-begins-africas-first-mrna-ebola-vaccine-trial"
+    },
+    {
+     "name": "Bernama (Xinhua)",
+     "url": "https://www.bernama.com/en/world/news.php?id=2640639"
+    }
+   ]
+  },
+  {
    "section": "world",
    "published": "2026-11-27T14:45:00Z",
    "title": "Canada's Supreme Court largely upholds Quebec's religious symbols ban",
@@ -41,6 +135,26 @@
     {
      "name": "CTV News",
      "url": "https://www.ctvnews.ca/montreal/article/supreme-court-of-canada-upholds-quebecs-secularism-law/"
+    }
+   ]
+  },
+  {
+   "section": "sport",
+   "published": "2026-11-27T11:00:00Z",
+   "title": "Overton takes five as England bowl Australia out for 108",
+   "why": "Jamie Overton took five wickets for 12 runs as England dismissed Australia for 108, their lowest T20 international total at home, at the Gabba in Brisbane on Friday. England won by seven wickets in a rain-shortened chase to lead the five-match series 2-1.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/sports/2026/11/27/englands-overton-takes-5-12-as-australia-bowled-out-for-record-low-in-t20"
+    },
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/cricket/news/13617112/jamie-overton-how-englands-outstanding-all-rounder-went-back-to-basics-to-deliver-five-wicket-haul-and-big-win"
+    },
+    {
+     "name": "Yahoo Sports",
+     "url": "https://sports.yahoo.com/cricket/articles/jamie-overton-runs-riot-five-161000534.html"
     }
    ]
   },
@@ -112,6 +226,67 @@
   },
   {
    "section": "world",
+   "serious": true,
+   "published": "2026-11-27T09:00:00Z",
+   "title": "At least 13 soldiers killed in attack on army post in Niger",
+   "why": "At least 13 National Guard members were killed and 20 wounded in an attack on their post at Sanam in western Niger, near the border with Mali, on Thursday, Niger's defence ministry says. The Islamic State group claimed responsibility, Reuters reports. Two days earlier, 11 soldiers died in the south-east.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack"
+    },
+    {
+     "name": "Reuters (via Arab News)",
+     "url": "https://www.arabnews.com/world/thirteen-soldiers-killed-in-southwest-niger-in-attack-claimed-by-daesh-3014313"
+    },
+    {
+     "name": "ActuNiger",
+     "url": "https://www.actuniger.com/societe/niger-13-soldats-tues-dans-une-nouvelle-attaque-terroriste-a-sanam-tillaberi.html"
+    }
+   ]
+  },
+  {
+   "section": "climate",
+   "published": "2026-11-27T07:14:00Z",
+   "title": "Thanksgiving storm cuts power to 900,000 and delays Macy's parade",
+   "why": "A storm along the US East Coast cut power to more than 900,000 homes and businesses at its peak on Thursday, the Thanksgiving holiday, tracking site poweroutage.us says. New York's Macy's Thanksgiving Day Parade was postponed to Saturday, the first weather postponement in its history.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/americas/20261127-almost-a-million-americans-left-without-power-on-thanksgiving-as-storm-sweeps-east-coast"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/28/parts-of-us-clean-up-after-thanksgiving-storm-lashes-east-coast"
+    },
+    {
+     "name": "AP (via Arab News)",
+     "url": "https://www.arabnews.com/world/parts-of-the-us-clean-up-power-being-restored-after-thanksgiving-storm-soaks-east-coast-3014327"
+    }
+   ]
+  },
+  {
+   "section": "curious",
+   "published": "2026-11-27T06:00:00Z",
+   "title": "India's Rishabh Pant plays New Zealand park cricket as 'Stan Stan'",
+   "why": "India wicketkeeper Rishabh Pant joined a social eight-a-side match in Christchurch, New Zealand, on Wednesday as 'Stan Stan', after a local player spotted him on an electric bike and asked him to fill in. He hit a rapid half-century with a borrowed bat; opponents did not recognise him.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/sports/2026/11/27/indias-pant-plays-for-new-zealand-side-under-false-name-stan-stan"
+    },
+    {
+     "name": "Reuters (via The Tribune)",
+     "url": "https://www.tribuneindia.com/news/cricket/stan-stan-was-rishabh-pant-all-along-india-star-smashes-72-off-26-balls-in-secret-christchurch-outing"
+    },
+    {
+     "name": "NZ Herald",
+     "url": "https://www.nzherald.co.nz/nz/indian-cricket-star-rishabh-pant-fills-in-for-christchurch-social-team/S6LM6DP3ZJH23OONQ2FTPAGA64/"
+    }
+   ]
+  },
+  {
+   "section": "world",
    "published": "2026-11-27T01:18:00Z",
    "title": "New Zealand's governing coalition falls one seat short in final count",
    "why": "Final results released on Friday give Prime Minister Christopher Luxon's three-party coalition 65 of 130 seats, one short of a majority, after special votes moved two seats. The centrist Opportunity party, with seven seats, now holds the balance of power.",
@@ -153,6 +328,27 @@
     {
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-26T22:00:00Z",
+   "title": "Venezuela to repeal law used to ban opponents from office",
+   "why": "National Assembly leader Jorge Rodríguez said on Thursday that lawmakers will begin repealing the 2024 'Simón Bolívar' law on 1 December. It sets prison terms of up to 30 years and long bans from office for anyone backing foreign sanctions on Venezuela. Rights groups call it a tool against dissent.",
+   "matters": "The move is part of talks between the government and part of the opposition.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office"
+    },
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/venezuela/2026/11/27/chavismo-resuelve-derogar-norma-que-imponia-30-anos-de-carcel-a-quien-apoyara-las-sanciones-internacionales/"
+    },
+    {
+     "name": "EFE (via Telemundo 51)",
+     "url": "https://www.telemundo51.com/noticias/local/asamblea-nacional-venezolana-busca-derogar-ley-que-castiga-a-quienes-pidan-sanciones-contra-el-pais/2854771/"
     }
    ]
   },
@@ -265,10 +461,10 @@
    "section": "world",
    "serious": true,
    "developing": true,
-   "changed": "Updated: two of the injured Italians have died, and Iran denies involvement",
+   "changed": "Updated: Italy says the drone was made in Iran",
    "published": "2026-11-26T12:30:00Z",
    "title": "Two Italian technicians killed in drone attack in Kuwait",
-   "why": "Two Italian technicians working for Rheinmetall Italia died after drones hit an air-defence surveillance site in Kuwait on Thursday, Kuwait's defence ministry and Italy say. Kuwait and Italy blame Iran. Iran's foreign minister denies any role and offers a joint investigation.",
+   "why": "Two Italian technicians working for Rheinmetall Italia died after drones hit an air-defence site in Kuwait on Thursday. Italy's foreign minister, Antonio Tajani, says Kuwaiti investigators found the drone was made in Iran. Iran denies launching it and has offered a joint inquiry.",
    "matters": "Italy plans a formal complaint to Iran, drawing a European country further into the Gulf conflict.",
    "sources": [
     {
@@ -281,11 +477,11 @@
     },
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious"
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran"
     },
     {
      "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh"
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious"
     }
    ]
   },
@@ -355,10 +551,18 @@
    "section": "world",
    "developing": true,
    "published": "2026-11-26T10:20:00Z",
-   "title": "Iran's Revolutionary Guards say two oil tankers hit mines near Hormuz",
-   "why": "Iran's Revolutionary Guards said on Thursday that two tankers, one carrying over two million barrels of crude, hit mines and caught fire north of Oman's port of Khasab. The claim is unconfirmed. Britain's UKMTO separately reported a projectile exploding near a tanker off Dubai.",
+   "title": "US disables cargo ship near Hormuz as Iran claims tanker mine strikes",
+   "why": "US Central Command says its aircraft disabled the Palau-flagged cargo ship Pacific Archer in the Gulf of Oman on Thursday after it left Iran's Bandar Abbas port; the crew was unharmed. Iran's Revolutionary Guards say tankers hit mines near Hormuz, claims that cannot be verified.",
    "matters": "Attacks on ships in the Strait of Hormuz, a key oil route, can push up fuel prices worldwide.",
    "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/28/us-military-fires-at-a-ship-that-violated-blockade-of-iranian-ports"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade"
+    },
     {
      "name": "Reuters (via Arab News)",
      "url": "https://www.arabnews.com/middle-east/irans-revolutionary-guards-say-two-oil-tankers-hit-sea-mines-near-omans-khasab-3014111"
@@ -371,7 +575,8 @@
      "name": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious"
     }
-   ]
+   ],
+   "changed": "Updated: the US says it disabled a ship that left an Iranian port"
   },
   {
    "section": "world",
@@ -435,47 +640,6 @@
     {
      "name": "UPI",
      "url": "https://www.upi.com/Top_News/World-News/2026/11/26/congo-Ebola-cases-pass-12000-deaths-rise-5900/4401795716147"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-26T07:45:00Z",
-   "title": "Explosion and fire at Bangkok oil refinery injure at least seven",
-   "why": "An explosion at Bangchak Corporation's Phra Khanong refinery in eastern Bangkok, Thailand, at about 2:45pm local time on Thursday started a fire the company says was out within 30 minutes. Bangkok's emergency medical centre says at least seven people were hurt, four critically. The cause is being investigated.",
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/asia-pacific/20261126-huge-explosion-at-oil-depot-in-bangkok-sends-fireball-into-sky"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/video/2026/11/26/flames-and-thick-smoke-billow-from-bangkok-oil-facility-after-massive-explosion"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-26T03:00:00Z",
-   "title": "LeBron James breaks his own record for oldest NBA triple-double",
-   "why": "LeBron James, who turns 42 next month, had 25 points, 12 assists and 10 rebounds as the Philadelphia 76ers beat the Miami Heat 111-104 in the NBA Cup on Wednesday. It was his first triple-double for Philadelphia, which he joined from the Los Angeles Lakers before this season.",
-   "sources": [
-    {
-     "name": "NBA",
-     "url": "https://www.nba.com/news/lebron-james-nets-first-triple-double-with-76ers-in-win-over-heat"
-    },
-    {
-     "name": "AP (via ClickOnDetroit)",
-     "url": "https://www.clickondetroit.com/sports/2026/11/26/lebron-james-has-his-1st-triple-double-for-the-76ers-in-a-win-over-the-heat/"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/sports/2026/11/26/lebron-james-nba-oldest-player-triple-double-philadelphia-76ers"
     }
    ]
   },
@@ -567,57 +731,6 @@
     {
      "name": "France 24 (AFP)",
      "url": "https://www.france24.com/en/live-news/20261125-houthis-say-hit-two-saudi-ports-in-response-to-coalition-strikes"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "developing": true,
-   "changed": "Updated: new strikes and an Israeli threat of a wider offensive",
-   "published": "2026-11-24T12:00:00Z",
-   "title": "Israel threatens wider Gaza offensive as strikes kill at least eight",
-   "why": "Israeli strikes killed at least eight people in Gaza overnight into Thursday, including Hamas-appointed deputy education minister Khaled Abu Nada and his wife, medics say. Defence Minister Israel Katz said that unless Hamas disarms, the army will disarm it, including by moving another million Gaza residents south.",
-   "matters": "It puts further strain on the ceasefire agreed in October 2025.",
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/middle-east/20261126-israel-threatens-to-displace-one-million-palestinians-in-gaza-unless-hamas-disarms"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people"
-    },
-    {
-     "name": "RTÉ",
-     "url": "https://www.rte.ie/news/world/2026/1126/1600737-nine-killed-gaza-abu-nada/"
-    },
-    {
-     "name": "LaPresse",
-     "url": "https://uk.lapresse.it/world-en/2026/11/26/katz-hamas-must-demilitarise-gaza-or-we-will-intervene-and-evacuate-1-million-people/"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "developing": true,
-   "changed": "Updated: border closures began and Kurds protested in Erbil",
-   "published": "2026-11-24T08:00:00Z",
-   "title": "Baghdad starts closing Kurdish border crossings after top court ruling",
-   "why": "Iraq's top court on Wednesday backed federal control of all borders, including in the Kurdish region, and of oil and gas fields. On Thursday border forces began closing unofficial crossings, thousands protested in Erbil and Kurdish leaders rejected central rule. National talks are set for 1 December.",
-   "matters": "Control of oil and its income has long divided Baghdad and the Kurdish region; this could deepen the dispute.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/26/iraq-denies-reports-of-troop-movements-towards-kurdish-region"
-    },
-    {
-     "name": "Rudaw",
-     "url": "https://www.rudaw.net/english/categories/iraq/1080314"
-    },
-    {
-     "name": "Arab News (Reuters)",
-     "url": "https://www.arabnews.com/middle-east/iraqs-top-court-says-baghdad-can-deploy-troops-to-secure-borders-in-kurdistan-region-state-tv-reports-3013986"
     }
    ]
   }
