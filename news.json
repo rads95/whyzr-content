@@ -1,6 +1,93 @@
 {
- "updated": "2026-11-27T13:45:00Z",
+ "updated": "2026-11-28T01:55:00Z",
  "items": [
+  {
+   "section": "world",
+   "developing": true,
+   "published": "2026-11-28T00:00:00Z",
+   "title": "Taiwan votes in local elections and a referendum on nuclear power",
+   "why": "Polls opened on Saturday for about 19.6 million voters to choose more than 11,000 local posts, including mayors of Taiwan's six largest cities. A separate referendum asks whether to drop the 'nuclear-free homeland' policy; Taiwan shut its last reactor in May 2025.",
+   "matters": "Chip and AI factories need more power; the result also tests the parties before the 2028 national elections.",
+   "sources": [
+    {
+     "name": "Focus Taiwan (CNA)",
+     "url": "https://focustaiwan.tw/politics/202611280002"
+    },
+    {
+     "name": "Anadolu Agency",
+     "url": "https://www.aa.com.tr/en/asia-pacific/taiwan-holds-local-elections-referendum-on-nuclear-energy/4141091"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "published": "2026-11-27T14:45:00Z",
+   "title": "Canada's Supreme Court largely upholds Quebec's religious symbols ban",
+   "why": "Canada's top court on Friday largely upheld Quebec's 2019 secularism law, which bars teachers, police officers and some other public workers from wearing religious symbols at work. Six of seven judges said Quebec lawfully used the Charter's 'notwithstanding clause'; three judges said the law breaches religious freedom.",
+   "matters": "Quebec's premier called it a victory; Muslim and civil liberties groups criticised the ruling and vow to keep challenging it.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban"
+    },
+    {
+     "name": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/canada/article-supreme-court-upholds-quebec-bill-21-charter-of-rights/"
+    },
+    {
+     "name": "CTV News",
+     "url": "https://www.ctvnews.ca/montreal/article/supreme-court-of-canada-upholds-quebecs-secularism-law/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-27T10:30:00Z",
+   "title": "Bodies found on migrant boat off Spain's Canary Islands",
+   "why": "Spain's maritime rescue service said eight to ten people were found dead on a boat carrying about 100 people, 72km south of El Hierro, on Friday; Spanish media later reported 14 dead. Six were flown to hospital in serious condition. The boat had left Gambia ten days earlier.",
+   "matters": "Arrivals in the Canary Islands have surged since October, and migration is a key issue in Spain's election on Sunday.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands"
+    },
+    {
+     "name": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/fourteen-found-dead-on-migrant-boat-off-spains-canary-islands/3111485/"
+    },
+    {
+     "name": "Canarias7",
+     "url": "https://www.canarias7.es/politica/evacuan-urgencia-helicoptero-cinco-ocupantes-cayuco-kilometros-20261127103155-nt.html"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "serious": true,
+   "published": "2026-11-27T10:00:00Z",
+   "title": "Kenyan cult leader Paul Mackenzie convicted of manslaughter over 123 deaths",
+   "why": "A court in Mombasa, Kenya, on Friday convicted preacher Paul Mackenzie of manslaughter over the deaths of 123 followers in Shakahola Forest, where he told them to fast to death. He is already serving 200 years for the murder of 191 people, almost all children. His lawyer plans to appeal.",
+   "matters": "Authorities have recovered more than 400 bodies at Shakahola, prompting calls for closer oversight of religious groups.",
+   "sources": [
+    {
+     "name": "Reuters (via KELO)",
+     "url": "https://kelo.com/2026/11/27/kenyan-starvation-cult-leader-guilty-of-manslaughter-for-123-deaths-in-latest-conviction/"
+    },
+    {
+     "name": "AFP (via Arab News)",
+     "url": "https://www.arabnews.com/world/kenyan-starvation-cult-leader-guilty-of-123-manslaughter-deaths-3014275"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths"
+    }
+   ]
+  },
   {
    "section": "tech",
    "developing": true,
@@ -394,215 +481,6 @@
   },
   {
    "section": "money",
-   "published": "2026-11-26T01:00:00Z",
-   "title": "South Korea raises interest rates to 3.25% as chip exports boom",
-   "why": "The Bank of Korea raised its main interest rate by a quarter of a point to 3.25% on Thursday, its highest since October 2024. Inflation was 2.8% in October, above its 2% target. The bank raised its growth forecast for 2027 to 4.1%, helped by soaring demand for AI chips.",
-   "matters": "Higher rates make loans and mortgages dearer for South Korean households and businesses.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast"
-    },
-    {
-     "name": "Nikkei Asia",
-     "url": "https://asia.nikkei.com/economy/central-banks/bank-of-korea-hikes-rate-to-3.25-against-backdrop-of-strong-economy"
-    },
-    {
-     "name": "Korea JoongAng Daily",
-     "url": "https://www.koreajoongangdaily.com/business/bok-resumes-rate-hikes-as-inflation-persists/12992056"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "serious": true,
-   "published": "2026-11-26T00:00:00Z",
-   "title": "Tanker carrying 7,000 tonnes of diesel sinks off Spain's Ibiza",
-   "why": "The Maltese-flagged tanker Med Emre sank early on Thursday off Ibiza, in Spain's Balearic Islands, while sailing from Algeciras to Barcelona. All 17 crew were rescued, but one later died in hospital. Spain activated its marine pollution plan; officials say no pollution has been seen on the coast.",
-   "matters": "A large diesel spill could harm marine life and beaches in the Mediterranean.",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/26/vulnerable-waters-spain-scrambles-to-stop-huge-oil-spill-after-ship-sinks-near-ibiza"
-    },
-    {
-     "name": "AFP (via Free Malaysia Today)",
-     "url": "https://www.freemalaysiatoday.com/category/world/2026/11/26/ship-carrying-diesel-sinks-off-spain-s-ibiza-one-dead-rescuers"
-    },
-    {
-     "name": "Forbes España",
-     "url": "https://forbes.es/en/balearic/1073850/this-is-the-med-emre-the-chemical-tanker-that-sank-off-the-coast-of-ibiza/"
-    }
-   ]
-  },
-  {
-   "section": "health",
-   "published": "2026-11-25T23:30:00Z",
-   "title": "Large study finds ADHD drugs in pregnancy do not harm child development",
-   "why": "A study of more than 3.6 million children born in Denmark, Norway and Sweden, published in The BMJ, found no higher risk of autism, ADHD, intellectual disability or learning disorders in about 7,600 children whose mothers took ADHD medicine in pregnancy.",
-   "matters": "The researchers say worries about children's development do not justify stopping ADHD medicine in pregnancy; patients should consult their doctor.",
-   "sources": [
-    {
-     "name": "BMJ",
-     "url": "https://bmjgroup.com/adhd-meds-in-pregnancy-not-linked-to-developmental-disorders-in-children/"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/26/adhd-drugs-in-pregnancy-do-not-raise-risk-of-child-development-issues-study-finds"
-    },
-    {
-     "name": "Medical Daily",
-     "url": "https://www.medicaldaily.com/prenatal-adhd-medication-autism-adhd-study-481772"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "published": "2026-11-25T23:00:00Z",
-   "title": "Kim Jong Un calls for wider deployment of tactical nuclear weapons",
-   "why": "North Korea's leader Kim Jong Un toured nuclear material plants and a weapons research institute on Wednesday, state media KCNA reported. He said production of nuclear material is being expanded and urged deploying tactical nuclear weapons across more missions. KCNA did not say where the sites are.",
-   "matters": "Analysts say it signals North Korea will only hold talks with the US as a nuclear-armed state.",
-   "sources": [
-    {
-     "name": "Reuters (via Al Jazeera)",
-     "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes"
-    },
-    {
-     "name": "Yonhap (via Korea JoongAng Daily)",
-     "url": "https://www.koreajoongangdaily.com/korea/norths-kim-inspects-nuclear-material-sites-calls-for-broader-use-of-tactical-nukes/12991741"
-    },
-    {
-     "name": "Euronews (AP)",
-     "url": "https://euronews.com/2026/11/26/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture"
-    }
-   ]
-  },
-  {
-   "section": "culture",
-   "serious": true,
-   "published": "2026-11-25T22:30:00Z",
-   "title": "Duran Duran's original guitarist Andy Taylor dies aged 65",
-   "why": "Andy Taylor, whose guitar shaped 1980s hits such as Rio and Girls on Film, died of prostate cancer at home on Monday, his family and the band said on Wednesday. The band has sold more than 100 million records.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/culture/20261125-duran-duran-guitarist-andy-taylor-dies-aged-65"
-    },
-    {
-     "name": "RTÉ",
-     "url": "https://www.rte.ie/entertainment/2026/1125/1600695-andy-taylor-former-duran-duran-guitarist-dies-aged-65/"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-26/duran-duran-andy-taylor-dies/107428492"
-    }
-   ]
-  },
-  {
-   "section": "sport",
-   "published": "2026-11-25T22:00:00Z",
-   "title": "Roma end PSG's perfect Champions League run with 2-2 draw",
-   "why": "Donyell Malen's 78th-minute penalty earned Roma a 2-2 draw at Paris Saint-Germain on Wednesday, ending PSG's perfect start in this season's Champions League. Real Madrid are now the only side to have won all five games. Elsewhere, Lille beat Bayern Munich 2-1 and Liverpool won 3-0 at Club Brugge.",
-   "sources": [
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/sport/20261125-psg-s-perfect-champions-league-record-ends-as-roma-snatch-2-2-draw-with-late-penalty"
-    },
-    {
-     "name": "UEFA",
-     "url": "https://www.uefa.com/uefachampionsleague/news/02ab-22288f99d39c-d5631dd311d0-1000--champions-league-highlights-and-round-up-liverpool-and-bar/"
-    },
-    {
-     "name": "ESPN",
-     "url": "https://www.espn.com/soccer/report/_/gameId/401915374"
-    }
-   ]
-  },
-  {
-   "section": "money",
-   "published": "2026-11-25T21:00:00Z",
-   "title": "Musk and SpaceX pledge two SpaceX shares for each US child's account",
-   "why": "SpaceX says it will give one new share to every active 'Trump Account', the US government's savings accounts for children, and Elon Musk will personally match it. At Wednesday's closing price, the gift is worth about $18bn if all accounts qualify.",
-   "sources": [
-    {
-     "name": "SpaceX",
-     "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Invest-in-the-Next-Generation-of-Americans-2026-r_LYQ5cH94/default.aspx"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/elon-musk-spacex-shares-trump-accounts/"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/11/26/musk-pledges-two-spacex-shares-for-every-us-child"
-    }
-   ]
-  },
-  {
-   "section": "tech",
-   "published": "2026-11-25T20:00:00Z",
-   "title": "US regulator lets SpaceX launch up to a million data-centre satellites",
-   "why": "The US Federal Communications Commission on Wednesday authorised SpaceX to deploy up to one million satellites to run AI computing in orbit, a project called Starmind. The FCC called it a first. About 17,000 satellites orbit Earth today; Amazon and astronomers had opposed the plan.",
-   "matters": "Supporters say space data centres could ease demand for power on Earth; critics fear more space debris and spoiled night skies.",
-   "sources": [
-    {
-     "name": "Reuters (via Al Jazeera)",
-     "url": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres"
-    },
-    {
-     "name": "France 24 (AFP)",
-     "url": "https://www.france24.com/en/technology/20261126-us-authorizes-spacex-to-launch-up-to-one-million-satellites-for-orbital-data-centers"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
-    }
-   ]
-  },
-  {
-   "section": "world",
-   "serious": true,
-   "published": "2026-11-25T18:00:00Z",
-   "title": "Fuel truck fire kills at least 31 on highway in Greater Cairo",
-   "why": "A truck carrying petroleum products overturned and caught fire on the Ring Road in Warraq, Giza, part of Greater Cairo, on Wednesday, burning 27 vehicles. Egypt's health ministry says at least 31 people died and 21 were injured. Prosecutors have opened an investigation.",
-   "sources": [
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/africa/20261126-at-least-31-killed-in-cairo-fire-after-fuel-truck-overturns-on-busy-highway"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says"
-    },
-    {
-     "name": "AP (via WSLS)",
-     "url": "https://www.wsls.com/news/2026/11/25/a-fire-on-a-major-highway-surrounding-cairo-kills-at-least-30-people-egypts-health-ministry-says/"
-    }
-   ]
-  },
-  {
-   "section": "science",
-   "published": "2026-11-25T17:00:00Z",
-   "title": "Hera probe finds stadium-sized crater on asteroid struck by NASA",
-   "why": "New images from the European Space Agency's Hera spacecraft show that NASA's DART probe, which deliberately hit the 151-metre asteroid Dimorphos in 2022, flattened one face into a crater the size of a sports stadium. The asteroid is now tumbling, surrounded by hundreds of boulders.",
-   "matters": "The mission tests whether crashing a spacecraft into an asteroid could one day protect Earth from a dangerous impact.",
-   "sources": [
-    {
-     "name": "ESA",
-     "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-reveals-stadium-sized-asteroid-crater-left-after-spacecraft-impact"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://www.euronews.com/2026/11/25/esa-releases-first-images-showing-complete-chaos-on-asteroid-smashed-by-nasa-probe"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-26/new-photos-of-struck-asteroid-dimorphos/107428078"
-    }
-   ]
-  },
-  {
-   "section": "money",
    "lead": true,
    "developing": true,
    "changed": "Updated: China, the EU, Japan and Brazil rejected the plan",
@@ -626,78 +504,6 @@
     {
      "name": "France 24",
      "url": "https://www.france24.com/en/americas/20261126-unacceptable-major-economies-push-back-against-new-us-tariffs"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "published": "2026-11-25T15:00:00Z",
-   "title": "US Army blows up unstable lead explosives at Iowa plant",
-   "why": "The US Army detonated about five tons of degraded lead azide at the Iowa Army Ammunition Plant in Middletown on Wednesday, saying it risked exploding on its own. Environmental groups had sued over fears of toxic lead dust. Federal agencies say early air tests found no detectable lead.",
-   "matters": "Lead is harmful at any level and especially dangerous to children and pregnant women.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/25/us-army-detonates-toxic-lead-stockpile-in-iowa-amid-backlash"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261125-us-army-detonates-lead-explosives-iowa-despite-community-backlash"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/iowa-army-ammunition-plant-unstable-explosives-detonation/"
-    }
-   ]
-  },
-  {
-   "section": "climate",
-   "developing": true,
-   "changed": "Updated: outages passed 900,000 and New York and New Jersey declared emergencies",
-   "published": "2026-11-25T12:55:00Z",
-   "title": "Thanksgiving storm floods US coast and cuts power to over 900,000",
-   "why": "A powerful storm brought record flooding to parts of New Jersey's coast and left more than 900,000 homes and businesses without power on Thursday, mostly in East Coast states. New Jersey and parts of New York declared emergencies, and more than 400 flights were cancelled.",
-   "matters": "New York's 100th Macy's Thanksgiving Day Parade was moved to Saturday, its first weather delay.",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://www.cbsnews.com/news/thanksgiving-day-storm-northeast-midwest-flooding-power-outages/"
-    },
-    {
-     "name": "ABC News (US)",
-     "url": "https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273"
-    },
-    {
-     "name": "ABC Australia",
-     "url": "https://www.abc.net.au/news/2026-11-27/thanksgiving-floods-storms-across-us/107433308"
-    },
-    {
-     "name": "France 24",
-     "url": "https://www.france24.com/en/americas/20261126-powerful-us-storm-forces-historic-postponement-of-thanksgiving-day-parade-in-new-york"
-    },
-    {
-     "name": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/26/storms-push-macys-thanksgiving-day-parade-in-new-york-city-to-saturday"
-    },
-    {
-     "name": "CBS New York",
-     "url": "https://www.cbsnews.com/newyork/news/macys-thanksgiving-day-parade-postponed/"
-    },
-    {
-     "name": "ABC News",
-     "url": "https://abcnews.com/US/powerful-storm-threatens-east-coast-hurricane-level-flooding/story?id=138435983"
-    },
-    {
-     "name": "NBC News",
-     "url": "https://www.nbcnews.com/weather/storms/severe-thanksgiving-storms-threaten-millions-travelers-macys-parade-rcna611071"
-    },
-    {
-     "name": "The Weather Channel",
-     "url": "https://weather.com/2026/11/25/holiday/thanksgiving/east-coast-thanksgiving-storm-wind-rain-flooding"
     }
    ]
   },
