@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "facts": [
     {
       "date": "2026-09-20",
@@ -1756,6 +1756,28 @@
         {
           "name": "University of Oxford (Eleanor Parker, Pilgrim and Patron: Cnut in Post-Conquest Historical Writing)",
           "url": "https://ora.ox.ac.uk/objects/uuid:22042ee2-6590-4863-b53e-4bb7912ea6f7/files/mecd33895b74208af4b19e11cbe6cd855"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "kind": "fact",
+      "category": "Animals",
+      "emoji": "🐱",
+      "title": "Cats can’t taste sweetness",
+      "text": "Your cat isn’t being fussy about cake. Cats carry a broken copy of a gene needed to build the sweet taste receptor, so sugar likely tastes of nothing to them. Tigers and cheetahs share the same faulty gene. Cats that lick ice cream are probably after the fat.",
+      "sources": [
+        {
+          "name": "PLoS Genetics (Li et al., Monell Chemical Senses Center, 2005)",
+          "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0010003"
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/news/2005/050718/full/news050718-16.html"
+        },
+        {
+          "name": "Scientific American",
+          "url": "https://www.scientificamerican.com/article/strange-but-true-cats-cannot-taste-sweets/"
         }
       ]
     }
